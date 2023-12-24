@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-posts-tsx",
     "path": "/posts/",
-    "result": {"data":{"allMarkdownRemark":{"nodes":[{"fields":{"slug":"/두-번째-게시글-테스트/"},"frontmatter":{"title":"두 번째 게시글 테스트","date":"2023-12-24T17:53:36.000Z","image":null,"draft":true}},{"fields":{"slug":"/첫-번째-게시글-테스트/"},"frontmatter":{"title":"첫 번째 게시글 테스트","date":"2023-12-24T17:53:27.000Z","image":{"publicURL":"/static/7ba181f6c172aeb7a6f5ba3631f25715/resume.jpg"},"draft":true}}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"nodes":[{"fields":{"slug":"/두-번째-게시글-테스트/"},"frontmatter":{"title":"두 번째 게시글 테스트","date":"2023-12-24T17:53:36.000Z","image":null,"draft":false}},{"fields":{"slug":"/첫-번째-게시글-테스트/"},"frontmatter":{"title":"첫 번째 게시글 테스트","date":"2023-12-24T17:53:27.000Z","image":{"publicURL":"/static/7ba181f6c172aeb7a6f5ba3631f25715/resume.jpg"},"draft":false}}]}},"pageContext":{}},
     "staticQueryHashes": ["2580406332","3810308631"]}
