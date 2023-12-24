@@ -1,0 +1,1596 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[Theo's Blog]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 24 Dec 2023 23:26:42 GMT</lastBuildDate><item><title><![CDATA[블로그 이관 및 앞으로의 계획]]></title><description><![CDATA[블로그를 이관했습니다! 🎉 기존에는 티스토리 블로그를 사용했었고, 여러 블로그 플랫폼을 이용해보면서 느꼈던 경험은 다음과 같았습니다. 네이버 블로그 : 개발자들이 기술 컨텐츠를 다루기에는 생태계 자체가 친화적이지 않았습니다. 벨로그 : Simple…]]></description><link>https://dataportal.kr/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EA%B4%80-%EB%B0%8F-%EC%95%9E%EC%9C%BC%EB%A1%9C%EC%9D%98-%EA%B3%84%ED%9A%8D/</link><guid isPermaLink="false">https://dataportal.kr/블로그-이관-및-앞으로의-계획/</guid><pubDate>Mon, 25 Dec 2023 03:53:21 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.359375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAYm4MD//xAAcEAABAwUAAAAAAAAAAAAAAAABAAIREBITISL/2gAIAQEAAQUC2aAXJnRYcqmV/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHBAAAgICAwAAAAAAAAAAAAAAAREAAhASITKx/9oACAEBAAY/Am+wGHWrE1EOvCnk/8QAGxABAAIDAQEAAAAAAAAAAAAAAQAxESFBUWH/2gAIAQEAAT8hpWgrtNwHxOVFHwDm5srs0qaSBiyqTPJ1xg4Gif/aAAwDAQACAAMAAAAQn/8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHhABAAICAgMBAAAAAAAAAAAAAREhAEExgWFxkbH/2gAIAQEAAT8QtlJfC1Set4qSQJCVKv4b1eTha37YxpHhaCajrFRKViROh5FqfWjLZIaR8HfOf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/a1015c5205dd5cad3edf71ce85aa0c9e/72e01/1.jpg&quot;
+        srcset=&quot;/static/a1015c5205dd5cad3edf71ce85aa0c9e/e4a55/1.jpg 256w,
+/static/a1015c5205dd5cad3edf71ce85aa0c9e/36dd4/1.jpg 512w,
+/static/a1015c5205dd5cad3edf71ce85aa0c9e/72e01/1.jpg 1024w,
+/static/a1015c5205dd5cad3edf71ce85aa0c9e/9657e/1.jpg 1216w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;블로그를 이관했습니다! 🎉&lt;/p&gt;
+&lt;p&gt;기존에는 &lt;a href=&quot;https://jinssssun.tistory.com&quot; target=&quot;_blank&quot;&gt;티스토리 블로그&lt;/a&gt;를 사용했었고, 여러 블로그 플랫폼을 이용해보면서 느꼈던 경험은 다음과 같았습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;네이버 블로그&lt;/strong&gt; : 개발자들이 기술 컨텐츠를 다루기에는 생태계 자체가 친화적이지 않았습니다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;벨로그&lt;/strong&gt; : Simple, but too simple. 사용하기 간편해진 네이버 블로그라는 느낌이 강했습니다. 커스터마이즈에 대한 한계가 명확했습니다. 오픈소스임에도 발전이 너무 느렸습니다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;워드프레스&lt;/strong&gt; : 간단한 정적 컨텐츠를 다루기에는 적합했습니다. 하지만 필요 이상으로 너무 무거웠고, 무엇보다 느렸습니다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Pages 정적 블로그&lt;/strong&gt; : Jekyll/Gastby 기반 GitHub Hosting 정적 블로그입니다. 블로그의 테마나 소소한 설정을 변경할 때 마다 Commit이 생성되는게 너무 싫었습니다. 마크다운 파일을 하나하나 관리하는 번거로움도 있었구요.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;티스토리&lt;/strong&gt; : 이리저리 옮겨다니다 결국 정착한 플랫폼이었습니다. 나름 OpenAPI도 제공하고, SEO도 준수 했습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;그렇게 티스토리를 몇년간 잘 사용하면서도 Custom Domain에 대한 지원이 미흡한 부분이 정말 아쉬웠습니다. 그럼에도 참아가며 잘 사용하고 있었는데, 이번에 올라온 &lt;a href=&quot;https://notice.tistory.com/2664&quot; target=&quot;_blnak&quot;&gt;[안내] 티스토리 Open API가 종료됩니다.&lt;/a&gt; 공지사항을 보고선 빠르게 블로그 플랫폼을 옮겨야겠다는 생각이 들었습니다.&lt;/p&gt;
+&lt;p&gt;아예 서비스를 버리지 않고 정비를 해나가는 부분에서 긍정적이기도 했지만, 대략 전해 들어 알고 있는 티스토리 개발 팀의 현황(?)을 고려해보았을 때 아쉬운 부분이 빠른 시일 내에 해결되기는 어려울 것이란 판단이 들었습니다.&lt;/p&gt;
+&lt;p&gt;그래서, 지금 보시는 블로그로 이관했습니다!&lt;/p&gt;
+&lt;p&gt;이 블로그는 GitHub Pages 정적 블로그입니다. 처음 GitHub Pages 정적 블로그를 접하고 몇년이 지나면서 처음 느꼈던 불필요한 Commit이 생성되는 부분을 회피할 방법을 알게 되었고, 무엇보다 너무 매력적인 블로그 테마를 발견했기 때문에 돌아오게 되었습니다.&lt;/p&gt;
+&lt;h2&gt;vallista-land&lt;/h2&gt;
+&lt;p&gt;해당 블로그는 &lt;strong&gt;우아한형제들&lt;/strong&gt;에 재직중이신 마광휘님이 만드신 오픈소스 블로그 &lt;a href=&quot;https://github.com/Vallista/vallista-land&quot; target=&quot;_blnak&quot;&gt;Vallista/vallista-land&lt;/a&gt;를 활용하여 만들어졌습니다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vallista.kr/%EB%B8%94%EB%A1%9C%EA%B7%B8-v3-%EA%B0%9C%ED%8E%B8/#%EB%B8%94%EB%A1%9C%EA%B7%B8-V3&quot; target=&quot;_blnak&quot;&gt;vallista-land 프로젝트 소개 글&lt;/a&gt;을 조금 인용하자면 크게 신경 쓴 사항은 다음과 같다고 합니다. 자세한 내용은 링크에서 확인 부탁드립니다. 🙂&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows, Mac OS 두 환경에서의 크로스 브라우징 대응 (Chrome, Safari...)&lt;/li&gt;
+&lt;li&gt;모바일 대응 (Android, iOS)&lt;/li&gt;
+&lt;li&gt;모노레포를 이용한 사이드 프로젝트에서 사용할 디자인 컴포넌트의 구축&lt;/li&gt;
+&lt;li&gt;다크 모드 지원&lt;/li&gt;
+&lt;li&gt;GraphQL query 성능 향상&lt;/li&gt;
+&lt;li&gt;컴포넌트 모듈화&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;해당 Repository를 기반으로 컬러 토큰과 디자인 컴포넌트를 약간 커스터마이즈하였습니다. 덕분에 이전에 경험해본적 없던 &lt;code&gt;lerna&lt;/code&gt; + &lt;code&gt;yarn workspace&lt;/code&gt; 환경을 얕게나마 구경해볼 수도 있어서 좋은 경험이었습니다.&lt;/p&gt;
+&lt;h2&gt;앞으로의 계획&lt;/h2&gt;
+&lt;p&gt;점진적으로 기존 블로그에서 일부 게시글을 옮겨오고, 새로운 콘텐츠는 크게 네 가지 내용을 다루게 될 것 같습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;공동창업가 겸 CTO로서의 업무/일상에 대한 소소한 이야기&lt;/li&gt;
+&lt;li&gt;웹 프론트엔드 엔지니어링에 대한 이야기&lt;/li&gt;
+&lt;li&gt;웹 백엔드 엔지니어링에 대한 이야기&lt;/li&gt;
+&lt;li&gt;소프트웨어 엔지니어 커리어 이야기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;그럼, 잘 부탁드립니다!&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[???: 빌드가 완료되면 소리 나게 해주세요.]]></title><description><![CDATA[유명한 한 컷의 만화가 있습니다. <My Code's Compling…]]></description><link>https://dataportal.kr/%EB%B9%8C%EB%93%9C%EA%B0%80-%EC%99%84%EB%A3%8C%EB%90%98%EB%A9%B4-%EC%86%8C%EB%A6%AC-%EB%82%98%EA%B2%8C-%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/</link><guid isPermaLink="false">https://dataportal.kr/빌드가-완료되면-소리-나게-해주세요/</guid><pubDate>Sat, 23 Sep 2023 15:18:07 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 413px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 87.109375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAIAAABSJhvpAAAACXBIWXMAAAsTAAALEwEAmpwYAAACjUlEQVQ4y22T226rOhCG8/4P0t70JupdI7VRjylNgRTikJBgRIGAifFBQAED3iruYa+193c1lj365x/PTBBCQgjOeZ7njDE+ghDK85xSyhijlOZ5zr+hlBZFUY9MGGNSyjRNF4sFhFDXddd1Z7PZzc3N3d3d4+Pj9fW1YRgQQsMwLMuazWZZlkkph2GYUEqllAghXdfjOAYArNdr3/e1EcdxAACGYWia9vT05HnefD4nhHwlK2Up5cfHRxiGp9OJMZZl2el0KoqCc/4+QghBCGVZ1jSN/OY3uW3b9XqdpqnrusvlEgCQJAmEUNM0AMDhcNA0bbfbyX8xUTU0TVPXtRjpum4YBnX9Eyi6P5lEURTH8WazCcMwCIIsyxzHgRAihH7aSynlnBNCVMBGKKWfynmeh2G4Xq+fn58fHh4AABhjQkgz0nXdf0v49dw0TVmWh8Nht9tZllUUhe/72+32r5zhm5/jV8OEEMrS6+urbdvv7++bzUZK2fe9ei2EaNv2f5TVI/VbqrGr1cp13e126/s+IUQIEccxQkhZlVLWdf2rvN/vCSFBECyXy82I7/sAAM/z1Niapul5nmma5+fncRxDCDnnX8kY47Zth2FYrVYvLy+e59m23fe9ECJJEsaY53kIIQCAbdtXV1dvb299308458q9EKJpGtM0HcdBCDmOMwwDpXQ6ncKRtm2rqlosFtPp9Hg8fnpO0xRjHEVRnuf7/R5CmKZpGIamaWKMPc9zXffi4sK2baVvWdbZ2Zmu659bhRBSRWZZplbKtu0oijDGdV1zzpMkmc/n9/f3VVWVZXk8Hi8vL29vbz89Y4yrqmKMYYzVAKkZUn/TdV1ZlkEQxHGsOkwpVftTVdU/IluioC5eHyYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/55546b82a02fd4e4143bc2b1c84cc12f/6c1e7/1.png&quot;
+        srcset=&quot;/static/55546b82a02fd4e4143bc2b1c84cc12f/6f3f2/1.png 256w,
+/static/55546b82a02fd4e4143bc2b1c84cc12f/6c1e7/1.png 413w&quot;
+        sizes=&quot;(max-width: 413px) 100vw, 413px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;center&gt;출처: https://xkcd.com/303&lt;/center&gt;
+&lt;p&gt;유명한 한 컷의 만화가 있습니다. &lt;code&gt;&amp;#x3C;My Code&apos;s Compling&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;업무 시간에 일은 안하고 동료와 칼싸움(...)을 하고 있는 사람에게 상사가 &apos;돌아와 일해라&apos;라고 이야기하니 컴파일중이라고 말하고, 상사는 알겠다며 하던 일(칼싸움)을 마저하라는 짧은 만화인데요.&lt;/p&gt;
+&lt;p&gt;이 만화가 처음 등장했을 때에는 C++ 언어로 작성된 소스코드를 컴파일하는데 오래 걸리는걸 유머스럽게 풀어낸 것이지만.. 그 이후 시간이 지나며 C++보다 더 오래걸리고 느린 언어들이 훨씬 많아졌습니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 639px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 111.71875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAIAAABPIytRAAAACXBIWXMAABYlAAAWJQFJUiTwAAADZklEQVQ4y2VTi5KrKBTM/3/a1CSZZOb6iAbBdwSRl4JGcAud3dra7Sotq6U5fZrDKQPgerlmECqlhmFgjHHOueCMMaUUY0wqNU2T4IIQYozhnEulBOfW2tM8z+M4TtPk3PYfuP9R/2accyellJT+EUJIKdU48h1SSphlRVGM46iU4rsjv2iHlHIcx5Pc4X9zjhAKglAIue/4S0KYZRAehn1TQrBhSJKEc3Fq2/YJwDiOUsq2bcMw9B9NA7JsHCelVFHkaZqO4/hM0zRJhRCcDWEY9T090b6PomjS2jknhCjL0piZYBzHD631tm0E4zwvjDHg+aSUum0zRhdFIZU6DZQ+kmSaJmutlLJpGq31QGmSJFIq51xPSF17siyKfI9gNrqqaiHlqe/J5XqFCK2rZYwhhLQ2hOD7/V7X9Wpt2zZ5URpjnmkKIdy2TU8jhMiLh4EGYVDXjd3FTVMbYwjGSZpiTJy1XdeWZWWMgVn2SFJrrdFTUZRCyBOl9Ha7gSyz1g2UIoTMPBPcBUFY1Y1zzlfOi9mYNHmcL1chpdYTAMBXpn3//f3zBGBZ3pyzqqq0MbQncfwQUllru9errGqjDXiCOI5W66ZxLIpSqfFEaR8EQdM087xwzr1Ya9r3X9evR5J4cfdCe9owy86Xy8C4d5H6MzsR3KVpuu7gjJVleQQWhlHXdUdllOc+sOezKMtt26ZxBFnmbROC48fjvYMzb9sYg7sufaZt+2KMEYyLPbAMgD9BsLzfWmuE0K/45/sehmFPqZTiEBPcXa/XoiiWZWnbtqpqrfUzTT/P52majNE+MOGPagiCP3EcY0IEZxDlR8+3263vqXOuriqEvO0cwbKs3ntlCKEXE9x9fHxgTNZ17bpXEIR6r3y5XOqmdc7lOTp2TJPH7X7/+voahgEAwIXwacePuG1ba13fEwCyo3IQhshrTFVXR2AIZk8AtNZSit/Zxvh1vlzoMGzb9mrbMIqOwD4/zxnIej82MEnTeZ6jKIIIbdumlPq7Z+rb6zDetq0nBEJo5hljHMUxF8Ja29S1v1XaFDmKH/6qGWOKsvRpd93rdr/vQzL3frDiaZpebbtPTutzyvMMImPMI45/fn7e77fgPIpCxtjp/X4vy7Ku67Is8451Xf8hD2ZZFmvtseB4Hcv+AuvnwrAtPoy6AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;table&quot;
+        title=&quot;table&quot;
+        src=&quot;/static/65bc96ee9e0d92326aa16b143ba4d3fc/738b8/2.png&quot;
+        srcset=&quot;/static/65bc96ee9e0d92326aa16b143ba4d3fc/6f3f2/2.png 256w,
+/static/65bc96ee9e0d92326aa16b143ba4d3fc/01e7c/2.png 512w,
+/static/65bc96ee9e0d92326aa16b143ba4d3fc/738b8/2.png 639w&quot;
+        sizes=&quot;(max-width: 639px) 100vw, 639px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;center&gt;출처: https://thenewstack.io/which-programming-languages-use-the-least-electricity&lt;/center&gt;
+&lt;p&gt;최근 자바/스프링 진영에도 Spring Native, Native Compile이 도입되면서 이를 사용하는 경우 정말 느린 컴파일 속도를 경험해볼 수 있는데,  이와 관련하여 재미있는 오픈소스 Issue 및 PR이 있어 공유해봅니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Native Compile이 느린 이유는 여기서 서술하지 않으니 궁금하시다면 AOT Compile과 JIT Compile에 대해 찾아보시면 좋을 것 같습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 26.953125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAxklEQVQY03VQ7W7DIAzk/V9p2s9Ke4xJ60cCJNiMLBhCrnK6tam2nXTy6cBng3l7tTi8fMC6HpdLB+8HOOdhrYN1DswRMUYQ0Y4MZt7OvuYZbWkIKWD8HGFsd0bOGXMWiJStlrpgaeufbLvaWoNiXVf8wKQU4bzH8XTGMAYMISDQbbpuQt86ED08ZqRpQtf3qLVugRquNJqqTxq8RYyEqI1Emyci9w32VExzwXtHT2GqjQqdUktGKRlVBEXkfuE/6vdwTL/8K0Z3g98sdsnkAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;issue&quot;
+        title=&quot;issue&quot;
+        src=&quot;/static/5045a63dcb1755cf4c02192c6e06fecc/2bef9/3.png&quot;
+        srcset=&quot;/static/5045a63dcb1755cf4c02192c6e06fecc/6f3f2/3.png 256w,
+/static/5045a63dcb1755cf4c02192c6e06fecc/01e7c/3.png 512w,
+/static/5045a63dcb1755cf4c02192c6e06fecc/2bef9/3.png 1024w,
+/static/5045a63dcb1755cf4c02192c6e06fecc/21b4d/3.png 1280w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;center&gt;출처: https://github.com/oracle/graal/issues/5327&lt;/center&gt;
+&lt;p&gt;이 이슈는 joshlong(VMware Spring team 소속으로 Spring Project를 만들고 있음)이 올린 이슈로 컴파일이 오래 걸릴때 마다 엘리베이터에서 흘러나오는 음악이 머릿속에서 재생되고 있고, 다른 사람들도 이걸 들을 수 있으면 좋겠다는 이슈(기능 제안)이었습니다.&lt;/p&gt;
+&lt;p&gt;얼핏 보면 정말 황당한 이슈입니다. 하지만..&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 85.15625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsTAAALEwEAmpwYAAACN0lEQVQ4y51U246cMAzl/39w+7BqGRiGHRLIjYSEBE5lw0y7l7ZSI1mOneDYx8dU41uP6+srtJuhjYWxM5ybYZ1DSivSmhFJf5DDd5xNysA6z3erUUj0XQelDcQ4QZIoh0FFTC5hXQtyKcj5Czn9S0z8CO0rnGueHZI3SNYibzvyBtb7vgP7ob8SOnsssquUEpZlQYwJcQlYUzozyCxl27C9k/3Dfse6ZpZSNlR1XePl5RuUtmi7nssexAg5KohRwc0Bsw+YT/20T5+bPQY5MfZUdkUvlVK4CVpNsNZCaw1jLax1LMYYaG2gjYFSiu3Dp9l2znG5FOuJYYwLtrLg/9eBaSWExK1/49Qp7aOcBT5E3ocQkcvG+ORTym92KTt3me4RjhXR5NbfcR8Euq5n/XYfWIScWA9Csgg5Mq1oT/dIj+f3hPua86+Sb32PpmnQti2apsXl0uBS1+iuV0gKJCXrcRwxDPSIgCDfeJw9cKweYBLg0zRhmhSEEFDGQbkE5VamFFErLAtr7wO89wjBn3rh6SIKPgO27RU/6gsuTYvvP2pcuxuXPGmH+yAxDOKZIWdLtFKBNWVJGXPJj4DUfu8dSl6RidwrjdIhS4yc5cq+g/A8dmV/NwRMm0fAdU3YS0CJM/I8s/2JGH8ZQZrAdwGJwNRBYx38iRNhQ7jR6/8OuH9oirbcGAI5colHmSEE1sefJfNUUZn0zR8DEkmlnJhnNGLcxUBzOnMTaMSOOfbPLh9Zfw74E2YgJsACZNPNAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;discussion&quot;
+        title=&quot;discussion&quot;
+        src=&quot;/static/ec28732acb11afa5d69182a83ac47619/2bef9/4.png&quot;
+        srcset=&quot;/static/ec28732acb11afa5d69182a83ac47619/6f3f2/4.png 256w,
+/static/ec28732acb11afa5d69182a83ac47619/01e7c/4.png 512w,
+/static/ec28732acb11afa5d69182a83ac47619/2bef9/4.png 1024w,
+/static/ec28732acb11afa5d69182a83ac47619/21b4d/4.png 1280w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Andrew Dinn(adinn; Red Hat Distringuished Engineer), Ivan Ristović(ivan-ristovic; Oracle SDE), Fabio Niephaus(fniephaus; Oracle SDE) 같은 거장들이 이걸 재미있게 받아들이며, 관련 PR이 1차로 올라오게 됩니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 125.78125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAZCAYAAAAxFw7TAAAACXBIWXMAAAsTAAALEwEAmpwYAAADuElEQVQ4y41V227jNhD1txfoL/Wx6EOxr5u0SZqL49iJHN0oiRTvpORTzFjKOrtboAQOhpTI4cyZCzfH4xH3N7fYPm2x3T5jt3vB61uB3csBD49bXP91w/L27h43t3d43D7jZX/A09MWTduirGqMWoPG6XTCpvnyJ25//QXV16/otYEQAsMg0RP6Hm/1gKrXKDuFbaWxbw1eGoN9raCNQc4Z0zSxMlYYrcVQlZBdDx8CbzDWIqXE0NYhxIwQE0brMRqHkCac8ONghd5EWBOgtIYxFs4HGOtgnYd1ASFExHRWGGOEDxEpZeRpQs4T/6Mz9J3Wm6A83OhwfC9xfK9Q1S2atoPoenbbGIdRG4yjgRo1z0mu80Eq1K1gA1ghmTrN02Kdh9YaltwMAc45eO9grYUxhuUl6BvtySl9uL0hv+d5hlQju0fueB8QYkSMCTYQ4fjPkaYMGx0bQ0YsCk8YR803muXm1WLnE3wMEKaFdJKDtoLO5ikjpoXXnLGh61OeEMgNQ9yMUEpx6pA7tFE6hT8Ov+OqumLrKRvIG+CcKpdjczrNnEcUjOPxHV3fQ6mRFQ9SQirF6+QzTvnEkSYqyBqiihRO0wwtM4JfgkKj7wcURYGyLFHVNZrmfEFV1Sir6oyyRF03XCHkQVyCkcKML7/1ODw4bG7vHnAoyrMrzrOLzEfK+D/DxxnKTlBuQswzNr0Q5zRwDlVDOSgg+oHRy5GjT27LUWFQCl0/oBsGlvTPWA/jE7SLCCl/c7mdely5W1yLO9SxwVG+opAHvAyveBYFtk2BXf+GwlUoXM3yPTRoJgEx92hmAT0ZbIhYKsw29/jb/YO74RH9SaJQR+yaN9xXe+z7gnEYCpRW4N2cUUeBbh74bDN10LM95yENOWq8vr5xMLjTDANHc/4hqU8fWDvMOI5wzp+bw1opBE5m5xB8YF5Tip91LB3le6yDCuTDQm0sNwiyUHMz0FxKaxsjUJqsuXcJ2ktV9cnC9UfdNJzQlJdSKkgpuXLILZpTQn9v6WWT/Wah1miaGnmaMS/1/TOsffATLr5tVtKJs6au4ENCyufkTksDjUuyr5L/r+CmMPFeVnh1fYPdvuCGqa2HGg1GbaGN4zm1f1a6yPU5uIRUms+Q0o2zBt57DgbVLXHYCsHrdU7BicsTsDaFS6wc0nyzEkyBaFvBL13X0RPQcWCE6Dg41HFIUomuwVi5/liTwrVZktmiG9APCnUjIEQPNToMymLU9BREOB/54eL6tZ7XBOJdKsOU/AsnqYnTO2xEYgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;closed-pr&quot;
+        title=&quot;closed-pr&quot;
+        src=&quot;/static/371e097bd71a0dea14381f6883a6e545/2bef9/5.png&quot;
+        srcset=&quot;/static/371e097bd71a0dea14381f6883a6e545/6f3f2/5.png 256w,
+/static/371e097bd71a0dea14381f6883a6e545/01e7c/5.png 512w,
+/static/371e097bd71a0dea14381f6883a6e545/2bef9/5.png 1024w,
+/static/371e097bd71a0dea14381f6883a6e545/21b4d/5.png 1280w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;center&gt;출처: https://github.com/oracle/graal/pull/5331&lt;/center&gt;
+&lt;p&gt;1차 PR은 더 나은 확장성과 효율성을 고려하여 Closed 되었고,&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 126.171875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAZCAYAAAAxFw7TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD4ElEQVQ4y4WV6bLcJhCF5/1/5yHyGElV4h+puJKK7es7m2YfjVaEQEgIpC8Fc1eXnTB1phGCQzfdOizyomC5XLNNEjabLYfDMdrtNmG/35OmV9abDbskIUkS1qsVSbIlzzKyPKcsK57bPM8s1p8lP/905ONvOUJWZFkRJxVFSVEJTlVHXgl2mWKXa7a3ll3ecqwMF9EjGknXGYzp74RD7ygyTSM6hmFgdI5hsIzjiPMebWwc661H9zZiGCfGCdwE0zThvY82EtowqW0RsqFVmn6wKN1FmH6Iu/e9pe8HjDFo3dEPA865iNH5uObuhGPRNz2dMGRFSXrLqOomhiFbHTcIkwJstD4S2KfnCOsQTRvnD3ZkEQ5zmqe4cwg5nEUI920LoXwL3uJtUsJfOINnIud8PLtnz0JY4Xz+C/M0v/RfCMuqJstypGxRSqO0jl6bvmcKC+Y5RvI9b5137wlDy/KCRrb0fR+9DUTh8MOkH7WwNrwvZIHpDU0jWTwza62jZ7rr6Louehcz/JRRPWjUoO7Z9T7aSDjPGNvfy83ae1JCM0qhpESIhrquqaqKtm2jt61SfDj9zq/7X2i1imNh47v38zuvF5uHv7nsVmgzIKWMu4TkWGuZ55n/a87PyM7RdA7VexanZEVxPWJHT1FUVJWgjKipRUNZ1tS1uNeifa3J5/5gHaYf6foRM7jXkKVrWZqEL8WSY5Oyr1MOIiUpL5zbG1ddctElha2pvXwHETDd7WKaPExQToKP02f+EH+xFHs+Z1seyh2P1Y5En1jWO1bNnrU8sNVn1u2Jjbpj113i2MGkr2XTmIat2JCPFbkWpE3FTVZIpzH06MnQOk3rNXJUNFbRPNmyE5RGIEf9SthrTXo4kF6zu3TlJXleIOqGVio6bX6YGNWqWGIh4Yvn4pziFzNRlxWiFnRKM4TiNobBmGidtRGjtdggdcO970NNeh9tJJyDps0wNDXV8hPXzYr91y/ckjXn9SPN9YS8nqjPB8TlSHXak+02FPstxSGhPO4Yyhujbp88DN+oB+EaHsySTbnl4fo12mW24qBOpPbGdUhJhxvn7sqhPXFU54jwnPmC1qtXwpDpygn+bP5hIy881hdW8sKqCfbKuk15FPf+1WWkPufqclJfkLqci7sh3xIGDxsv+WJWrKs9n85LtuJI0pw4mRv79sJGHOPYrjlyUGd28shRXdjLE4fu/Er4oon9gO4Ezln85Jl5qzTzC779BYfCfP9WvsKdcTpfuKVpFIcgRUFxRjvG++L5EnqH6b42CkirXvVwelLcoCBVLVBKRaUJkna33fcJv0EovX8BeU+FFxWxtIEAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;merged-pr&quot;
+        title=&quot;merged-pr&quot;
+        src=&quot;/static/610515b9dc6dfc8a9ea48d59ca8c9a23/2bef9/6.png&quot;
+        srcset=&quot;/static/610515b9dc6dfc8a9ea48d59ca8c9a23/6f3f2/6.png 256w,
+/static/610515b9dc6dfc8a9ea48d59ca8c9a23/01e7c/6.png 512w,
+/static/610515b9dc6dfc8a9ea48d59ca8c9a23/2bef9/6.png 1024w,
+/static/610515b9dc6dfc8a9ea48d59ca8c9a23/21b4d/6.png 1280w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;center&gt;출처: https://github.com/oracle/graal/pull/5395&lt;/center&gt;
+&lt;p&gt;2차 PR에서 최종적으로 Merged 되어 관련 내용이 문서에 포함되게 됩니다.&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[한기용님과 함께하는 단체챗 회고]]></title><description><![CDATA[어제(2023.08.2…]]></description><link>https://dataportal.kr/%ED%95%9C%EA%B8%B0%EC%9A%A9%EB%8B%98%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EB%8B%A8%EC%B2%B4%EC%B1%97-%ED%9A%8C%EA%B3%A0/</link><guid isPermaLink="false">https://dataportal.kr/한기용님과-함께하는-단체챗-회고/</guid><pubDate>Wed, 30 Aug 2023 11:41:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 400px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 147.65625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMF/9oADAMBAAIQAxAAAAHLasz0agfXTiOcBU//xAAaEAACAgMAAAAAAAAAAAAAAAACEQMQABIg/9oACAEBAAEFAsVuoy1I5WPH/8QAFxEAAwEAAAAAAAAAAAAAAAAAAhARAf/aAAgBAwEBPwFEF2r/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwEp/8QAGhAAAgIDAAAAAAAAAAAAAAAAAiAAESEigf/aAAgBAQAGPwJrx2EOq//EABsQAQACAwEBAAAAAAAAAAAAAAEAIRARgXHw/9oACAEBAAE/ISejA6mnzii21AuFikMcnCM//9oADAMBAAIAAwAAABAUEQH/xAAXEQEBAQEAAAAAAAAAAAAAAAABEBEx/9oACAEDAQE/EHYJt5P/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QQgRf/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITEQQXFR/9oACAEBAAE/ELNgGPsaDlq+otxVvHsc1GeqhzFcEEALHUVA6myJXBrR9lktp//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;The Five Dysfunctions of a Team&quot;
+        title=&quot;The Five Dysfunctions of a Team&quot;
+        src=&quot;/static/0f168add9fc96435cddfad63d7a71482/066f9/1.jpg&quot;
+        srcset=&quot;/static/0f168add9fc96435cddfad63d7a71482/e4a55/1.jpg 256w,
+/static/0f168add9fc96435cddfad63d7a71482/066f9/1.jpg 400w&quot;
+        sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;어제(2023.08.29, 화) 저녁에 한기용님과 함께하는 단체챗에 참가했습니다.&lt;/p&gt;
+&lt;p&gt;평소 다양한 모임과 세미나, 컨퍼런스 등을 참가하는 편인데 여태 참가했던 모임 중 가장 인사이트가 있었던 시간이 아니었나 싶습니다.&lt;/p&gt;
+&lt;p&gt;간략하게 요약해보면,&lt;/p&gt;
+&lt;h3&gt;[피드백을 주는 방법]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;어떤 피드백을 주고 싶은지 -&gt; 어떻게 전달할 것인지 순서대로 생각하자.&lt;/li&gt;
+&lt;li&gt;불편함과 친해지려고 노력해야 한다.&lt;/li&gt;
+&lt;li&gt;팀원에게 항상 좋은 사람이 되고 싶다면 좋은 매니저가 될 수 없다.&lt;/li&gt;
+&lt;li&gt;내가 하고 싶은 이야기를 명확히 하자.
+&lt;ul&gt;
+&lt;li&gt;건설적인 피드백 / 부정적인 피드백 등 하나만 이야기해야 한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;내가 하고 싶은 이야기가 명확해졌다면 지금 하는 게 맞는지 고민하자.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Feedback Framework&lt;/strong&gt;: 기대 한 것 -&gt; 관찰 한 것 -&gt; 차이 -&gt; 개선계획&lt;/p&gt;
+&lt;h3&gt;[리더로서 노력해야 하는 것]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;질문을 잘하는 환경을 만드는 것이 중요하다.
+&lt;ul&gt;
+&lt;li&gt;의도적으로라도 질문을 할 수 있게끔 만들자.&lt;/li&gt;
+&lt;li&gt;순진한 질문이어도 좋다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;자기검열 하지 않는 환경을 만들어야 한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;[피드백 한 번에 개선될 것이라 기대하지 말자]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;기대-관찰-갭-개선계획 템플릿으로 자주 이야기하자.&lt;/li&gt;
+&lt;li&gt;그럼에도 변하지 않는다면 채용 노트를 살펴보며 채용 과정을 돌이켜보자.&lt;/li&gt;
+&lt;li&gt;대부분은 현재 환경과 이전 환경이 크게 달라 그런 경우가 많으니 이 부분에 대해 깊게 이야기해 보자.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;[기용님이 생각하는 좋은 사람, 기억에 남는 사람]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;자신의 일 뿐 아니라 주변 사람들을 함께 챙기는 사람&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;[추천 도서]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;원서: The Five Dysfunctions of a Team&lt;/li&gt;
+&lt;li&gt;번역서: 팀워크의 부활&lt;/li&gt;
+&lt;/ul&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[Java Compiler Optimization]]></title><description><![CDATA[시작하며 프로그래머가 작성한 자바 소스 코드가 실제로 실행되기까지는 꽤나 복잡한 과정을 거치게 됩니다. 자바 소스 코드를 바이트 코드로 변환 변환된 바이트 코드를 JRE(Java Runtime Environment)에 적재 JRE…]]></description><link>https://dataportal.kr/Java-Compiler-Optimization/</link><guid isPermaLink="false">https://dataportal.kr/Java-Compiler-Optimization/</guid><pubDate>Sun, 11 Dec 2022 23:03:12 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 706px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.1875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7CAAAOwgEVKEqAAAAC7ElEQVQ4y22T3W9TZRzHz53xTyABvOLaGyXEeOEVvsR4hZGEhBu8YTcmU2c0y+KFEfFGgsbysoEpSDZHWCMKrE7G2rG59WUFZK2s3bqWtqc757SnPe89Lx/SFh0u/JLP8zx5nvy+yff3zSNYHR+x5TyXasOg2jSpNAweyxoVRaemWtRbDnXVpt56imojtR08P0CQtA75ukm54bCp2BRlm1LDpqg4zCay3IpliEQXuTGX7u2pXIXNFqw1AvKKT17xyDdhTepgOh6CZvv8mqrywal5Pjy7xPHRZQ59F+dstEA0Oc/Q2ADDP33ESHiQT88dIzwXIXM7yuLwWyx/c4TEt0dZ+OJNMtOT2IBgdgIuzK6zd2CK14aneX0kyp6BCIOjy4xFxjj4+T4Of3WAoyff4ODQbj67MMKt0EnuviewdGwv6eP7iL0jkAyf6As2DJfkhsrvKzVuZkRuZESupyokNjRytSbRTIqZe2n+uJcmupIgVaySL0lk/rrL38kEl0fPkIzfIZsvYbkgOK5PV1R3fLr2u3TPTcNF1lzaNv+h2dA0fGTDQ3FA9SAUnqTcdGh3wPN9BP5XwQ52lv/Mvd9bxycmMHSt3x0ECK4X0E16S+sg6UEP2QBJ9ymKKusViY2aTElSUUwPxXR7bLUdFL1D+MoEmm5sC2qWy6O6yZqokyuLZEtVsqUKq5sVpuNLxNL/cDO2wm8zaR7k1R73803WRAvRgvPhcXRd3xZsWx3WlYBcYZU/f9xF7PxLLFx+ldunX2Dx2hHmHhYZDy3zyf6f+fLdq4y8/QuDr1wiHJpncibG6dAYge8/X3D2zB5i53azEH6Z2e9fJD55mOnkQ8Kn4ny8/xIn3o/w9aEphg5c4eIPd7g4dZ1iudafqN+frdB+xnK2XCdbElkt1ciWauQey1Q0eFQzuV9o8qCg9uhaLmzZ1CywvX6YQfBvKH6A3A1E6yDr/g683l/tvvXCMJ5iukiaw1bLwvW27XYFnwCxb4qTqNToAQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/366e30cf0f4a9a52ab6c4f12b8e3bdb6/9f21b/1.png&quot;
+        srcset=&quot;/static/366e30cf0f4a9a52ab6c4f12b8e3bdb6/6f3f2/1.png 256w,
+/static/366e30cf0f4a9a52ab6c4f12b8e3bdb6/01e7c/1.png 512w,
+/static/366e30cf0f4a9a52ab6c4f12b8e3bdb6/9f21b/1.png 706w&quot;
+        sizes=&quot;(max-width: 706px) 100vw, 706px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;시작하며&lt;/h2&gt;
+&lt;p&gt;프로그래머가 작성한 자바 소스 코드가 실제로 실행되기까지는 꽤나 복잡한 과정을 거치게 됩니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;자바 소스 코드를 바이트 코드로 변환&lt;/li&gt;
+&lt;li&gt;변환된 바이트 코드를 JRE(Java Runtime Environment)에 적재&lt;/li&gt;
+&lt;li&gt;JRE는 실시간으로 런타임에 기계(컴퓨터)가 이해할 수 있는 형태로 변환 후 실행&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;1번은 javac를 이용한 &apos;컴파일&apos; 행위이며, 2번은 컴파일된 결과물(.jar)을 java 런타임으로 실행하는 것이며, 3번은 얼핏 보았을 땐 인터프리터의 동작 방식과 유사합니다.&lt;/p&gt;
+&lt;p&gt;이번 게시글에서는 자바 컴파일의 각 과정에 대해서 간략하게 다루어 보고 그 과정 속에서 컴파일러가 자체적으로 어떤 최적화를 하며, JVM Option으로 컴파일러를 최적화할 수 있는 몇 가지 방법에 대해 이야기합니다.&lt;/p&gt;
+&lt;h2&gt;Java Virtual Machine / Java Runtime Environment&lt;/h2&gt;
+&lt;p&gt;우선 JVM, JRE이 등장하게 된 역사부터 살펴볼 필요가 있습니다. JAVA 이전에 등장한 C, C++ 같은 언어들은 컴파일 과정에서 어느 플랫폼(CPU Architecture)에서 실행할 것인지 명시해주고, 각 플랫폼에 최적화된 Native Code를 만들어내는 구조였습니다. 즉, 빌드 결과물은 특정 플랫폼에서만 실행 가능했다는 의미입니다.&lt;/p&gt;
+&lt;p&gt;하지만 이러한 방식은 여러 종류의 플랫폼이 등장하며 단점으로 대두되었습니다. 즉, 소프트웨어의 전파를 제한하고 사용자와 공급자 모두에게 번거로움을 가져다주는 단점이 있었던 것입니다. JAVA는 이러한 단점을 극복하고자 컴파일 과정에서 바이트 코드를 생성하고, 런타임에 각 플랫폼에 적합한 형태로 바이트 코드를 네이티브 코드로 변환하는 구조를 가지게 됩니다.&lt;/p&gt;
+&lt;h2&gt;Java Compiler at compile time&lt;/h2&gt;
+&lt;p&gt;컴파일 타임의 자바 컴파일러, 즉 javac는 소스 코드(.java 파일)를 바이트 코드(.class 파일)로 만들고 .jar 같은 형태로 패키징 하는 컴파일러입니다. 이후 JVM은 런타임에 바이트 코드를 한 줄씩 읽어가며 네이티브 코드로 변환하는 인터프리터 방식으로 동작합니다.&lt;/p&gt;
+&lt;h2&gt;JIT Compiler at run time&lt;/h2&gt;
+&lt;p&gt;하지만 매번 한 줄씩 읽으며 네이티브 코드로 변환하는 방식은 필연적으로 속도가 느릴 수밖에 없습니다. JIT 컴파일러는 자주 실행되는 코드 블록의 바이트 코드(.class 파일)를 네이티브 코드(binary code)로 컴파일해주는 역할을 합니다.&lt;/p&gt;
+&lt;p&gt;모든 바이트 코드를 일괄로 네이티브 코드로 컴파일할 수 있다면 좋겠지만 컴파일을 위해선 프로세서와 메모리를 사용해야 하고, 그 시간이 얼마나 걸릴지 장담할 수 없기 때문에 절충안으로 선택된 것이 JIT 컴파일러입니다.&lt;/p&gt;
+&lt;p&gt;만약 자바가 런타임 초기에 모든 바이트 코드를 일괄 컴파일하도록 되어 있고, 전체 컴파일에 1분이 걸린다면 사용자는 java 애플리케이션 실행 시 1분의 컴파일 타임을 대기하여야 합니다. 이는 자바 기반 웹 애플리케이션을 배포하는데도 그 정도 시간이 소요된다는 의미이기도 합니다.&lt;/p&gt;
+&lt;p&gt;이러한 이유로 JIT 컴파일러는 각 메서드마다 호출 카운트를 관리하고, 일정 횟수 이상 호출되면 just-in-time 컴파일을 수행합니다. 따라서 자주 사용되는 메서드는 런타임 직후 컴파일되며, 잘 사용되지 않는 메서드는 훨씬 나중에 컴파일되거나 전혀 컴파일되지 않습니다.&lt;/p&gt;
+&lt;h2&gt;JIT 컴파일 &amp;#x26; 최적화&lt;/h2&gt;
+&lt;h3&gt;Dynamic Lookup&lt;/h3&gt;
+&lt;pre class=&quot;grvsc-container dark-default-dark&quot; data-language=&quot;java&quot; data-index=&quot;0&quot;&gt;&lt;code class=&quot;grvsc-code&quot;&gt;&lt;span class=&quot;grvsc-line&quot;&gt;&lt;span class=&quot;grvsc-source&quot;&gt;&lt;span class=&quot;mtk3&quot;&gt;/* .... */&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;grvsc-line&quot;&gt;&lt;span class=&quot;grvsc-source&quot;&gt;&lt;span class=&quot;mtk12&quot;&gt;obj1&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mtk11&quot;&gt;equals&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt;(obj2)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;이 코드는 obj1의 타입에 따라 동작이 달라집니다. 그렇기 때문에 어떤 동작을 할지 Dynamic Lookup이 필요하며 Dynamic Lookup은 런타임에 해당 오브젝트의 타입을 결정하므로 매우 느립니다.&lt;/p&gt;
+&lt;p&gt;따라서 JVM은 이 코드가 실행될 때마다 obj1이 String이라는 것을 안다면, Dynamic Lookup을 하지 않고 String.equals 메서드를 호출하도록 컴파일합니다. (물론 100% 보장할 수 있다면 베스트이지만, 다른 타입에 올 가능성이 있기 때문에 가능성은 열어두고 컴파일합니다.)&lt;/p&gt;
+&lt;h3&gt;Code Cache&lt;/h3&gt;
+&lt;p&gt;코드 캐시는 JIT 컴파일러에 의해 컴파일된 코드가 캐싱되는 저장 공간입니다. 캐시의 사이즈는 고정 크기이며, 가득 차면 JVM은 더 이상 코드를 컴파일할 수 없습니다. 즉, 컴파일되지 않은 많은 양의 코드가 인터프리터로 실행되어 느려지게 됩니다. 이 경우 JVM Warning이 발생하기는 하지만 이 로그를 체크하는 건 마냥 쉽지는 않습니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;캐시 크기 조정 관련 JVM Option&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;코드 캐시 최대 사이즈&lt;/code&gt;&lt;/p&gt;
+&lt;pre class=&quot;grvsc-container dark-default-dark&quot; data-language=&quot;java&quot; data-index=&quot;1&quot;&gt;&lt;code class=&quot;grvsc-code&quot;&gt;&lt;span class=&quot;grvsc-line&quot;&gt;&lt;span class=&quot;grvsc-source&quot;&gt;&lt;span class=&quot;mtk1&quot;&gt;-XX&lt;/span&gt;&lt;span class=&quot;mtk15&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt;ReservedCodeCacheSize=&lt;/span&gt;&lt;span class=&quot;mtk11&quot;&gt;XXXXX&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt; (240m, 2g, 100k 등등)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;시작 시 코드 캐시 사이즈&lt;/code&gt;&lt;/p&gt;
+&lt;pre class=&quot;grvsc-container dark-default-dark&quot; data-language=&quot;java&quot; data-index=&quot;2&quot;&gt;&lt;code class=&quot;grvsc-code&quot;&gt;&lt;span class=&quot;grvsc-line&quot;&gt;&lt;span class=&quot;grvsc-source&quot;&gt;&lt;span class=&quot;mtk1&quot;&gt;-XX&lt;/span&gt;&lt;span class=&quot;mtk15&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt;InitialCodeCacheSize=&lt;/span&gt;&lt;span class=&quot;mtk11&quot;&gt;XXXXX&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt; (240m, 2g, 100k 등등)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;Java Monitoring &amp;#x26; Management Console&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 111.328125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAACXBIWXMAAAsTAAALEwEAmpwYAAADK0lEQVQ4y42TWU8jRxDHew0IH5j4wGsOE4ORd0NWQiISilCSN75n2I0hB6CEh2yUh7xEkfIdQHgdD3gOd/dcHl+s+UddY6/tjXfDSD9VdXXXv6u6e9jV1Q1ubmp486aOarUOTdNhSw9COLBMAcNowjR4aE1OMSncmagc1vD60L17NIYo32wNQoIHWMHDlCVG8zNgRgCY72G0Hv4ftW4GzKBK8MHFZnuaUQHGKCcYMvSZcsIFYzHR9GA6AQzpo3pr4EZT6KjdWRTThQvD6YwLCcYbsXcBZf0BxFvgrz/+xN+vf0Or24VhWrC4gGE1waVEv9fDfa8Lv3MPvQU60ylB3Z9uWfSB774/w++/vkbQ66MpHQjHgyUd2J6PwWAA9bX7D7MFb+1+eDZDQRUUjo+r62toWh2+56LTDtAOAgRBC67rQnAO7gahyPsta3ZvLBiEgqoqvXGHJucQQoBzDsuy0O12qTrLNHBnyYm8jwiqCW67kFKQmJQStm2TVTiOA8GbMKU3+1KmBFvjCuv1f1CtVqHrOol4ngff90nccWyIR7U8FLSEjevrK2iaRlUqarUabcC5GnNYtj/xFh9ZoWEYdAmu6+Du9pY2cBwXji0ffyl0ho5HbUrbBqcKw/MTUtJFNRoNcLf9379F/Sl10YF6iw3v7Tt0t4+G24NO9CeYHk/mjGBmB/ABeAjtCG8i5g7xHgG7vLzEq5/OcVy5wPHJOY5PQvvy5AIvTy/wbeUclR9/QeWHn3FcOcOr0zA+i9OzS7Avv9hDsVhALrOCfO4pnq7ksJZfRSr5CbLpDMVWMlkUC58ivZzCE8YwxyKIsCdTqHgyngD76utvsL+/j/KzMj5/8QLPnj/H1tYWPtvdxfb2Nvb29iim5vL5PGLxGKKxKOKJOKKxGOKJBBKJBObn55FdyYIdHh5id5hcLBaxvr6Ozc1NsuVyGRsbG7SBmt/Z2SFb2i6hVCqRVbFCoYC1tTXy2cHBARSrq6tYWlpCMplEJpMhX5FOp4nFxUUsLCxQJcpXVo0Vc3NzhBJmR0dHJLK8vIxUKkUogWg0Sq1ks1kiEomAMfZRcrkc/gX373voaRzynQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;jconsole&quot;
+        title=&quot;jconsole&quot;
+        src=&quot;/static/89ab0836e61d679a1db28c110db3d9e9/2bef9/2.png&quot;
+        srcset=&quot;/static/89ab0836e61d679a1db28c110db3d9e9/6f3f2/2.png 256w,
+/static/89ab0836e61d679a1db28c110db3d9e9/01e7c/2.png 512w,
+/static/89ab0836e61d679a1db28c110db3d9e9/2bef9/2.png 1024w,
+/static/89ab0836e61d679a1db28c110db3d9e9/afa26/2.png 1258w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;JDK가 설치되어 있다면 &lt;code&gt;$ jconsole&lt;/code&gt; 를 입력하여 힙 메모리, 코드 캐시 등을 모니터링할 수 있습니다&lt;/p&gt;
+&lt;h2&gt;컴파일 임계치&lt;/h2&gt;
+&lt;p&gt;앞서 JIT 컴파일러의 동작 기준이 &apos;많이 사용되는 메서드&apos;를 컴파일한다고 말했습니다. 여기서 &apos;많이 사용되는&apos;의 기준이 컴파일 임계치입니다.&lt;/p&gt;
+&lt;p&gt;컴파일 임계치는 메서드가 호출된 횟수(method entry counter) + 메서드 내 루프가 있다면 루프를 빠져나오기까지 실행된 횟수(back-edge loop counter)를 기반으로 측정하며, JVM은 지속적으로 두 카운터의 합계를 확인하고 메서드가 컴파일될 자격이 있는지 검증합니다. 만약 자격이 있다면 컴파일 큐에 추가됩니다.&lt;/p&gt;
+&lt;h3&gt;OSR; On-Stack Replacement&lt;/h3&gt;
+&lt;p&gt;처음 실행된 메서드이지만, 루프가 정말 길다면 남은 반복을 빠르게 실행하기 위해 중간에 컴파일될 필요가 있습니다. 따라서 루프의 실행을 그때그때 카운트하고 임계치를 넘어가면 전체 메서드가 아닌 루프만을 따로 컴파일해서 컴파일된 버전을 실행합니다.&lt;/p&gt;
+&lt;p&gt;이렇게 스택상에서 컴파일된 버전을 바로 실행시키는 것을 OSR이라고 부릅니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;컴파일 임계치 관련 JVM Option&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;컴파일 임계치 변경&lt;/code&gt;&lt;/p&gt;
+&lt;pre class=&quot;grvsc-container dark-default-dark&quot; data-language=&quot;java&quot; data-index=&quot;3&quot;&gt;&lt;code class=&quot;grvsc-code&quot;&gt;&lt;span class=&quot;grvsc-line&quot;&gt;&lt;span class=&quot;grvsc-source&quot;&gt;&lt;span class=&quot;mtk1&quot;&gt;-XX&lt;/span&gt;&lt;span class=&quot;mtk15&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt;CompileThreadhold=&lt;/span&gt;&lt;span class=&quot;mtk10&quot;&gt;N&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;컴파일 임계치를 지정하는 옵션으로 클라이언트 컴파일러에서 기본 값은 1,500이며 서버 컴파일러의 기본 값은 10,000입니다. JVM 튜닝에 있어 컴파일 임계치를 변경하는 것은 상당히 권고되는 최적화 방법입니다.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Why?&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;애플리케이션이 워밍업 하는데 필요한 시간을 절약할 수 있습니다.
+&lt;ul&gt;
+&lt;li&gt;1만 번 실행되어서 컴파일될 코드는 8천 번으로 줄여도 큰 차이가 없기 때문입니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;절대로 컴파일되지 않을 일부 서버 메서드를 컴파일할 수 있습니다.
+&lt;ul&gt;
+&lt;li&gt;컴파일 임계치에 가까이 있지만, 아슬아슬하게 걸쳐서 컴파일되지 않는 것들을 컴파일해 실행 속도를 높일 수 있습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;마무리&lt;/h2&gt;
+&lt;p&gt;컴파일 임계치와 관련된 카운터 값은 최근 기간에 대한 상대적 측정값입니다. 따라서 긴 시간에 걸쳐서 많이 호출되는 메서드(lukewarm method)는 카운터 값이 낮을 수밖에 없습니다. 컴파일러 최적화를 고려하고 있다면 컴파일 임계치를 낮추고, 그에 따라 코드 캐시의 크기를 늘리는 방식을 선제적으로 간단하게 적용해볼 수 있을 것입니다.&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+  .dark-default-dark {
+    background-color: #1E1E1E;
+    color: #D4D4D4;
+  }
+  .dark-default-dark .mtk3 { color: #6A9955; }
+  .dark-default-dark .mtk12 { color: #9CDCFE; }
+  .dark-default-dark .mtk1 { color: #D4D4D4; }
+  .dark-default-dark .mtk11 { color: #DCDCAA; }
+  .dark-default-dark .mtk15 { color: #C586C0; }
+  .dark-default-dark .mtk10 { color: #4EC9B0; }
+  .dark-default-dark .grvsc-line-highlighted::before {
+    background-color: var(--grvsc-line-highlighted-background-color, rgba(255, 255, 255, 0.1));
+    box-shadow: inset var(--grvsc-line-highlighted-border-width, 4px) 0 0 0 var(--grvsc-line-highlighted-border-color, rgba(255, 255, 255, 0.5));
+  }
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[Google Calendar API 분석 및 시스템 구축 전략]]></title><description><![CDATA[들어서며 구글 캘린더는 전 세계적으로 널리 사용되는 캘린더 애플리케이션입니다. 그러다 보니 캘린더를 읽고 새로운 이벤트를 작성하는 데 이용할 수 있는 RESTful API인 Google Calendar API…]]></description><link>https://dataportal.kr/Google-Calendar-API-%EB%B6%84%EC%84%9D-%EB%B0%8F-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-%EC%A0%84%EB%9E%B5/</link><guid isPermaLink="false">https://dataportal.kr/Google-Calendar-API-분석-및-시스템-구축-전략/</guid><pubDate>Sun, 20 Nov 2022 05:14:27 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAACT0lEQVQoz5VSXUiTYRQ+H0YkdWFBRrsIJO2bMy1/2IYM89NtpKlZImrqmd93Ns8gnYgZjZET+TaThkaZeCMEFSkVdNNFQRAUdBX93HSjw8C6sbBa9nP1xrfMTbyxAw/n5Xnf9+HwPAcUPQH/4Iz+gJLgR9jnew1y/zzspZewn99CR5cKQgjYUil64qCiJwoVPVFQHf1psYXeF+b3PJX50g2JO5uldm9AQmLYKgzBJUVPCAOu0VVRdGFZZHbNf97tXTBVqNcgQKeNh+miUhLaWk/nNZZAiXw3xGbd0U+t8pA4MT4dnnx0s0I8nnWZGlr6clVft2XtQwYS71gX0NaFdqVzoOhfhRJZCdaNLSjZQVH37kFxWDyHLzPRytr6toFKv181IfFhJK5G4pNIXILEViR2IPEhJFaR+BgSFyFxOTgjQrhGxMWGIVEF7cI8/9DeL57B7+kR16malsEyH1MOahxD4ggSTyDxJBJ7UOM+JO5DjXuReAqJryOxG/KHY6LoyvlX5XfrJ0z32y5Px2wvfoVNi+IbZDZ1BgpUb3cxalyIxLlIfAC15LRZSP4sJM5D4gKk5L1sWAJ7QvKTvMnKuH2uedFyr+lDr177RkgVZqHkgl0LgmejX6mztsnLvynrw0I6Ojaw3XYLM87oLdsEWCC+sx7idESq0s5JHu+GRFPJaqlk03nI6XGAedwN1jutUDvVCMb6LrmtUvy4DVYdpbDsLEubwJ/snV4/dPj8m3bQ4CA7ZAX5qhvsc81QersJnDONACtnAcQg9I7WwP/WHxISJN9i6G8/AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;logo&quot;
+        title=&quot;logo&quot;
+        src=&quot;/static/f7168b4af40bd309f3c943fd80f51793/2bef9/1.png&quot;
+        srcset=&quot;/static/f7168b4af40bd309f3c943fd80f51793/6f3f2/1.png 256w,
+/static/f7168b4af40bd309f3c943fd80f51793/01e7c/1.png 512w,
+/static/f7168b4af40bd309f3c943fd80f51793/2bef9/1.png 1024w,
+/static/f7168b4af40bd309f3c943fd80f51793/21b4d/1.png 1280w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;들어서며&lt;/h2&gt;
+&lt;p&gt;구글 캘린더는 전 세계적으로 널리 사용되는 캘린더 애플리케이션입니다. 그러다 보니 캘린더를 읽고 새로운 이벤트를 작성하는 데 이용할 수 있는 RESTful API인 Google Calendar API가 함께 제공되고 있습니다.&lt;/p&gt;
+&lt;p&gt;이번 글에서는 이러한 구글 캘린더 API의 주요 기능을 이해해보고, 관련된 시스템을 구축한다고 하였을 때 도움 될 만한 몇 가지 전략을 공유합니다.&lt;/p&gt;
+&lt;h2&gt;유즈케이스&lt;/h2&gt;
+&lt;p&gt;모든 팀원이 공통으로 가능한 시간을 찾아 회의 시간 후보를 제안하는 가상의 애플리케이션을 만든다고 생각해보겠습니다. 그러기 위해서는 모든 팀원이 각자의 구글 계정으로 로그인(OAuth)하고, 캘린더와 관련된 정보를 애플리케이션에 제공하겠다는 동의를 해야 합니다.&lt;/p&gt;
+&lt;p&gt;그 후에는 회의 시간 후보를 추천 받고 싶을 때마다 버튼을 누르는 등 명령을 실행하여 애플리케이션에 요청을 보내게 될 것이고, 그 요청을 받은 애플리케이션은 연결된 구글 계정의 모든 캘린더 이벤트를 불러와 비어있는 시간을 찾는 과정을 거치게 됩니다.&lt;/p&gt;
+&lt;h2&gt;List Calendars &amp;#x26; Events API&lt;/h2&gt;
+&lt;p&gt;이러한 유즈케이스를 실제로 적용하기 위해서는 캘린더의 목록을 조회하고, 해당 캘린더에 등록된 이벤트를 조회하거나 새롭게 추가하는 등 몇 가지 구글 캘린더 API를 사용해야만 합니다. 이를 조금 더 자세히 알아보겠습니다.&lt;/p&gt;
+&lt;h3&gt;CalendarList: list&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/v3/reference/calendarList/list&quot; target=&quot;_blank&quot;&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/v3/reference/calendarList/list&quot;&gt;https://developers.google.com/calendar/api/v3/reference/calendarList/list&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 879px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 193.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAnCAYAAAAPZ2gOAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEIklEQVRIx61WbXOyOhDl//+9++FOW0VQQUhIwqsKiOeZswGrbe1t57nMnEkIZLMvZ3cTKKWR5znG8QI+1+v1rxAURYEsy1CWJf6PJ+iOR5RlBedKHI8nj5NHdzcXzO/nvn9A3w84nc4oqwpB03YorIOxJXJVIDnkMua6wCFXMmZKI1Pv71XdfEALV9aw1iHoug51XaPv+7/2oZhsnUOuNJq2lcAMw4hhnDH8B8bHkfuDfZLh5S1EGO0QRlvskgz/vqwQbfdQhUOmDXJtZ9zPH3FQRswOkvSAt3WI3T5BFG9hXfWFjzzqukFZ1aiq2o/L+zweT2cfFOtKjOOItutQ1bXQKE0PSJIEaZpiv09wOBxkbq0Vn1NoPR/SNA2qqpI4BG3bwVgngtruiK47wjknEeNIOvFngu8cFwGVCK7kAK4JsT8Sc5om0aIwBgwYNefa5XJ5wFePCPwq/Dw5zXKJvjEWSilJT7pCxjwXbYdh+ES14F768tDBhbFwJLwxYHpqrWVOV5zPZxG2aPog0HNokBfyiD8xFalZIcKMCFtwOp2emuuLg7FID7nkJKPtyko0WgQVs4b0KzVkvlIoM4xo2xbncy9+JgJGONrtwSKhKWQRNFch+o/QugBLnVLedJrti8nxwZdB3bRSHC7TBM6ZghTohWhoCmZRkLrphYtfjRG3mDu38JBgmq6i6hIUmr7ZbATrMEQcbxGGm3ktQhzHiKIIq9VKxjAM5RvXaf6nKFNgvN0iimOsww3CTSTzMIqxmufUdCE7CzNBGkmmfCw/XNxwc7jBIcvlZztnjtKFmEqz6WMjZvugkRlkzCeB537AW5Ritdni5eUVr69vWK3Wgt1uL/6iACE7A2S9ZgsnxeTrHY9Y11zVCrlJlcUcavgs5RaXTYwyN1Bt+uOnz7ddj4LIMZrx7uR3h0vtu3M8qfFt10vSTBpTYUsobT0KC134uS6cwDcpLd+MreT/BXzXphQeB0ob+ZEb0kxJmedcMH/jGlsqwZrZtI/wa5200oBVmgFgtLSxPhjO+kA4BmLEdbr8vNGzhFvpy9YXBWOhqx55OaCoB9h2gu2uKKwv8WSXFII5qjdMc1B8xegkySVSC41mjJcrxumK8XK5cfXbKDOp2YxIVJrP0nQ6HXE8duhvEb3+iDK+wA6DCKGGbDa+4bQy3rT+ze1rycVnlfjXxCZhldZC3KZtpATRr2yLnH8Etf42ygxILTeDuXnPDZzZIte8OXOctAefOb1c4RYMAtKO+wKp0KXnnzIGeeVRlG6u4N0nfHVNyXItB8pVZJVFWIcrROsQKsmQRykMbwnNkzsOg/YBt0xhc3pNYvwTh4jyHHZdwK4U6rr9cuMz8CDKEpNTZbHNSmSqhs4aWNc+1e47MNdFQ2LhYnfyF6b2V/B+5b4/aom/CBuG9xsAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;api list&quot;
+        title=&quot;api list&quot;
+        src=&quot;/static/42b7b73048cd3bfa900c5c9526d88d53/bcb8c/2.png&quot;
+        srcset=&quot;/static/42b7b73048cd3bfa900c5c9526d88d53/6f3f2/2.png 256w,
+/static/42b7b73048cd3bfa900c5c9526d88d53/01e7c/2.png 512w,
+/static/42b7b73048cd3bfa900c5c9526d88d53/bcb8c/2.png 879w&quot;
+        sizes=&quot;(max-width: 879px) 100vw, 879px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;center&gt;캘린더 리스트 조회 API&lt;/center&gt;
+&lt;p&gt;캘린더 리스트 조회 API는 단순히 Authorization 헤더에 인증 토큰을 넘겨 해당 계정에 등록된 캘린더의 목록을 조회하는 API입니다. 이를 통해 캘린더의 ID와 같은 정보를 얻어올 수 있으며, 캘린더 ID는 각 캘린더를 고유하게 식별하는 ID로 사용됩니다.&lt;/p&gt;
+&lt;h3&gt;Events: list&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/v3/reference/events/list&quot; target=&quot;_blank&quot;&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/v3/reference/events/list&quot;&gt;https://developers.google.com/calendar/api/v3/reference/events/list&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.390625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsTAAALEwEAmpwYAAACB0lEQVQ4y6VTCY7bMAz0/7+3WPTYJD5ix5Ys+dLhS/YUpJMgu0VRoBUwEEXYw9GQivq+R5KmKMsK+76DFu3/imgcR1SVgNYNnHN30v0TOZ0/xfsLvqxonmcYY5iwbbtP1bZt+y3e9h0BB7Z7PmwblmUBcUXzskDUiiFVg1slUJQVQ0jFO+UqWaMoBcpKoskk2lhC5AKlrGGMhawVbmWFKIQN3o9wfoS1DoOxT5iX82vsegvXWZjhyNP/fpwQQjg81FozQljxvysi9rISjK4fuJL3Eyux1rPqtusPJePEN/kK+p52si8ikrf3H3j/9hOnS4pKapRS4+OcIL3eGG/v3xGnOUTdoBTqAH13j2+CvK7R9QaR8x6XJMUlTlErzSqs8zDWYzCOYxonYy2b/9VXYxzGaYZ1Iybq8hoClG4YZOpjTI4GGQzW45xJJIVCdr0hyzJcrzmSJEVRFEjTDE3T8tiwh38zmVSekwKqNVxUCAEpJZRS0EqjrhX7P03TQThNMyeV0jzcFNNV5nnBsqx81bY9FCzryrn5ETMC1jUcuWU9ukz+JdkVpws1Isc4Tmi6HrVuMAyGvaXBpWL6bo+8i3jm6drrioieD6mhCmQqJWk9VHR9j4/TGXGcIMuuSJLk6WMcx3xO05Rt+KOH+8ujp84SATUgz3PopgE9Bu9pRi3vznl+x0T4C1sLgrN9o8MPAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;event list 조회 API#1&quot;
+        title=&quot;event list 조회 API#1&quot;
+        src=&quot;/static/250da4dd5a34a4674b2e38b359898c0c/2bef9/3.png&quot;
+        srcset=&quot;/static/250da4dd5a34a4674b2e38b359898c0c/6f3f2/3.png 256w,
+/static/250da4dd5a34a4674b2e38b359898c0c/01e7c/3.png 512w,
+/static/250da4dd5a34a4674b2e38b359898c0c/2bef9/3.png 1024w,
+/static/250da4dd5a34a4674b2e38b359898c0c/b94e3/3.png 1126w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 137.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAcCAYAAABh2p9gAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC2ElEQVRIx51VaU/bQBD1//9llfqJioIQ0OA4tvc+fSbEr5oJZwmQ1NLzrvd4Ozszb1w45yGEhBACOWec8yzL8gFF13VwzsFaC2MMt0pr7tO41vpp3vGYfpoLIRw9pFDaYr1pYFyAth7GHtoPfRcYUluGMu5ljGEDQswopDIoq5o3CWUhlIE2HlK7d5tbqXmONj3Dv0VISLlHkbsezgdY59FKhboVcN5DGbq64TEfAnLXoev7b/1apNwxGZFKpZnABbqCg7ZkpYEPEbvdI+btlomppQDs9wv2yys4KClnGHL6GwutD2wdBUdIBWMtpFIIMTL5NM1HI8yEdGIIh4VkFRHHlNgvLmTYkBByD586jPMOC4D9fv854TiOoNRJKSHGyOlAcN0jbLfA9Qv8sMD3C2y/QLuEFOPneUjJTGREOgzDl0kMtg+fWseE5JuyLLGuKlYM+TQ/gQ6h62+322+JXgh3ux3meWbrCJQih+snJvc+nEdIVhD6fmBnn6Pbo4SkzaracHGYpok3fxXFbwn7vmfxG2PhvYeQkgsAFQMuFErxnFIaWh+KwzOOVaeCknQYRozjxKDvaZy5HcbxFcNrv3/TH8aJ5+qmgTYWRdcPkNbAeM+KaaxC6zSE1fAxIaZ8EkhRJN+CrClljev6Du1thc3lH/an8pYXktZPARUZsrwYxxlr1eCivMZ9XcJcVrA/Vggbi8QKOo2UDqdqVJDfGiNxWd3gQWzgrmronyt44f6DcDgQ1kbitlnhrn1A1dZQZQuvPRPGcwkpQiEm1FqgVDWXKVcqBOkOi88lJEem1KE1CitZwSkH96uCe1CvG9I5Fo4ThNFojEJrFSRF10aE2iLyf+I0K//xocDv6gY39T0q28KvFMzFGsGEkwPzjlBZj6tSoFlH6LKDd/kQkBNz8B0hvQz9d32GcwnOJISQT1bIMyiwlNzFNM+c4VRpxiewPt9q9SSMrP+/HrxquRAmvOcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;event list 조회 API#2&quot;
+        title=&quot;event list 조회 API#2&quot;
+        src=&quot;/static/61a1fb3beaf75d6b3149ed171467a345/2bef9/4.png&quot;
+        srcset=&quot;/static/61a1fb3beaf75d6b3149ed171467a345/6f3f2/4.png 256w,
+/static/61a1fb3beaf75d6b3149ed171467a345/01e7c/4.png 512w,
+/static/61a1fb3beaf75d6b3149ed171467a345/2bef9/4.png 1024w,
+/static/61a1fb3beaf75d6b3149ed171467a345/25260/4.png 1113w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;이벤트 리스트 조회 API는 앞서 얻은 캘린더 ID를 이용해 해당 캘린더에 등록된 이벤트의 목록을 조회하는 API입니다. &lt;code&gt;2022년 11월 25일 19:00~21:00 &amp;#x3C;sendtime x 500 global 네트워킹 파티&gt;&lt;/code&gt; 같은 각 일정 정보를 이벤트라 부릅니다.&lt;/p&gt;
+&lt;h2&gt;Strategy #1. Fetch every time&lt;/h2&gt;
+&lt;p&gt;우리의 유즈케이스를 구현하는 방법은 정말 단순해 보입니다. 사용자가 요청할 때마다 팀원들의 모든 구글 캘린더를 조회하고, 그 캘린더의 이벤트를 모두 가져온 뒤 공통으로 빈 시간을 찾으면 될 것 같습니다. 하지만 이 방법에는 정말 큰 문제가 존재합니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 453px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 87.109375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsTAAALEwEAmpwYAAABzElEQVQ4y2WUabKCQAyEuYyIG+IOsrgvVcj9j5NXX6qaN+iPlJDJdLo7wWi9XtvxeLT9fm/b7dbO57PleW73+90ul4ttNht/53w+n9tsNrPpdOrB8/d7VNe1Xa9Xu91uDlAUhTc4nU52OBzs8XhY0zRGHTXL5dJzXdd5gziOB8BRWZY9Gy7CkMu73c5Bq6ryoI7gjHepIScwZ/gNSMAYdmIJAJfFHBVYxb0fQCTgEQV0fT6ffnG1WvkvudFo1Md4PHaZiiRJerBeMt3pLImSBhMYy1dyEOCZfJqmAzBnyCESCZlPTqG8AOUtFqFKA1FEFL/fb/cDpgTTZF34xUOpgD11gAP2+Xzckslk8g8or9gzQoxgQB655GBHExrgOSsT7mUPiAQYUEQgR7sJoKYNOy04ecC/5ToghUjT6lDMRUC12DzTlHMGQbO2bW2xWPRyB18Kq0KRzCbwRl8OTTUY6gDXHmJZCBrBQoZTqOWWfK1OeE4OyZwDPPAwyzK/TAH+wFaseNbUYQIgFoghddz5kaw9DP8cAIK9JkzIQ5i9Xi8HCOW6ZC7rn4ZLmiideZdc6mCmBdcGsDoDyeFQYAUwZoudJs4zwFqncCgh4B/ZMjFkHvwlHQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;poc result&quot;
+        title=&quot;poc result&quot;
+        src=&quot;/static/30b84bca66481d96ccf7576f31f97b38/2108e/5.png&quot;
+        srcset=&quot;/static/30b84bca66481d96ccf7576f31f97b38/6f3f2/5.png 256w,
+/static/30b84bca66481d96ccf7576f31f97b38/2108e/5.png 453w&quot;
+        sizes=&quot;(max-width: 453px) 100vw, 453px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;center&gt;4개의 캘린더, 전체 49개의 이벤트를 얻어오는데 소요되는 시간&lt;/center&gt;
+&lt;p&gt;캘린더 목록을 가져오고, 이벤트를 얻어오는 API가 아주 느리다는 부분입니다. 아무런 최적화 옵션이 없는 경우 각 캘린더의 이벤트 목록을 조회해오는데 500ms~1,000ms가 소요되며 gzip이나 optional field 같은 최적화 옵션을 적용하더라도 엄청나게 성능이 최적화되지는 않습니다.&lt;/p&gt;
+&lt;p&gt;그나마 각 API 요청에서 발생하는 네트워크 I/O를 Nonblocking I/O로 풀어낸다면 약간의 성능상 이점을 얻을 수 있습니다. 하지만 서비스의 사용자가 요청할 때마다 구글 캘린더 API를 호출해야 하므로 부하가 심하다는 단점이 존재합니다.&lt;/p&gt;
+&lt;h2&gt;Strategy #2. Fetch every cycle&lt;/h2&gt;
+&lt;p&gt;앞선 방법의 문제는 사용자가 요청할 때마다 외부 API를 호출해야 하는데, 그 속도가 느리고 그때마다 네트워크 통신 비용이 발생한다는 데 있었습니다. 그렇다면 어떻게 개선해 볼 수 있을까요? 단순하게는 시스템이 백그라운드에서 주기적으로 캘린더 정보를 가져오고, 준실시간 수준으로 이벤트 정보를 갱신하는 방법이 있을 것 같습니다.&lt;/p&gt;
+&lt;p&gt;예를 들어, 5분마다 서비스에 등록된 모든 구글 계정의 모든 캘린더의 이벤트 정보를 받아오는 방법입니다.&lt;/p&gt;
+&lt;p&gt;음..🤔 벌써 불안합니다. 서비스에 1억 개의 구글 계정이 등록되어 있다면 어떻게 될까요? 5분 안에 모든 이벤트 정보를 가져올 수 있을까요? 5분마다 네트워크 통신 비용을 지불해야 하는 걸까요? 만약 5분 안에 모든 이벤트 정보를 가져올 수 있고, 네트워크 통신 비용도 지불할 수 있다면 모든 문제가 해결되는 걸까요?&lt;/p&gt;
+&lt;p&gt;그렇지 않습니다. 사용자 입장에서 생각해보겠습니다. 이 구조에서는 구글 캘린더에서 일정 정보가 변경되었음에도 서비스는 아직 그 정보를 알지 못하는 상황이 발생할 수 있습니다. 그렇게 한번 오차가 발생하고, 오차가 누적되다 보면 사용자는 결국 서비스를 이탈하게 될 것입니다.&lt;/p&gt;
+&lt;h2&gt;Strategy #3. Fetch every time with Sync Token&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/guides/sync?hl=en&quot; target=&quot;_blank&quot;&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/guides/sync?hl=en&quot;&gt;https://developers.google.com/calendar/api/guides/sync?hl=en&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;그럼 다시 매 요청마다 이벤트 정보를 가져오는 방법으로 돌아가 API 호출이 왜 오래 걸리는지 생각해보겠습니다. 일반적으로 API 호출이 오래걸리는 것은 네트워크가 느려서 일수도 있지만, 한번에 탐색하는 데이터의 양이 너무 많아서 그런 경우가 많습니다. 그리고 API Reference를 조금 더 자세히 살펴보면 syncToken이라는 필드가 존재하고 있음을 확인할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 83.59375000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsTAAALEwEAmpwYAAABtElEQVQ4y52UiY6rMAxF+/8fOFD2JQEStgRSGKDtHcUzHaHqdXljyUoC4RD7xj5UsobSA6xdLhdcr1eY0wldrzDPM4QQKMoSVVWhrmsIWaOoBEohUVYVpJQQQqJtW/r2YCHW92ZfWJumCZ7n/bhP7rourY+eh48PB74f0Oj5/jdwD9n7Dei6R0RRjDCKEAQBkiQB5wXSLEOSpGCMQSmFYRjpYId70B74+bkgYxyMF2CcoygKDMOAcRxhzAnjaCg99tktyqdAm8MwDJGmKXhZEjzLGYqiJLh1zjnynMEY8xq4riuqSkBrjXeMcvgMaMPouh59r/Bo370fnr20pocRvKx+149EfAtoXWlN967Xmu6rGgYS4r+Bt5CtktM8E2Q0htSdpvnvJ+yVhmxaqpym62i0P3gU9ssctn2PnBfYtg3n8wXbdsb5p0T/BLQntDm0sH9dk9u+t4GKVBYU6r7O96rv509FsbWcxDHVb5J+166dZ1mONM0QxwmiOKZab5rmtcrmNMMJGbyIwXFcahQ0Ho9wbNfxA8qvUhrLsrxuDsu6QrYabT9QP2zalk4ibV8UkiK4ty8tfydjiTJlGAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;이벤트 리스트 조회 API syncToken 필드&quot;
+        title=&quot;이벤트 리스트 조회 API syncToken 필드&quot;
+        src=&quot;/static/f6b6d958e9d9349b4767c132497856cf/2bef9/6.png&quot;
+        srcset=&quot;/static/f6b6d958e9d9349b4767c132497856cf/6f3f2/6.png 256w,
+/static/f6b6d958e9d9349b4767c132497856cf/01e7c/6.png 512w,
+/static/f6b6d958e9d9349b4767c132497856cf/2bef9/6.png 1024w,
+/static/f6b6d958e9d9349b4767c132497856cf/cf4cc/6.png 1079w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;center&gt;이벤트 리스트 조회 API syncToken 필드&lt;/center&gt;
+&lt;p&gt;이는 마지막으로 Sync한 시점으로부터 발생한 변경사항만 탐색하는 방법이라고 합니다.&lt;/p&gt;
+&lt;p&gt;그래서 이를 적용해보았는데..... 생각보다 엄청나게 빨라지지는 않았습니다. 또한 결국에는 일정주기로 전체 탐색을 해야하는 구조로 되어 있어, 앞서 존재했던 매 요청마다 사용자가 대기해야한다는 문제는 근본적으로 해결할 수 없었습니다.&lt;/p&gt;
+&lt;h2&gt;Strategy #4. Get push notifications&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/guides/push?hl=en&quot; target=&quot;_blank&quot;&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/guides/push?hl=en&quot;&gt;https://developers.google.com/calendar/api/guides/push?hl=en&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 52.734375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAABnUlEQVQoz5VS147bQAzU/3/gAXdW12q1vUmy4xLPgbQVBEjyEAEDFnDJGVKVXBbcHw/87/d8Pv+KynsPay3IOucYKSUYYxBj5HzwASEE9ilfSvnnoCrEhJQLclkRU34hZ6RSEHNBSIljgo8JRz3nUuZ367ajH0aklFHVbY9umNAOI+PU9hhOA0Q9QpxGTM0E2c2YmwmiE1DGQmkLqTSEVFi0gTYOk5BYtw3VNC+YF8WgIorVrKGEQvYZW9lQ0ooSMta8YT+fse2EnZmVdWNLuN3vqHyILMH6AGMdrPPsE7TzUNaxVJLvQoRxHsZ6lns0JFCP6+2GalEGddejHwU+Pk+ouwFCLhDEXCqMQrIskqqtY5/U0HAa4HzkPRK4ITFctGUGngsCrAu8F7IEYkUNj6NRHSmhGmJ7NGTJNLXpBshFY5hmfNUtPusWX02HYRLMng81CW7Q9AOroENOs+RDkk/HJekVTbfvvdAvQQPooX7vjvJUQ8wJ2r6YH3lW8d75+XJBlUv5tViiffh/xusb22/2VbOfL/hxveLx+IlvL45A7h5xDrIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Get push notifications watch example&quot;
+        title=&quot;Get push notifications watch example&quot;
+        src=&quot;/static/21d3c3904e6a4bc440952a725eb9f794/2bef9/7.png&quot;
+        srcset=&quot;/static/21d3c3904e6a4bc440952a725eb9f794/6f3f2/7.png 256w,
+/static/21d3c3904e6a4bc440952a725eb9f794/01e7c/7.png 512w,
+/static/21d3c3904e6a4bc440952a725eb9f794/2bef9/7.png 1024w,
+/static/21d3c3904e6a4bc440952a725eb9f794/3fca6/7.png 1112w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;center&gt;Get push notifications watch example&lt;/center&gt;
+&lt;p&gt;구글 캘린더 API는 사용자에 의해 트리거 되는 RESTful API 외에도 변경이 발생할 때마다 웹훅 형태로 변경 사항을 알려주는 기능이 제공되고 있습니다. 이 방법을 이용한다면 사용자가 요청할 때마다 이벤트를 얻어오는 것이 아니라 변경이 발생하는 즉시 사용자 캘린더 정보를 갱신할 수 있게 됩니다.&lt;/p&gt;
+&lt;p&gt;하지만 한 가지 걱정되는 부분이 있었습니다. 변경 사항이 우리에게 정상 수신되었다는 걸 어떻게 보장할 수 있는가?라는 부분입니다. 구글 측의 이슈, 혹은 구글과 우리 서비스 사이의 네트워크 이슈 등등 다양한 변수가 존재하기 때문에 100% 보장할 수는 없습니다.&lt;/p&gt;
+&lt;p&gt;그래서 구글은 웹훅 수신 서버가 웹훅 수신 후 200, 201, 202, 204 또는 102 상태 코드를 응답하는 경우 정상 처리되었다고 판단(ack)하며 500, 502, 503 또는 504 상태 코드를 응답하는 경우 재시도하는 지수 백오프(Expotential Backoff) 기능을 함께 제공하고 있습니다. 그렇기에 일반적인 서버 처리 오류나 Request Timeout 같은 상황에서도 요청 수신을 어느 정도 보장할 수 있습니다.&lt;/p&gt;
+&lt;h2&gt;마무리&lt;/h2&gt;
+&lt;p&gt;앞선 분석을 정리해보자면 결국 사용자의 대기를 최소화하고, 최대한 빠르게 데이터를 갱신하기 위해선 Strategy #4. Get push notifications 방식의 적용이 필수로 보입니다. 하지만 섹션의 마지막 문단에서 언급했듯 데이터의 동기화를 어느 정도 보장할 수 있을 뿐, 여러 변수로 인해 이를 100% 신뢰하는 것은 무리가 있습니다.&lt;/p&gt;
+&lt;p&gt;그렇기 때문에 베이스로는 변경 사항을 웹 훅으로 수신하며 사용자 일정 정보를 갱신하고 긴 주기 혹은 웹훅을 정상적으로 수신하지 못할 것으로 예상되는 시점에 일정 정보를 일괄로 받아오는 구조를 채택하는 것이 바람직합니다. 일괄로 받아올 때는 SyncToken을 활용한다면 조금 더 효과적일 것입니다.&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[Webhooks(웹훅) 시스템 체크리스트]]></title><description><![CDATA[들어서며 최근 Webhooks…]]></description><link>https://dataportal.kr/Webhooks(%EC%9B%B9%ED%9B%85)-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8/</link><guid isPermaLink="false">https://dataportal.kr/Webhooks(웹훅)-시스템-체크리스트/</guid><pubDate>Sat, 12 Nov 2022 03:10:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.890625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsTAAALEwEAmpwYAAACJ0lEQVQoz4VSu24UMRSdEkFJg/gJqPgGSijoqBAdJQ2pkRASEg2/gISUAghFEIiXFLKPLMmCArvs7EyyScisx4+x5+Hx2OMHcpakCQjr6sqPc+x7fU6AqDsdOXel8LkQjlYOZu6vsOD0VkrMi1cfni2vvn2/8XzlXac/pqWDmT0+dYD8k2yz3E0i+O373miSfN2ehTFC1EJqYeZpRekDEL8MYGYhkSnRiFrMHIBVHMeNbN3xMMZKqRKQY+ZEbbsT1Q+VqD04YLmw1jSNAqiGmSO0IRgxxpSUnHNjtHPOWnM4pwkyj1b5pQf68kP3+HUNsA44b5Rqm0YRyiG1LFesUvNMkkLWda21J7daY0TXx82ZO/WFJXvxLjp7c3MrLAMhTcVVtJuOt15OR50UK8YyIZo/RVtnrTXGoBS/GYqr9ztXlgbB9f65G5+2Qh7QXBVlg0g1O2AHQGZMOWukNFWtcl6XQrbaXzAHdA/Ye0+j87dHwbXOrSfjBGn/YQCJlGiSO8x8z9ZqIVRViZoXQgnjH273fxHCXMHdcrde6WZN48EBJGahYUoMZm6OmjBKoh0Q7YDpDohin8M4iWcEUgdwW5WmrNwcG69zbzAZDKOPa8Puxs/9hNPSbY+Tte6PwTDuf5l2B+Hn3iiaMcZdvMc6/VFvM+psTNZ7o92D4kjnzB6mEmCdErOwCkAtzPzcN4X1ojSY2fSozJSYI7BeOMwrfmKyEyf+N34DfjHBPqOEXYEAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/8b81a19328dd35573f73e59888f37b70/2bef9/1.png&quot;
+        srcset=&quot;/static/8b81a19328dd35573f73e59888f37b70/6f3f2/1.png 256w,
+/static/8b81a19328dd35573f73e59888f37b70/01e7c/1.png 512w,
+/static/8b81a19328dd35573f73e59888f37b70/2bef9/1.png 1024w,
+/static/8b81a19328dd35573f73e59888f37b70/21b4d/1.png 1280w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;들어서며&lt;/h2&gt;
+&lt;p&gt;최근 Webhooks 시스템을 구성하기 위해 필요한 요소를 짤막하게 고민해볼 기회가 생겨, 그때 고민해본 내용을 공유해보고자 합니다.&lt;/p&gt;
+&lt;p&gt;많은 분들이 웹훅 시스템을 구성한다고 하면 애플리케이션 시스템 아키텍처보다는 인프라 측면의 보안적인 요소에 많은 관심을 가지실 것입니다. 그래서 이번 게시글도 보안에 대한 부분을 메인으로 다루어보겠습니다.&lt;/p&gt;
+&lt;p&gt;보안과 관련된 내용은 기존 경험에 의한 생각, 웹훅 서비스를 제공하고 있는 서비스 벤치마킹 그리고 네이버와 센드버드에서 보안 업종에 종사하고 있으신 분에게 조언받아 작성하였습니다. 🙂&lt;/p&gt;
+&lt;h2&gt;시스템 체크리스트(보안)&lt;/h2&gt;
+&lt;h3&gt;1. 통신 암호화&lt;/h3&gt;
+&lt;p&gt;100% 신뢰할 수 있으며 통제할 수 있는 내부 시스템이 아닌 이상 통신 암호화는 필수요소라고 말할 수 있습니다. HTTP 통신을 한다면 HTTPS는 필수입니다. 벤치마킹해보니 일부 웹훅 서비스는 수신 측에서 HTTPS가 아니라면 웹훅 자체를 발송해주지 않는 서비스도 존재하고 있었습니다.&lt;/p&gt;
+&lt;h3&gt;2. 데이터 서명&lt;/h3&gt;
+&lt;p&gt;데이터 서명의 경우 하면 좋은데, 수신 측과 발신 측 모두 약간의 번거로움이 생길 수 있는 기능입니다. 하지만 그와 동시에 이상적 시스템을 위해선 꼭 적용해야 하는 부분이기도 합니다.&lt;/p&gt;
+&lt;p&gt;막상 데이터 서명 기능을 제공하더라도 사용자에 따라 서명을 귀찮아하거나 검증을 위한 컴퓨팅 리소스 할애 등을 이유로 평문으로 데이터를 전달 받기 원하는 경우가 있을 수도 있습니다. 이 부분은 시스템을 구성하는 데 있어 고려해볼 만한 부분인 것 같습니다.&lt;/p&gt;
+&lt;p&gt;만약 데이터 서명을 선택적 기능으로 제공한다면 &apos;기능은 제공하지만, 사용자가 안전하게 사용하지 않는 것&apos;이라는 책임 회피/전가 즉, Shared Responsibility 구조를 가지게 됩니다. 이는 많은 소프트웨어와 정책, 사업 등에서 채택하고 있는 방법이고 웹훅을 정말 적극적으로 제공하는 깃헙 또한 데이터 서명을 선택적 기능으로 제공하고 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.github.com/en/developers/webhooks-and-events/webhooks/securing-your-webhooks&quot; target=&quot;_blank&quot;&gt;&lt;a href=&quot;https://docs.github.com/en/developers/webhooks-and-events/webhooks/securing-your-webhooks&quot;&gt;https://docs.github.com/en/developers/webhooks-and-events/webhooks/securing-your-webhooks&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;3. 신뢰할 수 있는 발신처 제공&lt;/h3&gt;
+&lt;p&gt;웹훅을 수신하는 입장에서 생각해볼 때, 우리가 수신한 웹훅이 정말 신뢰할 수 있는 시스템이 보낸 제대로 된 데이터일까? 라는 부분은 정말 중요한 요소입니다. 통신을 암호화하고, 데이터를 서명하였더라도 그때 사용하는 인증서나 키가 노출된다면 무용지물입니다.&lt;/p&gt;
+&lt;p&gt;&apos;웹훅을 보낸 발신처를 신뢰할 수 있는가?&apos;를 판단할 수 있는 가장 대표적 지표는 웹훅을 발신한 시스템이 &apos;누구&apos;인가입니다. 그렇다면 &apos;누구&apos;는 어떻게 식별할 수 있을까요? 방법은 L7에서 확인하거나 L3에서 확인하는 등 다양하겠지만, 가장 쉽고 널리 사용되는 방법은 웹훅 발신 시스템의 IP를 우리 네트워크에 화이트 리스트로 등록하여 L3에서 발신처를 검증하는 방식입니다.&lt;/p&gt;
+&lt;h3&gt;4. 수신처의 제한&lt;/h3&gt;
+&lt;p&gt;웹훅을 발신하는 입장에서 고민해보아야 하는 부분도 존재합니다. 일반적으로 외부에서 알기는 어렵겠지만 만약 내부에서만 호출 가능한 내부 서버(서버 애플리케이션, nginx, redis 등) 킬 스위치 같은 API가 있다면, 사용자가 웹훅 대상 URL을 해당 킬 스위치 API로 지정하였을 때 문제가 발생할 수 있습니다. 서버 자체를 킬 하는 스위치가 아니더라도 액츄에이터 재시작 엔드포인트정도는 쉽게 유추할 수 있기 때문에 유의해야만 합니다.&lt;/p&gt;
+&lt;p&gt;이런 부분을 방지하기 위해선 웹훅을 발송할 때 수신측이 내부망 대역의 IP라면 발송하지 않게끔 해야하며, 30x 리디렉션의 목적지가 내부망이라면 무시하는 등의 보안 조치가 필요합니다.&lt;/p&gt;
+&lt;h2&gt;마무리&lt;/h2&gt;
+&lt;p&gt;보안 측면의 체크리스트를 정리해보자면 결국 모든 통신은 신뢰할 수 있어야 한다는 것으로 귀결됩니다. 이는 수신 측 웹훅 URL은 어떠한 경로로든 외부에 노출될 가능성(내부 직원의 실수, 웹훅 발신 시스템 해킹 등)이 존재한다는 것을 전제로 하고 있기도 합니다.&lt;/p&gt;
+&lt;p&gt;만약 HTTPS 통신을 하고 있으며, 신뢰할 수 있는 웹훅 발신 시스템의 IP만 허용했다면 100% 안전한 시스템일까요? 그렇지 않습니다. 웹훅 발신 시스템이 해킹당하여 해커가 curl을 이용해 여러 수신처에게 요청을 보낸다면 어떻게 될까요? 웹훅을 수신한 시스템들은 &apos;신뢰할 수 있는 시스템&apos;의 요청이기 때문에 이를 신뢰하게 됩니다.&lt;/p&gt;
+&lt;p&gt;만약 데이터를 서명했다면 서명에 사용되는 키가 유실되지 않는 이상 문제가 발생할 가능성을 줄일 수 있습니다.&lt;/p&gt;
+&lt;p&gt;보안 조치라는건 결국 시스템이 취약해질 가능성을 줄이는 행위입니다. 그렇기에 우리는 항상 그 가능성을 줄이기 위해 노력하고 있는게 아닐까 싶습니다.&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[Why DDD, Clean Architecture and Hexagonal?]]></title><description><![CDATA[어느 순간부터 소프트웨어 개발 세계에서는 도메인 주도 설계, 클린 아키텍처라는 용어가 사용 되기 시작했습니다. 이것들은 도대체 어떤 것이며, 왜 등장하게 됐을까요? 도메인 주도 설계(Domain-Driven Design…]]></description><link>https://dataportal.kr/Why-DDD-Clean-Architecture-and-Hexagonal/</link><guid isPermaLink="false">https://dataportal.kr/Why-DDD-Clean-Architecture-and-Hexagonal/</guid><pubDate>Thu, 10 Mar 2022 03:06:18 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 722px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 61.71875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAAsTAAALEwEAmpwYAAACKUlEQVQoz12SWU/bUBCF/f9/An1AFX1ogAKtIjZVJITYOIkLWQwkIBIviZfc2r5erq991yqJVCHOy4w0ozOaT0eRUkgpYfry/v4VwkchJEIlxtUnIVRSyqSUnAvGyK5XhOAYe3n+XFUuxmmWZZxvBh8lNv6CsVoIHsf3lnUCQJsQpHDOw/C36/7I80BKOZv5zaY9mUBKyfZkXVUVxtQ04+EQhGGUpm8AdNP0DyGZUtdRnr9ivKaUAgBGo+T0dDEe+6Y5OTw6bDQa/X7PddcXF6tO5y/GBCGwXP5cLL5Hkaas17eW9S3P3xiTWYbOzubX1+HEfLptt7udbvumpana/b2apuXNzbLd9gAIMfazzKIUKoxVhOSM1avV+vJy2Wx6tg10Xdd7+tXb1bl9rj1ouqbNZotu19f1oK4pY3zHQtkVzmmWIcMIHh9D3w+MgWEMjQPz4Mvki/asGT3D81a7TUoJxkhKLgRX/vMUgrpu0Wy6oxEcDh/uOnfGxOg/9XVdb7VaEKKioHVNCSFiS39zmZA8jqdxPCuK9Xwe6nowHqe2Hahqt98bDHoDVVVt2+p0/L090zRBVaUQzuN4WpahkuevjnPsuidlaUspp9Nwf9/UtCCOI8d1lqul53mc8zSlvl9FESqKwPd/OU4Dwp7CucA4TBIzSd4RigGASULKku2S91GMVULwLaCK85Jztvk5y14s68hxjsvSkVISgoVg5IMopdu01J/s/gH6JIxnOrfjhQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/8795ab870327b4b5739c207b877370b5/d44c9/1.png&quot;
+        srcset=&quot;/static/8795ab870327b4b5739c207b877370b5/6f3f2/1.png 256w,
+/static/8795ab870327b4b5739c207b877370b5/01e7c/1.png 512w,
+/static/8795ab870327b4b5739c207b877370b5/d44c9/1.png 722w&quot;
+        sizes=&quot;(max-width: 722px) 100vw, 722px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;어느 순간부터 소프트웨어 개발 세계에서는 도메인 주도 설계, 클린 아키텍처라는 용어가 사용 되기 시작했습니다. 이것들은 도대체 어떤 것이며, 왜 등장하게 됐을까요?&lt;/p&gt;
+&lt;h2&gt;도메인 주도 설계(Domain-Driven Design)&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;소프트웨어의 본질은 해당 소프트웨어의 사용자를 위해 도메인에 관련된 문제를 해결하는 능력에 있다&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;DDD와 객체지향&lt;/h3&gt;
+&lt;p&gt;도메인 주도 설계를 보다 잘 이해하고 적용하기 위해선 객체지향에 대한 이해가 필요합니다. 객체지향의 본질과 핵심은 뭘까요? 저는 객체 그 자체라고 생각합니다. 객체지향이라는 것은 결국 각 객체간 역할을 명확히 가져가고, 각 객체간에 메시지를 주고 받는 형태의 프로그래밍 방법론이라 생각하기 때문인데요.&lt;/p&gt;
+&lt;p&gt;그렇다면 객체지향 프로그래밍에서 사용되는 이 객체들은 어떻게 추려낼 수 있을까요? 이 객체가 필요한지 어떻게 알 수 있을까요? 어떻게 하면 이 객체들이 서로 상호작용할 수 있을까요?&lt;/p&gt;
+&lt;p&gt;여러 방법이 있을 수 있겠지만, 이를 해결해줄 수 있는 것이 &lt;code&gt;도메인 주도 설계&lt;/code&gt;입니다.&lt;/p&gt;
+&lt;h3&gt;Focus on Domain&lt;/h3&gt;
+&lt;p&gt;여기서 도메인은 실세계에서 발생할 수 있는 사건 그 자체라고 생각하면 쉽습니다. 간편결제 서비스를 예로 들어볼까요?&lt;/p&gt;
+&lt;p&gt;서비스에서 사용되는 포인트를 충전하기 위한 충전 도메인(Charge Domain)이 있을 수 있고, 이렇게 충전된 포인트로 결제를 수행하는 결제 도메인(Payment Domain)이 있을 수 있습니다. 그리고 각 도메인에는 이를 구현하기 위한 여러 객체가 필요하게됩니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;충전 도메인: 포인트, 고객, 충전 수단, ...&lt;/li&gt;
+&lt;li&gt;결제 도메인: 포인트, 고객, 결제 상품, ...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;잘 보면 서로 다른 도메인이지만 같은 객체(포인트, 고객)가 존재하는데요. 이는 같은 객체가 여러 개 존재할 수 있다는 도메인 주도 설계의 특징 중 하나입니다. 같은 객체이지만, 그 객체가 속한 도메인의 문맥(Context)에 따라 각 객체의 역할과 책임이 크게 바뀌게 되는 것이지요.&lt;/p&gt;
+&lt;p&gt;그래서 이러한 객체들은 외부로 노출시키지 않고, 내부에서만 알 수 있게 합니다. 다른 도메인에서는 알 필요가 없으니까요.&lt;/p&gt;
+&lt;p&gt;즉, 이는 서로 다른 도메인 영역에 영향을 끼치기 위해서는 API를 이용해야 한다는 말이기도 한데요. 이를 통해 각각의 도메인은 서로 철저히 분리되고, &lt;code&gt;높은 응집력과 낮은 결합도&lt;/code&gt;로 &lt;code&gt;변경과 확장에 용이한 구조&lt;/code&gt;를 얻게됩니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1002px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.46875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAABjUlEQVQoz0WS246rIBSGff+nql406XV7O7stCCgi4kJQ5LRnIJ35Lgghgf+waKSU/76+MMaM0oExhBDGmHPe9/00TZxzQggrUEoJIe/3exgGhBAANCmlENO6ajHLVa0hxJRyKKQPsfC7yR8a76NSK8b4jRClJMZ4uNNaa4zhnFdNKSUAaK2ttd77v8shJkpp13Vt2z4ej5zT4U5ToJS+Xi+EUN/3jDFCiBACALZtCyHEGJsQo9Z6nudpmpRSOWd3emttjNFaWwUBYF1XrfVaqIfneTb+541QdRhj4zhqvVlrt22rPvcPrnAUUkolczFAKL1er23b3m63Scz7vgPA8/nEGNfOGWPTNFWDnHPnXMkcYgjBOTfP8ziOAGDsfhxHzrnqG2OqYa21MaZmrp03MaZ5lnWYQoic81kyV9tboZqvtkMIf23HmDBGl8ul67r7/Z7ST9ubMd77ZVn6vq+/QkophFiWRUpZ1+M4Gu+DUjAMnA2jENKdvo5KSjkMA8Z4HEdKaV+oFQCAUuq77f8qjmuK3jWamQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ddd-layers&quot;
+        title=&quot;ddd-layers&quot;
+        src=&quot;/static/ff9bfd98e8b6ba6a6d7b14adb8cda673/d69c4/2.png&quot;
+        srcset=&quot;/static/ff9bfd98e8b6ba6a6d7b14adb8cda673/6f3f2/2.png 256w,
+/static/ff9bfd98e8b6ba6a6d7b14adb8cda673/01e7c/2.png 512w,
+/static/ff9bfd98e8b6ba6a6d7b14adb8cda673/d69c4/2.png 1002w&quot;
+        sizes=&quot;(max-width: 1002px) 100vw, 1002px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;그리고 DDD를 실제로 구현할 때에는 크게 3가지 Layer로 구분하는 것이 핵심입니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Application Layer: 주로 도메인과 Repository를 바탕으로 실제 서비스(API)를 제공하는 계층&lt;/li&gt;
+&lt;li&gt;Domain Model Layer: Entity를 활용해 도메인 로직(비즈니스 로직)이 수행되는 계층&lt;/li&gt;
+&lt;li&gt;Infrastructure Layer: 외부와 통신(RDBMS, Redis, HttpClient, ...)을 담당하는 계층&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;결국 각 도메인을 분리하고, 그 도메인을 위와 같은 Layer로 철저히 분리해서 만드는 것이 DDD라 볼 수 있습니다.&lt;/p&gt;
+&lt;h2&gt;Introduce Clean Architecture&lt;/h2&gt;
+&lt;p&gt;Clean Architecture는 Robert C Martin(Uncle Bob)이 블로그에 기재하면서 화제가 되었었는데요.&lt;/p&gt;
+&lt;p&gt;Clean Architecture에 대해서 이해하기 위해선 두 가지 개념을 이해하고 있어야 합니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Business Rule&lt;/li&gt;
+&lt;li&gt;System Architecture&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What is Business Rule?&lt;/h3&gt;
+&lt;p&gt;Business Rule(Logic)은 컴퓨터 프로그램에서 데이터를 생성, 표시, 저장, 변경하는 부분을 일컫습니다. (=domain logic)&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 88.67187499999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAIAAADUsmlHAAAACXBIWXMAAAsTAAALEwEAmpwYAAADS0lEQVQ4y21Ty27jNhTVF3TRFpjOqrMrusgvdRF00PmBAvMf3bVddDFAdtm0QAbIY+JEsWzJkiy/YsfWg5RIvUVST8pOodZ2ERRoibO4vOA5vLj3HiHwPQhM6JgQmMgDPoYtL3fbmjc5bwrk2fPZ+HExIVnU8pKSaLEwDGPk2E8tLwUXWooiyXJ/MHjQNWViaBCYwDFJFnfdn+/f//jt/nzTu73qum4g3Z2cnLx58/UP777vut2erKnyaDQcSKKqDuVhXxRvpf6dC+2u696+PRUE4fMvPru6vOi67kG8/er161evvjw9/a7rtgLyHE2VJ4bquTYEFgQmRgAjwGiy21aqOvjw4dfz8zPPs593jY/B2dlvv/z80/39dcsLoanzumJ1xVpe/hvH/HbXbEn03Jacl3XFOC+fa7rLgu2uqSsmILRZr6emOfMDK89DxnxKMaWYEEQIJsxPwGMaw31MEKV+FoEELrPDVVittOvrP4bDT7oumubEsqZBYCaJk2UwSyGhKLOnLIMs90nmppmbRTZFq7zwKUWCZc2k/rU6upflniTdqOr9em1gvCbESxIQxdbTRJpP5eVSC0MrTR3sLdcL1bJmLlwKpjnt9T4qyt14LPX7N7Lcc5xFmkJCvCDYBMF6KN9eXJwryl0cO0G4dsFCvL2Q5Z5tz/dlX139LoqXong5GNxMpgNdf/D9DSFuHNsZcRMwT2ObUI9kcC8a2dR9ZDmm1BOyDEURiCKA0CZJ3JyFjAWH9mBKfUoDGmOS+ccMY0EcuQhsDg3DQhxhz3UwglXJnndNy6uWV7u23k+rOmwoxhgj3pR1U27bavO0GqlaUxdNnQvmZqnI0kiRLHO1F/KcKETIc+IIH0fdtk1b5QVyqtivfRB6ALqgqfM92YXWWFd0TdFU2RiriixpqjzWR0eH1FXeVKzhZZ1F+WZZF6TdVgfbFP+Q1dFwOtEnE80Yq/OZsVrOwsCrSnqUb+p98STDaepRElcFZTRmNK5KKjCaRCGKIxyFOE2COMLHVT1qH8B4UxFih5GRpXsDrzYSQvMizwTeFMdlfglePnwht7y0rUddFyGwWl4ul4Y6knwMhf88/R/wpggDZFubwHd5U/CmqEr6tzH+AnPFq3dkuSeeAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;3tier-layer&quot;
+        title=&quot;3tier-layer&quot;
+        src=&quot;/static/d342175431b1e904e68171949a91f4e8/2bef9/3.png&quot;
+        srcset=&quot;/static/d342175431b1e904e68171949a91f4e8/6f3f2/3.png 256w,
+/static/d342175431b1e904e68171949a91f4e8/01e7c/3.png 512w,
+/static/d342175431b1e904e68171949a91f4e8/2bef9/3.png 1024w,
+/static/d342175431b1e904e68171949a91f4e8/eba85/3.png 1054w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Business Rule(Logic)은 유저의 입력(UI)과 DB 사이에서 발생한 정보 교환을 위한 특정 알고리즘이나 규칙이 정의된 tier를 의미합니다.&lt;/p&gt;
+&lt;p&gt;이러한 Rule(Logic)은 고객의 요구에 따라 변경될 수 있기 때문에 별도의 tier에 배치되어야 합니다. 만약 다른 역할을 하는 tier와 함께 존재한다면, 고객의 요구에 따라 변경해야하는 부분이 많아질 수 밖에 없기 때문입니다.&lt;/p&gt;
+&lt;h3&gt;What is System Architecture?&lt;/h3&gt;
+&lt;p&gt;System Architecture는 시스템의 구조(structure), 행위(behavior), 뷰(views)를 정의하는 개념적인 모델입니다.&lt;/p&gt;
+&lt;p&gt;즉, 시스템의 목적을 달성하기 위해 각 컴포넌트가 어떻게 상호작용하고 정보가 어떻게 교환되는 지를 정의하고 있습니다.&lt;/p&gt;
+&lt;p&gt;세상에는 정말 다양한 시스템 아키텍처들이 나왔지만 결국 그들의 목적은 하나로 귀결됩니다.&lt;/p&gt;
+&lt;h3&gt;관심사의 분리&lt;/h3&gt;
+&lt;p&gt;소프트웨어를 계층으로 나누게 되면 관심사를 분리할 수 있습니다. 그리고 관심사 분리에 목적을 가진 시스템 아키텍처는 최종적으로 다음과 같은 구조를 지니게 됩니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;프레임워크 독립적
+&lt;ul&gt;
+&lt;li&gt;라이브러리 존재 여부나 프레임워크에 한정적이지 않아 도구로써 사용하는 것이 가능합니다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;테스트 용이
+&lt;ul&gt;
+&lt;li&gt;Business Rule은 UI, DB, Web Server 등 기타 외부 요인과 관계없이 테스트 가능합니다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;UI 독립적
+&lt;ul&gt;
+&lt;li&gt;시스템의 다른 부분을 고려하지 않고 UI를 변경할 수 있습니다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Database 독립적
+&lt;ul&gt;
+&lt;li&gt;Business Rule에 얽매이지 않고 Database를 독립적으로 변경할 수 있습니다(SQL, Mongo, CouchDB 등)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;외부 기능 독립적
+&lt;ul&gt;
+&lt;li&gt;Business Rule은 외부 상황(DB, UI)이 변하더라도 영향을 받지 않습니다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Uncle Bob은 이러한 특징을 가지는 Architecture 들에 대한 총 정리로 Clean Architecture를 내세운 것인데요.&lt;/p&gt;
+&lt;h2&gt;Overall Clean Architecture&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 698px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 91.40624999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAIAAADUsmlHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC7UlEQVQ4y3WU+2/TSBDH+98jnYTQAcdDJ0D8cqJIKMnaG8fe+BGv165oKVWbl2snTm3H67yctqRp7PiBiktpOfHV/LBazWdmd3Zmd4qfyvO8KIrr63XfbRNLVAecZLOKXce28MU2ZtH0xqfIi3vauU+GMyr369II4DFHKK+Hgh4KOGgoHotOqyfO12yb/Q6X5HjiCb2KRjk9QAblsQdUl1FdoAd1gyKdCk2ncmAZ+T18pyQvLy/FPvuDFDSfbfRYpkPY3le2uw87SHZqJOD1EKFBxXR7d/l2ymscDfclFxgUqS4AJzI/ivA816JCiwqJxqDTRlZND3hCG5IJr66uSv7m2Ov1WjYhoTwZQ6YtSsG1vszwLC5NWyQkKphuW3ZqBkWSA0yv+wv2wjPZYYxQEAcAWmf6eaFFKYlyLcq0RUqijCxSOUzYNjJoQ/HZgyEpsp8FM/2uNAJGyHO9uhSsSZRBa4K8cylYieNvTe9CncV4nrO9Q81nNNoglhhvklu477VFp2aEDbZdb00T/bx4pxz89QG85PAzID6riU3/UosKaJ60zqpayONTIY7jW9jy+9KIMUKeNyFyz0mUtaZxa7LB821rGquzBM+36ixnOntkDHHAGba8jbe38GQRigOgh0gZ1ZhumywLPE/wPMXzrbZI1VlCljlyL7guNEJedpkj53PZbTdwEieqKWhBQ6cNrstAa0yWhbbYlkaiXKZJ7bileoxOkTgEbji6rXb53LZvNocVnaK9KY/sOjR7Ml3J9Fqma3QWsh2JBFCnSB1DbDbTbfqgt7M0001F8ZmmDdjjD1xn99P+x08HoHYEqof/ScNK0wI44JBZnczDXx12t1qtVoatvOaevKg+fie8fLr76C3393v0z7/w6Rvu+Sv4hDnadSej+7P1YKo2m83J6FAeQNll8LiOA67lQxzA5qBKTqXpYnLn+QAud8uQy4ul6XX2bUJOpT1LOXa+BFM/TdI/zvNvX8L/lZfBH+o7ezasxTuQVMoAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;first-clean-architecture&quot;
+        title=&quot;first-clean-architecture&quot;
+        src=&quot;/static/7877a67a3b963712d328729713b08e34/487bb/4.png&quot;
+        srcset=&quot;/static/7877a67a3b963712d328729713b08e34/6f3f2/4.png 256w,
+/static/7877a67a3b963712d328729713b08e34/01e7c/4.png 512w,
+/static/7877a67a3b963712d328729713b08e34/487bb/4.png 698w&quot;
+        sizes=&quot;(max-width: 698px) 100vw, 698px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;먼저 간단한 그림부터 살펴보겠습니다.&lt;/p&gt;
+&lt;h3&gt;Domain&lt;/h3&gt;
+&lt;p&gt;Domain Layer는 Business Rule이 존재하는 영역입니다. 번역앱은 번역을 하고, 결제 앱은 결제를 수행합니다. 이렇듯 비즈니스의 본질은 쉽게 바뀌지 않으므로 Business Rule은 잘 변하지 않는 안정된 영역입니다.&lt;/p&gt;
+&lt;h3&gt;Infrastructure&lt;/h3&gt;
+&lt;p&gt;Infrastructure Layer는 UI, Database, Web APIs, Frameworks 등이 존재하는 영역입니다. 이는 Domain에 비하여 자주, 쉽게 바뀔 수 있습니다. 예를 들어 다른 사용자에게 송금을 한다고 가정해봅시다. 송금을 위한 버튼의 형태는 쉽게 바뀔 수 있지만 송금 방법 (Business Rule)은 그렇지 않습니다.&lt;/p&gt;
+&lt;p&gt;Uncle Bob은 이렇게 경계를 두어 각 Layer를 분리하고, 관심사를 분리하는 규칙을 의존성 규칙(Dependency Rule)으로 설명했습니다.&lt;/p&gt;
+&lt;h3&gt;Dependency Rule&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;모든 소스코드 의존성은 반드시 outer에서 inner로, 고수준 정책을 향해야 한다&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Dependency Rule은 Business Logic을 담당하는 코드들이 DB 또는 Web 같이 구체적인 세부사항에 의존하지 않고 독립적으로 실행되어야 한다는 규칙입니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 698px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 91.40624999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAIAAADUsmlHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC7UlEQVQ4y3WU+2/TSBDH+98jnYTQAcdDJ0D8cqJIKMnaG8fe+BGv165oKVWbl2snTm3H67yctqRp7PiBiktpOfHV/LBazWdmd3Zmd4qfyvO8KIrr63XfbRNLVAecZLOKXce28MU2ZtH0xqfIi3vauU+GMyr369II4DFHKK+Hgh4KOGgoHotOqyfO12yb/Q6X5HjiCb2KRjk9QAblsQdUl1FdoAd1gyKdCk2ncmAZ+T18pyQvLy/FPvuDFDSfbfRYpkPY3le2uw87SHZqJOD1EKFBxXR7d/l2ymscDfclFxgUqS4AJzI/ivA816JCiwqJxqDTRlZND3hCG5IJr66uSv7m2Ov1WjYhoTwZQ6YtSsG1vszwLC5NWyQkKphuW3ZqBkWSA0yv+wv2wjPZYYxQEAcAWmf6eaFFKYlyLcq0RUqijCxSOUzYNjJoQ/HZgyEpsp8FM/2uNAJGyHO9uhSsSZRBa4K8cylYieNvTe9CncV4nrO9Q81nNNoglhhvklu477VFp2aEDbZdb00T/bx4pxz89QG85PAzID6riU3/UosKaJ60zqpayONTIY7jW9jy+9KIMUKeNyFyz0mUtaZxa7LB821rGquzBM+36ixnOntkDHHAGba8jbe38GQRigOgh0gZ1ZhumywLPE/wPMXzrbZI1VlCljlyL7guNEJedpkj53PZbTdwEieqKWhBQ6cNrstAa0yWhbbYlkaiXKZJ7bileoxOkTgEbji6rXb53LZvNocVnaK9KY/sOjR7Ml3J9Fqma3QWsh2JBFCnSB1DbDbTbfqgt7M0001F8ZmmDdjjD1xn99P+x08HoHYEqof/ScNK0wI44JBZnczDXx12t1qtVoatvOaevKg+fie8fLr76C3393v0z7/w6Rvu+Sv4hDnadSej+7P1YKo2m83J6FAeQNll8LiOA67lQxzA5qBKTqXpYnLn+QAud8uQy4ul6XX2bUJOpT1LOXa+BFM/TdI/zvNvX8L/lZfBH+o7ezasxTuQVMoAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;second-clean-architecture&quot;
+        title=&quot;second-clean-architecture&quot;
+        src=&quot;/static/7877a67a3b963712d328729713b08e34/487bb/4.png&quot;
+        srcset=&quot;/static/7877a67a3b963712d328729713b08e34/6f3f2/4.png 256w,
+/static/7877a67a3b963712d328729713b08e34/01e7c/4.png 512w,
+/static/7877a67a3b963712d328729713b08e34/487bb/4.png 698w&quot;
+        sizes=&quot;(max-width: 698px) 100vw, 698px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;다시 이 그림으로 돌아와보겠습니다.&lt;/p&gt;
+&lt;p&gt;Dependency Rule에 따르면 inner circle에 해당하는 Domain은 outer circle에 해당하는 Infrastructure에 대해서 아무것도 모릅니다. 이는 UI, DB는 Business Rule에 의존하지만 Business Rule은 그렇지 않다는 것을 의미합니다.&lt;/p&gt;
+&lt;p&gt;UI가 웹이건 모바일이건, DB가 SQL이건 NoSQL이건 Business Rule 입장에선 아무런 관계가 없습니다.&lt;/p&gt;
+&lt;h2&gt;The Clean Architecture&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 73.046875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAAsTAAALEwEAmpwYAAADMElEQVQozzXSeW/adgDGcb/fvYZJUydNXbQ2DUkgB4EQEg6TBJyr3AYMGNvYBgPB2D/fxqZg8JEiLVWrTc20zx/fF/DogURRBAD8V1mWdV0Tx7TAkc9sbzygxizBka0x0xsxuDDjAZDAG0mSeJ6HNE3zfd91vcBbW5Y5FlSiPyQIgudIW3le6EAXubnCm9Jk7axcz3Ndd7PZBEGgKAqkKIrveQt73mTENGalqXWyt8zSfqbr1BjNWiz84MVZu2vXWznO6s1yudxsNpIkQbquLxZ2qsQco2qCI45Y+GSaibDp5LgTqfGhFCoA4Lqb1cpZ/89xHM/zZFmGNFXK19l3yWpKfrr/UU5OknDr9JKJI99LWROJ1LmbjmKZxnJlmXNtPrdM05zP57ZtAwCgHs2eVdXzYfHxn3qpkaA/7vR+f0fvvK89nD58r2W1chTVGuTI4LleC62jjTaGoSjabDYbjQaUr9EXhFrYlu4nsBMOq6nIrB3nM4dfPoUKlSjs34freK72PJoxXQqn+zRJEP1+37ZtQRCgVGlwUMFy26civK/uf5oMEpuXz7IGG7FDIrGf+/pwSjTSNZHlueGM71MUwzA0TatvoKviIILihR/l6m1E39/jmPOv36pAzurRg0H6OLd9iPXbMKYZshy4L+7GdX1/4/tuEPwc7LpExLvypXmTJhOLSBjE97nS0fNFyD06SsAfD8fRGD5KVhhkmL8e3xJCnytXsZPjIVIQZzMIw8nI59mfd/E9JhLPfJge7Ep/fZBCe+nznV0yHB3kdm/ZcodkTboLCMEQAcs24ewz1pKACKkyuETQ0NMo0svE1GR2fpOmExkFTq1vTodXJ61Z/LFv6srW3QZW4H0JQAuvhQ85BAHCDDIMw9C1qyIdrsjH7UZsgpwr+RhfOMYr4Yp49shOJmPXdS3DsmV7qa700bRdyE9xHIjiz4e9vr7ac6PcZq/q0h/ntV9+O/w1XLioyvdNVlWkb3+/Wo5dEO5g/rqvsNM6Wg/tje8QGQCIoqhOp0OSJEV0i08P8cTlSfzqLJ68v0OILkZRFN7FsQ6GVJF8JV9pVuuPT0UYrhYKnU7nX8KQw+q++o88AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;fully-clean-architecture&quot;
+        title=&quot;fully-clean-architecture&quot;
+        src=&quot;/static/6695b52183de67aa13dc37cdf8c22216/2bef9/5.png&quot;
+        srcset=&quot;/static/6695b52183de67aa13dc37cdf8c22216/6f3f2/5.png 256w,
+/static/6695b52183de67aa13dc37cdf8c22216/01e7c/5.png 512w,
+/static/6695b52183de67aa13dc37cdf8c22216/2bef9/5.png 1024w,
+/static/6695b52183de67aa13dc37cdf8c22216/21b4d/5.png 1280w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;위의 그림을 더 자세히 들여다 보겠습니다.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Domain&lt;/code&gt;이 &lt;code&gt;Entities&lt;/code&gt;, &lt;code&gt;Use Cases&lt;/code&gt;로 세분화 되었고, &lt;code&gt;Adapter&lt;/code&gt;가 새로 생겨 &lt;code&gt;Domain&lt;/code&gt;과 &lt;code&gt;Infrastructure&lt;/code&gt; 사이의 경계를 관리합니다.&lt;/p&gt;
+&lt;p&gt;이 그림 또한 마찬가지로 &lt;strong&gt;Dependency Rule&lt;/strong&gt;에 따라 동작하여 outer에서 inner로 의존성을 가지게 됩니다.&lt;/p&gt;
+&lt;h3&gt;Entity&lt;/h3&gt;
+&lt;p&gt;Entity는 애플리케이션에서 핵심적인 기능인 Business Rule을 담고 있습니다.&lt;/p&gt;
+&lt;p&gt;다른 사람에게 돈을 보내는데, 같은 은행으로 보내면 수수료가 면제된다고 가정해 보겠습니다. 모바일 앱에서 돈을 보내던 PC 웹에서 돈을 보내던 같은 은행으로 보내면 수수료가 면제된다는 사실은 변하지 않습니다.&lt;/p&gt;
+&lt;p&gt;같은 은행이면 수수료가 면제된다는 규칙(Business Rule)은 외부 상황(outer layer)을 전혀 모릅니다.&lt;/p&gt;
+&lt;p&gt;즉, Entity들은 outer layer들에 속한 다른 class나 component들을 전혀 모르고 신경쓰지 않아도 됩니다.&lt;/p&gt;
+&lt;h3&gt;Use Cases&lt;/h3&gt;
+&lt;p&gt;Use Cases는 특정 application에 대한 Business Rule입니다. Use Cases는 시스템이 어떻게 자동화 될 것인지에 대해 정의하고 application의 행위를 결정합니다. 다시 말해, 프로젝트 레벨의 Business Rules(Entities)을 사용하여 Use cases의 목적을 달성합니다.&lt;/p&gt;
+&lt;p&gt;계좌 송금을 하기 위한 Use cases의 예시는 다음과 같습니다.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;[계좌 송금]&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;입력: 수취인 계좌번호, 수취인 은행, 송금 금액&lt;/li&gt;
+&lt;li&gt;출력: 송금 성공 여부&lt;/li&gt;
+&lt;li&gt;적용되는 Business Rule
+&lt;ul&gt;
+&lt;li&gt;계좌번호의 양식은 유효해야 한다&lt;/li&gt;
+&lt;li&gt;해당 계좌가 돈을 수취할 수 있는 유효한 상태여야 한다&lt;/li&gt;
+&lt;li&gt;송금 금액은 1회에 1천만원까지만 허용된다&lt;/li&gt;
+&lt;li&gt;....&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Cases는 Entities에 의존하는 동시에 상호작용합니다. 물론 outer layer에 대해서는 아는게 없습니다. 다만 이 계층에서는 outer layer에서 사용할 수 있는 abstract class나 interface를 정의합니다.&lt;/p&gt;
+&lt;h3&gt;Adapters&lt;/h3&gt;
+&lt;p&gt;Adapters는 domain과 interfaces 사이의 번역기 역할을 수행합니다.&lt;/p&gt;
+&lt;p&gt;예를 들어 GUI로부터 input data를 받아 Use cases와 Entities 에게 편리한 형태로 repackage 하고, Use cases와 Entities의 output을 가져와 GUI에 표시하거나 DB에 저장하기 편리한 형식으로 repackage 합니다.&lt;/p&gt;
+&lt;p&gt;Adapters는 GUI의 MVC 아키텍처를 완전히 내포하며, Presenter, View, Controller 가 모두 여기에 속합니다.&lt;/p&gt;
+&lt;h3&gt;Infrastructure&lt;/h3&gt;
+&lt;p&gt;Infrastructure는 모든 I/O components(UI, DB, Frameworks, Devices)가 있는 영역입니다.&lt;/p&gt;
+&lt;p&gt;이는 변화될 가능성이 매우 높기 때문에 stable 한 domain과는 확실히 분리가 되어 있고, 그렇기 때문에 비교적 쉽게 변화되고 component 또한 쉽게 교환됩니다.&lt;/p&gt;
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;결국 Clean Architecture는 다음과 같은 이점이 있다고 정의내립니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;의존성 규칙에 따름으로써 관심사가 분리된다&lt;/li&gt;
+&lt;li&gt;본질적으로 테스트하기 쉬운 시스템을 만들 수 있다&lt;/li&gt;
+&lt;li&gt;의존성 규칙이 가져오는 이점을 가져올 수 있다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;그리고 주요한 이러한 특징을 지닙니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;같은 상황과 이유로 변경되는 Class들은 Components로 묶인다&lt;/li&gt;
+&lt;li&gt;Business Rule은 stable한 components로, 변경되기 쉬운 외부의 infrastructure components (UI, DB, web, frameworks, ... )를 알지 못한다&lt;/li&gt;
+&lt;li&gt;각 components layer 간의 경계는 adapter 인터페이스를 통해 관리된다&lt;/li&gt;
+&lt;li&gt;Adapter는 Layer 간의 데이터를 편한 형태로 변환시켜주고 더 stable한 inner components로 의존성을 가지도록 한다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hexagonal Architecture&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;그럼 헥사고날 아키텍처는 무엇이고, 왜 쓰이는걸까요?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;인프라&lt;/code&gt; ← &lt;code&gt;서비스&lt;/code&gt; ← &lt;code&gt;프레젠테이션&lt;/code&gt;의 방향으로 의존성이 설계된 MVC 아키텍쳐에서는 인프라의 변화가 곧 뷰의 변화로 이어지기 쉽습니다. 하지만 웹서비스에서의 핵심은 인프라가 아니라 실제 비즈니스 로직이 수행되는 서비스 계층, 더욱 정확하게는 개발팀의 의사소통 단위가 되는 도메인 객체들입니다.&lt;/p&gt;
+&lt;p&gt;도메인 객체들은 근본적으로 서비스가 지니는 바운디드 컨텍스트 안에서 독립적인 로직을 가지고 있습니다. 영속성 계층, 혹은 메시지 큐와 같은 인프라는 결국 이러한 도메인의 상태를 저장하거나 전달하기 위해 존재할 뿐입니다. 즉, 도메인 객체들은 인프라에 의존하지 않아야 한다는 것입니다.&lt;/p&gt;
+&lt;p&gt;그렇기 때문에 헥사고날 아키텍처는 의존의 방향이 레이어드 아키텍처와 다릅니다.&lt;/p&gt;
+&lt;p&gt;클린 아키텍처와 마찬가지로 어디에도 의존하지 않는 도메인 객체들이 존재하고, 이들에 의존하는 서비스계층(또는 usecase 계층)이 존재합니다. 서비스계층에서 수행되는 비즈니스 로직들은 외부와 연결된 포트를 통해 시스템 외부로 전달되며 인프라는 포트에 의존합니다.&lt;/p&gt;
+&lt;p&gt;한 마디로, 외부와의 통신을 인터페이스로 추상화하여 비즈니스 로직 안에 외부 코드나 로직의 주입을 막는다는 것이 헥사고날 아키텍처의 핵심입니다.&lt;/p&gt;
+&lt;h3&gt;주요 컴포넌트&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 956px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 49.21875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAAAsTAAALEwEAmpwYAAABmUlEQVQoz1XR26qjMBSAYd//pUoplIIgSAu6MdY0UWOONp5tTdZmlIGZ7yI3ISTrT+B3zjnvPQBM05TnudbaGHOsjLEsy9Z1PXaHYViWpe/7aZoCIQT/yzlHKSWEdLv3+22tHccRY4wQcs4ppSilCKG2bTHGAee8LEutNSEkz/PT6ZSmaV3XVVUhhKqqIoQURXE+n4uiEEJQSqMoGoYhDMPAGKOUEjuMcZIk27YppcqyzPO8aZq+77dtwxgTQowxnHO5o5QG0zSN47iuqzEGY/z5fLz31lpjDCGk7/uu6wBgXdfn8+mcg38EAHCk6rqOMQYA3++XMUYpfTwezQ4Ajsu3bfvvsJSyaRqzwxi3bQsA4zgeFYZhWNfVe1/XdZZl1lopJedca62UCqqqiuN4HMeyLOM4vt1uVVUxxjjnr9frmI1SerlckiQ5Zj6CpWkaFEURhqG1tq5ra+3Pz0/TNIyxIz4hRAhBCImiaJ7nI+T1erXWJkny59lCCCnlPM8AwDlHCAGA23nvl2W53+9Htq7rjn+RUmqtfwEXtSbPgBfoNQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hexagonal architecture components&quot;
+        title=&quot;hexagonal architecture components&quot;
+        src=&quot;/static/76468b1f592a930edfe1301041d10ad9/7b1dc/6.png&quot;
+        srcset=&quot;/static/76468b1f592a930edfe1301041d10ad9/6f3f2/6.png 256w,
+/static/76468b1f592a930edfe1301041d10ad9/01e7c/6.png 512w,
+/static/76468b1f592a930edfe1301041d10ad9/7b1dc/6.png 956w&quot;
+        sizes=&quot;(max-width: 956px) 100vw, 956px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;Adapter&lt;/h4&gt;
+&lt;p&gt;포트를 통해 인프라와 실제로 연결하는 부분을 담당하는 구현체를 의미합니다. Adapter는 크게 두 종류로 구분됩니다.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Driving Adapter(Primary Adapter)&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;사용자의 요청을 받아들일 때 사용되는 Adapter&lt;/li&gt;
+&lt;li&gt;예시: AWS Lambda의 Handler, WebApplication의 Controller&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;Driven Adapter(Secondary Adapter)&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;도메인 모델의 처리에 사용되는 Adapter&lt;/li&gt;
+&lt;li&gt;예시: MessageQueue, Persistence Adapter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Port&lt;/h4&gt;
+&lt;p&gt;서비스(또는 usecase)에 어댑터에 대한 명세(specification)만을 제공하는 계층을 의미합니다. 단순히 인터페이스 정의만 존재하며, DI를 위해 사용됩니다.&lt;/p&gt;
+&lt;h4&gt;Application Service(usecase)&lt;/h4&gt;
+&lt;p&gt;어댑터를 주입 받아 도메인 모델과 어댑터를 적절히 오케스트레이션하는 계층을 의미합니다. 예를들어 게시글 작성이라는 usecase는 그에 필요한 Adapter를 주입받고 게시글 도메인 모델을 적절히 제어하는 로직을 지닙니다.&lt;/p&gt;
+&lt;h4&gt;Domain Model&lt;/h4&gt;
+&lt;p&gt;DDD의 도메인 모델과 동일한 개념을 지닌 계층입니다. 비즈니스 로직이라 부르는 엔티티에 대한 변경은 모두 해당 계층에서만 실행됩니다.&lt;/p&gt;
+&lt;p&gt;원칙적으로는 어떠한 의존성도 없어야 하지만 Entity를 만들 때 Database에 적재되어 있는 데이터를 참고해야하는 경우와 같은 상황에서는 Port를 이용해 Adapter를 주입받아서 사용할 수 있다는 예외사항이 존재하기도 합니다. 이는 클린 아키텍처와 동일합니다.&lt;/p&gt;
+&lt;h2&gt;Why DDD, Clean Architecture and Hexagonal ?&lt;/h2&gt;
+&lt;p&gt;그래서 DDD, Clean Architecture, Hexagonal Architecture에서 중요한건 뭘까요? 바로 &lt;code&gt;명확한 관심사의 분리&lt;/code&gt; 입니다.&lt;/p&gt;
+&lt;p&gt;외부와의 연결에 문제가 생기면 &lt;code&gt;Adapter&lt;/code&gt;를 확인하면 될 것이고, 인터페이스의 정의를 변경하고자 한다면 &lt;code&gt;Port&lt;/code&gt;를 확인하면 됩니다. 처리 중간에 Custom Metric 측정을 위해 Event Bridge에 이벤트를 보내거나 트레이스를 로그를 심고 싶다면 &lt;code&gt;Service(usecase)&lt;/code&gt;를 확인하면 됩니다.&lt;/p&gt;
+&lt;p&gt;마지막으로 비즈니스 로직이 제대로 동작하지 않는다면 Domain Model만 확인하면 되는 것이지요.&lt;/p&gt;
+&lt;p&gt;이러한 구조는 결국 쉬운 테스트를 가능하게 해주기도 합니다. 본인의 역할을 수행하기 위해 필요한 Port만 모킹하여 테스트를 쉽게 수행할 수 있습니다.&lt;/p&gt;
+&lt;h2&gt;Is Hexagonal Superior to MVC?&lt;/h2&gt;
+&lt;p&gt;꼭 그렇다고만은 볼 수 없습니다. 아키텍처란 코드를 표현하는 방법 중 하나일뿐 그 자체로 우월성을 가질수는 없습니다. 도메인이 외부에 닫힌 정도에 따라서 MVC와 같은 단순한 구조가 더 좋을 수도 있습니다.&lt;/p&gt;
+&lt;p&gt;더욱 중요한 것은 깨진 창문을 만들지 않거나, 만들더라도 빨리 고치는 것입니다. 헥사고날에서 발생하는 가장 대표적인 깨진 창문을 하나 언급하고 싶습니다.&lt;/p&gt;
+&lt;p&gt;네이밍이 모호한 포트는 구현체의 의존성을 과도하게 많거나 적게 만듭니다. 포트의 이름이 너무 범용적일 경우에는 이런저런 외부 네트워크 콜이 구현체 로직에 포함되게 되는데 외부 의존성이 늘어날수록 코드의 로직은 깨지기 쉽고 유지보수하기 어려워집니다.&lt;/p&gt;
+&lt;p&gt;코드의 로직이 뚱뚱해지면서 선뜻 건들기 어려워진 코드가 탄생할 것이고 이는 결국 생산성 저하로 이어지게 됩니다. 반대로 포트의 이름이 너무 지엽적일 경우에는 보일러플레이트의 양이 과도하게 많아지게 됩니다. 의존성이 적다는 점에서 SRP를 그나마 잘 구현했다고 느낄 수 있겠지만, 현실 세계의 개발에서는 개발 속도 또한 무시할 수 없고, 지나치게 많은 코드는 서비스의 오류지점과 유지보수 비용을 늘린다는 점에서 생산성의 저하로 이어지게 됩니다.&lt;/p&gt;
+&lt;p&gt;도메인에 따라서 MVC로 작성한 코드가 거대한 레거시 덩어리로 느껴질 수도 있습니다. 하지만 그럼에도 불구하고 아키텍처 그 자체보다는 코드가 지니는 가치와 생산성에 집중해야만 합니다. 방식이 다를 뿐, 틀린 것은 아닙니다. 이를 얼마나 잘 타협하면서 의존성의 크기를 잘 조절하는지도 정말 중요합니다.&lt;/p&gt;
+&lt;h2&gt;Appendix&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html&quot; target=&quot;_blank&quot;&gt;&lt;a href=&quot;https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html&quot;&gt;https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Gummybearr/random-kata/tree/main/kotlin/simple-hexagonal&quot; target=&quot;_blank&quot;&gt;&lt;a href=&quot;https://github.com/Gummybearr/random-kata/tree/main/kotlin/simple-hexagonal&quot;&gt;https://github.com/Gummybearr/random-kata/tree/main/kotlin/simple-hexagonal&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/thombergs/buckpal&quot; target=&quot;_blank&quot;&gt;&lt;a href=&quot;https://github.com/thombergs/buckpal&quot;&gt;https://github.com/thombergs/buckpal&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;</content:encoded></item></channel></rss>
