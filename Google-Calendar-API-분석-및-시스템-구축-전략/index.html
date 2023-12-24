@@ -1,0 +1,304 @@
+<!DOCTYPE html><html><head><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, minimal-ui"/><meta name="generator" content="Gatsby 4.4.0"/><link rel="preconnect" href="https://www.google-analytics.com"/><link rel="dns-prefetch" href="https://www.google-analytics.com"/><title data-react-helmet="true">Google Calendar API 분석 및 시스템 구축 전략 · Theo</title><meta data-react-helmet="true" name="description" content="Workspace for Theo"/><meta data-react-helmet="true" name="image" content="https://dataportal.kr/static/f7168b4af40bd309f3c943fd80f51793/1.png"/><meta data-react-helmet="true" property="og:url" content="https://dataportal.kr/Google-Calendar-API-분석-및-시스템-구축-전략/"/><meta data-react-helmet="true" property="og:type" content="article"/><meta data-react-helmet="true" property="og:title" content="Google Calendar API 분석 및 시스템 구축 전략"/><meta data-react-helmet="true" property="og:description" content="Workspace for Theo"/><meta data-react-helmet="true" property="og:image" content="https://dataportal.kr/static/f7168b4af40bd309f3c943fd80f51793/1.png"/><meta data-react-helmet="true" name="twitter:card" content="summary_large_image"/><meta data-react-helmet="true" name="twitter:title" content="Google Calendar API 분석 및 시스템 구축 전략"/><meta data-react-helmet="true" name="twitter:description" content="Workspace for Theo"/><meta data-react-helmet="true" name="twitter:image" content="https://dataportal.kr/static/f7168b4af40bd309f3c943fd80f51793/1.png"/><meta data-react-helmet="true" name="google-site-verification" content="wPI09aIL9InuxJwKlMkLE-4mzzfbNhQqRCJ760C-8nQ"/><link rel="sitemap" type="application/xml" href="/sitemap/sitemap-index.xml"/><link rel="icon" href="/favicon-32x32.png?v=76ba753dba9d48034fbdc639b72976fb" type="image/png"/><link rel="manifest" href="/manifest.webmanifest" crossorigin="anonymous"/><link rel="apple-touch-icon" sizes="36x36" href="/favicons/android-icon-36x36.png?v=76ba753dba9d48034fbdc639b72976fb"/><link rel="apple-touch-icon" sizes="48x48" href="/favicons/android-icon-48x48.png?v=76ba753dba9d48034fbdc639b72976fb"/><link rel="apple-touch-icon" sizes="72x72" href="/favicons/android-icon-72x72.png?v=76ba753dba9d48034fbdc639b72976fb"/><link rel="apple-touch-icon" sizes="96x96" href="/favicons/android-icon-96x96.png?v=76ba753dba9d48034fbdc639b72976fb"/><link rel="apple-touch-icon" sizes="144x144" href="/favicons/android-icon-144x144.png?v=76ba753dba9d48034fbdc639b72976fb"/><link rel="apple-touch-icon" sizes="192x192" href="/favicons/android-icon-192x192.png?v=76ba753dba9d48034fbdc639b72976fb"/><link as="script" rel="preload" href="/webpack-runtime-3703e87f9e8311e85ac5.js"/><link as="script" rel="preload" href="/framework-96f35882fb1b7fa32ef9.js"/><link as="script" rel="preload" href="/b633362c-19fe4063ce94bfeeb084.js"/><link as="script" rel="preload" href="/63a121f2-8e2a96e84c6b7ab4c577.js"/><link as="script" rel="preload" href="/f3fee096-eaf793d56c78739d9715.js"/><link as="script" rel="preload" href="/3e15977f-c439a5f24926c273d767.js"/><link as="script" rel="preload" href="/aec3edcd-0a849c7a1e5639e87b70.js"/><link as="script" rel="preload" href="/2425c7c2-8ea9f6281ab320d9125d.js"/><link as="script" rel="preload" href="/d0007318-01caf6bd558d3f79fb6c.js"/><link as="script" rel="preload" href="/cc76255b-fbeb6e91190b1eab4664.js"/><link as="script" rel="preload" href="/1593e758-d050b1143bbe6a481eaf.js"/><link as="script" rel="preload" href="/48aa8186-67735c86ae4015d55662.js"/><link as="script" rel="preload" href="/app-fb5ac7ec959d01ad11b4.js"/><link as="script" rel="preload" href="/386142cf738b86b246078cd67abf8098b07f27c7-18c18209468ec8dd2984.js"/><link as="script" rel="preload" href="/component---src-template-post-tsx-e2676f0d4921cbcd207c.js"/><link as="fetch" rel="preload" href="/page-data/Google-Calendar-API-분석-및-시스템-구축-전략/page-data.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/sq/d/2580406332.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/sq/d/3810308631.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/app-data.json" crossorigin="anonymous"/></head><body><div id="___gatsby"><style data-emotion="css-global 1dk93ao">@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');:root{--font-family:'Pretendard',-apple-system,BlinkMacSystemFont,'Segoe UI','Roboto','Oxygen','Ubuntu','Cantarell','Fira Sans','Droid Sans','Helvetica Neue',sans-serif;--code-font-family:Menlo,'DM Mono','Roboto Mono',Courier New,monospace;--scrollbar-background:#1e1e1e;--scrollbar-thumb:#666;--scrollbar-thumb-highlight:#ff6600;}html{font-size:16px;height:100%;overflow-x:hidden;overflow-y:scroll;-webkit-overflow-scrolling:touch;scrollbar-width:8px;scrollbar-color:var(--scrollbar-thumb-highlight) var(--scrollbar-background);}@media screen and (max-width: 1024px){html{font-size:14px;}}html::-webkit-scrollbar{background:var(--scrollbar-background);height:8px;width:8px;}html::-webkit-scrollbar-thumb{background:var(--scrollbar-thumb-highlight);border-radius:0;}html,body{font-family:var(--font-family)!important;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;font-size:1rem;}div,article,section{box-sizing:border-box;}html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:1rem;font:inherit;vertical-align:baseline;}label,input,button,a{-webkit-tap-highlight-color:transparent;}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}body{line-height:1;}ol,ul{list-style:none;}blockquote,q{quotes:none;}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}table{border-collapse:collapse;border-spacing:0;}string{font-weight:600!important;}</style><style data-emotion="css pyz3l8">.css-pyz3l8{-webkit-transition:opacity 0.2s ease;transition:opacity 0.2s ease;opacity:0;}</style><div class="css-pyz3l8 e1l8l1ek0"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><div><style data-emotion="css 1azakc">.css-1azakc{text-align:center;}</style><header class="css-1azakc ebd5ed87"><style data-emotion="css 1j1kikd">.css-1j1kikd{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:start;-ms-flex-pack:start;-webkit-justify-content:flex-start;justify-content:flex-start;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;max-width:900px;padding:2rem;margin-left:auto;margin-right:auto;}@media screen and (max-width: 1024px){.css-1j1kikd{padding:1.5rem 1rem;}}</style><div class="css-1j1kikd ebd5ed86"><style data-emotion="css 1cdt2kf">.css-1cdt2kf{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:start;-ms-flex-pack:start;-webkit-justify-content:flex-start;justify-content:flex-start;-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;width:100%;padding:0 1.5rem;}.css-1cdt2kf>h1{text-align:left;}</style><div class="css-1cdt2kf ebd5ed81"><style data-emotion="css 1gw8sdl">.css-1gw8sdl{color:inherit;font-size:2.5rem;line-height:1.5;font-weight:800;}white-space:nowrap;strong,bold{font-weight:800;}</style><h1 size="40" class="css-1gw8sdl e90umb21">Google Calendar API 분석 및 시스템 구축 전략</h1><style data-emotion="css 1ixtmro">.css-1ixtmro{margin-left:calc(1.5rem - 1px);margin-top:calc(1.5rem - 1px);width:1px;height:1px;min-width:1px;min-height:1px;}</style><span x="1" y="1" class="css-1ixtmro eier2yy0"></span><style data-emotion="css lc9od6">.css-lc9od6{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;position:relative;min-width:1px;max-width:100%;-webkit-box-pack:start;-ms-flex-pack:start;-webkit-justify-content:flex-start;justify-content:flex-start;-webkit-align-items:stretch;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;-webkit-flex-basis:auto;-ms-flex-preferred-size:auto;flex-basis:auto;box-sizing:border-box;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;}.css-lc9od6>*:not(:first-of-type){margin-left:calc(0.5 * 1rem);}</style><div wrap="wrap" class="css-lc9od6 e3kmpgj0"><style data-emotion="css 9xks5q">.css-9xks5q{display:inline-block;vertical-align:middle;border-radius:16px;font-weight:500;line-height:1;cursor:inherit;font-feature-settings:tnum;font-variant:tabular-nums;text-transform:capitalize;white-space:nowrap;background:#000;color:#ffffff;border:1px solid #000;padding:3px 10px;font-size:1rem;}</style><span type="primary" class="css-9xks5q esdtm5u0">#<!-- -->아키텍처</span><span type="primary" class="css-9xks5q esdtm5u0">#<!-- -->개발</span></div><span x="1" y="1" class="css-1ixtmro eier2yy0"></span><style data-emotion="css 715507">.css-715507{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;}@media screen and (max-width: 1024px){.css-715507{-webkit-flex-direction:column-reverse;-ms-flex-direction:column-reverse;flex-direction:column-reverse;-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;}}</style><div class="css-715507 ebd5ed85"><style data-emotion="css 1u6n871">.css-1u6n871{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;}</style><div class="css-1u6n871 ebd5ed84"><style data-emotion="css zdebxm">.css-zdebxm{color:inherit;font-size:1rem;line-height:1.5;}white-space:nowrap;strong,bold{font-weight:800;}</style><span size="16" class="css-zdebxm e90umb21">Written by <a href="/">Theo</a></span><style data-emotion="css 69wa56">.css-69wa56{margin-left:calc(1.5rem - 1px);margin-top:calc(0.375rem - 1px);width:1px;height:1px;min-width:1px;min-height:1px;}</style><span x="1" y="0.25" class="css-69wa56 eier2yy0"></span><style data-emotion="css 4f3fw3">.css-4f3fw3{color:inherit;font-size:0.875rem;line-height:1.5;}white-space:nowrap;strong,bold{font-weight:800;}</style><span size="14" class="css-4f3fw3 e90umb21">2022년 11월 20일<!-- --> · <!-- -->4<!-- --> min read</span></div><style data-emotion="css 1yvy03y">.css-1yvy03y{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:0.5rem;margin-bottom:1.5rem;}</style><div class="css-1yvy03y ebd5ed83"><style data-emotion="css 18zu07s">.css-18zu07s{position:relative;}.css-18zu07s:hover>div:last-of-type{opacity:1;}</style><div class="css-18zu07s edg2uau2"><style data-emotion="css cssveg">.css-cssveg{position:relative;}</style><div class="css-cssveg edg2uau1"><style data-emotion="css 7a8mbj">.css-7a8mbj{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:30px;height:30px;outline:none;border:none;border-radius:15px;cursor:pointer;padding:0;background:#000;color:#ffffff;}</style><button style="margin-left:-0.5rem" class="css-7a8mbj ebd5ed82"><svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" shape-rendering="geometricPrecision"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path></svg></button></div></div><div class="css-18zu07s edg2uau2"><div class="css-cssveg edg2uau1"><button class="css-7a8mbj ebd5ed82"><svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none" shape-rendering="geometricPrecision"><path d="M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71"></path></svg></button></div></div></div></div></div><span x="1" y="1" class="css-1ixtmro eier2yy0"></span><style data-emotion="css 1d3w5wq">.css-1d3w5wq{width:100%;}</style><div class="css-1d3w5wq ebd5ed80"><style data-emotion="css a1pnd7">.css-a1pnd7{text-align:left;border-top:1px solid #EAEAEA;border-bottom:1px solid #EAEAEA;padding:1.5rem;box-shadow:0 5px 10px rgba(0, 0, 0, 0.12);border-radius:5px;border:none;}</style><div class="css-a1pnd7 eeeg8gf6"><style data-emotion="css b54kzr">.css-b54kzr{font-weight:600;font-size:1.25rem;-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto;margin-top:0;margin-bottom:0;}</style><h3 class="css-b54kzr eeeg8gf5"><style data-emotion="css 16yxw0r">.css-16yxw0r{width:100%;margin-bottom:0;margin-top:0;border:unset;background:unset;padding:unset;margin:unset;font:unset;text-align:unset;-webkit-appearance:unset;-moz-appearance:unset;-ms-appearance:unset;appearance:unset;}</style><button class="css-16yxw0r eeeg8gf3"><style data-emotion="css ml2823">.css-ml2823{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;cursor:pointer;vertical-align:baseline;padding:1.5rem 0;color:#000;}</style><span class="css-ml2823 eeeg8gf2">시스템 구축 전략<style data-emotion="css mzobh8">.css-mzobh8{-webkit-transition:-webkit-transform 0.2s ease;transition:transform 0.2s ease;-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg);}</style><span class="css-mzobh8 eeeg8gf1"><svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none" shape-rendering="geometricPrecision"><path d="M18 15l-6-6-6 6"></path></svg></span></span></button><style data-emotion="css 153tcrd">.css-153tcrd{font-size:0.75rem;font-weight:400;letter-spacing:normal;margin-bottom:0;display:block;color:#666;}</style><span class="css-153tcrd eeeg8gf4">시리즈의 글 (1개)</span></h3><style data-emotion="css 10lbtih">.css-10lbtih{font-size:1rem;line-height:26px;overflow-y:hidden;will-change:height;-webkit-transition:height 0.2s ease;transition:height 0.2s ease;}.css-10lbtih>div{margin:1rem 0;}</style><div class="css-10lbtih eeeg8gf0"><div><style data-emotion="css 6z6c3m">.css-6z6c3m{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;position:relative;min-width:1px;max-width:100%;-webkit-box-pack:start;-ms-flex-pack:start;-webkit-justify-content:flex-start;justify-content:flex-start;-webkit-align-items:stretch;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;-webkit-flex-basis:auto;-ms-flex-preferred-size:auto;flex-basis:auto;box-sizing:border-box;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;}.css-6z6c3m>section,.css-6z6c3m>div,.css-6z6c3m>article,.css-6z6c3m>header,.css-6z6c3m>footer{gap:calc(1 * 1rem);}.css-6z6c3m:last-of-type{margin-bottom:0;}</style><div class="css-6z6c3m e3kmpgj0"><style data-emotion="css 1o02nna">.css-1o02nna{padding-left:1.5rem;box-sizing:border-box;line-height:1.6;list-style:decimal;}</style><ol class="css-1o02nna e1k9d3a01"><style data-emotion="css 1it5vf">.css-1it5vf{margin-bottom:0.5rem;}.css-1it5vf::marker{font-weight:600;color:#FF6600;}.css-1it5vf::after{content:'- 4분';margin-left:0.2rem;font-size:0.8rem;}.css-1it5vf>span{cursor:pointer;border-bottom:2px solid #FF6600;font-weight:600;-webkit-text-decoration:none;text-decoration:none;color:#000;-webkit-transition:all 0.1s ease-out;transition:all 0.1s ease-out;}.css-1it5vf>span:hover{background:#FF6600;border-top:2px solid #FF6600;color:#ffffff;}</style><li class="css-1it5vf e1k9d3a00"><span>Google Calendar API 분석 및 시스템 구축 전략</span></li></ol></div></div></div></div></div></div></header><div><style data-emotion="css 1c0mg4f">.css-1c0mg4f{width:100%;max-width:900px;padding:2rem;margin-left:auto;margin-right:auto;width:calc(100vw - 400px);}@media screen and (max-width: 1024px){.css-1c0mg4f{padding:1rem;}}@media screen and (max-width: 1308px){.css-1c0mg4f{width:calc(100vw - 408px);}}@media screen and (max-width: 1024px){.css-1c0mg4f{width:calc(100vw - 8px);}}.css-1c0mg4f p>img{width:100%;}.css-1c0mg4f p{color:#111;font-weight:400;line-height:1.6;letter-spacing:-0.02rem;}.css-1c0mg4f p,.css-1c0mg4f table,.css-1c0mg4f ul,.css-1c0mg4f blockquote,.css-1c0mg4f ol{font-size:1rem;margin:0 0 2rem;}.css-1c0mg4f center{color:#666;font-size:0.8rem;font-weight:400;line-height:1.5;letter-spacing:-0.02rem;margin:0 0 2rem;}.css-1c0mg4f p+center,.css-1c0mg4f iframe+center{margin-top:-1rem;}.css-1c0mg4f h1,.css-1c0mg4f h2,.css-1c0mg4f h3,.css-1c0mg4f h4,.css-1c0mg4f h5{position:relative;color:#000;line-height:1.2;scroll-margin-top:60px;letter-spacing:-0.02rem;font-weight:600;background:none;}.css-1c0mg4f h1>a,.css-1c0mg4f h2>a,.css-1c0mg4f h3>a,.css-1c0mg4f h4>a,.css-1c0mg4f h5>a{color:#000;opacity:0;border:none;position:absolute;top:50%;left:0;-webkit-transform:translate(-100%, -50%);-moz-transform:translate(-100%, -50%);-ms-transform:translate(-100%, -50%);transform:translate(-100%, -50%);padding-right:4px;}.css-1c0mg4f h1:hover>a,.css-1c0mg4f h2:hover>a,.css-1c0mg4f h3:hover>a,.css-1c0mg4f h4:hover>a,.css-1c0mg4f h5:hover>a{color:#000;background:none;border:none;opacity:1;}.css-1c0mg4f h2:not(:first-of-type),.css-1c0mg4f h3:not(:first-of-type),.css-1c0mg4f h4:not(:first-of-type){margin-top:3rem;}.css-1c0mg4f h1,.css-1c0mg4f h2,.css-1c0mg4f h3,.css-1c0mg4f h4,.css-1c0mg4f h5{margin:0 0 1.25rem;}.css-1c0mg4f h1,.css-1c0mg4f h2{font-size:1.8rem;-webkit-filter:brightness(1);filter:brightness(1);}.css-1c0mg4f h3{font-size:1.4rem;-webkit-filter:brightness(1.3);filter:brightness(1.3);}.css-1c0mg4f h4{-webkit-filter:brightness(1.5);filter:brightness(1.5);font-size:1.1rem;padding-bottom:0.25rem;text-transform:uppercase;}.css-1c0mg4f ul,.css-1c0mg4f ol{padding-left:1.5rem;box-sizing:border-box;line-height:1.6;}.css-1c0mg4f ul ul,.css-1c0mg4f ol ul{margin-top:8px;}.css-1c0mg4f ul ul,.css-1c0mg4f ol ul,.css-1c0mg4f ul ol,.css-1c0mg4f ol ol{margin-bottom:0;}.css-1c0mg4f ul{list-style:disc;}.css-1c0mg4f ol{list-style:decimal;}.css-1c0mg4f ul li{margin-bottom:0.5rem;}.css-1c0mg4f ul li::marker{font-weight:600;color:#FF6600;}.css-1c0mg4f ol li{margin-bottom:0.5rem;}.css-1c0mg4f ol li::marker{font-weight:600;color:#FF6600;}.css-1c0mg4f li>a{white-space:inherit;word-wrap:break-word;}.css-1c0mg4f li{color:#000;}.css-1c0mg4f li code{font-weight:600;color:#FF6600;white-space:inherit;}.css-1c0mg4f li code * span{white-space:inherit;}.css-1c0mg4f li code * span:not([class='grvsc-source']){padding-left:0!important;}.css-1c0mg4f iframe{margin-bottom:2rem;}.css-1c0mg4f div[class*='markdown-wrapper']{font-size:0.9rem;-webkit-text-size-adjust:none;-moz-text-size-adjust:none;-ms-text-size-adjust:none;text-size-adjust:none;margin:1rem -1rem;overflow-x:auto;overflow-y:hidden;box-sizing:border-box;background-color:var(--scrollbar-background);padding-left:2rem;scrollbar-width:8px;scrollbar-color:var(--scrollbar-thumb) var(--scrollbar-background);}.css-1c0mg4f div[class*='markdown-wrapper']::-webkit-scrollbar{background:var(--scrollbar-background);height:8px;width:8px;}.css-1c0mg4f div[class*='markdown-wrapper']::-webkit-scrollbar-thumb{background:var(--scrollbar-thumb);border-radius:0;}@media screen and (min-width: 1350px){.css-1c0mg4f div[class*='markdown-wrapper']{margin-left:-3.5rem;margin-right:-3.5rem;margin-bottom:2rem;}}@media screen and (max-width: 1024px){.css-1c0mg4f div[class*='markdown-wrapper']{padding-left:1rem;}}.css-1c0mg4f pre{border-radius:0;float:left;margin-bottom:0;margin-top:0;min-width:calc(100% + 1rem);padding:1rem 1rem 1rem 0;-webkit-font-smoothing:subpixel-antialiased;overflow:initial;white-space:pre;font-family:var(--code-font-family);word-wrap:normal;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none;line-height:1.5;tab-size:2;word-break:normal;word-spacing:normal;}.css-1c0mg4f pre>code{font-weight:600;color:#FF6600;white-space:inherit;}.css-1c0mg4f pre>code * span{white-space:inherit;}.css-1c0mg4f pre>code * span:not([class='grvsc-source']){padding-left:0!important;}.css-1c0mg4f p>code{font-weight:600;color:#FF6600;white-space:inherit;}.css-1c0mg4f p>code * span{white-space:inherit;}.css-1c0mg4f p>code * span:not([class='grvsc-source']){padding-left:0!important;}.css-1c0mg4f img[class='gatsby-resp-image-image']{box-shadow:none!important;}.css-1c0mg4f img[class='gatsby-resp-image-image'][alt]:after{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:absolute;top:0;left:0;width:100%;height:100%;background:#ffffff;font-weight:200;content:'이미지를 표시할 수 없어요. :(';}.css-1c0mg4f blockquote{background:#EAEAEA;margin:0 -1rem;margin-bottom:2rem;padding:1rem 1rem;border-left:6px solid #FF6600;}.css-1c0mg4f blockquote>p{margin-bottom:0;}@media screen and (min-width: 1350px){.css-1c0mg4f blockquote{margin-left:-3.5rem;margin-right:-3.5rem;}}@media screen and (max-width: 1024px){.css-1c0mg4f blockquote{padding-left:1rem;}}</style><section class="css-1c0mg4f e17f2jor0"><p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAACT0lEQVQoz5VSXUiTYRQ+H0YkdWFBRrsIJO2bMy1/2IYM89NtpKlZImrqmd93Ns8gnYgZjZET+TaThkaZeCMEFSkVdNNFQRAUdBX93HSjw8C6sbBa9nP1xrfMTbyxAw/n5Xnf9+HwPAcUPQH/4Iz+gJLgR9jnew1y/zzspZewn99CR5cKQgjYUil64qCiJwoVPVFQHf1psYXeF+b3PJX50g2JO5uldm9AQmLYKgzBJUVPCAOu0VVRdGFZZHbNf97tXTBVqNcgQKeNh+miUhLaWk/nNZZAiXw3xGbd0U+t8pA4MT4dnnx0s0I8nnWZGlr6clVft2XtQwYS71gX0NaFdqVzoOhfhRJZCdaNLSjZQVH37kFxWDyHLzPRytr6toFKv181IfFhJK5G4pNIXILEViR2IPEhJFaR+BgSFyFxOTgjQrhGxMWGIVEF7cI8/9DeL57B7+kR16malsEyH1MOahxD4ggSTyDxJBJ7UOM+JO5DjXuReAqJryOxG/KHY6LoyvlX5XfrJ0z32y5Px2wvfoVNi+IbZDZ1BgpUb3cxalyIxLlIfAC15LRZSP4sJM5D4gKk5L1sWAJ7QvKTvMnKuH2uedFyr+lDr177RkgVZqHkgl0LgmejX6mztsnLvynrw0I6Ojaw3XYLM87oLdsEWCC+sx7idESq0s5JHu+GRFPJaqlk03nI6XGAedwN1jutUDvVCMb6LrmtUvy4DVYdpbDsLEubwJ/snV4/dPj8m3bQ4CA7ZAX5qhvsc81QersJnDONACtnAcQg9I7WwP/WHxISJN9i6G8/AAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="logo"
+        title="logo"
+        src="/static/f7168b4af40bd309f3c943fd80f51793/2bef9/1.png"
+        srcset="/static/f7168b4af40bd309f3c943fd80f51793/6f3f2/1.png 256w,
+/static/f7168b4af40bd309f3c943fd80f51793/01e7c/1.png 512w,
+/static/f7168b4af40bd309f3c943fd80f51793/2bef9/1.png 1024w,
+/static/f7168b4af40bd309f3c943fd80f51793/21b4d/1.png 1280w"
+        sizes="(max-width: 1024px) 100vw, 1024px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+        decoding="async"
+      />
+    </span></p>
+<h2>들어서며</h2>
+<p>구글 캘린더는 전 세계적으로 널리 사용되는 캘린더 애플리케이션입니다. 그러다 보니 캘린더를 읽고 새로운 이벤트를 작성하는 데 이용할 수 있는 RESTful API인 Google Calendar API가 함께 제공되고 있습니다.</p>
+<p>이번 글에서는 이러한 구글 캘린더 API의 주요 기능을 이해해보고, 관련된 시스템을 구축한다고 하였을 때 도움 될 만한 몇 가지 전략을 공유합니다.</p>
+<h2>유즈케이스</h2>
+<p>모든 팀원이 공통으로 가능한 시간을 찾아 회의 시간 후보를 제안하는 가상의 애플리케이션을 만든다고 생각해보겠습니다. 그러기 위해서는 모든 팀원이 각자의 구글 계정으로 로그인(OAuth)하고, 캘린더와 관련된 정보를 애플리케이션에 제공하겠다는 동의를 해야 합니다.</p>
+<p>그 후에는 회의 시간 후보를 추천 받고 싶을 때마다 버튼을 누르는 등 명령을 실행하여 애플리케이션에 요청을 보내게 될 것이고, 그 요청을 받은 애플리케이션은 연결된 구글 계정의 모든 캘린더 이벤트를 불러와 비어있는 시간을 찾는 과정을 거치게 됩니다.</p>
+<h2>List Calendars &#x26; Events API</h2>
+<p>이러한 유즈케이스를 실제로 적용하기 위해서는 캘린더의 목록을 조회하고, 해당 캘린더에 등록된 이벤트를 조회하거나 새롭게 추가하는 등 몇 가지 구글 캘린더 API를 사용해야만 합니다. 이를 조금 더 자세히 알아보겠습니다.</p>
+<h3>CalendarList: list</h3>
+<p><a href="https://developers.google.com/calendar/api/v3/reference/calendarList/list" target="_blank"><a href="https://developers.google.com/calendar/api/v3/reference/calendarList/list">https://developers.google.com/calendar/api/v3/reference/calendarList/list</a></a></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 879px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 193.75%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAnCAYAAAAPZ2gOAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEIklEQVRIx61WbXOyOhDl//+9++FOW0VQQUhIwqsKiOeZswGrbe1t57nMnEkIZLMvZ3cTKKWR5znG8QI+1+v1rxAURYEsy1CWJf6PJ+iOR5RlBedKHI8nj5NHdzcXzO/nvn9A3w84nc4oqwpB03YorIOxJXJVIDnkMua6wCFXMmZKI1Pv71XdfEALV9aw1iHoug51XaPv+7/2oZhsnUOuNJq2lcAMw4hhnDH8B8bHkfuDfZLh5S1EGO0QRlvskgz/vqwQbfdQhUOmDXJtZ9zPH3FQRswOkvSAt3WI3T5BFG9hXfWFjzzqukFZ1aiq2o/L+zweT2cfFOtKjOOItutQ1bXQKE0PSJIEaZpiv09wOBxkbq0Vn1NoPR/SNA2qqpI4BG3bwVgngtruiK47wjknEeNIOvFngu8cFwGVCK7kAK4JsT8Sc5om0aIwBgwYNefa5XJ5wFePCPwq/Dw5zXKJvjEWSilJT7pCxjwXbYdh+ES14F768tDBhbFwJLwxYHpqrWVOV5zPZxG2aPog0HNokBfyiD8xFalZIcKMCFtwOp2emuuLg7FID7nkJKPtyko0WgQVs4b0KzVkvlIoM4xo2xbncy9+JgJGONrtwSKhKWQRNFch+o/QugBLnVLedJrti8nxwZdB3bRSHC7TBM6ZghTohWhoCmZRkLrphYtfjRG3mDu38JBgmq6i6hIUmr7ZbATrMEQcbxGGm3ktQhzHiKIIq9VKxjAM5RvXaf6nKFNgvN0iimOsww3CTSTzMIqxmufUdCE7CzNBGkmmfCw/XNxwc7jBIcvlZztnjtKFmEqz6WMjZvugkRlkzCeB537AW5Ritdni5eUVr69vWK3Wgt1uL/6iACE7A2S9ZgsnxeTrHY9Y11zVCrlJlcUcavgs5RaXTYwyN1Bt+uOnz7ddj4LIMZrx7uR3h0vtu3M8qfFt10vSTBpTYUsobT0KC134uS6cwDcpLd+MreT/BXzXphQeB0ob+ZEb0kxJmedcMH/jGlsqwZrZtI/wa5200oBVmgFgtLSxPhjO+kA4BmLEdbr8vNGzhFvpy9YXBWOhqx55OaCoB9h2gu2uKKwv8WSXFII5qjdMc1B8xegkySVSC41mjJcrxumK8XK5cfXbKDOp2YxIVJrP0nQ6HXE8duhvEb3+iDK+wA6DCKGGbDa+4bQy3rT+ze1rycVnlfjXxCZhldZC3KZtpATRr2yLnH8Etf42ygxILTeDuXnPDZzZIte8OXOctAefOb1c4RYMAtKO+wKp0KXnnzIGeeVRlG6u4N0nfHVNyXItB8pVZJVFWIcrROsQKsmQRykMbwnNkzsOg/YBt0xhc3pNYvwTh4jyHHZdwK4U6rr9cuMz8CDKEpNTZbHNSmSqhs4aWNc+1e47MNdFQ2LhYnfyF6b2V/B+5b4/aom/CBuG9xsAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="api list"
+        title="api list"
+        src="/static/42b7b73048cd3bfa900c5c9526d88d53/bcb8c/2.png"
+        srcset="/static/42b7b73048cd3bfa900c5c9526d88d53/6f3f2/2.png 256w,
+/static/42b7b73048cd3bfa900c5c9526d88d53/01e7c/2.png 512w,
+/static/42b7b73048cd3bfa900c5c9526d88d53/bcb8c/2.png 879w"
+        sizes="(max-width: 879px) 100vw, 879px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+        decoding="async"
+      />
+    </span></p>
+<center>캘린더 리스트 조회 API</center>
+<p>캘린더 리스트 조회 API는 단순히 Authorization 헤더에 인증 토큰을 넘겨 해당 계정에 등록된 캘린더의 목록을 조회하는 API입니다. 이를 통해 캘린더의 ID와 같은 정보를 얻어올 수 있으며, 캘린더 ID는 각 캘린더를 고유하게 식별하는 ID로 사용됩니다.</p>
+<h3>Events: list</h3>
+<p><a href="https://developers.google.com/calendar/api/v3/reference/events/list" target="_blank"><a href="https://developers.google.com/calendar/api/v3/reference/events/list">https://developers.google.com/calendar/api/v3/reference/events/list</a></a></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 75.390625%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsTAAALEwEAmpwYAAACB0lEQVQ4y6VTCY7bMAz0/7+3WPTYJD5ix5Ys+dLhS/YUpJMgu0VRoBUwEEXYw9GQivq+R5KmKMsK+76DFu3/imgcR1SVgNYNnHN30v0TOZ0/xfsLvqxonmcYY5iwbbtP1bZt+y3e9h0BB7Z7PmwblmUBcUXzskDUiiFVg1slUJQVQ0jFO+UqWaMoBcpKoskk2lhC5AKlrGGMhawVbmWFKIQN3o9wfoS1DoOxT5iX82vsegvXWZjhyNP/fpwQQjg81FozQljxvysi9rISjK4fuJL3Eyux1rPqtusPJePEN/kK+p52si8ikrf3H3j/9hOnS4pKapRS4+OcIL3eGG/v3xGnOUTdoBTqAH13j2+CvK7R9QaR8x6XJMUlTlErzSqs8zDWYzCOYxonYy2b/9VXYxzGaYZ1Iybq8hoClG4YZOpjTI4GGQzW45xJJIVCdr0hyzJcrzmSJEVRFEjTDE3T8tiwh38zmVSekwKqNVxUCAEpJZRS0EqjrhX7P03TQThNMyeV0jzcFNNV5nnBsqx81bY9FCzryrn5ETMC1jUcuWU9ukz+JdkVpws1Isc4Tmi6HrVuMAyGvaXBpWL6bo+8i3jm6drrioieD6mhCmQqJWk9VHR9j4/TGXGcIMuuSJLk6WMcx3xO05Rt+KOH+8ujp84SATUgz3PopgE9Bu9pRi3vznl+x0T4C1sLgrN9o8MPAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="event list 조회 API#1"
+        title="event list 조회 API#1"
+        src="/static/250da4dd5a34a4674b2e38b359898c0c/2bef9/3.png"
+        srcset="/static/250da4dd5a34a4674b2e38b359898c0c/6f3f2/3.png 256w,
+/static/250da4dd5a34a4674b2e38b359898c0c/01e7c/3.png 512w,
+/static/250da4dd5a34a4674b2e38b359898c0c/2bef9/3.png 1024w,
+/static/250da4dd5a34a4674b2e38b359898c0c/b94e3/3.png 1126w"
+        sizes="(max-width: 1024px) 100vw, 1024px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+        decoding="async"
+      />
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 137.5%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAcCAYAAABh2p9gAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC2ElEQVRIx51VaU/bQBD1//9llfqJioIQ0OA4tvc+fSbEr5oJZwmQ1NLzrvd4Ozszb1w45yGEhBACOWec8yzL8gFF13VwzsFaC2MMt0pr7tO41vpp3vGYfpoLIRw9pFDaYr1pYFyAth7GHtoPfRcYUluGMu5ljGEDQswopDIoq5o3CWUhlIE2HlK7d5tbqXmONj3Dv0VISLlHkbsezgdY59FKhboVcN5DGbq64TEfAnLXoev7b/1apNwxGZFKpZnABbqCg7ZkpYEPEbvdI+btlomppQDs9wv2yys4KClnGHL6GwutD2wdBUdIBWMtpFIIMTL5NM1HI8yEdGIIh4VkFRHHlNgvLmTYkBByD586jPMOC4D9fv854TiOoNRJKSHGyOlAcN0jbLfA9Qv8sMD3C2y/QLuEFOPneUjJTGREOgzDl0kMtg+fWseE5JuyLLGuKlYM+TQ/gQ6h62+322+JXgh3ux3meWbrCJQih+snJvc+nEdIVhD6fmBnn6Pbo4SkzaracHGYpok3fxXFbwn7vmfxG2PhvYeQkgsAFQMuFErxnFIaWh+KwzOOVaeCknQYRozjxKDvaZy5HcbxFcNrv3/TH8aJ5+qmgTYWRdcPkNbAeM+KaaxC6zSE1fAxIaZ8EkhRJN+CrClljev6Du1thc3lH/an8pYXktZPARUZsrwYxxlr1eCivMZ9XcJcVrA/Vggbi8QKOo2UDqdqVJDfGiNxWd3gQWzgrmronyt44f6DcDgQ1kbitlnhrn1A1dZQZQuvPRPGcwkpQiEm1FqgVDWXKVcqBOkOi88lJEem1KE1CitZwSkH96uCe1CvG9I5Fo4ThNFojEJrFSRF10aE2iLyf+I0K//xocDv6gY39T0q28KvFMzFGsGEkwPzjlBZj6tSoFlH6LKDd/kQkBNz8B0hvQz9d32GcwnOJISQT1bIMyiwlNzFNM+c4VRpxiewPt9q9SSMrP+/HrxquRAmvOcAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="event list 조회 API#2"
+        title="event list 조회 API#2"
+        src="/static/61a1fb3beaf75d6b3149ed171467a345/2bef9/4.png"
+        srcset="/static/61a1fb3beaf75d6b3149ed171467a345/6f3f2/4.png 256w,
+/static/61a1fb3beaf75d6b3149ed171467a345/01e7c/4.png 512w,
+/static/61a1fb3beaf75d6b3149ed171467a345/2bef9/4.png 1024w,
+/static/61a1fb3beaf75d6b3149ed171467a345/25260/4.png 1113w"
+        sizes="(max-width: 1024px) 100vw, 1024px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+        decoding="async"
+      />
+    </span></p>
+<p>이벤트 리스트 조회 API는 앞서 얻은 캘린더 ID를 이용해 해당 캘린더에 등록된 이벤트의 목록을 조회하는 API입니다. <code>2022년 11월 25일 19:00~21:00 &#x3C;sendtime x 500 global 네트워킹 파티></code> 같은 각 일정 정보를 이벤트라 부릅니다.</p>
+<h2>Strategy #1. Fetch every time</h2>
+<p>우리의 유즈케이스를 구현하는 방법은 정말 단순해 보입니다. 사용자가 요청할 때마다 팀원들의 모든 구글 캘린더를 조회하고, 그 캘린더의 이벤트를 모두 가져온 뒤 공통으로 빈 시간을 찾으면 될 것 같습니다. 하지만 이 방법에는 정말 큰 문제가 존재합니다.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 453px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 87.109375%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsTAAALEwEAmpwYAAABzElEQVQ4y2WUabKCQAyEuYyIG+IOsrgvVcj9j5NXX6qaN+iPlJDJdLo7wWi9XtvxeLT9fm/b7dbO57PleW73+90ul4ttNht/53w+n9tsNrPpdOrB8/d7VNe1Xa9Xu91uDlAUhTc4nU52OBzs8XhY0zRGHTXL5dJzXdd5gziOB8BRWZY9Gy7CkMu73c5Bq6ryoI7gjHepIScwZ/gNSMAYdmIJAJfFHBVYxb0fQCTgEQV0fT6ffnG1WvkvudFo1Md4PHaZiiRJerBeMt3pLImSBhMYy1dyEOCZfJqmAzBnyCESCZlPTqG8AOUtFqFKA1FEFL/fb/cDpgTTZF34xUOpgD11gAP2+Xzckslk8g8or9gzQoxgQB655GBHExrgOSsT7mUPiAQYUEQgR7sJoKYNOy04ecC/5ToghUjT6lDMRUC12DzTlHMGQbO2bW2xWPRyB18Kq0KRzCbwRl8OTTUY6gDXHmJZCBrBQoZTqOWWfK1OeE4OyZwDPPAwyzK/TAH+wFaseNbUYQIgFoghddz5kaw9DP8cAIK9JkzIQ5i9Xi8HCOW6ZC7rn4ZLmiideZdc6mCmBdcGsDoDyeFQYAUwZoudJs4zwFqncCgh4B/ZMjFkHvwlHQAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="poc result"
+        title="poc result"
+        src="/static/30b84bca66481d96ccf7576f31f97b38/2108e/5.png"
+        srcset="/static/30b84bca66481d96ccf7576f31f97b38/6f3f2/5.png 256w,
+/static/30b84bca66481d96ccf7576f31f97b38/2108e/5.png 453w"
+        sizes="(max-width: 453px) 100vw, 453px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+        decoding="async"
+      />
+    </span></p>
+<center>4개의 캘린더, 전체 49개의 이벤트를 얻어오는데 소요되는 시간</center>
+<p>캘린더 목록을 가져오고, 이벤트를 얻어오는 API가 아주 느리다는 부분입니다. 아무런 최적화 옵션이 없는 경우 각 캘린더의 이벤트 목록을 조회해오는데 500ms~1,000ms가 소요되며 gzip이나 optional field 같은 최적화 옵션을 적용하더라도 엄청나게 성능이 최적화되지는 않습니다.</p>
+<p>그나마 각 API 요청에서 발생하는 네트워크 I/O를 Nonblocking I/O로 풀어낸다면 약간의 성능상 이점을 얻을 수 있습니다. 하지만 서비스의 사용자가 요청할 때마다 구글 캘린더 API를 호출해야 하므로 부하가 심하다는 단점이 존재합니다.</p>
+<h2>Strategy #2. Fetch every cycle</h2>
+<p>앞선 방법의 문제는 사용자가 요청할 때마다 외부 API를 호출해야 하는데, 그 속도가 느리고 그때마다 네트워크 통신 비용이 발생한다는 데 있었습니다. 그렇다면 어떻게 개선해 볼 수 있을까요? 단순하게는 시스템이 백그라운드에서 주기적으로 캘린더 정보를 가져오고, 준실시간 수준으로 이벤트 정보를 갱신하는 방법이 있을 것 같습니다.</p>
+<p>예를 들어, 5분마다 서비스에 등록된 모든 구글 계정의 모든 캘린더의 이벤트 정보를 받아오는 방법입니다.</p>
+<p>음..🤔 벌써 불안합니다. 서비스에 1억 개의 구글 계정이 등록되어 있다면 어떻게 될까요? 5분 안에 모든 이벤트 정보를 가져올 수 있을까요? 5분마다 네트워크 통신 비용을 지불해야 하는 걸까요? 만약 5분 안에 모든 이벤트 정보를 가져올 수 있고, 네트워크 통신 비용도 지불할 수 있다면 모든 문제가 해결되는 걸까요?</p>
+<p>그렇지 않습니다. 사용자 입장에서 생각해보겠습니다. 이 구조에서는 구글 캘린더에서 일정 정보가 변경되었음에도 서비스는 아직 그 정보를 알지 못하는 상황이 발생할 수 있습니다. 그렇게 한번 오차가 발생하고, 오차가 누적되다 보면 사용자는 결국 서비스를 이탈하게 될 것입니다.</p>
+<h2>Strategy #3. Fetch every time with Sync Token</h2>
+<p><a href="https://developers.google.com/calendar/api/guides/sync?hl=en" target="_blank"><a href="https://developers.google.com/calendar/api/guides/sync?hl=en">https://developers.google.com/calendar/api/guides/sync?hl=en</a></a></p>
+<p>그럼 다시 매 요청마다 이벤트 정보를 가져오는 방법으로 돌아가 API 호출이 왜 오래 걸리는지 생각해보겠습니다. 일반적으로 API 호출이 오래걸리는 것은 네트워크가 느려서 일수도 있지만, 한번에 탐색하는 데이터의 양이 너무 많아서 그런 경우가 많습니다. 그리고 API Reference를 조금 더 자세히 살펴보면 syncToken이라는 필드가 존재하고 있음을 확인할 수 있습니다.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 83.59375000000001%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsTAAALEwEAmpwYAAABtElEQVQ4y52UiY6rMAxF+/8fOFD2JQEStgRSGKDtHcUzHaHqdXljyUoC4RD7xj5UsobSA6xdLhdcr1eY0wldrzDPM4QQKMoSVVWhrmsIWaOoBEohUVYVpJQQQqJtW/r2YCHW92ZfWJumCZ7n/bhP7rourY+eh48PB74f0Oj5/jdwD9n7Dei6R0RRjDCKEAQBkiQB5wXSLEOSpGCMQSmFYRjpYId70B74+bkgYxyMF2CcoygKDMOAcRxhzAnjaCg99tktyqdAm8MwDJGmKXhZEjzLGYqiJLh1zjnynMEY8xq4riuqSkBrjXeMcvgMaMPouh59r/Bo370fnr20pocRvKx+149EfAtoXWlN967Xmu6rGgYS4r+Bt5CtktM8E2Q0htSdpvnvJ+yVhmxaqpym62i0P3gU9ssctn2PnBfYtg3n8wXbdsb5p0T/BLQntDm0sH9dk9u+t4GKVBYU6r7O96rv509FsbWcxDHVb5J+166dZ1mONM0QxwmiOKZab5rmtcrmNMMJGbyIwXFcahQ0Ho9wbNfxA8qvUhrLsrxuDsu6QrYabT9QP2zalk4ibV8UkiK4ty8tfydjiTJlGAAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="이벤트 리스트 조회 API syncToken 필드"
+        title="이벤트 리스트 조회 API syncToken 필드"
+        src="/static/f6b6d958e9d9349b4767c132497856cf/2bef9/6.png"
+        srcset="/static/f6b6d958e9d9349b4767c132497856cf/6f3f2/6.png 256w,
+/static/f6b6d958e9d9349b4767c132497856cf/01e7c/6.png 512w,
+/static/f6b6d958e9d9349b4767c132497856cf/2bef9/6.png 1024w,
+/static/f6b6d958e9d9349b4767c132497856cf/cf4cc/6.png 1079w"
+        sizes="(max-width: 1024px) 100vw, 1024px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+        decoding="async"
+      />
+    </span></p>
+<center>이벤트 리스트 조회 API syncToken 필드</center>
+<p>이는 마지막으로 Sync한 시점으로부터 발생한 변경사항만 탐색하는 방법이라고 합니다.</p>
+<p>그래서 이를 적용해보았는데..... 생각보다 엄청나게 빨라지지는 않았습니다. 또한 결국에는 일정주기로 전체 탐색을 해야하는 구조로 되어 있어, 앞서 존재했던 매 요청마다 사용자가 대기해야한다는 문제는 근본적으로 해결할 수 없었습니다.</p>
+<h2>Strategy #4. Get push notifications</h2>
+<p><a href="https://developers.google.com/calendar/api/guides/push?hl=en" target="_blank"><a href="https://developers.google.com/calendar/api/guides/push?hl=en">https://developers.google.com/calendar/api/guides/push?hl=en</a></a></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 52.734375%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAABnUlEQVQoz5VS147bQAzU/3/gAXdW12q1vUmy4xLPgbQVBEjyEAEDFnDJGVKVXBbcHw/87/d8Pv+KynsPay3IOucYKSUYYxBj5HzwASEE9ilfSvnnoCrEhJQLclkRU34hZ6RSEHNBSIljgo8JRz3nUuZ367ajH0aklFHVbY9umNAOI+PU9hhOA0Q9QpxGTM0E2c2YmwmiE1DGQmkLqTSEVFi0gTYOk5BYtw3VNC+YF8WgIorVrKGEQvYZW9lQ0ooSMta8YT+fse2EnZmVdWNLuN3vqHyILMH6AGMdrPPsE7TzUNaxVJLvQoRxHsZ6lns0JFCP6+2GalEGddejHwU+Pk+ouwFCLhDEXCqMQrIskqqtY5/U0HAa4HzkPRK4ITFctGUGngsCrAu8F7IEYkUNj6NRHSmhGmJ7NGTJNLXpBshFY5hmfNUtPusWX02HYRLMng81CW7Q9AOroENOs+RDkk/HJekVTbfvvdAvQQPooX7vjvJUQ8wJ2r6YH3lW8d75+XJBlUv5tViiffh/xusb22/2VbOfL/hxveLx+IlvL45A7h5xDrIAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="Get push notifications watch example"
+        title="Get push notifications watch example"
+        src="/static/21d3c3904e6a4bc440952a725eb9f794/2bef9/7.png"
+        srcset="/static/21d3c3904e6a4bc440952a725eb9f794/6f3f2/7.png 256w,
+/static/21d3c3904e6a4bc440952a725eb9f794/01e7c/7.png 512w,
+/static/21d3c3904e6a4bc440952a725eb9f794/2bef9/7.png 1024w,
+/static/21d3c3904e6a4bc440952a725eb9f794/3fca6/7.png 1112w"
+        sizes="(max-width: 1024px) 100vw, 1024px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+        decoding="async"
+      />
+    </span></p>
+<center>Get push notifications watch example</center>
+<p>구글 캘린더 API는 사용자에 의해 트리거 되는 RESTful API 외에도 변경이 발생할 때마다 웹훅 형태로 변경 사항을 알려주는 기능이 제공되고 있습니다. 이 방법을 이용한다면 사용자가 요청할 때마다 이벤트를 얻어오는 것이 아니라 변경이 발생하는 즉시 사용자 캘린더 정보를 갱신할 수 있게 됩니다.</p>
+<p>하지만 한 가지 걱정되는 부분이 있었습니다. 변경 사항이 우리에게 정상 수신되었다는 걸 어떻게 보장할 수 있는가?라는 부분입니다. 구글 측의 이슈, 혹은 구글과 우리 서비스 사이의 네트워크 이슈 등등 다양한 변수가 존재하기 때문에 100% 보장할 수는 없습니다.</p>
+<p>그래서 구글은 웹훅 수신 서버가 웹훅 수신 후 200, 201, 202, 204 또는 102 상태 코드를 응답하는 경우 정상 처리되었다고 판단(ack)하며 500, 502, 503 또는 504 상태 코드를 응답하는 경우 재시도하는 지수 백오프(Expotential Backoff) 기능을 함께 제공하고 있습니다. 그렇기에 일반적인 서버 처리 오류나 Request Timeout 같은 상황에서도 요청 수신을 어느 정도 보장할 수 있습니다.</p>
+<h2>마무리</h2>
+<p>앞선 분석을 정리해보자면 결국 사용자의 대기를 최소화하고, 최대한 빠르게 데이터를 갱신하기 위해선 Strategy #4. Get push notifications 방식의 적용이 필수로 보입니다. 하지만 섹션의 마지막 문단에서 언급했듯 데이터의 동기화를 어느 정도 보장할 수 있을 뿐, 여러 변수로 인해 이를 100% 신뢰하는 것은 무리가 있습니다.</p>
+<p>그렇기 때문에 베이스로는 변경 사항을 웹 훅으로 수신하며 사용자 일정 정보를 갱신하고 긴 주기 혹은 웹훅을 정상적으로 수신하지 못할 것으로 예상되는 시점에 일정 정보를 일괄로 받아오는 구조를 채택하는 것이 바람직합니다. 일괄로 받아올 때는 SyncToken을 활용한다면 조금 더 효과적일 것입니다.</p>
+<style class="grvsc-styles">
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line > * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: ' ';
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting > .grvsc-code > .grvsc-line::before {
+    content: ' ';
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+</style></section></div><section id="comments"></section><style data-emotion="css 1ylimja">.css-1ylimja{max-width:900px;width:100%;margin:4rem auto;box-sizing:border-box;padding:2rem 2rem;border-top:1px solid #EAEAEA;}.css-1ylimja>p{margin-bottom:1.5rem;font-size:1.8rem;color:#000;}.css-1ylimja>a{border:none!important;outline:none!important;-webkit-transition:none!important;transition:none!important;background:none!important;}.css-1ylimja>a:hover{background:none!important;border-color:none!important;}</style><div class="css-1ylimja e1x2ajq20"><style data-emotion="css toutqs">.css-toutqs{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:50px;height:50px;}</style><div size="50" class="css-toutqs e2dip0o1"><style data-emotion="css 1rrjf5z animation-8013mu">.css-1rrjf5z{-webkit-animation:animation-8013mu 1.2s linear infinite;animation:animation-8013mu 1.2s linear infinite;position:absolute;width:24%;height:8%;border-radius:5px;background:#333;-webkit-animation-delay:-1.2s;animation-delay:-1.2s;-webkit-transform:rotate(0deg) translate(146%);-moz-transform:rotate(0deg) translate(146%);-ms-transform:rotate(0deg) translate(146%);transform:rotate(0deg) translate(146%);}@-webkit-keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}@keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}</style><div class="css-1rrjf5z e2dip0o0"></div><style data-emotion="css rcjasa animation-8013mu">.css-rcjasa{-webkit-animation:animation-8013mu 1.2s linear infinite;animation:animation-8013mu 1.2s linear infinite;position:absolute;width:24%;height:8%;border-radius:5px;background:#333;-webkit-animation-delay:-1.0999999999999999s;animation-delay:-1.0999999999999999s;-webkit-transform:rotate(30deg) translate(146%);-moz-transform:rotate(30deg) translate(146%);-ms-transform:rotate(30deg) translate(146%);transform:rotate(30deg) translate(146%);}@-webkit-keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}@keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}</style><div class="css-rcjasa e2dip0o0"></div><style data-emotion="css 1gsjy2j animation-8013mu">.css-1gsjy2j{-webkit-animation:animation-8013mu 1.2s linear infinite;animation:animation-8013mu 1.2s linear infinite;position:absolute;width:24%;height:8%;border-radius:5px;background:#333;-webkit-animation-delay:-1s;animation-delay:-1s;-webkit-transform:rotate(60deg) translate(146%);-moz-transform:rotate(60deg) translate(146%);-ms-transform:rotate(60deg) translate(146%);transform:rotate(60deg) translate(146%);}@-webkit-keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}@keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}</style><div class="css-1gsjy2j e2dip0o0"></div><style data-emotion="css vgd4ml animation-8013mu">.css-vgd4ml{-webkit-animation:animation-8013mu 1.2s linear infinite;animation:animation-8013mu 1.2s linear infinite;position:absolute;width:24%;height:8%;border-radius:5px;background:#333;-webkit-animation-delay:-0.8999999999999999s;animation-delay:-0.8999999999999999s;-webkit-transform:rotate(90deg) translate(146%);-moz-transform:rotate(90deg) translate(146%);-ms-transform:rotate(90deg) translate(146%);transform:rotate(90deg) translate(146%);}@-webkit-keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}@keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}</style><div class="css-vgd4ml e2dip0o0"></div><style data-emotion="css nlaijy animation-8013mu">.css-nlaijy{-webkit-animation:animation-8013mu 1.2s linear infinite;animation:animation-8013mu 1.2s linear infinite;position:absolute;width:24%;height:8%;border-radius:5px;background:#333;-webkit-animation-delay:-0.7999999999999999s;animation-delay:-0.7999999999999999s;-webkit-transform:rotate(120deg) translate(146%);-moz-transform:rotate(120deg) translate(146%);-ms-transform:rotate(120deg) translate(146%);transform:rotate(120deg) translate(146%);}@-webkit-keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}@keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}</style><div class="css-nlaijy e2dip0o0"></div><style data-emotion="css ljpo5z animation-8013mu">.css-ljpo5z{-webkit-animation:animation-8013mu 1.2s linear infinite;animation:animation-8013mu 1.2s linear infinite;position:absolute;width:24%;height:8%;border-radius:5px;background:#333;-webkit-animation-delay:-0.7s;animation-delay:-0.7s;-webkit-transform:rotate(150deg) translate(146%);-moz-transform:rotate(150deg) translate(146%);-ms-transform:rotate(150deg) translate(146%);transform:rotate(150deg) translate(146%);}@-webkit-keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}@keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}</style><div class="css-ljpo5z e2dip0o0"></div><style data-emotion="css 1lesjdn animation-8013mu">.css-1lesjdn{-webkit-animation:animation-8013mu 1.2s linear infinite;animation:animation-8013mu 1.2s linear infinite;position:absolute;width:24%;height:8%;border-radius:5px;background:#333;-webkit-animation-delay:-0.5999999999999999s;animation-delay:-0.5999999999999999s;-webkit-transform:rotate(180deg) translate(146%);-moz-transform:rotate(180deg) translate(146%);-ms-transform:rotate(180deg) translate(146%);transform:rotate(180deg) translate(146%);}@-webkit-keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}@keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}</style><div class="css-1lesjdn e2dip0o0"></div><style data-emotion="css s8balg animation-8013mu">.css-s8balg{-webkit-animation:animation-8013mu 1.2s linear infinite;animation:animation-8013mu 1.2s linear infinite;position:absolute;width:24%;height:8%;border-radius:5px;background:#333;-webkit-animation-delay:-0.4999999999999999s;animation-delay:-0.4999999999999999s;-webkit-transform:rotate(210deg) translate(146%);-moz-transform:rotate(210deg) translate(146%);-ms-transform:rotate(210deg) translate(146%);transform:rotate(210deg) translate(146%);}@-webkit-keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}@keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}</style><div class="css-s8balg e2dip0o0"></div><style data-emotion="css q46j30 animation-8013mu">.css-q46j30{-webkit-animation:animation-8013mu 1.2s linear infinite;animation:animation-8013mu 1.2s linear infinite;position:absolute;width:24%;height:8%;border-radius:5px;background:#333;-webkit-animation-delay:-0.3999999999999999s;animation-delay:-0.3999999999999999s;-webkit-transform:rotate(240deg) translate(146%);-moz-transform:rotate(240deg) translate(146%);-ms-transform:rotate(240deg) translate(146%);transform:rotate(240deg) translate(146%);}@-webkit-keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}@keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}</style><div class="css-q46j30 e2dip0o0"></div><style data-emotion="css vl20np animation-8013mu">.css-vl20np{-webkit-animation:animation-8013mu 1.2s linear infinite;animation:animation-8013mu 1.2s linear infinite;position:absolute;width:24%;height:8%;border-radius:5px;background:#333;-webkit-animation-delay:-0.29999999999999993s;animation-delay:-0.29999999999999993s;-webkit-transform:rotate(270deg) translate(146%);-moz-transform:rotate(270deg) translate(146%);-ms-transform:rotate(270deg) translate(146%);transform:rotate(270deg) translate(146%);}@-webkit-keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}@keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}</style><div class="css-vl20np e2dip0o0"></div><style data-emotion="css 1qbghc9 animation-8013mu">.css-1qbghc9{-webkit-animation:animation-8013mu 1.2s linear infinite;animation:animation-8013mu 1.2s linear infinite;position:absolute;width:24%;height:8%;border-radius:5px;background:#333;-webkit-animation-delay:-0.19999999999999996s;animation-delay:-0.19999999999999996s;-webkit-transform:rotate(300deg) translate(146%);-moz-transform:rotate(300deg) translate(146%);-ms-transform:rotate(300deg) translate(146%);transform:rotate(300deg) translate(146%);}@-webkit-keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}@keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}</style><div class="css-1qbghc9 e2dip0o0"></div><style data-emotion="css q9vvjz animation-8013mu">.css-q9vvjz{-webkit-animation:animation-8013mu 1.2s linear infinite;animation:animation-8013mu 1.2s linear infinite;position:absolute;width:24%;height:8%;border-radius:5px;background:#333;-webkit-animation-delay:-0.09999999999999987s;animation-delay:-0.09999999999999987s;-webkit-transform:rotate(330deg) translate(146%);-moz-transform:rotate(330deg) translate(146%);-ms-transform:rotate(330deg) translate(146%);transform:rotate(330deg) translate(146%);}@-webkit-keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}@keyframes animation-8013mu{from{opacity:1;}to{opacity:0.15;}}</style><div class="css-q9vvjz e2dip0o0"></div></div><div></div></div></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div></div><script>
+  
+  function gaOptout(){document.cookie=disableStr+'=true; expires=Thu, 31 Dec 2099 23:59:59 UTC;path=/',window[disableStr]=!0}var gaProperty='G-GT09JQ1S9D',disableStr='ga-disable-'+gaProperty;document.cookie.indexOf(disableStr+'=true')>-1&&(window[disableStr]=!0);
+  if(!(parseInt(navigator.doNotTrack) === 1 || parseInt(window.doNotTrack) === 1 || parseInt(navigator.msDoNotTrack) === 1 || navigator.doNotTrack === "yes")) {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  }
+  if (typeof ga === "function") {
+    ga('create', 'G-GT09JQ1S9D', 'dataportal.kr', {"sampleRate":5,"siteSpeedSampleRate":10});
+      ga('set', 'anonymizeIp', true);
+      
+      
+      
+      
+      }</script><script id="gatsby-script-loader">/*<![CDATA[*/window.pagePath="/Google-Calendar-API-분석-및-시스템-구축-전략/";/*]]>*/</script><script id="gatsby-chunk-mapping">/*<![CDATA[*/window.___chunkMapping={"polyfill":["/polyfill-7b05682e3655fba37948.js"],"app":["/app-fb5ac7ec959d01ad11b4.js"],"component---src-pages-404-tsx":["/component---src-pages-404-tsx-761f28f8d0a06f05d514.js"],"component---src-pages-index-tsx":["/component---src-pages-index-tsx-bbf0f3dc6b8dc8b5558f.js"],"component---src-pages-posts-tsx":["/component---src-pages-posts-tsx-1ff6a41539a3b7a0f927.js"],"component---src-pages-resume-tsx":["/component---src-pages-resume-tsx-4b45218e04cfd7f7df3a.js"],"component---src-template-post-tsx":["/component---src-template-post-tsx-e2676f0d4921cbcd207c.js"]};/*]]>*/</script><script src="/polyfill-7b05682e3655fba37948.js" nomodule=""></script><script src="/component---src-template-post-tsx-e2676f0d4921cbcd207c.js" async=""></script><script src="/386142cf738b86b246078cd67abf8098b07f27c7-18c18209468ec8dd2984.js" async=""></script><script src="/app-fb5ac7ec959d01ad11b4.js" async=""></script><script src="/48aa8186-67735c86ae4015d55662.js" async=""></script><script src="/1593e758-d050b1143bbe6a481eaf.js" async=""></script><script src="/cc76255b-fbeb6e91190b1eab4664.js" async=""></script><script src="/d0007318-01caf6bd558d3f79fb6c.js" async=""></script><script src="/2425c7c2-8ea9f6281ab320d9125d.js" async=""></script><script src="/aec3edcd-0a849c7a1e5639e87b70.js" async=""></script><script src="/3e15977f-c439a5f24926c273d767.js" async=""></script><script src="/f3fee096-eaf793d56c78739d9715.js" async=""></script><script src="/63a121f2-8e2a96e84c6b7ab4c577.js" async=""></script><script src="/b633362c-19fe4063ce94bfeeb084.js" async=""></script><script src="/framework-96f35882fb1b7fa32ef9.js" async=""></script><script src="/webpack-runtime-3703e87f9e8311e85ac5.js" async=""></script></body></html>
