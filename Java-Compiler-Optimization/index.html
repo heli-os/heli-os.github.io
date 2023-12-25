@@ -85,10 +85,7 @@
 <h3>OSR; On-Stack Replacement</h3>
 <p>처음 실행된 메서드이지만, 루프가 정말 길다면 남은 반복을 빠르게 실행하기 위해 중간에 컴파일될 필요가 있습니다. 따라서 루프의 실행을 그때그때 카운트하고 임계치를 넘어가면 전체 메서드가 아닌 루프만을 따로 컴파일해서 컴파일된 버전을 실행합니다.</p>
 <p>이렇게 스택상에서 컴파일된 버전을 바로 실행시키는 것을 OSR이라고 부릅니다.</p>
-<blockquote>
-<p>컴파일 임계치 관련 JVM Option</p>
-</blockquote>
-<p><code>컴파일 임계치 변경</code></p>
+<p><code>컴파일 임계치 변경 JVM Option</code></p>
 <div class="markdown-wrapper"><pre class="grvsc-container dark-default-dark" data-language="java" data-index="3"><code class="grvsc-code"><span class="grvsc-line"><span class="grvsc-source"><span class="mtk1">-XX</span><span class="mtk15">:</span><span class="mtk1">CompileThreadhold=</span><span class="mtk10">N</span></span></span></code></pre></div>
 <p>컴파일 임계치를 지정하는 옵션으로 클라이언트 컴파일러에서 기본 값은 1,500이며 서버 컴파일러의 기본 값은 10,000입니다. JVM 튜닝에 있어 컴파일 임계치를 변경하는 것은 상당히 권고되는 최적화 방법입니다.</p>
 <p><code>Why?</code></p>
