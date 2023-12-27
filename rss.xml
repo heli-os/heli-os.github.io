@@ -1,4 +1,135 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[Theo's Blog]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 25 Dec 2023 11:07:28 GMT</lastBuildDate><item><title><![CDATA[블로그 이관 및 앞으로의 계획]]></title><description><![CDATA[블로그를 이관했습니다! 🎉 기존에는 티스토리 블로그를 사용했었고, 여러 블로그 플랫폼을 이용해보면서 느꼈던 경험은 다음과 같았습니다. 네이버 블로그 : 개발자들이 기술 컨텐츠를 다루기에는 생태계 자체가 친화적이지 않았습니다. 벨로그 : Simple…]]></description><link>https://dataportal.kr/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EA%B4%80-%EB%B0%8F-%EC%95%9E%EC%9C%BC%EB%A1%9C%EC%9D%98-%EA%B3%84%ED%9A%8D/</link><guid isPermaLink="false">https://dataportal.kr/블로그-이관-및-앞으로의-계획/</guid><pubDate>Mon, 25 Dec 2023 03:53:21 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[Theo's Blog]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 27 Dec 2023 00:43:12 GMT</lastBuildDate><item><title><![CDATA[어느 회사에서나 쓸 수 있는 지원 동기 만들기(a.k.a. 목표 만들기)]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EC%96%B4%EB%8A%90-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C%EB%82%98-%EC%93%B8-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%A7%80%EC%9B%90-%EB%8F%99%EA%B8%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0(a.k.a.-%EB%AA%A9%ED%91%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)/</link><guid isPermaLink="false">https://dataportal.kr/어느-회사에서나-쓸-수-있는-지원-동기-만들기(a.k.a.-목표-만들기)/</guid><pubDate>Wed, 27 Dec 2023 08:47:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.359375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGLVGTkH//EABoQAQEAAgMAAAAAAAAAAAAAAAIBAyEAETL/2gAIAQEAAQUCGjVVV1y+CdZclr//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAdEAACAQQDAAAAAAAAAAAAAAAAARECEBIhMUFR/9oACAEBAAY/AkbKZ8J6Zk+Fb//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExQVGx0f/aAAgBAQABPyFZ6PMtUFHb9MIAnsl9nszmIawMqf/aAAwDAQACAAMAAAAQnz//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAhMUFRYaFx/9oACAEBAAE/EDNYNvSv7lltFOpcY9PuAHwM4sA6ZUH304rykk2jwLwejCUkp5QM/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/1c3e1b2e7389f2b602526d952107a501/72e01/1.jpg&quot;
+        srcset=&quot;/static/1c3e1b2e7389f2b602526d952107a501/e4a55/1.jpg 256w,
+/static/1c3e1b2e7389f2b602526d952107a501/36dd4/1.jpg 512w,
+/static/1c3e1b2e7389f2b602526d952107a501/72e01/1.jpg 1024w,
+/static/1c3e1b2e7389f2b602526d952107a501/ac99c/1.jpg 1536w,
+/static/1c3e1b2e7389f2b602526d952107a501/e1596/1.jpg 2048w,
+/static/1c3e1b2e7389f2b602526d952107a501/01fc7/1.jpg 3200w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;많은 분들이 취업/이직 과정에서 &lt;code&gt;지원 동기&lt;/code&gt;를 작성하기 위해 어려움을 겪으시는 것 같습니다. 일부는 &apos;당연히 돈을 벌기 위해서&apos;라고 표현하시기도 하는데, 이건 정말 성숙하지 못한 이유라고 생각합니다.&lt;/p&gt;
+&lt;p&gt;다들 지원 동기를 작성하거나 말하라고 하면 어떻게 이야기를 풀어내시나요? 제가 가장 많이 본 유형은 아래와 같은데요.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;OO 회사에서 만들고 있는 제품에 많은 관심이 있습니다. 해당 제품을 만드는 프로젝트에 정말 참여하고 싶고, 이를 열정적으로 원합니다. 또한 OO 회사에 합류하게 된다면 좋은 개발 문화 속에서 함께 배우면서 성장할 수 있을 것 같아 지원하게 되었습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;어떻게 보이시나요? 저는 정말 &lt;code&gt;아마추어적인 자세&lt;/code&gt;라고 생각합니다. 소위 돈 받고 일하는 프로들은 이렇게 Job을 접근하면 안됩니다.&lt;/p&gt;
+&lt;p&gt;보통 회사에서 새로운 포지션을 외부에 오픈하고 채용을 진행할 때에는 &lt;code&gt;어떤 문제를 함께 해결&lt;/code&gt; 하는데 기여해줄 수 있는 사람을 찾길 기대합니다. 막연히 가르쳐주고 보살펴주기 위해 채용하는 경우는 없습니다. 이는 신입도 마찬가지입니다.&lt;/p&gt;
+&lt;p&gt;그럼 지원 동기는 어떻게 구성해야 할까요? 저는 아래의 그림이 가장 바람직하다고 생각합니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;제가 궁극적으로 해보고 싶은 것(목표)은 A입니다. 이를 위해선 xx, yy, zz 라는 경험이 필요할 것이라는 판단을 하였습니다. 과거에는 xx와 yy라는 경험을 해보았고, 이걸 바탕으로 OO 회사에서 ~~~  이렇게 기여해볼 수 있을 것으로 판단됩니다. 또한 평소 관심있는 프로젝트에 직접 기여할 수 있다는 부분이 너무 기대 되고, 아직 경험해보지 못한 zz를 경험 해볼 수 있다는 부분에도 큰 기대가 있어 지원하게 되었습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;이 포맷은 크게 세 가지 정보를 포함하고 있습니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;중장기적인 커리어 목표&lt;/li&gt;
+&lt;li&gt;과거의 경험과 강점&lt;/li&gt;
+&lt;li&gt;합류하게 된다면 회사와 팀에 기대하는 부분&lt;/li&gt;
+&lt;/ol&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[블로그 이관 및 앞으로의 계획]]></title><description><![CDATA[블로그를 이관했습니다! 🎉 기존에는 티스토리 블로그를 사용했었고, 여러 블로그 플랫폼을 이용해보면서 느꼈던 경험은 다음과 같았습니다. 네이버 블로그 : 개발자들이 기술 컨텐츠를 다루기에는 생태계 자체가 친화적이지 않았습니다. 벨로그 : Simple…]]></description><link>https://dataportal.kr/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EA%B4%80-%EB%B0%8F-%EC%95%9E%EC%9C%BC%EB%A1%9C%EC%9D%98-%EA%B3%84%ED%9A%8D/</link><guid isPermaLink="false">https://dataportal.kr/블로그-이관-및-앞으로의-계획/</guid><pubDate>Mon, 25 Dec 2023 03:53:21 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
