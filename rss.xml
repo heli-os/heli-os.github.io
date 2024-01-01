@@ -1,4 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 01 Jan 2024 08:20:55 GMT</lastBuildDate><item><title><![CDATA[JPA Entity 연관관계와 Domain Entity에 대한 생각]]></title><description><![CDATA[얼마 전 JPA Entity 연관관계 어떻게 걸까요? + 엔티티 연관관계 PTSD이라는 영상이 올라왔습니다. 평소 비슷한 질문을 많이 받고 있기도 하고, 최근에 관련하여 고민했던 경험이 있어 글로 해당 생각을 남겨보려고 합니다. Agenda…]]></description><link>https://dataportal.kr/JPA-Entity-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EC%99%80-Domain-Entity%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81/</link><guid isPermaLink="false">https://dataportal.kr/JPA-Entity-연관관계와-Domain-Entity에-대한-생각/</guid><pubDate>Mon, 01 Jan 2024 15:48:47 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 01 Jan 2024 08:43:08 GMT</lastBuildDate><item><title><![CDATA[(임시) 2024년을 시작하며]]></title><description><![CDATA[카카오페이: 프로젝트, 퇴사 창업: 서울대 입구 -> 투자 -> 팁스 -> 채용 -> ... 제품/기술: -> ...]]></description><link>https://dataportal.kr/(%EC%9E%84%EC%8B%9C)-2024%EB%85%84%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0/</link><guid isPermaLink="false">https://dataportal.kr/(임시)-2024년을-시작하며/</guid><pubDate>Mon, 01 Jan 2024 17:39:10 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;li&gt;카카오페이: 프로젝트, 퇴사&lt;/li&gt;
+&lt;li&gt;창업: 서울대 입구 -&gt; 투자 -&gt; 팁스 -&gt; 채용 -&gt; ...&lt;/li&gt;
+&lt;li&gt;제품/기술: -&gt; ...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[JPA Entity 연관관계와 Domain Entity에 대한 생각]]></title><description><![CDATA[얼마 전 JPA Entity 연관관계 어떻게 걸까요? + 엔티티 연관관계 PTSD이라는 영상이 올라왔습니다. 평소 비슷한 질문을 많이 받고 있기도 하고, 최근에 관련하여 고민했던 경험이 있어 글로 해당 생각을 남겨보려고 합니다. Agenda…]]></description><link>https://dataportal.kr/JPA-Entity-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EC%99%80-Domain-Entity%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81/</link><guid isPermaLink="false">https://dataportal.kr/JPA-Entity-연관관계와-Domain-Entity에-대한-생각/</guid><pubDate>Mon, 01 Jan 2024 15:48:47 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
