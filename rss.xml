@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 14 Jan 2024 04:52:46 GMT</lastBuildDate><item><title><![CDATA[2024년을 시작하며 (2023년 회고)]]></title><description><![CDATA[2023년은 정말 많은 일이 있었던 한 해였습니다. 그 중에서 창업이 가장 큰 사건(?)이 아니었을까 싶은데요. 이번 글에서는 2023년을 타임라인 순서대로 적어보고자 합니다. 카카오페이: 신규 프로젝트 202…]]></description><link>https://dataportal.kr/2024%EB%85%84%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0-(2023%EB%85%84-%ED%9A%8C%EA%B3%A0)/</link><guid isPermaLink="false">https://dataportal.kr/2024년을-시작하며-(2023년-회고)/</guid><pubDate>Sun, 14 Jan 2024 11:53:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 14 Jan 2024 09:51:40 GMT</lastBuildDate><item><title><![CDATA[2024년을 시작하며 (2023년 회고)]]></title><description><![CDATA[2023년은 정말 많은 일이 있었던 한 해였습니다. 그 중에서 창업이 가장 큰 사건(?)이 아니었을까 싶은데요. 이번 글에서는 2023년을 타임라인 순서대로 적어보고자 합니다. 카카오페이: 신규 프로젝트 202…]]></description><link>https://dataportal.kr/2024%EB%85%84%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0-(2023%EB%85%84-%ED%9A%8C%EA%B3%A0)/</link><guid isPermaLink="false">https://dataportal.kr/2024년을-시작하며-(2023년-회고)/</guid><pubDate>Sun, 14 Jan 2024 11:53:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -27,14 +27,14 @@
 &lt;h2&gt;카카오페이: 신규 프로젝트&lt;/h2&gt;
 &lt;p&gt;2023년 초 당시 소속되어 있던 팀은 &lt;code&gt;카카오페이 머니&lt;/code&gt;를 비롯한 현금 흐름을 지원하기 위한 플랫폼을 개발하는 팀이었고, 주로 실제 입금/출금 거래를 체결하기 위한 &lt;code&gt;카카오페이&amp;#x3C;-&gt;은행 통신 Gateway&lt;/code&gt;, &lt;code&gt;머니 정산&lt;/code&gt;, &lt;code&gt;전사 자금 업무 지원 플랫폼&lt;/code&gt; 등의 프로젝트를 진행했습니다.&lt;/p&gt;
 &lt;p&gt;그러다보니 전사의 서비스 개발 조직에서 필요로 하는 공통된 부분을 도출하고 이를 플랫폼으로 &lt;code&gt;잘 만들어&lt;/code&gt; 제공하는 것에 항상 관심이 있었는데요. 평소와 같이 타 조직의 Pain Point를 살펴보던 중 내부적으로 &lt;code&gt;&amp;#x3C;은행정보 플랫폼&gt;&lt;/code&gt;이라 불리는 신규 프로젝트를 추진하게 되었습니다.&lt;/p&gt;
-&lt;p&gt;기존에는 수십 개의 개발 조직이 각자 은행에 대한 정보를 관리하는 구조였습니다.&lt;/p&gt;
+&lt;p&gt;기존에는 수십 개의 개발 조직에서 은행에 대한 정보가 필요하다면 각자 관리하는 구조였습니다.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;카카오페이 머니 개발 조직: 송금 가능한 은행 목록 노출, 계좌 연결 가능한 은행 목록 노출, ...&lt;/li&gt;
 &lt;li&gt;고객 문의 플랫폼 개발 조직: 착오송금 반환 중개 시 은행 정보 입력&lt;/li&gt;
 &lt;li&gt;등등..&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;은행 이름, 로고, 약관, 송금/계좌연결 가능 여부, 점검 유무,&lt;/p&gt;
-&lt;p&gt;계좌번호를 입력하면 다. 해당 프로젝트에 대한 자세한 소개를&lt;/p&gt;
+&lt;p&gt;은행 이름, 로고, 약관, 송금/계좌연결 가능 여부, 점검 유무 등 다양한 정보를 파편적으로 관리하고 있다보니 각 화면마다 보이는 로고가 다르거나 해당 은행이 점검 중인지 확인하기 위해선 실제로 송금과 같은 &lt;code&gt;액션&lt;/code&gt;을 수행해봐야만 하는 문제가 있었습니다.&lt;/p&gt;
+&lt;p&gt;이에 가장 빠르게 협업 해볼만한 조직을 리서치해보기 시작했고, 가장 밀접하게 협업 중이던 머니 서비스 개발 조직에서 &lt;code&gt;송금 단계에서 계좌번호 입력 시 은행 추론&lt;/code&gt; 기능을 개발하고자 하는 니즈가 있음을 확인 했습니다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
@@ -58,7 +58,7 @@
         decoding=&quot;async&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;center&gt;카카오페이 송금 화면 캡처&lt;/center&gt;
+&lt;center&gt;송금 단계에서 계좌번호 입력 시 은행 추론 기능(카카오페이 송금 화면 캡처)&lt;/center&gt;
 &lt;ul&gt;
 &lt;li&gt;카카오페이: 프로젝트, 퇴사&lt;/li&gt;
 &lt;li&gt;창업: 서울대 입구 -&gt; 투자 -&gt; 팁스 -&gt; 채용 -&gt; ...&lt;/li&gt;
