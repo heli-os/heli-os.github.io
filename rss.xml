@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 14 Jan 2024 18:34:12 GMT</lastBuildDate><item><title><![CDATA[2023년 회고: 프로젝트, 퇴사, 창업, 채용, 기술]]></title><description><![CDATA[2023년은 여러 중요한 사건들이 있었던 한 해였습니다. 그 중 창업은 가장 기억에 남는 사건이었습니다. 이번 글에서는 2023년을 타임라인 순서대로 적어보고자 합니다. 카카오페이: 신규 프로젝트 202…]]></description><link>https://dataportal.kr/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/</link><guid isPermaLink="false">https://dataportal.kr/2023년-회고-프로젝트-퇴사-창업-채용-기술/</guid><pubDate>Mon, 22 Jan 2024 11:53:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 14 Jan 2024 18:35:21 GMT</lastBuildDate><item><title><![CDATA[2023년 회고: 프로젝트, 퇴사, 창업, 채용, 기술]]></title><description><![CDATA[2023년은 여러 중요한 사건들이 있었던 한 해였습니다. 그 중 창업은 가장 기억에 남는 사건이었습니다. 이번 글에서는 2023년을 타임라인 순서대로 적어보고자 합니다. 카카오페이: 신규 프로젝트 202…]]></description><link>https://dataportal.kr/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/</link><guid isPermaLink="false">https://dataportal.kr/2023년-회고-프로젝트-퇴사-창업-채용-기술/</guid><pubDate>Mon, 22 Jan 2024 11:53:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -183,7 +183,7 @@
 &lt;li&gt;변경: React 18 / Next.js 14 / AWS Amplify + CloudFront 배포 환경&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;프로젝트를 진행하다보면 성능을 최적화하거나 사용성을 개선하기 위하여 대규모의 보일러플레이트 코드를 작성해야하는 경우가 종종 있습니다. 하지만 매번 이러한 것을 직접 구현하는 것은 비효율이라고 판단하였고, 이를 선제적-적극적으로 지원해줄 수 있는 Framework를 사용하는 것이 효율적일 것이라는 이유 였습니다.&lt;/p&gt;
-&lt;p&gt;여러 Framework 후보가 존재했지만, 그 중에서 Next.js가 현재도 그렇고 앞으로도 Vercel에 의하여 여러 후보에 비하여 가장 적극적으로 Maintaing 될 것이라 기대하며 도입하게 되었습니다.&lt;/p&gt;
+&lt;p&gt;여러 Framework 후보가 존재했지만, 그 중에서 Next.js가 현재도 그렇고 앞으로도 Vercel에 의하여 여러 후보에 비하여 가장 적극적으로 Maintaining 될 것이라 기대하며 도입하게 되었습니다.&lt;/p&gt;
 &lt;h2&gt;볼타: 채용&lt;/h2&gt;
 &lt;p&gt;두 명 뿐이었던 팀원은 약 8개월에 걸쳐 5명이 되었습니다.&lt;/p&gt;
 &lt;ul&gt;
