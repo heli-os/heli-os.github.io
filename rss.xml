@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 17 Jan 2024 17:14:50 GMT</lastBuildDate><item><title><![CDATA[2023년 회고: 프로젝트, 퇴사, 창업, 채용, 기술]]></title><description><![CDATA[2023년은 여러 중요한 사건들이 있었던 한 해였습니다. 그 중 창업은 가장 기억에 남는 사건이었습니다. 이번 글에서는 2023년부터 게시글 발행 시점까지를 타임라인 순서대로 적어보고자 합니다. 카카오페이: 신규 프로젝트 202…]]></description><link>https://dataportal.kr/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/</link><guid isPermaLink="false">https://dataportal.kr/2023년-회고-프로젝트-퇴사-창업-채용-기술/</guid><pubDate>Tue, 23 Jan 2024 08:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 20 Jan 2024 17:48:29 GMT</lastBuildDate><item><title><![CDATA[2023년 회고: 프로젝트, 퇴사, 창업, 채용, 기술]]></title><description><![CDATA[2023년은 여러 중요한 사건들이 있었던 한 해였습니다. 그 중 창업은 가장 기억에 남는 사건이었습니다. 이번 글에서는 2023년부터 게시글 발행 시점까지를 타임라인 순서대로 적어보고자 합니다. 카카오페이: 신규 프로젝트 202…]]></description><link>https://dataportal.kr/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/</link><guid isPermaLink="false">https://dataportal.kr/2023년-회고-프로젝트-퇴사-창업-채용-기술/</guid><pubDate>Tue, 23 Jan 2024 08:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -107,9 +107,9 @@
 &lt;p&gt;앞선 프로젝트를 마치고 신규 프로젝트를 준비하고 있던 시점에 퇴사를 결정하게 됩니다. 예정되어 있는 프로젝트 모두 기대 되는 프로젝트라 이 경험을 저 대신 하셨을 다른 팀원 분들에게 질투가 나기도 하는데요. 이 결정에 대해선 후회하지 않습니다.&lt;/p&gt;
 &lt;p&gt;왜 퇴사 했는지는 앞서 이야기 드렸지만, &lt;code&gt;저는 창업을 했습니다.&lt;/code&gt;&lt;/p&gt;
 &lt;h2&gt;볼타: 창업&lt;/h2&gt;
-&lt;p&gt;공동창업자인 문혁님이 처음 &lt;a href=&quot;https://disquiet.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;디스콰이엇&lt;/a&gt;을 통해 공동창업에 대한 이야기를 주셨는데요. 그때 당시엔 1주일에 몇개씩 비슷한 종류의 콜드메일이 왔기 때문에, 당연히 대수롭지 않게 무시하고 넘어갔습니다. 그랬더니 링크드인까지 찾아오셔서 자료를 전달주시며 이야기를 이어 나가려고 하셨고, 그제서야 메시지를 읽어보기 시작했습니다.&lt;/p&gt;
-&lt;p&gt;공감가는 내용이 꽤 많았고, 자료를 읽고 든 궁금증을 링크드인 메시지로 질문드렸습니다. 그리고 마침 근처에 계시길레 오프라인에서 만나뵈었는데, 만난지 1시간 만에 &lt;code&gt;같이 하시죠.&lt;/code&gt;라고 말씀 드리고 곧장 팀장님에게 퇴사 의사를 밝혔습니다. 조금 더 자세한 이야기는 &lt;a href=&quot;https://dis.qa/mrfii&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;코파운더를 찾은 Bolta 메이커 문혁님의 스토리&lt;/a&gt; 게시글을 참고해주세요.&lt;/p&gt;
-&lt;p&gt;초반에는 법인 설립과 사무실 없이 주말에 서로의 집 근처에서 만나서 이야기를 나눴습니다. 처음엔 코딩, 개발 전혀 없이 노코드로 랜딩 페이지를 만들고 반응을 보는게 중요하다고 생각했습니다.(참고: &lt;a href=&quot;https://blog.bolta.io/landingpage&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;노코드 랜딩 페이지 만들기&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;공동창업자인 문혁님이 처음 &lt;a href=&quot;https://disquiet.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;디스콰이엇&lt;/a&gt;을 통해 공동창업에 대한 이야기를 주셨는데요. 그때 당시엔 1주일에 몇개씩 비슷한 종류의 콜드메일이 왔기에 당연히 대수롭지 않게 무시하고 넘어갔습니다. 그랬더니 링크드인까지 찾아오셔서 자료를 전달주시며 이야기를 이어 나가려고 하셨고, 그제서야 메시지를 읽어보기 시작했습니다.&lt;/p&gt;
+&lt;p&gt;공감가는 내용이 꽤 많았으며, 자료를 읽고 든 궁금증을 링크드인 메시지로 질문드렸습니다. 그리고 마침 근처에 계시길레 오프라인에서 만나뵈었는데, 만난지 1시간 만에 &lt;code&gt;같이 하시죠.&lt;/code&gt;라고 말씀 드리고 곧장 팀장님에게 퇴사 의사를 밝혔습니다. 조금 더 자세한 이야기는 &lt;a href=&quot;https://dis.qa/mrfii&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;코파운더를 찾은 Bolta 메이커 문혁님의 스토리&lt;/a&gt; 게시글을 참고해주세요.&lt;/p&gt;
+&lt;p&gt;초반에는 법인 설립과 사무실 없이 주말에 서로의 집 근처에서 만나서 이야기를 나눴습니다. 알고보니 서로의 집이 10분 거리였습니다. 처음엔 코딩, 개발 전혀 없이 노코드로 랜딩 페이지를 만들고 반응을 보는게 중요하다고 생각했습니다.(참고: &lt;a href=&quot;https://blog.bolta.io/landingpage&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;노코드 랜딩 페이지 만들기&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;노코드 랜딩 페이지를 &lt;code&gt;&apos;이러한 기능이 제공될 예정인데 지금 신청하면 무료, 4주 뒤에는 유료!&apos;&lt;/code&gt;라는 뉘앙스로 꾸미기 시작했고, 200곳 가량이 사용 신청을 해주셨습니다. 그 중 일부를 필터링한 뒤 한달 동안 모두 인터뷰하며 그들이 겪고있는 &lt;code&gt;진짜 문제&lt;/code&gt;에 대하여 파고들기 시작했습니다. 그 과정에서 MVP Spec과 향후 방향성을 대략 잡을 수 있었고, 본격 개발을 통하여 MVP를 출시하게 됩니다.&lt;/p&gt;
 &lt;h2&gt;볼타: MVP 출시&lt;/h2&gt;
 &lt;p&gt;&lt;span
@@ -137,10 +137,10 @@
     &lt;/span&gt;&lt;/p&gt;
 &lt;center&gt;볼타 MVP 스크린샷&lt;/center&gt;
 &lt;p&gt;특별한 Section 구분 없이 Input과 Label, Button의 나열로 구성된 UI였습니다. 지금 보면 정말 기능에만 충실했던 것 같네요.😅 이때 당시 FrontEnd는 React 18(CRA)과 TypeScript 로 개발되어 정적 빌드 후 AWS S3에 배포되는 구조를 가지고 있었습니다.&lt;/p&gt;
-&lt;p&gt;MVP를 출시한 뒤 많은 고객분들이 Feedback을 주셨고, 하나하나 개선해나가는 과정에서 누적되는 문제가 있었습니다. MVP를 만들 때 당시 &lt;code&gt;속도&lt;/code&gt;만 고민하다 확장성을 사실상 모두 포기했던 부분이었는데요. MVP 개발 당시 FrontEnd에 대한 이해가 깊지 않았다보니 시간이 지남에 따라 큰 문제로 다가오게 되었습니다.&lt;/p&gt;
+&lt;p&gt;MVP를 출시한 뒤 많은 고객분들이 Feedback 주셨고, 하나하나 개선해나가는 과정에서 누적되는 문제가 있었습니다. MVP를 만들 때 당시 &lt;code&gt;속도&lt;/code&gt;만 고민하다 확장성을 사실상 모두 포기했던 부분이었는데요. 시간이 지남에 따라 더 큰 문제로 다가오게 되었습니다.&lt;/p&gt;
 &lt;p&gt;신규 기능을 하나 추가하려고 해도 &lt;code&gt;Break-Change&lt;/code&gt;가 상당 부분 발생했고, 동일한 UI를 가진 컴포넌트를 다시 사용하는데에도 생산성이 더 높아지는게 아니라 기존 기능과의 호환성을 위한 고민과 컴포넌트 내 분기 처리가 너무 많이 필요했습니다.&lt;/p&gt;
-&lt;p&gt;그럼에도 많은 분들이 잘 사용해주고 있으셨지만, 추가적인 기능 개발 외에도 UX Flow 개선, 테스트 용이성 향상, 개발 경험(DX) 향상, 장기적으로 Mobile 지원 등에 대한 고민이 있었기에 &lt;code&gt;전면 리뉴얼&lt;/code&gt;이라는 결단을 내릴 수 밖에 없었습니다.&lt;/p&gt;
-&lt;h2&gt;볼타: 전면 리뉴얼&lt;/h2&gt;
+&lt;p&gt;그럼에도 많은 분들이 잘 사용해주고 있으셨지만 추가적인 기능 개발 외에도 UX Flow 개선, 테스트 용이성 향상, 개발 경험(DX) 향상, 장기적으로 Mobile 지원 등에 대한 고민이 있었기에 &lt;code&gt;전면 리뉴얼&lt;/code&gt;이라는 결단을 내릴 수 밖에 없었습니다.&lt;/p&gt;
+&lt;h2&gt;볼타: 전면 리뉴얼 &amp;#x26; FrontEnd Engineering&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
@@ -178,18 +178,81 @@
 &lt;h3&gt;그 외 원칙: 기술&lt;/h3&gt;
 &lt;p&gt;그 외에도 다양한 기술적인 고민이 존재했습니다. 우선 각 컴포넌트의 코드 중복을 줄이고, 협업을 용이하게 하면서도 미래의 확장성 및 변경 사항에 대한 대응력을 향상시키기 위해 최대한 재사용 가능한 컴포넌트를 설계해야겠다는 판단을 내렸습니다.(100% 모듈 형태의 구조는 아닙니다)&lt;/p&gt;
 &lt;p&gt;최대한 UI 요소들을 범용적으로 사용할 수 있는 형태로 구성하였고, 비즈니스 로직과 UI 레이어를 분리하여서 각각의 부분이 독립적으로 발전할 수 있도록 했습니다. 이 덕분에 제품의 기능 확장이나 디자인 변경이 필요할 때, 전체 구조를 뜯어고치지 않고도 필요한 부분만을 쉽게 업데이트하거나 교체할 수 있게 되었습니다.&lt;/p&gt;
-&lt;p&gt;그리고 기술 스택도 일부 변경되었는데요. 기존에 CRA 베이스로 구성되어 있던 프로젝트가 Next.js 베이스로 변경되게 됩니다.&lt;/p&gt;
+&lt;p&gt;그리고 기술 스택도 일부 변경되었는데요. 가장 큰 변화로는 기존에 CRA 베이스로 구성되어 있던 프로젝트가 Next.js 베이스로 변경되게 됩니다.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;기존: React 18(CRA) / AWS S3 + CloudFront 배포 환경&lt;/li&gt;
-&lt;li&gt;변경: React 18 / Next.js 14 / AWS Amplify + CloudFront 배포 환경&lt;/li&gt;
+&lt;li&gt;기존
+&lt;ul&gt;
+&lt;li&gt;React 18(CRA)&lt;/li&gt;
+&lt;li&gt;AWS S3 + CloudFront 배포 환경&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;변경
+&lt;ul&gt;
+&lt;li&gt;React 18&lt;/li&gt;
+&lt;li&gt;Next.js 14&lt;/li&gt;
+&lt;li&gt;AWS Amplify + CloudFront 배포 환경&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;프로젝트를 진행하다보면 성능을 최적화하거나 사용성을 개선하기 위하여 대규모의 보일러플레이트 코드를 작성해야하는 경우가 종종 있습니다. 하지만 매번 이러한 것을 직접 구현하는 것은 비효율이라고 판단하였고, 이를 선제적-적극적으로 지원해줄 수 있는 Framework를 사용하는 것이 효율적일 것이라는 이유였습니다.&lt;/p&gt;
-&lt;p&gt;여러 Framework 후보가 존재했지만, 그 중에서 Next.js가 현재도 그렇고 앞으로도 Vercel에 의하여 여러 후보에 비하여 가장 적극적으로 Maintaining 될 것이라 기대하며 도입하게 되었습니다.&lt;/p&gt;
-&lt;h2&gt;볼타: 기술(작성 필요)&lt;/h2&gt;
+&lt;p&gt;여러 Framework 후보가 존재했지만, 그중에서 Next.js가 현재도 그렇고 앞으로도 Vercel에 의하여 여러 후보에 비해 가장 적극적으로 Maintaining 될 것이라 기대하며 도입하게 되었습니다.&lt;/p&gt;
+&lt;h2&gt;볼타: 전면 리뉴얼 &amp;#x26; BackEnd/Server Engineering&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA50lEQVQoz52SYROCIAyG/f8/1OtLlqYIG7DunUAJXlncTYSNh3ds3bpacc4JBrMX50gN/7f7KH1/0TURH1qOz9YRkbD3eyBtAGNWuQ6DMLOEEMT7IMRc4qx1BZov6PDxFTA7cQBQ7AOm/nTZFkctEKAY4yEQT2HNUtIBFEph2d8AAWuB6WbrZJ5GVQplyCQb/Ig/CUwKiWR6zNtBZr0Ie1jbpO40EHMIUSEoCoBIEeoQj/mHlDm1zqu6WmEtYChvibluKS1KHm1R6Ku9xylwMUYWtIbfP/CnZj5q7KIQbwFlSKFW+I89AWAcYOaJEA4VAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Renewal BackEnd Engineering&quot;
+        title=&quot;Renewal BackEnd Engineering&quot;
+        src=&quot;/static/8d959b72dc70f481e71c88b3063ce848/2bef9/7.png&quot;
+        srcset=&quot;/static/8d959b72dc70f481e71c88b3063ce848/6f3f2/7.png 256w,
+/static/8d959b72dc70f481e71c88b3063ce848/01e7c/7.png 512w,
+/static/8d959b72dc70f481e71c88b3063ce848/2bef9/7.png 1024w,
+/static/8d959b72dc70f481e71c88b3063ce848/71c1d/7.png 1536w,
+/static/8d959b72dc70f481e71c88b3063ce848/29114/7.png 1920w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;center&gt;볼타 빌링 스크린샷&lt;/center&gt;
+&lt;p&gt;앞서 FrontEnd Engineering 영역에 대한 기술적 챌린지를 간략하게 이야기 드렸습니다. FrontEnd 리뉴얼에 맞추어 서버에서도 신규 API를 개발하거나 기존 API를 변경해야 하는 상황도 있었는데요. Down-Time을 발생시키며 리뉴얼을 진행할 것이 아니었기에 기존 API와의 하위호환성을 유지하면서도 대규모의 신규 API를 개발해야만 했습니다.&lt;/p&gt;
+&lt;p&gt;리뉴얼을 위한 BackEnd Engineering 영역에서는 크게 &lt;code&gt;세 가지 기술 과제&lt;/code&gt;가 있었습니다.&lt;/p&gt;
+&lt;h3&gt;과제 1. Leagcy, Shared, New 코드 베이스 영역 분리&lt;/h3&gt;
+&lt;p&gt;리뉴얼 이전에만 사용되는 Legacy 코드 베이스, 리뉴얼 이후에만 사용되는 New 코드 베이스 그리고 양쪽 모두에서 사용되는 Shared 코드 베이스까지 방대한 코드를 효율적으로 관리하기 위한 고민이 필요했습니다.&lt;/p&gt;
+&lt;p&gt;수백, 수천 라인에서 그치는 게 아닌 수만 라인에 달하는 규모이다 보니 더욱 고민이 컸습니다.&lt;/p&gt;
+&lt;p&gt;볼타의 주요 API 서버는 가까운 시일 내에 예정되어 있는 API 서버 분리와 추가적인 외부 인프라 연동을 고려하여 아래와 같은 구조로 구성되어 있었습니다.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;FE: 리뉴얼에서 설명&lt;/li&gt;
-&lt;li&gt;BE: 코드 베이스 개선 / Terraform 도입 / ECS 도입&lt;/li&gt;
+&lt;li&gt;presentation layer: RestController 위치&lt;/li&gt;
+&lt;li&gt;core(domain) layer: POJO DomainModel, usecase interface 위치&lt;/li&gt;
+&lt;li&gt;application(implementation) layer: usecase의 구현체, external(infrastructure) 연동을 위한 interface 위치&lt;/li&gt;
+&lt;li&gt;external(infrastructure) layer: mysql, redis, AWS Managed Service 등 외부 인프라 연동을 위한 구현체 위치&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;이 중 presentation layer는 Shared 코드 베이스를 허용하지 않기로 결정하였고, 기존과 동작의 변경이 없더라도 리뉴얼용 API EndPoint를 별도로 작성하고 기존 API에는 모두 &lt;code&gt;@Deprecated&lt;/code&gt; 어노테이션을 명시적으로 추가해 주었습니다. 신규로 필요한 EndPoint는 core layer에 신규 usecase interface를 함께 작성하며 추가하였습니다.&lt;/p&gt;
+&lt;p&gt;그 후 각 usecase에서 필요한 구현체와 infrastructure 연동을 위한 코드 작업을 하는 방식으로 코드 베이스를 구분하였습니다.&lt;/p&gt;
+&lt;h3&gt;과제 2. 인프라 관리 효율화&lt;/h3&gt;
+&lt;p&gt;볼타 팀의 모든 서비스는 AWS 인프라 위에서 운영되고 있습니다. EC2, RDS, Aurora, ParamterStroe, ALB, VPC, IAM 등 다양한 매니지드 서비스를 여러 목적으로 사용하다 보니 비슷한 부분이 반복되기도 하고 생성해 놓고 잊기도 하는 등 여러 가지 이슈가 식별되었습니다.&lt;/p&gt;
+&lt;p&gt;이에 IaC(Infrastructure as Code)의 필요성을 느끼게 되었고, 여러 후보를 두고 고민해 본 끝에 Terraform을 도입하게 되었습니다.&lt;/p&gt;
+&lt;p&gt;asbubam(이승우)님의 약 7년 전 &lt;a href=&quot;https://blog.2dal.com/2017/10/28/aws-vpc-with-terraform-modules/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;AWS VPC with Terraform Modules&lt;/a&gt; 게시글과 &lt;a href=&quot;https://blog.cloudacode.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;KC(Chang Kyungcheol)&lt;/a&gt;님의 조언으로 1주일도 안되어서 모든 인프라를 테라폼으로 성공적으로 옮길 수 있었습니다.&lt;/p&gt;
+&lt;p&gt;이 작업을 통해 크게 세 가지 효과를 얻을 수 있었습니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;하나의 인프라 요소를 추가/변경하더라도 추적하기 쉬워졌으며 전체적인 형상 가시성이 더 명확해졌습니다.&lt;/li&gt;
+&lt;li&gt;동일 애플리케이션의 phase마다 이름이나 컴포넌트 구성이 일부 다르던 부분까지 식별하고 통일할 수 있게 되었습니다.&lt;/li&gt;
+&lt;li&gt;aws infrastructure 다이어그램을 테라폼 state 기반으로 자동으로 그릴 수 있게 되어 AWS 인프라 변화가 문서에 반영되지 않는 문제를 해결할 수 있게 되었습니다. 이를 통해 팀에 새로운 분이 합류하시더라도 전체적인 구조를 조금 더 쉽게 이해하실 수 있지 않을까 기대합니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;과제 3. 서비스 배포 효율화&lt;/h3&gt;
+&lt;p&gt;기존에 모든 서버 애플리케이션은 EC2에 Docker Image를 기반으로 &lt;code&gt;수동 배포&lt;/code&gt;하는 구조였습니다. 처음에는 혼자서 배포하고, 관리해 왔기 때문에 큰 불편함이 없었습니다. 다만, 새로운 팀원이 합류하는 걸 고려하였을 때 이 방식은 지속하기 어렵겠다는 판단하에 배포 프로세스를 개선하게 됩니다.&lt;/p&gt;
+&lt;p&gt;우선 서비스 실행 방식을 EC2에서 &lt;code&gt;ECS(Elastic Container Service)&lt;/code&gt;로 이관하는 결정을 내렸습니다. 기존에도 모든 서버 애플리케이션은 도커 이미지로서 컨테이너화되어 관리되고 있었기에 큰 공수가 필요하지 않았습니다. 그럼에도 애플리케이션을 조금 더 효율적으로 배포, 관리하고 Scale을 조정하는데 큰 도움을 주기에 도입하지 않을 이유가 없었습니다.&lt;/p&gt;
+&lt;p&gt;그 후 배포 파이프라인도 손보게 됩니다. AWS CodeBuild/Pipeline, Jekins, CircleCI, Drone CI 등 전통적이거나 널리 사용되는 SaaS와 매니지드 서비스를 다양하게 고려해보았습니다. 비용과 효율성 등을 종합적으로 고려하였는데, 평균적인 Build Time이나 횟수를 명확히 판단할 수 없는 시점이었기에 이를 추론하는게 쉽지는 않았습니다.&lt;/p&gt;
+&lt;p&gt;또한 단순히 빌드와 배포 트리거만 필요한 것이 아니라 배치 애플리케이션 실행을 정기적으로 트리거해주는 기능도 필요했습니다. 이 시점에서 Jekins가 가장 가능성 높은 후보로 거론되었으나, 젠킨스 파이프라인을 작성하거나 AWS, Slack, GitHub, Email 등을 연동하는데 필요한 공수까지 고려하였을 때 너무 비효율적이라 판단하였습니다.&lt;/p&gt;
+&lt;p&gt;추가 리서치를 통해 &lt;a href=&quot;https://www.jetbrains.com/teamcity/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;JetBrains TeamCity&lt;/a&gt;를 찾게 되었고, 필요한 모든 외부 연동이 별도 플러그인 설치 없이 자체적으로 지원하고 있음을 알게 되었습니다. 결국 TeamCity를 이용하여 빌드/배포/배치 실행 프로세스를 셋업하게 되었고, 현재까지도 별도 LICENSE 비용 없이 무료 범위 내에서 잘 사용하고 있습니다.&lt;/p&gt;
+&lt;p&gt;먼 미래엔 AWS 매니지드 서비스로 넘어가지 않을까 싶기는 합니다. 😅&lt;/p&gt;
 &lt;h2&gt;볼타: 채용&lt;/h2&gt;
 &lt;p&gt;두 명 뿐이었던 팀원은 약 8개월에 걸쳐 5명이 되었습니다.&lt;/p&gt;
 &lt;ul&gt;
@@ -200,7 +263,7 @@
 &lt;p&gt;그 후 백엔드 개발쪽에 굵직한 기술 과제들이 많아 새로운 백엔드 개발자 한 분을 모셔야겠다는 생각이 들었고, 결과적으로 &lt;code&gt;셰인&lt;/code&gt;을 모시게 되었습니다. 셰인은 아직 대학에 재학중이신, 졸업예정 상태이셨는데요. 그럼에도 수많은 후보자들이 어려워했던 인터뷰를 정말 잘 답변해주셨고, 무엇보다 &lt;code&gt;Fresh-Eyes&lt;/code&gt;와 &lt;code&gt;열정&lt;/code&gt;으로 제품에 대한 새로운 의견을 적극적으로 제시해주실 수 있는 분이라는 생각이 들어 모시게 되었습니다.&lt;/p&gt;
 &lt;p&gt;마지막으로 &lt;code&gt;제이&lt;/code&gt;를 모시게 되었습니다. 리뉴얼에서 필요한 프론트 엔지니어링 작업량이 상당하였고, 이를 제가 백엔드 엔지니어링과 함께 하는 것 보다는 프론트엔드 엔지니어를 한 분 새롭게 모시는게 더 효율적일 것이라는 판단이 있었습니다. 제이는 인터뷰 과정에서부터 &lt;code&gt;한정된 시간 속에서 일을 효율적으로 하는 방법을 통달하신 분&lt;/code&gt;이라는 생각이 들게 하는 분이었습니다. 이 부분이 모든 팀원에게 귀감되며, 배울 수 있는 점이라고 생각되어 모시게 되었습니다.&lt;/p&gt;
 &lt;h2&gt;볼타: 투자&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://bolta.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;간편 전자세금계산서 발행, 관리 - 볼타&lt;/a&gt;를 서비스하는 &lt;code&gt;(주)볼타코퍼레이션&lt;/code&gt;은 2023년 4월 17일 법인을 설립하였습니다. 2호선 서울대입구역 도보 2분 거리에 위치한 BS타워(관악구 관악로 158)를 첫 사무실로 이용하였는데요.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://bolta.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;간편 전자세금계산서 발행, 관리 - 볼타&lt;/a&gt;를 서비스하는 (주)볼타코퍼레이션은 2023년 4월 17일 법인을 설립하였습니다. 2호선 서울대입구역 도보 2분 거리에 위치한 BS타워(관악구 관악로 158)를 첫 사무실로 이용하였는데요.&lt;/p&gt;
 &lt;p&gt;이 사무실은 저희 Seed 투자사인 &lt;a href=&quot;https://springcamp.co&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;스프링 캠프&lt;/a&gt;의 사무실이며, 배치 프로그램 이전에 잠시 비어있는 공간을 대여해주셔서 이용했습니다. 덕분에 너무 넓은 공간을 편하게 이용할 수 있었습니다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -231,8 +294,33 @@
 &lt;p&gt;그 후 시간이 지나 8월 1일, 강남역에 위치한 위워크 강남역2호점으로 이사하게 되었고, 추가 채용에 따라 조금 더 넓은 호실로 옮겨오면서 8개월만에 이사를 두 번하기도 했습니다. (참고: &lt;a href=&quot;https://blog.bolta.io/office/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;공유오피스를 고를 때 고려했던 점들
 &lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;2023년 8월 25일에는 중소벤처기업부 기술창업지원 프로그램 &apos;팁스(TIPS)&apos;에 선정됩니다. &lt;a href=&quot;https://www.venturesquare.net/893436&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;세금계산서 발행&amp;#x26;관리 서비스 &apos;볼타&apos; 운영사 볼타코퍼레이션, &apos;팁스&apos; 선정&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;202x년 xx월 xx일, Pre-A 투자를 유치하였습니다. 해당 투자는 미국계 밴처캐피탈 &lt;a href=&quot;https://www.strongvc.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;스트롱벤처스(Strong Ventures)&lt;/a&gt;가 리드했으며, &lt;a href=&quot;https://www.companoid.io/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;컴패노이드 랩스&lt;/a&gt;와 &lt;a href=&quot;https://keeyonghan.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;한기용&lt;/a&gt;님이 함께 해주셨습니다. &lt;a href=&quot;.&quot;&gt;(가안)볼타코퍼레이션, 프리 A 라운드 투자 유치&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;// 추가 작성 필요&lt;/p&gt;
+&lt;p&gt;2024년 1월 23일, Pre-A 투자를 유치하였습니다. 해당 투자는 미국계 밴처캐피탈 &lt;a href=&quot;https://www.strongvc.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;스트롱벤처스(Strong Ventures)&lt;/a&gt;가 리드했으며, &lt;a href=&quot;https://www.companoid.io/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;컴패노이드 랩스&lt;/a&gt;와 &lt;a href=&quot;https://keeyonghan.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;한기용&lt;/a&gt;님이 함께 해주셨습니다. &lt;a href=&quot;.&quot;&gt;(가안)볼타코퍼레이션, 프리 A 라운드 투자 유치&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 78.125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsTAAALEwEAmpwYAAACFklEQVQ4y4VUTWvVQBS98yPyo/wBbquLgogLtSIWF4IFF0IrKkIrCoqv9ZNWdGEXVSkuugn+BCk0Ll7FJJNkMt+TkTvJi7H2vTdwuTOBOZwz554AdKsqUvDeY5Hxz6P46PCHz7LM0jz3QggvOPdCcM957YzRXiuZlDSNqiIDUVcETq6S/u4Bc0rj4+NffjweW8aYb5rGW2u9tQ67w3PTuABYFilIUZ8OOFpbhAfLZ4hWKlZKIzOrlPJa676MMa7tOuGMRpxREJydDrj/bgX2RteJUjKWUgZA7ENArXUHaJKa0aieBbh5/wI8XjlLtNZxd9miVOdcXyg57K1NqiKLqjKbDvj+yRK8WF0IDFGqlDIwPFGBobUmYWUesSqfDvht5w58eblMpBBxd9miw7gfvOVfyRWN6mqG5N3RTdhZv0iklP8BdiDBFOzIsK7yqJ7F8Ovb27D7fIlIOWE4x5R5DLc3rsBodYForeJOYjClY9aPTXvW810++HgXPm/dIILzGKVyzi0PCQn70JVSA1OyiJUzJHv+HXy6T8qiiNM0DdHL89xj4ZlSit8cpqd9QxzsYjrgm0eXYOve+SAZZTnn7HAGu3IhhsYkrJozNnuvbsGnZ1d7l5VSdjIyk46SpVLBlLnR+/D0Grx+uBgGG99pCNidA6AKgDrhdTFb8vbGZdhcO9e7bIyx7V/GTmIXJLfSu+gV/0bvD5TFYVGeZfieAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;keeyong han&quot;
+        title=&quot;keeyong han&quot;
+        src=&quot;/static/9505b5bd199c67d8cd81a950f4b9c1ad/2bef9/6.png&quot;
+        srcset=&quot;/static/9505b5bd199c67d8cd81a950f4b9c1ad/6f3f2/6.png 256w,
+/static/9505b5bd199c67d8cd81a950f4b9c1ad/01e7c/6.png 512w,
+/static/9505b5bd199c67d8cd81a950f4b9c1ad/2bef9/6.png 1024w,
+/static/9505b5bd199c67d8cd81a950f4b9c1ad/21b4d/6.png 1280w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;center&gt;투자 소식 공개 이전 한기용님의 개인 SNS 🙂&lt;/center&gt;
+&lt;p&gt;기용과의 인연은 정말 우연히 이어졌는데요.
+(TO..BE..CONTINUE...)(작성 필요)&lt;/p&gt;
 &lt;h2&gt;개인적인 이야기(작성 필요)&lt;/h2&gt;
 &lt;p&gt;창업을 하며 일하는 방식과 협업 방식이 크게 바뀌게 되었습니다. 과거에는 디자이너나 프론트 개발자와 밀접하게 협업 할 일이 많지 않았고, 협업 기회가 생기더라도 대부분&lt;/p&gt;
 &lt;ul&gt;
@@ -240,13 +328,6 @@
 &lt;/ul&gt;
 &lt;h2&gt;2024년 계획(작성 필요)&lt;/h2&gt;
 &lt;p&gt;고객, 제품, 채용, 프로젝트&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;카카오페이: 프로젝트, 퇴사&lt;/li&gt;
-&lt;li&gt;창업: 서울대 입구 -&gt; 투자 -&gt; 팁스 -&gt; 채용 -&gt; ...&lt;/li&gt;
-&lt;li&gt;제품/기술: -&gt; ...&lt;/li&gt;
-&lt;li&gt;2024 예정&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;카카오페이 이야기 -&gt; 창업 -&gt; 투자 -&gt; 채용 -&gt; 기술 -&gt; 2024 예정(고객, 제품, 채용, 프로젝트)&lt;/p&gt;
 &lt;style class=&quot;grvsc-styles&quot;&gt;
   .grvsc-container {
     overflow: auto;
