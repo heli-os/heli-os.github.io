@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 21 Jan 2024 01:47:12 GMT</lastBuildDate><item><title><![CDATA[2023년 회고: 프로젝트, 퇴사, 창업, 채용, 기술]]></title><description><![CDATA[2023년은 여러 중요한 사건들이 있었던 한 해였습니다. 그 중 창업은 가장 기억에 남는 사건이었습니다. 이번 글에서는 2023년부터 게시글 발행 시점까지를 타임라인 순서대로 적어보고자 합니다. 카카오페이: 신규 프로젝트 202…]]></description><link>https://dataportal.kr/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/</link><guid isPermaLink="false">https://dataportal.kr/2023년-회고-프로젝트-퇴사-창업-채용-기술/</guid><pubDate>Thu, 25 Jan 2024 08:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 23 Jan 2024 03:15:18 GMT</lastBuildDate><item><title><![CDATA[2023년 회고: 프로젝트, 퇴사, 창업, 채용, 기술]]></title><description><![CDATA[2023년은 여러 중요한 사건들이 있었던 한 해였습니다. 그 중 창업은 가장 기억에 남는 사건이었습니다. 이번 글에서는 2023년부터 게시글 발행 시점까지를 타임라인 순서대로 적어보고자 합니다. 카카오페이: 신규 프로젝트 202…]]></description><link>https://dataportal.kr/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/</link><guid isPermaLink="false">https://dataportal.kr/2023년-회고-프로젝트-퇴사-창업-채용-기술/</guid><pubDate>Fri, 26 Jan 2024 08:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -170,9 +170,8 @@
 &lt;h3&gt;원칙 1. 별도 학습 없이도 사용자 스스로 제품을 이해할 수 있게 한다.&lt;/h3&gt;
 &lt;p&gt;이 원칙의 핵심은 &lt;code&gt;직관적인 사용자 경험(UX)&lt;/code&gt;입니다. 사용자 인터페이스(UI)는 직관적으로 설계되어야 하며, 사용자가 추가적인 설명이나 교육 없이도 기능을 쉽게 이해하고 사용할 수 있어야 한다고 생각했습니다.&lt;/p&gt;
 &lt;p&gt;최대한 사용자 흐름을 간단하고 자연스럽게 만들며, 사용자가 원하는 정보나 기능에 빠르게 접근할 수 있도록 설계하였습니다.&lt;/p&gt;
-&lt;h3&gt;원칙 2. Depth가 한 단계 깊어지더라도 같은 목적의 입력 필드와 버튼은 최대한 응집한다.&lt;/h3&gt;
-&lt;p&gt;이 원칙은 &lt;code&gt;정보 및 기능의 응집성&lt;/code&gt;의 중요성에서 시작되었습니다. 비슷한 목적이나 기능을 가진 요소들은 가능한 가까이에 배치하여, 사용자가 필요한 정보를 쉽게 찾고, 관련 작업을 효율적으로 수행할 수 있도록 했습니다.&lt;/p&gt;
-&lt;p&gt;예를 들어, 사용자가 특정 작업을 완료하기 위해 필요한 모든 입력 필드, 버튼, 그리고 지사사항들이 한 화면 내에 그룹화되게끔 했습니다.&lt;/p&gt;
+&lt;h3&gt;원칙 2. 같은 목적을 가진 요소는 가까이 둔다.&lt;/h3&gt;
+&lt;p&gt;이 원칙은 &lt;code&gt;정보 및 기능의 응집성&lt;/code&gt;의 중요성에서 시작되었습니다. 간단하게 설명하면, 같은 목적이나 기능을 가진 것들은 &lt;code&gt;&apos;가까이에 모아두는 것이 좋다&apos;&lt;/code&gt;는 원칙입니다. 이렇게 하면 사용자가 필요한 정보를 빠르게 찾고 작업을 효율적으로 할 수 있게 됩니다.&lt;/p&gt;
 &lt;h3&gt;원칙 3. 반응형 및 접근성을 가능한 고려한다.&lt;/h3&gt;
 &lt;p&gt;모든 사용자가 다양한 디바이스와 환경에서 원활하게 제품을 이용할 수 있도록 &lt;code&gt;반응형 디자인과 접근성&lt;/code&gt;을 고려하였습니다. 이 원칙을 적용함으로써, 제품의 사용성과 접근성이 향상되어 더 많은 사용자분들이 편하게 사용하시기를 기대합니다.&lt;/p&gt;
 &lt;h3&gt;그 외 원칙: 기술&lt;/h3&gt;
@@ -250,15 +249,16 @@
 &lt;p&gt;기존에 모든 서버 애플리케이션은 EC2에 Docker Image를 기반으로 &lt;code&gt;수동 배포&lt;/code&gt;하는 구조였습니다. 처음에는 혼자서 배포하고, 관리해 왔기 때문에 큰 불편함이 없었습니다. 다만, 새로운 팀원이 합류하는 걸 고려하였을 때 이 방식은 지속하기 어렵겠다는 판단하에 배포 프로세스를 개선하게 됩니다.&lt;/p&gt;
 &lt;p&gt;우선 서비스 실행 방식을 EC2에서 &lt;code&gt;ECS(Elastic Container Service)&lt;/code&gt;로 이관하는 결정을 내렸습니다. 기존에도 모든 서버 애플리케이션은 도커 이미지로서 컨테이너화되어 관리되고 있었기에 큰 공수가 필요하지 않았습니다. 그럼에도 애플리케이션을 조금 더 효율적으로 배포, 관리하고 Scale을 조정하는데 큰 도움을 주기에 도입하지 않을 이유가 없었습니다.&lt;/p&gt;
 &lt;p&gt;그 후 배포 파이프라인도 손보게 됩니다. AWS CodeBuild/Pipeline, Jekins, CircleCI, Drone CI 등 전통적이거나 널리 사용되는 SaaS와 매니지드 서비스를 다양하게 고려해보았습니다. 비용과 효율성 등을 종합적으로 고려하였는데, 평균적인 Build Time이나 횟수를 명확히 판단할 수 없는 시점이었기에 이를 추론하는게 쉽지는 않았습니다.&lt;/p&gt;
-&lt;p&gt;또한 단순히 빌드와 배포 트리거만 필요한 것이 아니라 배치 애플리케이션 실행을 정기적으로 트리거해주는 기능도 필요했습니다. 이 시점에서 Jekins가 가장 가능성 높은 후보로 거론되었으나, 젠킨스 파이프라인을 작성하거나 AWS, Slack, GitHub, Email 등을 연동하는데 필요한 공수까지 고려하였을 때 너무 비효율적이라 판단하였습니다.&lt;/p&gt;
-&lt;p&gt;추가 리서치를 통해 &lt;a href=&quot;https://www.jetbrains.com/teamcity/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;JetBrains TeamCity&lt;/a&gt;를 찾게 되었고, 필요한 모든 외부 연동이 별도 플러그인 설치 없이 자체적으로 지원하고 있음을 알게 되었습니다. 결국 TeamCity를 이용하여 빌드/배포/배치 실행 프로세스를 셋업하게 되었고, 현재까지도 별도 LICENSE 비용 없이 무료 범위 내에서 잘 사용하고 있습니다.&lt;/p&gt;
-&lt;p&gt;먼 미래엔 AWS 매니지드 서비스로 넘어가지 않을까 싶기는 합니다. 😅&lt;/p&gt;
+&lt;p&gt;또한 단순히 빌드와 배포 트리거만 필요한 것이 아니라 배치 애플리케이션 실행을 정기적으로 트리거해주는 기능도 필요했습니다. 이 시점에서 Jekins가 가장 가능성 높은 후보로 거론되었으나 젠킨스 파이프라인을 작성하거나 AWS, Slack, GitHub, Email 등을 연동하는데 필요한 공수까지 고려하였을 때 너무 비효율적이라 판단하였습니다.&lt;/p&gt;
+&lt;p&gt;추가 리서치를 통해 &lt;a href=&quot;https://www.jetbrains.com/teamcity/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;JetBrains TeamCity&lt;/a&gt;를 알게 되었고, 필요한 모든 외부 연동이 별도 플러그인 설치 없이 자체적으로 지원하고 있음을 알게 되었습니다. 결국 TeamCity를 이용하여 빌드/배포/배치 실행 프로세스를 셋업하게 되었고, 현재까지도 별도 LICENSE 비용 없이 무료 범위 내에서 잘 사용하고 있습니다.&lt;/p&gt;
+&lt;p&gt;먼 미래엔 AWS 매니지드 서비스로 넘어가지 않을까 싶기는 합니다.&lt;/p&gt;
 &lt;h2&gt;볼타: 채용&lt;/h2&gt;
 &lt;p&gt;두 명 뿐이었던 팀원은 약 8개월에 걸쳐 5명이 되었습니다.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;기존 팀원: 글렌(CEO), 테오(CTO)&lt;/li&gt;
 &lt;li&gt;신규 팀원: 메이(Product Designer), 셰인(BE), 제이(FE)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;길게 보고 채용을 진행하였고, 약 3000개의 이력서를 받아볼 수 있었습니다. 정말 좋은 분들이 지원해 주셨지만 모두 모실 수 없어 아쉬움이 컸습니다. 그런 마음에 불합격을 안내드린 분들에게는 500자~1000자 가량의 피드백을 전달해 드리기도 했습니다.&lt;/p&gt;
 &lt;p&gt;신규 팀원분들은 위에 적힌 순서대로 모시게 되었는데요. 리뉴얼을 결정한 직후 제품에 대한 고민을 함께 해주실 수 있는 프로덕트 디자이너분을 모셔야겠다는 생각이 들어 가장 먼저 채용을 진행하였고, 기존에 경험했던 환경과 업무에서의 &lt;code&gt;강점이 명확&lt;/code&gt;하시면서도 새로운 환경에서 &lt;code&gt;도전하는 것에 대한 열정&lt;/code&gt;이 뛰어나셨던 &lt;code&gt;메이&lt;/code&gt;를 모시게 되었습니다.&lt;/p&gt;
 &lt;p&gt;그 후 백엔드 개발쪽에 굵직한 기술 과제들이 많아 새로운 백엔드 개발자 한 분을 모셔야겠다는 생각이 들었고, 결과적으로 &lt;code&gt;셰인&lt;/code&gt;을 모시게 되었습니다. 셰인은 아직 대학에 재학중이신, 졸업예정 상태이셨는데요. 그럼에도 수많은 후보자들이 어려워했던 인터뷰를 정말 잘 답변해주셨고, 무엇보다 &lt;code&gt;Fresh-Eyes&lt;/code&gt;와 &lt;code&gt;열정&lt;/code&gt;으로 제품에 대한 새로운 의견을 적극적으로 제시해주실 수 있는 분이라는 생각이 들어 모시게 되었습니다.&lt;/p&gt;
 &lt;p&gt;마지막으로 &lt;code&gt;제이&lt;/code&gt;를 모시게 되었습니다. 리뉴얼에서 필요한 프론트 엔지니어링 작업량이 상당하였고, 이를 제가 백엔드 엔지니어링과 함께 하는 것 보다는 프론트엔드 엔지니어를 한 분 새롭게 모시는게 더 효율적일 것이라는 판단이 있었습니다. 제이는 인터뷰 과정에서부터 &lt;code&gt;한정된 시간 속에서 일을 효율적으로 하는 방법을 통달하신 분&lt;/code&gt;이라는 생각이 들게 하는 분이었습니다. 이 부분이 모든 팀원에게 귀감되며, 배울 수 있는 점이라고 생각되어 모시게 되었습니다.&lt;/p&gt;
@@ -319,15 +319,64 @@
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;center&gt;투자 소식 공개 이전 한기용님의 개인 SNS 🙂&lt;/center&gt;
-&lt;p&gt;기용과의 인연은 정말 우연히 이어졌는데요.
-(TO..BE..CONTINUE...)(작성 필요)&lt;/p&gt;
-&lt;h2&gt;개인적인 이야기(작성 필요)&lt;/h2&gt;
-&lt;p&gt;창업을 하며 일하는 방식과 협업 방식이 크게 바뀌게 되었습니다. 과거에는 디자이너나 프론트 개발자와 밀접하게 협업 할 일이 많지 않았고, 협업 기회가 생기더라도 대부분&lt;/p&gt;
+&lt;p&gt;기용과의 인연은 정말 우연히 이어졌는데요. 처음에는 EO에 소개된 인터뷰 영상으로 접하게 되었었습니다.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;이해관계자가 편하게-&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://youtu.be/nLL409se8sM&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;27년차 실리콘밸리 개발자의 인생 이야기 [한기용] 1부&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://youtu.be/XKqLz6WJSRA&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;40대 중반이 돼서야 깨닫고 실천할 수 있게 된 것 [한기용] 2부&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://youtu.be/3U0cbzmwSYc&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;이런 얘기를 하면 화내는 사람도 있죠 [한기용] 3부 최종화&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;2024년 계획(작성 필요)&lt;/h2&gt;
-&lt;p&gt;고객, 제품, 채용, 프로젝트&lt;/p&gt;
+&lt;p&gt;그 후 여러 회사에서 오프라인 세션을 진행하시는 것을 지인과 SNS를 통해 전해 들었는데요. 그러다 2023년 8월, 기용님이 한국에 들어오신다는 소식을 듣고선 한번 뵙고 싶다는 생각에 &lt;code&gt;&apos;기회가 된다면 뵙고 싶다&apos;&lt;/code&gt;라고 드렸는데, 실제로 저와 같이 따로 연락드린 분들을 모아 세션을 진행해주셨습니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 510px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 49.609375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABZ0lEQVQoz5WQ2Y6CUAyGef930Stj1OCFG0iMcd/iCjggQwA1zhHc/kmbMDMgN3OS5rTntF//VkLGeb1eiTv9F1s6n470tzid7AcBLMvGp+vicHA41g0DH5YFz/OhGyYej0cCKmXB4s8wDPElBIS4IgwjRFGEy+WC6zXE/X6HEAJpQVLWWP85VP98Pt9HPp/P0HUd2+2Wjfzdbof9fs8W+4Zh8L9pmnAcB7Ztw/M83G6335Gpg+u6aDQaKBQKaDabKJfL7I9GI3S7XeRyObRaLSiKgnw+z3Gn08F6vWY4jZ8ABkHAydPplCG9Xo9j8qkRwdrtNseTyQSDwQCbzYZv3/d5twkgyS6VSgyq1WqoVquslGJ61zSN38mGwyFDqTmpP51O70BSSAoIQl0psV6vM4jUFYtFNlmWoaoqKpUKFosF7z5T4fF45J2QzedzrFYrjMdjvvv9/s8aZrMZv1HecrnkOhITA78BZ/HmbEYd7YIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;한기용님과 함께하는 단체챗 회고&quot;
+        title=&quot;한기용님과 함께하는 단체챗 회고&quot;
+        src=&quot;/static/9b53ceef919399602c2d48c3244cb5ff/0abdd/8.png&quot;
+        srcset=&quot;/static/9b53ceef919399602c2d48c3244cb5ff/6f3f2/8.png 256w,
+/static/9b53ceef919399602c2d48c3244cb5ff/0abdd/8.png 510w&quot;
+        sizes=&quot;(max-width: 510px) 100vw, 510px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;center&gt;자리를 준비하시어 DM으로 연락주신 모습&lt;/center&gt;
+&lt;p&gt;세션은 개발자, 디자이너, PO, 사업개발, 데이터 분석가, 데이터 엔지니어 등 다양한 직군의 사람이 참가해주셨고 &lt;code&gt;1) 해외취업&lt;/code&gt;, &lt;code&gt;2) 건강한 피드백&lt;/code&gt;, &lt;code&gt;3) 리더십&lt;/code&gt; 같은 주제로 구성되었습니다. 건강한 피드백과 리더십에 대한 내용은 &lt;a href=&quot;/%ED%95%9C%EA%B8%B0%EC%9A%A9%EB%8B%98%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EB%8B%A8%EC%B2%B4%EC%B1%97-%ED%9A%8C%EA%B3%A0&quot;&gt;한기용님과 함께하는 단체챗 회고&lt;/a&gt;에 간략하게 정리되어 있습니다.&lt;/p&gt;
+&lt;p&gt;그 후 시간이 지나 링크드인을 통해 엔젤투자 의사를 먼저 밝혀 주셨고, 기술 조직 운영에 대한 노하우 부분에서 많은 도움을 받을 수 있을 것 같다는 판단하에 엔젤투자자로 모시게 되었습니다.&lt;/p&gt;
+&lt;h2&gt;개인적인 이야기&lt;/h2&gt;
+&lt;p&gt;창업하며 일하는 방식과 협업 방식이 크게 바뀌게 되었습니다. 과거에는 플랫폼 엔지니어링 위주로 경험했다 보니 서버 개발자와 PM을 제외한 프론트엔드 개발자, 프로덕트 디자이너와 밀접하게 협업할 기회가 많지 않았습니다. 협업 기회가 생기더라도 대부분 PM을 통해서 협업하거나 일시적으로 협업하고 끝났던 것 같습니다.&lt;/p&gt;
+&lt;p&gt;그래서 이 부분을 약 100개의 사이드 프로젝트를 경험하며 채워나갔지만, 그럼에도 마음속에는 약간의 &lt;code&gt;결핍&lt;/code&gt;으로 남아있었다고 생각합니다. 어떻게 하면 더 효율적으로 &lt;code&gt;가치를 만들 수 있을까&lt;/code&gt;, 어떻게 하면 &lt;code&gt;한정된 시간 동안 최대의 효율을 낼 수 있을까&lt;/code&gt;, 어떻게 하면 &lt;code&gt;다른 사람보다 100배 빠르게, 잘할 수 있을까&lt;/code&gt;라는 생각이 계속 들었습니다.&lt;/p&gt;
+&lt;p&gt;그러던 중 새롭게 모시게 된 &lt;code&gt;제이&lt;/code&gt; 덕분에 대략의 방향성을 잡을 수 있게 되었습니다. 바로 &lt;code&gt;나의 탁월한 역량으로 상대방이 일하기 편하게 해주자&lt;/code&gt;였습니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;예를 들어 엑셀 파일을 업로드해서 파싱하고 양식에 맞게끔 작성하였는지 검증하는 로직이 필요하다고 할 때, 프론트엔드와 백엔드 중 어디서 하는 게 좋을까요?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;각자 장단점이 있지만 백엔드에서 처리하는 방향으로 구조를 잡는다면 업로드된 파일의 State를 관리해야 한다거나 하는 등 여러 부분에서 복잡한 처리가 필요해집니다. 그런데 이때 &lt;code&gt;&apos;이건 프론트엔드 측에서 하는게 나을 것 같다.&apos;&lt;/code&gt;라며 프론트엔드 개발자가 먼저 제안 해준다면 어떨까요? 구조는 훨씬 간단해집니다.&lt;/p&gt;
+&lt;p&gt;저는 저 상황에서 &lt;code&gt;당연히 백엔드에서 해야지&lt;/code&gt;라고 생각했습니다. 제가 여태 해온 것이 백엔드 개발이니까요. 하지만 저 말을 듣는 순간 &lt;code&gt;적절한 위임&lt;/code&gt;과 &lt;code&gt;탁월한 역량으로 팀에 기여한다는 것&lt;/code&gt;의 중요성을 다시 한번 깨닫게 되었습니다.&lt;/p&gt;
+&lt;p&gt;그 이후 &lt;code&gt;빌링(결제 및 구독) 프로젝트&lt;/code&gt;를 진행했는데요. 제가 백엔드 개발을 담당하였습니다.&lt;/p&gt;
+&lt;p&gt;결제와 구독 비즈니스는 정기 결제 실패, 유료 구독 연장, 무료 체험, 구독 플랜 변경 등 다양한 부분에서 복잡한 조건과 상태를 확인하고, API를 어떤 방법과 순서로 호출 하여야 하는지에 대한 이해가 필요합니다. 이러한 정보는 서버 개발을 담당한 백엔드 개발자가 가잘 잘 알고 있을텐데요.&lt;/p&gt;
+&lt;p&gt;백엔드 개발자가 이해하고 있는 조건과 정책을 프론트엔드 개발자에게 전파시키는게 쉬운 일은 아닙니다. 아무리 다이어그램을 잘 그리고 구구절절 설명 하더라도 그걸 보는 사람마다 다 다르게 이해할 가능성도 있습니다. 그래서 저는 관련 로직을 &lt;code&gt;프론트엔드 코드로 직접 작성&lt;/code&gt;해서 전달했습니다.&lt;/p&gt;
+&lt;p&gt;그 결과 이해관계자들끼리의 커뮤니케이션 비용이 확연히 줄어들게 되었고, 실제로 커뮤니케이션을 위한 시간이 많이 줄어듦을 체감할 수 있었습니다. (서버 개발부터 프론트엔드 개발까지 working-time 10일이 안걸렸습니다.)&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;탁월한 역량으로 팀에 기여&lt;/code&gt;하기 위한 방법을 고민하고, 어떻게 &lt;code&gt;남들보다 100배 더 잘할 수 있을지&lt;/code&gt; 고민하는 것에 대한 중요성을 다시 한번 깨닫는 계기였습니다.&lt;/p&gt;
+&lt;h2&gt;2024년 계획&lt;/h2&gt;
+&lt;p&gt;2024년에는 크게 네 가지 목표를 가지고 나아가려고 합니다. 넘버링이 우선순위를 의미하는건 아닙니다.&lt;/p&gt;
+&lt;h3&gt;목표 1. 고객&lt;/h3&gt;
+&lt;p&gt;2024년의 주요 목표 중 하나는 제품을 이용해주고 있으신 고객분들에게 더 나은 가치를 전달하고, 더 나은 서비스와 경험을 제공하는 것입니다. 이를 위해 고객의 피드백을 청취하고 그에 따른 개선사항을 빠르게 반영할 수 있는 프로세스를 준비하고 있습니다.&lt;/p&gt;
+&lt;h3&gt;목표 2. 제품&lt;/h3&gt;
+&lt;p&gt;제품을 더 사용자 친화적이고 효율적으로 만들기 위한 연구와 개발을 지속적으로 진행하려고 합니다. 예정되어 있는 기능과 서비스 뿐 아니라, 앞으로 새롭게 챌린지하게 될 것들까지 상상 할 수 없는 속도로 준비하고 있습니다. 또한, 제품의 안정성과 보안성을 더욱 강화하기 위한 작업도 함께 진행할 예정입니다.&lt;/p&gt;
+&lt;p&gt;이 글에서 모두 밝히긴 어렵지만 &lt;code&gt;2024년&lt;/code&gt;은 2023년보다 &lt;code&gt;10배&lt;/code&gt;, &lt;code&gt;20배&lt;/code&gt; 빠르게 나아갈 수 있을 것으로 기대합니다.&lt;/p&gt;
+&lt;h3&gt;목표 3. 채용&lt;/h3&gt;
+&lt;p&gt;팀을 더 강화하고 더 많은 역량 있는 인재를 채용하는 것도 중요한 목표 중 하나입니다. 제품과 팀의 성장과 발전을 위해 필요한 역량과 경험을 가진 전문가들을 영입하고자 합니다. 현재 B2B 마케터, 백엔드 개발자, 프론트엔드 개발자 포지션을 열어두었으며, 관심 있으신분을 위해 채용 공고를 함께 첨부합니다. &lt;a href=&quot;https://careers.bolta.io/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;볼타(Bolta) 채용 : 볼타는 고속성장중!&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;목표 4. 건강&lt;/h3&gt;
+&lt;p&gt;마지막으로, 2024년에는 개인의 건강에 대한 부분을 더 큰 중요성으로 다루고 관리하려 합니다. 다양한 스트레스를 관리하기 위해 지금보다 건강한 식사와 규칙적인 운동을 병행하고자 합니다. 최대한 컨디션의 Low-High 격차를 줄여 항상 뛰어난 판단을 내릴 수 있기를 기대합니다. 이를 통해 팀과 제품의 목표를 달성하는 데 큰 기여를 할 수 있다고 믿습니다.&lt;/p&gt;
+&lt;h2&gt;마무리&lt;/h2&gt;
+&lt;p&gt;그럼, 2024년에도 모두 잘 부탁드립니다. 🙂&lt;/p&gt;
 &lt;style class=&quot;grvsc-styles&quot;&gt;
   .grvsc-container {
     overflow: auto;
