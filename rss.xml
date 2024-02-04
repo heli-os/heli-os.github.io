@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 03 Feb 2024 10:47:00 GMT</lastBuildDate><item><title><![CDATA[[볼타 이야기] 작은 팀을 유지하려는 이유]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%9E%91%EC%9D%80-%ED%8C%80%EC%9D%84-%EC%9C%A0%EC%A7%80%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0/</link><guid isPermaLink="false">https://dataportal.kr/볼타-이야기-작은-팀을-유지하려는-이유/</guid><pubDate>Sat, 10 Feb 2024 20:30:07 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 04 Feb 2024 03:32:53 GMT</lastBuildDate><item><title><![CDATA[[볼타 이야기] 작은 팀을 유지하려는 이유]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%9E%91%EC%9D%80-%ED%8C%80%EC%9D%84-%EC%9C%A0%EC%A7%80%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0/</link><guid isPermaLink="false">https://dataportal.kr/볼타-이야기-작은-팀을-유지하려는-이유/</guid><pubDate>Sat, 10 Feb 2024 20:30:07 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -25,10 +25,16 @@
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/keeyonghan/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;한기용님&lt;/a&gt;의 글에도 언급된 적 있는데, 보통 스타트업의 장점은 빠른 의사결정 속도라고 이야기합니다. 하지만 나날이 성장하는 스타트업에서도 인원이 증가하고 인재 밀도가 낮아질수록 이 빠른 결정력은 점차 퇴화하는 경향을 보입니다. 마치 차량의 바퀴가 많다고 해서 더 빨리 움직인다고 착각하는 것과 비슷한 맥락입니다.&lt;/p&gt;
 &lt;p&gt;물론, 그렇게 느려지더라도 스타트업은 대기업에 비해 의사결정 속도가 빠른 편입니다. 그러나 인원이 늘어나면서 더 많은 의사결정 레이어가 추가되고, 커뮤니케이션의 복잡성이 증가하는 등 새로운 도전에 직면하게 됩니다. 이러한 도전에 대처하려면 어떻게 해야 할까요?&lt;/p&gt;
-&lt;h2&gt;&lt;/h2&gt;
-&lt;p&gt;===&lt;/p&gt;
-&lt;p&gt;하지만 제 경험상 이것도 인원이 어느 이상을 넘어가고 인재 밀도가 낮아지는 순간 대기업보다는 빠를지 몰라도 눈에 띄게 느려지는 경향을 보입니다.&lt;/p&gt;
-&lt;p&gt;바퀴가 8개라고 차가 빨리 가는 게 아니더라고요. 최대한 불필요한 커뮤니케이션 비용을 다 줄이고, 효율적으로 일했으면 합니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;의사결정 효율성 중시&lt;/code&gt;: 바쁜 업무와 빠른 텀에 휘둘리기 쉽지만, 각 결정에는 신중한 고려가 필요합니다. 무분별한 의사결정은 오히려 업무 효율성을 떨어뜨릴 수 있습니다. 그러므로 중요한 결정에는 충분한 시간을 투자하고, 필요한 정보와 의견을 모아 신중하게 판단해야 합니다.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;효과적인 커뮤니케이션을 통해 불필요한 비용 최소화&lt;/code&gt;: 인원이 늘어남에 따라 의사전달이 더 어려워지고 오해가 증가할 수 있습니다. 이를 방지하기 위해 명확하고 투명한 커뮤니케이션 체계를 구축하는 것이 중요합니다. 팀 간의 협력과 정보 공유를 강화하면서 중간 단계의 의사결정 레이어를 최소화하여 불필요한 지연을 방지할 수 있습니다.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;팀 내부의 업무 프로세스 최적화&lt;/code&gt;: 각자의 역할과 책임을 명확히 정의하고, 업무 흐름을 불필요한 복잡성 없이 단순하게 구성함으로써 의사결정 속도를 높일 수 있습니다. 업무의 목적과 우선순위를 명확히 이해하면서 일하는 것이 중요합니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;정리&lt;/h2&gt;
+&lt;p&gt;TBU&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;최대한 불필요한 커뮤니케이션 비용을 다 줄이고, 효율적으로 일했으면 합니다.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;style class=&quot;grvsc-styles&quot;&gt;
   .grvsc-container {
     overflow: auto;
