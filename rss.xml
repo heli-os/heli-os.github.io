@@ -1,4 +1,156 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 04 Feb 2024 15:24:26 GMT</lastBuildDate><item><title><![CDATA[[주간회고] 2024년 5주차]]></title><description><![CDATA[Do: Work 리뉴얼 릴리즈 기념 회식: 볼타 서비스 리뉴얼은 꽤나 장기간으로 가져왔던 프로젝트입니다. 리뉴얼과 관련된 자세한 내용은 202…]]></description><link>https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-5%EC%A3%BC%EC%B0%A8/</link><guid isPermaLink="false">https://dataportal.kr/주간회고-2024년-5주차/</guid><pubDate>Sun, 04 Feb 2024 21:15:20 GMT</pubDate><content:encoded>&lt;h2&gt;Do: Work&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 05 Feb 2024 12:16:04 GMT</lastBuildDate><item><title><![CDATA[[볼타 이야기] 채용 원칙]]></title><description><![CDATA[볼타 처음 창업 당시, 공동창업자인 문혁님과 함께 둘만의 채용 원칙을 정했었는데요. 그 이후 2023년…]]></description><link>https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%B1%84%EC%9A%A9-%EC%9B%90%EC%B9%99/</link><guid isPermaLink="false">https://dataportal.kr/볼타-이야기-채용-원칙/</guid><pubDate>Mon, 05 Feb 2024 21:05:12 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 77.734375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAED/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAc9Iig//xAAaEAACAgMAAAAAAAAAAAAAAAABAgARISIx/9oACAEBAAEFAitrwhVmt4gAM//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAICAgMBAAAAAAAAAAAAAAABESECMSJBcVH/2gAIAQEABj8Cc9moSejnjfhFwrhiun8LxT9P/8QAHBABAAIDAAMAAAAAAAAAAAAAARFBACExUWFx/9oACAEBAAE/ITAWdvUmEEymI6rvzIGtpIdYIpFklrKeflTCp8Mqs//aAAwDAQACAAMAAAAQG+//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEBAAMBAAMAAAAAAAAAAAABEQAhMVFBYXH/2gAIAQEAAT8QBRk1jdJ+TscAQdIIR4O+h1ju4K9x2R8x2qJRbsr8OEKsBsqaqN++vmNRK7gY0TZrP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/c74d2d02099cd1a7c05218c578bfc008/72e01/1.jpg&quot;
+        srcset=&quot;/static/c74d2d02099cd1a7c05218c578bfc008/e4a55/1.jpg 256w,
+/static/c74d2d02099cd1a7c05218c578bfc008/36dd4/1.jpg 512w,
+/static/c74d2d02099cd1a7c05218c578bfc008/72e01/1.jpg 1024w,
+/static/c74d2d02099cd1a7c05218c578bfc008/ac99c/1.jpg 1536w,
+/static/c74d2d02099cd1a7c05218c578bfc008/e1596/1.jpg 2048w,
+/static/c74d2d02099cd1a7c05218c578bfc008/01fc7/1.jpg 3200w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;볼타 처음 창업 당시, 공동창업자인 문혁님과 함께 둘만의 채용 원칙을 정했었는데요. 그 이후 2023년 3분기 채용을 거치며 지금에 이르기까지 그 원칙과 생각이 조금 더 구체화 된 것 같습니다. 이 글에서는 그 이야기를 적어보려고 합니다.&lt;/p&gt;
+&lt;h2&gt;첫 번째 채용 원칙&lt;/h2&gt;
+&lt;p&gt;정말 의외이지만 처음에 가졌던 원칙은 &lt;code&gt;같이 일해본 적 있는 분들은 최대한 풀타임으로 모시지 말자&lt;/code&gt;였습니다. 많은 팀이 기존에 같이 일해봤던 분들을 모셔 오는 경향이 있는데요. 저희는 완전 반대의 길을 선택했다고 볼 수 있습니다. 초기 제품 개발은 공동창업자 두 명으로 충분했습니다. 속도도 큰 문제 없었고요. 물리적으로 시간이 부족했던 시기에만 지인분들을 파트타임으로 모셔서 함께 했습니다.&lt;/p&gt;
+&lt;p&gt;같이 일해본 적 있는 분들을 풀타임으로 모시지 않았던 이유는 크게 세 가지였습니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;조직의 개성이 없어진다&lt;/code&gt;: 이미 비슷한 경험을 해왔던 사람끼리는 서로에게 새로운 자극을 주기 어렵습니다. 새로운 자극은 더 높은 챌린지를 달성하기 위해 노력하고 경쟁하는 데 큰 도움을 주는 요소이기 때문에 조직의 개성이 중요하다고 생각했습니다.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;건강하게 싸우기 힘들다&lt;/code&gt;: 제품을 만들다 보면 팀 내에서 의견이 충돌하거나 갈등이 발생하는 경우가 자주 있습니다. 이때 이미 친분이 많이 쌓여있는 경우 친분이 틀어지는 게 두렵고, 나쁜 사람으로 기억되는 게 싫어서 갈등을 회피하기도 합니다. 이는 조직의 발전에 큰 제동을 걸 수 있는 포인트라고 생각했습니다.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;의도하지 않은 커뮤니케이션 생략이 발생한다&lt;/code&gt;: 이미 서로에게 익숙한 경우 눈빛만 봐도 서로의 생각을 유추할 수 있기도 합니다. 불필요한 커뮤니케이션을 줄여 더 높은 생산성을 만들어 낼 방법은 맞지만, 팀원이 늘어날수록 의도치 않게 파벌이나 눈에 보이지 않는 벽이 생길 수 있는 부분이기도 합니다. 장기적으로 봤을 때는 큰 문제점이라고 생각했습니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;두 번째 채용 원칙&lt;/h2&gt;
+&lt;p&gt;2023년 2분기에서 3분기에 걸친 채용을 경험하면서 채용 원칙은 조금 더 구체화 되었습니다. 당시 채용을 위해 채용 플랫폼에 채용 공고를 정말 적극적으로 올렸었는데요. 세 분을 모시는데 약 3,500분 정도가 지원해 주실 정도였습니다. 모 채용 플랫폼에서는 인기순 정렬 시 1위를 2주 연속으로 유지하기도 했었고요. (정작 모시게 되었던 분들은 모두 이메일이나 자체 채용 플랫폼, 링크드인 등으로 지원해 주신 분들이었습니다)&lt;/p&gt;
+&lt;p&gt;많은 분의 이력서를 검토하고, 과제를 드려보기도 하고, 인터뷰를 진행하면서 많이 배울 수 있었습니다. 가장 크게 느꼈던 부분은 &lt;code&gt;제품 개발 뿐 아니라 HR에서도 Fast Fail이 중요하다&lt;/code&gt;는 점이었습니다. 기존에는 이력서 제출 -&gt; 검토 -&gt; 사전 과제 -&gt; 온사이트 인터뷰(3시간~4시간)의 흐름을 가져가면서 온사이트 인터뷰까지 짧으면 2주, 길면 3주에서 4주까지 걸리기도 했습니다. 후보자와 회사 모두 많은 시간을 할애하였던 것인데요. 막상 인터뷰까지 모셨지만 &lt;code&gt;저희 팀이 생각하는 가장 중요한 부분&lt;/code&gt;에 대한 부분이 아쉬워서 불합격 소식을 안내해 드리는 경우가 많았습니다.&lt;/p&gt;
+&lt;p&gt;이에 채용 전형을 이력서 제출 -&gt; 검토 -&gt; 사전 인터뷰(온라인, 30분 남짓) -&gt; 사전 과제(대부분 생략) -&gt; 온사이트 인터뷰(3시간~4시간)로 변경하였고, 사전 인터뷰에서 꼭 확인하고자 하는 부분을 글로 정리하였습니다. 그리고 이게 곧 채용 원칙의 일부가 되었습니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;팀의 Fit과 맞으면서 최대한 기존 팀에 없는 캐릭터를 지니신 분을 모신다&lt;/code&gt;: 채용 시 팀원들과 잘 맞을지 1순위로 판단하고, 합류 시 팀원들이 새롭게 배울 수 있는게 명확하신 분을 모신다.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;주요 포지션의 양적 확장이 가능하신 분을 모신다&lt;/code&gt;: 기존 팀원들이 하는 일을 당연히 할 수 있으면서도 새로운 영역으로 확장하는데 기여하실 수 있는 사람을 모신다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;현재의 채용 원칙&lt;/h2&gt;
+&lt;p&gt;볼타 팀은 2024년 시작과 함께 &lt;a href=&quot;https://news.mt.co.kr/mtview.php?no=2024012613574584122&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Pre-A 투자 유치 소식&lt;/a&gt;을 공개적으로 알렸는데요. 그와 동시에 신규 채용을 시작하였고, 기존의 채용 원칙과 과거 채용 프로세스를 회고해보며 채용 원칙을 다시 한번 정리하였습니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;근본적으로 회사에서 사람을 뽑는 이유인, &lt;code&gt;회사의 비즈니스를 실현&lt;/code&gt;하고 만들어 나가는 경험을 주도적으로 하는 기회와 경험을 지금 하고 싶으신 분을 모신다.&lt;/li&gt;
+&lt;li&gt;미래에는 누구에게나 인정받는 제품 개발자가 되고 싶고, 이를 위해 필요한 기술적인 경험뿐 아니라 &lt;code&gt;주도적으로 사업적 Impact를 내보는 경험&lt;/code&gt;, 그리고 제품 개발 조직을 함께 꾸려나가면서 배우는 다양한 경험까지 해보고 싶으신 분을 모신다.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;훌륭한 동료들과 일하는 데에서 자극받는 분&lt;/code&gt;을 모신다.&lt;/li&gt;
+&lt;li&gt;직업적인 안정성을 갖고 안락하게 살며 큰 퇴직금을 받으며 다닐 수 있는 직장 생활보다, &lt;code&gt;시장에 혁신을 만들고 동료들로부터 존경받는 것이 훨씬 더 가치가 큰 분&lt;/code&gt;을 모신다.&lt;/li&gt;
+&lt;li&gt;조직 구성원들이 스스로 동기 부여되어서 열심히 일하며 서로를 자극하고, &lt;code&gt;더 높은 챌린지를 달성하기 위해 노력하고 경쟁하는데 기여해주실 수 있는 분&lt;/code&gt;을 모신다.&lt;/li&gt;
+&lt;li&gt;스스로 열심히 한다고 생각하는데, 나보다 더 열심히 하고 헌신하며 &lt;code&gt;나에게 자극을 주는 사람들과 일하는 경험을 해보고 싶으신 분&lt;/code&gt;을 모신다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;꿈꾸는 조직 문화&lt;/h2&gt;
+&lt;p&gt;저와 공동창업자 문혁님은 초기부터 팀원이 볼타를 떠나게 되었을 때 팀원들의 평가는 &quot;그 사람 일 잘했지&quot;, &quot;열심히 하지&quot;보다 &lt;code&gt;&quot;정말 사랑받는 팀원이었어&quot;&lt;/code&gt;라는 이야기가 나올 수 있는 문화를 만들고 싶다는 이야기를 자주 했는데요. 문득 그런 문화가 잘 만들어져 가는 것 같아서 다행이라는 생각이 듭니다.&lt;/p&gt;
+&lt;p&gt;최근 볼타 팀은 제품을 고도화 해나가면서 여러 가지 고민을 하고 있습니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;금융/자금 업무를 필요한 정보만 확인하면서 편하게 하고 싶은 조직과 모든 정보를 상세하게 확인하고 싶은 조직. 전혀 다른 두 조직 모두가 편리하게 쓸 수 있는 기업 금융 플랫폼은 어떤 모습일까?&lt;/li&gt;
+&lt;li&gt;Frontend 제품의 안정성과 성능을 지속적으로 모니터링하고, 개개인의 역량에 의존하지 않고 함께 개선해 나갈 수 있는 Frontend SRE 문화는 어떻게 만들어 갈 수 있을까?&lt;/li&gt;
+&lt;li&gt;각기 다른 회사들의 다양한 업무 프로세스를 지원하면서 이를 자동화 할 수 있게 해주려면 어떻게 해야 할까?&lt;/li&gt;
+&lt;li&gt;민감 정보에 대한 접근을 제한할 수 있는 복잡한 권한 시스템을 적용하면서도 안정적인 성능을 제공하는 Open API는 어떻게 만들 수 있을까?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;미래에 창업을 꿈꾸고 계시거나, 마음 맞는 팀원들과 제품을 재미있게 만들어보는 경험을 하고 싶으시다면 볼타 팀에서 정말 귀중한 경험을 쌓으실 수 있을거라고 장담합니다.&lt;/p&gt;
+&lt;p&gt;B2B 마케터, 프로덕트 엔지니어(Frontend), 프로덕트 엔지니어(Backend) 포지션을 채용 중에 있으니 많은 관심 부탁드립니다. &lt;a href=&quot;https://careers.bolta.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;볼타(Bolta) 채용 : 볼타는 고속성장중!&lt;/a&gt;&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[[주간회고] 2024년 5주차]]></title><description><![CDATA[Do: Work 리뉴얼 릴리즈 기념 회식: 볼타 서비스 리뉴얼은 꽤나 장기간으로 가져왔던 프로젝트입니다. 리뉴얼과 관련된 자세한 내용은 202…]]></description><link>https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-5%EC%A3%BC%EC%B0%A8/</link><guid isPermaLink="false">https://dataportal.kr/주간회고-2024년-5주차/</guid><pubDate>Sun, 04 Feb 2024 21:15:20 GMT</pubDate><content:encoded>&lt;h2&gt;Do: Work&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;리뉴얼 릴리즈 기념 회식&lt;/code&gt;: 볼타 서비스 리뉴얼은 꽤나 장기간으로 가져왔던 프로젝트입니다. 리뉴얼과 관련된 자세한 내용은 &lt;a href=&quot;/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/#%EB%B3%BC%ED%83%80:-%EC%A0%84%EB%A9%B4-%EB%A6%AC%EB%89%B4%EC%96%BC-&amp;#x26;-FrontEnd-Engineering&quot;&gt;2023년 회고 게시글&lt;/a&gt;에서 다룬 적 있는데요. 정말 쉴 틈 없이 빠르게 달려왔기 때문에 피로를 푸는 느낌으로 회식을 진행했습니다. 🙂&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;외부 제휴사 미팅&lt;/code&gt;: 과거 제휴 논의를 해왔던 파트너사들과 밀린 미팅을 진행했습니다. 리뉴얼 릴리즈를 위해 기술과 제품 개발에만 집중하고 있던 시점이라 한없이 밀리고 있었는데요. 그래도 오랫동안 기다려주셔서 감사할 따름입니다.&lt;/li&gt;
