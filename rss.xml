@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 05 Feb 2024 13:48:54 GMT</lastBuildDate><item><title><![CDATA[[볼타 이야기] 채용 원칙]]></title><description><![CDATA[볼타 창업 당시, 공동창업자인 문혁님과 함께 둘만의 채용 원칙을 정했었는데요. 그 이후 2023년…]]></description><link>https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%B1%84%EC%9A%A9-%EC%9B%90%EC%B9%99/</link><guid isPermaLink="false">https://dataportal.kr/볼타-이야기-채용-원칙/</guid><pubDate>Mon, 05 Feb 2024 21:05:12 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 11 Feb 2024 14:22:19 GMT</lastBuildDate><item><title><![CDATA[[볼타 이야기] 채용 원칙]]></title><description><![CDATA[볼타 창업 당시, 공동창업자인 문혁님과 함께 둘만의 채용 원칙을 정했었는데요. 그 이후 2023년…]]></description><link>https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%B1%84%EC%9A%A9-%EC%9B%90%EC%B9%99/</link><guid isPermaLink="false">https://dataportal.kr/볼타-이야기-채용-원칙/</guid><pubDate>Mon, 05 Feb 2024 21:05:12 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -155,7 +155,32 @@
     opacity: 0.7;
   }
   
-&lt;/style&gt;</content:encoded></item><item><title><![CDATA[[주간회고] 2024년 5주차]]></title><description><![CDATA[Do: Work 리뉴얼 릴리즈 기념 회식: 볼타 서비스 리뉴얼은 꽤나 장기간으로 가져왔던 프로젝트입니다. 리뉴얼과 관련된 자세한 내용은 202…]]></description><link>https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-5%EC%A3%BC%EC%B0%A8/</link><guid isPermaLink="false">https://dataportal.kr/주간회고-2024년-5주차/</guid><pubDate>Sun, 04 Feb 2024 21:15:20 GMT</pubDate><content:encoded>&lt;h2&gt;Do: Work&lt;/h2&gt;
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[[주간회고] 2024년 5주차]]></title><description><![CDATA[Do: Work 리뉴얼 릴리즈 기념 회식: 볼타 서비스 리뉴얼은 꽤나 장기간으로 가져왔던 프로젝트입니다. 리뉴얼과 관련된 자세한 내용은 202…]]></description><link>https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-5%EC%A3%BC%EC%B0%A8/</link><guid isPermaLink="false">https://dataportal.kr/주간회고-2024년-5주차/</guid><pubDate>Sun, 04 Feb 2024 21:15:20 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 77.734375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAUloJkg//8QAGBABAAMBAAAAAAAAAAAAAAAAAQACESH/2gAIAQEAAQUCc2wTjDlbgXzZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAQQDAAAAAAAAAAAAAAAAAQAQEUFRYXH/2gAIAQEABj8CWGG7UAVPW//EABsQAQADAQADAAAAAAAAAAAAAAEAESExQYGR/9oACAEBAAE/IWwhhOCorYCpTUlspf2GzeRYBd57n//aAAwDAQACAAMAAAAQIM//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAhMZFBUWGB/9oACAEBAAE/EGxQqBp4xDtSauDlLSdGfPAg08Q8F/WYC4tgyNJPfWRQYYitdcmf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/f83b0ac427a3059a80f44da26ab0fe63/72e01/1.jpg&quot;
+        srcset=&quot;/static/f83b0ac427a3059a80f44da26ab0fe63/e4a55/1.jpg 256w,
+/static/f83b0ac427a3059a80f44da26ab0fe63/36dd4/1.jpg 512w,
+/static/f83b0ac427a3059a80f44da26ab0fe63/72e01/1.jpg 1024w,
+/static/f83b0ac427a3059a80f44da26ab0fe63/ac99c/1.jpg 1536w,
+/static/f83b0ac427a3059a80f44da26ab0fe63/e1596/1.jpg 2048w,
+/static/f83b0ac427a3059a80f44da26ab0fe63/01fc7/1.jpg 3200w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Do: Work&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;리뉴얼 릴리즈 기념 회식&lt;/code&gt;: 볼타 서비스 리뉴얼은 꽤나 장기간으로 가져왔던 프로젝트입니다. 리뉴얼과 관련된 자세한 내용은 &lt;a href=&quot;/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/#%EB%B3%BC%ED%83%80:-%EC%A0%84%EB%A9%B4-%EB%A6%AC%EB%89%B4%EC%96%BC-&amp;#x26;-FrontEnd-Engineering&quot;&gt;2023년 회고 게시글&lt;/a&gt;에서 다룬 적 있는데요. 정말 쉴 틈 없이 빠르게 달려왔기 때문에 피로를 푸는 느낌으로 회식을 진행했습니다. 🙂&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;외부 제휴사 미팅&lt;/code&gt;: 과거 제휴 논의를 해왔던 파트너사들과 밀린 미팅을 진행했습니다. 리뉴얼 릴리즈를 위해 기술과 제품 개발에만 집중하고 있던 시점이라 한없이 밀리고 있었는데요. 그래도 오랫동안 기다려주셔서 감사할 따름입니다.&lt;/li&gt;
