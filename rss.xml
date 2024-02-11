@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 11 Feb 2024 16:12:57 GMT</lastBuildDate><item><title><![CDATA[[주간회고] 2024년 6주차]]></title><description><![CDATA[Do: Work 2024년 6주차는 팀 전체가 조금은 쉬어가면서 밀린 부채를 해소하는 시간으로 보냈는데요. 미루고 미루던 부채들을 좀 많이 해소할 수 있었습니다. WBR 개편: WBR은 Weekly Business Review…]]></description><link>https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-6%EC%A3%BC%EC%B0%A8/</link><guid isPermaLink="false">https://dataportal.kr/주간회고-2024년-6주차/</guid><pubDate>Sun, 11 Feb 2024 21:41:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 11 Feb 2024 16:22:11 GMT</lastBuildDate><item><title><![CDATA[[주간회고] 2024년 6주차]]></title><description><![CDATA[Do: Work 2024년 6주차는 팀 전체가 조금은 쉬어가면서 밀린 부채를 해소하는 시간으로 보냈는데요. 미루고 미루던 부채들을 좀 많이 해소할 수 있었습니다. WBR 개편: WBR은 Weekly Business Review…]]></description><link>https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-6%EC%A3%BC%EC%B0%A8/</link><guid isPermaLink="false">https://dataportal.kr/주간회고-2024년-6주차/</guid><pubDate>Sun, 11 Feb 2024 21:41:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -68,8 +68,8 @@
 &lt;/ul&gt;
 &lt;h2&gt;Try&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Amazon, Coupang의 Customer 관련 아티클 20개 이상 읽어보기&lt;/code&gt;: 아마존과 쿠팡은 비슷한 듯 미세하게 다른 고객 철학을 가지고 있다고 익히 전해 들었는데요. 이번 기회에 관련 아티클을 읽고, 정리 해보려 합니다.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Tech RND 사내 전파&lt;/code&gt;: 최근 제품 개발이 너무 바빠 Tech RND 과정과 결과를 문서로만 기록하고 있는데요. 조금 더 적극적으로 전파해 보면 좋을 것 같아 별도 세션을 잡고, 적극적으로 공유 해보려 합니다.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Amazon, Coupang의 Customer 관련 아티클 20개 이상 읽어보기&lt;/code&gt;: 아마존과 쿠팡은 비슷한 듯 미세하게 다른 고객 철학을 가지고 있다고 익히 전해 들었는데요. 이번 기회에 관련 아티클을 읽은 후 정리 해보려 합니다.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Tech RND 사내 전파&lt;/code&gt;: 최근 제품 개발이 너무 바빠 Tech RND 과정과 결과를 문서로만 기록하고 있는데요. 조금 더 적극적으로 전파해 보면 좋을 것 같아 별도 세션을 잡고 적극적으로 공유 해보려 합니다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;style class=&quot;grvsc-styles&quot;&gt;
   .grvsc-container {
