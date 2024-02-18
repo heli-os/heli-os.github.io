@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 18 Feb 2024 15:56:59 GMT</lastBuildDate><item><title><![CDATA[[주간회고] 2024년 7주차]]></title><description><![CDATA[Do: Work…]]></description><link>https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-7%EC%A3%BC%EC%B0%A8/</link><guid isPermaLink="false">https://dataportal.kr/주간회고-2024년-7주차/</guid><pubDate>Sun, 18 Feb 2024 21:57:13 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 18 Feb 2024 16:16:50 GMT</lastBuildDate><item><title><![CDATA[[주간회고] 2024년 7주차]]></title><description><![CDATA[Do: Work…]]></description><link>https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-7%EC%A3%BC%EC%B0%A8/</link><guid isPermaLink="false">https://dataportal.kr/주간회고-2024년-7주차/</guid><pubDate>Sun, 18 Feb 2024 21:57:13 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -25,7 +25,7 @@
     &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Do: Work&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;채용 커피챗&lt;/code&gt;: 여느 때와 다름없이 팀에 관심 가져주시는 분들과 고객과 제품 그리고 팀에 대한 이야기를 나누는 자리를 가졌습니다. 그중 이야기 나누는 내내 생동감 있는 시간을 보낸다는 생각이 들었던 분이 계셨는데요. 특히 챌린지하고자 하는 열정과 프론트엔드 시스템 엔지니어링에 대한 관심+역량이 느껴져 다음 전형을 진행하게 되었습니다. 🙂&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;채용 커피챗&lt;/code&gt;: 여느 때와 다름없이 팀에 관심 가져주시는 분들과 고객과 제품 그리고 팀에 대한 이야기를 나누는 자리를 가졌습니다. 그중 이야기 나누는 내내 생동감 있는 시간을 보낸다는 생각이 들었던 분이 계셨는데요. 특히 챌린지하고자 하는 열정과 프론트엔드 시스템 엔지니어링에 대한 관심과 역량이 느껴져 다음 전형을 진행하게 되었습니다. 🙂&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;다중 워크스페이스 지원을 위한 사전 코드 작업&lt;/code&gt;: 현재 볼타 서비스는 1개의 계정이 1개의 워크스페이스에 소속되는 구조(1:1)입니다. 고객이 늘어나면서, 하나의 계정으로 여러 워크스페이스를 관리하고 싶다는 VoC가 종종 들어오고 있었는데요. 신규 기능 개발 시 약간 텀이 발생할 때를 이용하여 이를 지원하기 위한 사전 코드 작업을 해두었습니다. 처음 제품을 개발할 때부터 1:N 구조가 될 수 있다고 판단하고 확장할 수 있게끔 구조를 잡아두어서 금방 마무리할 수 있었습니다.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;감사기록 사전 코드 작업&lt;/code&gt;: 감사기록(Audit History)는 특정 리소스의 변경 이력을 기록/관리하는 기능을 부르는 용어입니다. 기존에는 사용자에게 보여지지는 않고 운영을 위해서만 저장하고 있었는데요. 볼타 서비스를 자금 업무 협업 목적으로 사용하는 고객이 늘어나면서 사용자에게 제공하기 위한 코드 작업을 진행했습니다.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;세금계산서 발행 처리 아키텍처 고도화&lt;/code&gt;: 볼타 서비스는 세금계산서 발행이 트리거되는 부분이 다양합니다.(관리자의 간편발행, 예약발행, 멤버가 올린 요청에 대한 관리자의 발행승인, 수정발행 등) 그리고 이들의 자세한 데이터 모델과 전처리/후처리 로직도 미세하게 다른데요. 조금 더 고도화 할 수 있는 부분이 보여 약간의 작업을 진행 했습니다.&lt;/li&gt;
@@ -133,10 +133,9 @@
 &lt;h3&gt;&lt;code&gt;Frontend System Engineering&lt;/code&gt;&lt;/h3&gt;
 &lt;p&gt;서비스 개발에 있어서 가장 중요한 부분은 서비스 개발 속도를 효율적으로 끌어올려 비즈니스를 성공시키는 데 기여해야 한다는 점입니다. 처음에는 손이 가는 대로 제품을 만들어내는 게 가장 빠릅니다. 하지만 팀원이 하나둘 늘어나고 기능이 수십 개를 넘어가는 순간 개발이 느려집니다. 제품을 만드는 &lt;code&gt;개발자들은 어떻게든 이 비효율을 해소&lt;/code&gt;하여야만 합니다.&lt;/p&gt;
 &lt;p&gt;제품 개발 시 다양한 부분에서 느려질 수 있겠지만, 최근에는 Frontend Engineering 영역에 대한 비효율 해소하기 위한 방법에 집중하고 있습니다. 특히 개발자는 직관적으로 사용할 수 있고, 디자이너의 의도도 충분히 반영 가능하지만 시스템 수준에서 의도하지 않은 사용은 방지하는 디자인 시스템 구현체는 어떤 인터페이스를 가져야 할까? 고민하고 있습니다.&lt;/p&gt;
-&lt;p&gt;볼타는 현재 고객에게 제공되고 있는 서비스 외에도 몇 가지 서비스를 더 준비하고 있습니다. 볼타 Frontend System은 미래에 출시 될 제품과 서비스에서도 볼타의 브랜드를 잘 녹여내면서도 UX의 유려함을 지켜내기 위해 고민하고, 준비해 나가는 단계에 있습니다. 🙂&lt;/p&gt;
+&lt;p&gt;볼타는 현재 고객에게 제공되고 있는 서비스 외에도 몇 가지 서비스를 더 준비하고 있는데요. 미래에 출시 될 제품과 서비스에서도 볼타의 브랜드를 잘 녹여내면서도 UX의 유려함을 지켜내기 위해 고민하고, 준비해 나가면서 여러가지 아티클과 영상을 살펴보는 시간을 가졌습니다.&lt;/p&gt;
 &lt;h2&gt;Think&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;Frontend Engineering Deep-Dive&lt;/code&gt;: 최적화, 공통화, DX, UX 등 부가적인 부분을 향상하기 위해 여러 가지를 고민하고 있습니다. 이를 위해선 Frontend Engineering 영역을 조금 더 깊게 파악해 볼 필요가 있으나 여전히 깊게 살펴보지 못하고 있어 항상 아쉬움이 듭니다.&lt;/p&gt;
-&lt;p&gt;다음 주에는 오픈소스 Design System을 조금 살펴보고, Next.js를 이용한 &lt;code&gt;One Day Semi Project&lt;/code&gt;를 한 개 진행해 보고자 합니다.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Frontend Engineering Deep-Dive&lt;/code&gt;: 최적화, 공통화, DX, UX 등 부가적인 부분을 향상하기 위해 여러 가지를 고민하고 있습니다. 이를 위해선 Frontend Engineering 영역을 조금 더 깊게 파악해 볼 필요가 있으나 여전히 깊게 살펴보지 못하고 있어 항상 아쉬움이 듭니다. 다음 주에는 오픈소스 Design System을 조금 살펴보고, Next.js를 이용한 &lt;code&gt;One Day Semi Project&lt;/code&gt;를 한 개 해보면서 조금 더 익숙해져보려고 합니다.&lt;/p&gt;
 &lt;style class=&quot;grvsc-styles&quot;&gt;
   .grvsc-container {
     overflow: auto;
