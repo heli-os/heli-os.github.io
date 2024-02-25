@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 25 Feb 2024 09:36:20 GMT</lastBuildDate><item><title><![CDATA[유료화, 그 이후 (After Willingness to pay)]]></title><description><![CDATA[지금까지 스타트업의 발전이란 일단 PMF(Product Market Fit…]]></description><link>https://dataportal.kr/%EC%9C%A0%EB%A3%8C%ED%99%94-%EA%B7%B8-%EC%9D%B4%ED%9B%84-After-Willingness-to-pay/</link><guid isPermaLink="false">https://dataportal.kr/유료화-그-이후-After-Willingness-to-pay/</guid><pubDate>Sun, 25 Feb 2024 12:41:25 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 25 Feb 2024 09:37:02 GMT</lastBuildDate><item><title><![CDATA[유료화, 그 이후 (After Willingness to pay)]]></title><description><![CDATA[지금까지 스타트업의 발전이란 일단 PMF(Product Market Fit…]]></description><link>https://dataportal.kr/%EC%9C%A0%EB%A3%8C%ED%99%94-%EA%B7%B8-%EC%9D%B4%ED%9B%84-After-Willingness-to-pay/</link><guid isPermaLink="false">https://dataportal.kr/유료화-그-이후-After-Willingness-to-pay/</guid><pubDate>Sun, 25 Feb 2024 12:41:25 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -38,8 +38,8 @@
 &lt;li&gt;&lt;code&gt;스케일업과 더 많은 트랜잭션을 위한 무료 전환&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;정답도 없고, 산업과 사업 아이템에 따라 다르겠지만 항상 고민되는 부분입니다. 성급한 유료화로 인하여 충분한 고객층을 확보하지 못하여 스케일업에 실패하기도 하고, 무작정 스케일업만 추구하다 정작 &lt;code&gt;비용 지불 의사를 가진 고객&lt;/code&gt;을 뾰족하게 정의하는 타이밍을 놓치기도 합니다.&lt;/p&gt;
-&lt;p&gt;하지만 고객으로부터 돈을 실제로 벌어보는 경험은 의미 있다고 생각합니다. &lt;code&gt;Willingness to pay&lt;/code&gt;를 실제로 찾아낸 것이니까요. 물론 둘 중 어떤 선택을 했든 미래에는 그 선택을 후회하거나 &lt;code&gt;그때 반대 선택을 했다면 어떻게 됐을까?&lt;/code&gt;라며 과거를 회상할 수도 있을 겁니다.&lt;/p&gt;
-&lt;p&gt;모든 스타트업은 어떤 선택에 대해 미래에 후회하기보다 &lt;code&gt;Lesson&lt;/code&gt; 한마디로 이 선택을 정리 할 수 있어야 합니다.&lt;/p&gt;
+&lt;p&gt;그럼에도 고객으로부터 돈을 실제로 벌어보는 경험 자체는 의미 있다고 생각합니다. &lt;code&gt;Willingness to pay&lt;/code&gt;를 실제로 찾아낸 것이니까요. 물론 둘 중 어떤 선택을 했든 미래에는 그 선택을 후회하거나 &lt;code&gt;그때 반대 선택을 했다면 어떻게 됐을까?&lt;/code&gt;라며 과거를 회상할 수도 있을 겁니다.&lt;/p&gt;
+&lt;p&gt;하지만 모든 스타트업은 어떤 선택에 대해 미래에 후회하기보다 &lt;code&gt;Lesson&lt;/code&gt; 한마디로 이 선택을 정리 할 수 있어야 합니다.&lt;/p&gt;
 &lt;h2&gt;Startup = LLM(Lessons Learned Machine)&lt;/h2&gt;
 &lt;p&gt;스타트업은 &lt;code&gt;Lessons Learned Machine&lt;/code&gt;입니다. 아래 네 가지를 계속 반복하는 기계라고 볼 수 있는건데요.&lt;/p&gt;
 &lt;ul&gt;
