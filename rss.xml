@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 25 Feb 2024 09:04:23 GMT</lastBuildDate><item><title><![CDATA[유료화, 그 이후 (After Willingness to pay)]]></title><description><![CDATA[지금까지 스타트업의 발전이란 일단 PMF(Product Market Fit…]]></description><link>https://dataportal.kr/%EC%9C%A0%EB%A3%8C%ED%99%94-%EA%B7%B8-%EC%9D%B4%ED%9B%84-After-Willingness-to-pay/</link><guid isPermaLink="false">https://dataportal.kr/유료화-그-이후-After-Willingness-to-pay/</guid><pubDate>Sun, 25 Feb 2024 12:41:25 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 25 Feb 2024 09:36:20 GMT</lastBuildDate><item><title><![CDATA[유료화, 그 이후 (After Willingness to pay)]]></title><description><![CDATA[지금까지 스타트업의 발전이란 일단 PMF(Product Market Fit…]]></description><link>https://dataportal.kr/%EC%9C%A0%EB%A3%8C%ED%99%94-%EA%B7%B8-%EC%9D%B4%ED%9B%84-After-Willingness-to-pay/</link><guid isPermaLink="false">https://dataportal.kr/유료화-그-이후-After-Willingness-to-pay/</guid><pubDate>Sun, 25 Feb 2024 12:41:25 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -25,14 +25,14 @@
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;지금까지 스타트업의 발전이란 일단 &lt;code&gt;PMF&lt;/code&gt;(Product Market Fit)를 찾으면 빠른 성장을 목표로 투자를 받고 사람을 더 뽑는 루프를 계속 돌리는 형태로 가는 것이 일반적이었는데요. 이제는 아닙니다.&lt;/p&gt;
 &lt;p&gt;자금 시장이 공포에 얼어붙었고, 스타트업 투자보다 더 매력적인 투자 상품이 너무 많아졌습니다. 특히 Gen AI 등으로 인해 한 사람이 할 수 있는 일의 양이 점점 커지는 상황에서 성장을 위해 위험하게 몸집을 불리는 것보다는 적은 인원이 최대의 효율을 내는 정도로만 팀을 유지하는 게 더 바람직하지 않나 싶기도 합니다.&lt;/p&gt;
-&lt;p&gt;과거에는 서비스 출시 초기부터 플랫폼이나 커뮤니티 비즈니스를 추구하더라도 문제가 없었지만, 지금은 Apple같이 누구나 인정할 만한 강력한 Power를 가진 게 아니라면 어려워졌습니다. 현재의 자금 시장은 그 정도 인원이 모일 때까지 기다려주지 않습니다.&lt;/p&gt;
+&lt;p&gt;과거에는 서비스 출시 초기부터 플랫폼이나 커뮤니티 비즈니스를 추구하더라도 문제가 없었지만, 지금은 Apple 같이 누구나 인정할 만한 강력한 Power를 가진 게 아니라면 어려워졌습니다. 현재의 자금 시장은 그 정도 인원이 모일 때까지 기다려주지 않습니다.&lt;/p&gt;
 &lt;p&gt;그러다 보니 많은 스타트업이 &lt;code&gt;매출&lt;/code&gt;에 대한 챌린지를 받고 있습니다.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;그래서 돈은 어떻게 벌건가요?&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;광고 말고 다른 BM은 없나요?&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;서비스를 유료화한다고 하면 사용자 행동에 대해 &lt;code&gt;단건으로 비용을 받거나&lt;/code&gt;(5,000원에 커피 원두 1회 배송), 서비스에 큰 효능감을 느끼는 사용자를 대상으로 &lt;code&gt;멤버십 구독 비용을 받는 방법&lt;/code&gt;(월 8,000원에 커피 원두 월 2회 정기 배송)이 가장 대표적입니다. 사용량(Usage)을 기반하여 정기적으로 비용을 청구하는 방법 같은 것도 있습니다.&lt;/p&gt;
-&lt;p&gt;그래서 &lt;code&gt;유료화&lt;/code&gt;를 하고 나면 또 다른 고민이 생기기 마련인데요.&lt;/p&gt;
+&lt;p&gt;어떤 방법이든 &lt;code&gt;유료화&lt;/code&gt;를 하고 나면 또 다른 고민이 생깁니다.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;비용을 지불하는 고객의 목소리에 귀 기울이면서 꾸준한 수익화 이루어내기&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;스케일업과 더 많은 트랜잭션을 위한 무료 전환&lt;/code&gt;&lt;/li&gt;
