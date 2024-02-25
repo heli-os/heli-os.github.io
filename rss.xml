@@ -1,4 +1,145 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 25 Feb 2024 03:49:27 GMT</lastBuildDate><item><title><![CDATA[[주간회고] 2024년 7주차]]></title><description><![CDATA[Do: Work…]]></description><link>https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-7%EC%A3%BC%EC%B0%A8/</link><guid isPermaLink="false">https://dataportal.kr/주간회고-2024년-7주차/</guid><pubDate>Sun, 18 Feb 2024 21:57:13 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 25 Feb 2024 08:01:24 GMT</lastBuildDate><item><title><![CDATA[유료화, 그 이후 (After Willingness to pay)]]></title><description><![CDATA[지금까지 스타트업의 발전이란 일단 PMF(Product Market Fit…]]></description><link>https://dataportal.kr/%EC%9C%A0%EB%A3%8C%ED%99%94-%EA%B7%B8-%EC%9D%B4%ED%9B%84-After-Willingness-to-pay/</link><guid isPermaLink="false">https://dataportal.kr/유료화-그-이후-After-Willingness-to-pay/</guid><pubDate>Sun, 25 Feb 2024 12:41:25 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.796875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAUqCDcP/xAAbEAACAgMBAAAAAAAAAAAAAAABAgARAxIhIv/aAAgBAQABBQLJZN1FfhHpevoJ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFRABAQAAAAAAAAAAAAAAAAAAESD/2gAIAQEABj8CK//EABoQAAIDAQEAAAAAAAAAAAAAAAERACExQVH/2gAIAQEAAT8h6IowkxG+x1tgGWQdsFwMKYvk/9oADAMBAAIAAwAAABCwD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB4QAAICAgIDAAAAAAAAAAAAAAERACExQWFxgZHw/9oACAEBAAE/ECMYxKApfe4CeQJimsdeYQhElreqgQ6ZI2kIEmjUbPMwUaEhP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/a2fd84e256d8cfa59b885a955a3cd7d5/72e01/1.jpg&quot;
+        srcset=&quot;/static/a2fd84e256d8cfa59b885a955a3cd7d5/e4a55/1.jpg 256w,
+/static/a2fd84e256d8cfa59b885a955a3cd7d5/36dd4/1.jpg 512w,
+/static/a2fd84e256d8cfa59b885a955a3cd7d5/72e01/1.jpg 1024w,
+/static/a2fd84e256d8cfa59b885a955a3cd7d5/ac99c/1.jpg 1536w,
+/static/a2fd84e256d8cfa59b885a955a3cd7d5/e1596/1.jpg 2048w,
+/static/a2fd84e256d8cfa59b885a955a3cd7d5/67226/1.jpg 3072w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;지금까지 스타트업의 발전이란 일단 &lt;code&gt;PMF&lt;/code&gt;(Product Market Fit)를 찾으면 빠른 성장을 목표로 투자를 받고 사람을 더 뽑는 루프를 계속 돌리는 형태로 가는 것이 일반적이었는데요. 이제는 아닙니다.&lt;/p&gt;
+&lt;p&gt;자금 시장이 공포에 얼어붙었고, 스타트업 투자보다 더 매력적인 투자 상품이 너무 많아졌습니다. 특히 Gen AI 등으로 인해 한 사람이 할 수 있는 일의 양이 점점 커지는 상황에서 성장을 위해 위험하게 몸집을 불리는 것보다는 적은 인원이 최대의 효율을 내는 정도로만 팀을 유지하는게 더 바람직하지 않나 싶기도 합니다.&lt;/p&gt;
+&lt;p&gt;과거에는 서비스 출시 초기부터 플랫폼이나 커뮤니티 비즈니스를 추구하더라도 문제가 없었지만, 지금은 Apple 같이 누구나 인정할만한 강력한 Power를 가진게 아니라면 어려워졌습니다. 현재의 자금 시장은 그정도 인원이 모일때까지 기다려주지 않습니다.&lt;/p&gt;
+&lt;p&gt;그러다보니 많은 스타트업이 &lt;code&gt;매출&lt;/code&gt;에 대한 챌린지를 받고 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;그래서 돈은 어떻게 벌건가요?&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;광고 말고 다른 BM은 없나요?&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;서비스를 유료화한다고 하면 사용자 행동에 대해 &lt;code&gt;단건으로 비용을 받거나&lt;/code&gt;(5,000원에 커피 원두 1회 배송), 서비스에 큰 효용감을 느끼는 사용자를 대상으로 &lt;code&gt;멤버십 구독 비용을 받는 방법&lt;/code&gt;(월 8,000원에 커피 원두 월 2회 정기 배송)이 가장 대표적입니다. 사용량(Usage)을 기반하여 정기적으로 비용을 청구하는 방법 같은 것도 있습니다.&lt;/p&gt;
+&lt;p&gt;그래서 &lt;code&gt;유료화&lt;/code&gt;를 하고나면 또 다른 고민이 생기기 마련인데요.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;비용을 지불하는 고객의 목소리에 귀 기울이면서 꾸준한 수익화 이루어내기&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;스케일업과 더 많은 트랜잭션을 위한 무료 전환&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;정답도 없고, 산업과 사업 아이템에 따라 다르겠지만 항상 고민되는 부분입니다. 성급한 유료화로 인하여 충분한 고객층을 확보하지 못하여 스케일업에 실패하기도 하고, 무작정 스케일업만 추구하다 정작 &lt;code&gt;비용 지불 의사를 가진 고객&lt;/code&gt;을 뾰족하게 정의내리는 타이밍을 놓치기도 합니다.&lt;/p&gt;
+&lt;p&gt;하지만 고객으로부터 돈을 실제로 벌어보는 경험은 의미 있다고 생각합니다. &lt;code&gt;Willingness to pay&lt;/code&gt;를 실제로 찾아낸 것이니까요. 물론 둘 중 어떤 선택을 했든 미래에는 그 선택을 후회하거나 &lt;code&gt;그때 반대 선택을 했다면 어떻게 됐을까?&lt;/code&gt;라며 과거를 회상할 수도 있을겁니다.&lt;/p&gt;
+&lt;p&gt;모든 스타트업은 어떤 선택에 대해 미래에 후회하기보다 &lt;code&gt;Lesson&lt;/code&gt; 한마디로 이 선택을 정리 할 수 있어야 합니다.&lt;/p&gt;
+&lt;h2&gt;Startup = LLM(Lessons Learned Machine)&lt;/h2&gt;
+&lt;p&gt;스타트업은 &lt;code&gt;Lessons Learned Machine&lt;/code&gt;입니다. 아래 네 가지를 계속 반복하는 기계라고 볼 수 있는건데요.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Experiment&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Fail&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Learn&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Repeat&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;여기서 말하는 &lt;code&gt;실험(Experiment)&lt;/code&gt;은 수 많은 백데이터를 축적하고, 데이터 마켓과 데이터 웨어하우스를 구축한 뒤 멋드러진 가설을 세우고 데이터를 기반으로 성공과 실패를 결정하는 행위를 의미하는 것만은 아닙니다. 데이터 없이 &lt;code&gt;직관&lt;/code&gt;으로 실행하는&lt;/p&gt;
+&lt;p&gt;모든 스타트업, 즉 우리의 목표는 &lt;code&gt;Growth(성장)&lt;/code&gt;입니다. 성장을 해야만 성공 할 수 있으니 &lt;code&gt;Growth = 성공&lt;/code&gt;이라고 볼 수도 있는데요. 이 과정에서 제품, 마케팅, 엔지니어링, 디자인 등 다양한 영역과 요소에서 수 많은 의사 결정을 하게 됩니다.&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[[주간회고] 2024년 7주차]]></title><description><![CDATA[Do: Work…]]></description><link>https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-7%EC%A3%BC%EC%B0%A8/</link><guid isPermaLink="false">https://dataportal.kr/주간회고-2024년-7주차/</guid><pubDate>Sun, 18 Feb 2024 21:57:13 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
