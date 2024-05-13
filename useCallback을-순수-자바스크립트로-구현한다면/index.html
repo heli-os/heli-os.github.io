@@ -166,7 +166,7 @@
 <p>예제 소스코드: <a href="https://playcode.io/1867478?v=2" target="_blank" rel="nofollow">React Playground - useCallback Sample2</a></p>
 <p><img src="/081905ec66ffa16789d439562fd985b2/3.gif" alt="useCallback Sample 2.gif"></p>
 <h2>문제점</h2>
-<p>두 단계에 걸쳐 <code>useCallback</code>을 임의로 만들어보았는데요. 이 코드를 React에서 사용하기에는 큰 문제가 있습니다. 바로 렌더링마다 useCallback 함수가 새롭게 호출되면서 캐시도 초기화된다는 건데요.</p>
+<p>두 단계에 걸쳐 <code>useCallback</code>을 임의로 만들어보았는데요. 이 코드를 React에서 사용하기에는 큰 문제가 있습니다. 바로 렌더링마다 <code>useCallback</code> 함수가 새롭게 호출되면서 캐시도 초기화된다는 건데요.</p>
 <p>이에 따라 의존성 배열의 변경과 상관없이 렌더링마다 새로운 함수가 생성됩니다. 즉, <code>함수를 캐싱한다.</code>라는 초기 요구사항을 만족시키지 못한 것인데요. 그럼, 이 부분은 어떻게 개선해야 할까요?</p>
 <h3>문제점 해결</h3>
 <p>렌더링할 때마다 <code>useCallback</code> 함수 전체가 재실행되면서 캐시 초기화와 캐시 검증 로직 전체가 동시에 이루어지는 게 현재의 문제점입니다.</p>
