@@ -130,7 +130,7 @@
 <p>예제 소스코드: <a href="https://playcode.io/1867478?v=1" target="_blank" rel="nofollow">React Playground - useCallback Sample 1</a></p>
 <p><img src="/10a87292c4f2de5103b81c56483a2328/2.gif" alt="useCallback Sample 1.gif"></p>
 <h2>개선 &#x26; 최적화 - useCallback Sample #2</h2>
-<p>첫 번째 예시는 정말 동작만 되게끔 만들기 위해 다수의 함수가 생성되고, 코드의 길이도 긴 편이라 가독성과 효율이 뛰어나지 못합니다. Javascript의 prototype과 클로저를 적극 활용하여 코드의 길이를 전반적으로 줄여보겠습니다.</p>
+<p>첫 번째 예시는 정말 동작만 되게끔 만들기 위해 다수의 함수가 생성되고, 코드의 길이도 긴 편이라 가독성과 효율이 뛰어나지 못합니다. Javascript의 Prototype과 클로저를 적극 활용하여 코드의 길이를 전반적으로 줄여보겠습니다.</p>
 <div class="markdown-wrapper"><pre class="grvsc-container dark-default-dark" data-language="javascript" data-index="6"><code class="grvsc-code"><span class="grvsc-line"><span class="grvsc-source"><span class="mtk4">function</span><span class="mtk1"> </span><span class="mtk11">customUseCallback</span><span class="mtk1">(</span><span class="mtk12">callback</span><span class="mtk1">, </span><span class="mtk12">dependencies</span><span class="mtk1">) {</span></span></span>
 <span class="grvsc-line"><span class="grvsc-source"><span class="mtk1">  </span><span class="mtk4">const</span><span class="mtk1"> </span><span class="mtk11">memoizedCallback</span><span class="mtk1"> = </span><span class="mtk4">function</span><span class="mtk1"> (...</span><span class="mtk12">args</span><span class="mtk1">) {</span></span></span>
 <span class="grvsc-line"><span class="grvsc-source"><span class="mtk1">    </span><span class="mtk15">if</span><span class="mtk1"> (!</span><span class="mtk12">memoizedCallback</span><span class="mtk1">.</span><span class="mtk12">cache</span><span class="mtk1">) {</span></span></span>
