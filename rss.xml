@@ -1,4 +1,147 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 13 May 2024 11:21:25 GMT</lastBuildDate><item><title><![CDATA[useCallback을 순수 자바스크립트로 구현한다면?]]></title><description><![CDATA[React의 useCallback 함수는 함수를 캐싱하여 불필요한 리렌더링을 방지하고, 성능을 최적화하는 데 도움을 주는 훅(Hook…]]></description><link>https://dataportal.kr/useCallback%EC%9D%84-%EC%88%9C%EC%88%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%9C%EB%8B%A4%EB%A9%B4/</link><guid isPermaLink="false">https://dataportal.kr/useCallback을-순수-자바스크립트로-구현한다면/</guid><pubDate>Sun, 12 May 2024 21:07:55 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 15 May 2024 07:37:15 GMT</lastBuildDate><item><title><![CDATA[교육 산업에 대한 고찰]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EA%B5%90%EC%9C%A1-%EC%82%B0%EC%97%85%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0/</link><guid isPermaLink="false">https://dataportal.kr/교육-산업에-대한-고찰/</guid><pubDate>Wed, 15 May 2024 16:34:53 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 77.734375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABiLRFIg//xAAZEAACAwEAAAAAAAAAAAAAAAAAAQIRIRL/2gAIAQEAAQUCTzUWRfBKRR//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAABAwUAAAAAAAAAAAAAAAAAAhEhEDFBYaH/2gAIAQEABj8CpclPBmjZk//EAB0QAAICAgMBAAAAAAAAAAAAAAERACExQVFxkeH/2gAIAQEAAT8hIhByOYHW7xF+oboNGkbqy28gAuvM/9oADAMBAAIAAwAAABCL/wD/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAEAAgICAwAAAAAAAAAAAAABETEAIUFRYYHR/9oACAEBAAE/EEIAknkfcMUeZzq81kskpORyowSodhdMsneVekKGnpWIqMGDbYc1n//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/ddbf9aa9dd932a35db981e5d8cd43e65/72e01/1.jpg&quot;
+        srcset=&quot;/static/ddbf9aa9dd932a35db981e5d8cd43e65/e4a55/1.jpg 256w,
+/static/ddbf9aa9dd932a35db981e5d8cd43e65/36dd4/1.jpg 512w,
+/static/ddbf9aa9dd932a35db981e5d8cd43e65/72e01/1.jpg 1024w,
+/static/ddbf9aa9dd932a35db981e5d8cd43e65/ac99c/1.jpg 1536w,
+/static/ddbf9aa9dd932a35db981e5d8cd43e65/e1596/1.jpg 2048w,
+/static/ddbf9aa9dd932a35db981e5d8cd43e65/01fc7/1.jpg 3200w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;들어서며&lt;/h2&gt;
+&lt;p&gt;고시 낭인, 교육 중독이라는 단어를 들어보신 적 있으신가요? 나이를 불문하고 전 연령층에 퍼져있는 사회적 현상을 일컫는 단어입니다. 오늘은 이러한 사회적 현상과 교육산업 자체에 대한 생각을 남겨보려고 합니다.&lt;/p&gt;
+&lt;p&gt;저는 과거 컴퓨터공학을 메인으로 교육학과 교육심리학을 병행하여 공부 했었는데요. 그만큼 교육에 관심이 많았고, 진심이었습니다. 하지만 공부를 하면 할수록 이 산업은 나와 맞지 않다는 결론을 내리고 공부만 끝마친 뒤, 해당 산업에 full-time으로 뛰어들지 않았습니다.&lt;/p&gt;
+&lt;p&gt;몇 가지 이유가 있었지만 결정적으로 &lt;code&gt;무얼 하면 좋을지 크게 고민하지 않는 산업&lt;/code&gt;이라고 생각했기 때문입니다. 삶을 살아가다 보면 다양한 고민과 의사결정 과정이 있기 마련입니다. 그리고 그 고민은 크게 두 가지로 나뉩니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;문제를 찾고, 그 문제를 해결하기 위해 무얼 하면 좋을지 고민하는 일 &lt;code&gt;(What)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;무얼 하면 좋을지 정해지면, 어떻게 할지 고민하는 일 &lt;code&gt;(How)&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;하지만 교육산업에서 이루어지는 고민 대부분은 &lt;code&gt;누구에게(Who)&lt;/code&gt;, &lt;code&gt;무엇을(What)&lt;/code&gt; 가르칠지 이미 정해진 상태에서 &lt;code&gt;어떻게(How)&lt;/code&gt; 가르칠지 고민하는 일이 대부분이라고 생각했습니다.&lt;/p&gt;
+&lt;h2&gt;단상, 교육혁신의 대단함&lt;/h2&gt;
+&lt;p&gt;많은 에듀테크 기업이 &lt;code&gt;교육혁신&lt;/code&gt;이라는 캐치프레이즈로 시장에서 치열하게 경쟁하고 있습니다. 그럼, 이 &lt;code&gt;교육혁신&lt;/code&gt;은 무엇일까요? 이를 이해하기 위해선 모든 인간은 &lt;code&gt;공부하지 않으려는 본성&lt;/code&gt;을 가지고 있다는 걸 우선 이해하여야 합니다.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;교육혁신&lt;/code&gt;이라는 것은 결국 &lt;code&gt;공부하지 않으려는 본성&lt;/code&gt;을 가지고 있는 사람들이 이 본성을 이겨내고 자기 주도적으로 공부하고 싶게끔 아래와 같은 요소를 제공해 주어야 함을 의미합니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;합리적인 교육 비용&lt;/li&gt;
+&lt;li&gt;양질의 커리큘럼&lt;/li&gt;
+&lt;li&gt;우수한 강사진&lt;/li&gt;
+&lt;li&gt;운영 인력의 노고&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;이 중 하나만 이루어져서는 안 됩니다. 네 가지 요소가 두루두루 갖추어져야만 하는데요. 현실적으로 생각해 보았을 때 &lt;code&gt;이익&lt;/code&gt;을 추구해야 하는 기업의 특성상 각 요소 모두를 잘 갖추기란 쉽지 않은 일입니다. 그렇기에 더더욱 &lt;code&gt;교육혁신이라는 건 대단한 일&lt;/code&gt;이라고 생각합니다.&lt;/p&gt;
+&lt;p&gt;현재까지 파트타임으로 교육과 멘토링을 해오며 2천 명 이상의 멘티와 학습자(피교육자)를 만나왔는데요. 그 과정에서 네 가지 요소를 최대한 제공해 드리며 항상 &lt;code&gt;좋은 학습 경험&lt;/code&gt;과 &lt;code&gt;사람이 성장할 수 있는 환경&lt;/code&gt;을 제공하기 위해 노력해 왔던 것 같습니다.&lt;/p&gt;
+&lt;h2&gt;인용, 빠르게 성장해서 큰 산업을 일군 서비스들의 특징&lt;/h2&gt;
+&lt;p&gt;링글의 창업자이신 이승훈(Hoon Lee)님도 과거 교육업에 대한 &lt;a href=&quot;https://brunch.co.kr/@seunghoon82/438&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;생각&lt;/a&gt;을 공유해주신 적 있는데요. 승훈님은 교육업이 크게 성장하지 못한 본질적인 이유를 &lt;code&gt;결심 또는 압박을 콘텐츠/서비스 이용 &amp;#x26; 유저 성장으로 연계시키지 못했기 때문&lt;/code&gt;이라고 이야기합니다.&lt;/p&gt;
+&lt;p&gt;결제하는 사람들은 많지만, 꾸준하게 공부해서 성장하고, 다시 결제해서 더 공부하는 사람들은 많지 않기 때문에 산업의 중심이 &lt;code&gt;&apos;공부하는 사람&apos;&lt;/code&gt; 보다는 &lt;code&gt;&apos;결제하는 사람&apos;&lt;/code&gt;에 초점을 맞춰지게 된 것 같다는 이야기인데요.&lt;/p&gt;
+&lt;p&gt;그러다 보니 유저(학습자, 피교육자)가 교육 서비스를 이용함으로써 얼마나 만족할 수 있게끔 만드느냐보다는 어떻게 결제하게끔 만드느냐가 초점이 된 산업이 된게 아닐까 싶습니다.&lt;/p&gt;
+&lt;h2&gt;마무리&lt;/h2&gt;
+&lt;p&gt;이런 생각이 드실 수도 있습니다. &lt;code&gt;왜 사람들은 만족하지도 않는, 이용도 안 할 서비스와 교육을 구매할까?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;사람은 생각보다 더 비합리적인 존재이기 때문에 언뜻 이해하기 어려운 소비도 큰 고민 없이 진행하기도 하고, 무엇보다 그 소비가 &lt;code&gt;교육&lt;/code&gt;이라면 스스로 불필요한 소비라고 생각하지 않는 경향이 있습니다. 이용하지도 않고 구매했다는 행위 자체만으로 만족감을 느끼고, 그 만족감에 중독되곤 합니다.&lt;/p&gt;
+&lt;p&gt;꽤 많은 교육 기관이 유저 만족보다는 결제를 위해 고민하는 모습을 보며 아쉬운 마음이 들면서도 기업이라는 단체 특성상 어쩔 수 없다는 것도 알고 있으니, 한편으로는 이해되기도 합니다. 그럼에도 이용하게 되는 서비스와 교육에서 진정한 만족을 느낄 수 있도록 &lt;code&gt;노력하는 많은 에듀테크 회사를 응원&lt;/code&gt;합니다.&lt;/p&gt;
+&lt;p&gt;그리고, 교육에 돈과 시간을 &lt;code&gt;소비&lt;/code&gt;하는 것에 중독되신 분들은 하루 빨리 그 중독에서 벗어나 스스로 내 방향성을 결정하고, 학습할 수 있도록 독립하는 연습을 해보셨으면 좋겠습니다.&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[useCallback을 순수 자바스크립트로 구현한다면?]]></title><description><![CDATA[React의 useCallback 함수는 함수를 캐싱하여 불필요한 리렌더링을 방지하고, 성능을 최적화하는 데 도움을 주는 훅(Hook…]]></description><link>https://dataportal.kr/useCallback%EC%9D%84-%EC%88%9C%EC%88%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%9C%EB%8B%A4%EB%A9%B4/</link><guid isPermaLink="false">https://dataportal.kr/useCallback을-순수-자바스크립트로-구현한다면/</guid><pubDate>Sun, 12 May 2024 21:07:55 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
