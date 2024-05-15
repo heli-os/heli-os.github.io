@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 15 May 2024 07:38:38 GMT</lastBuildDate><item><title><![CDATA[교육 산업에 대한 고찰]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EA%B5%90%EC%9C%A1-%EC%82%B0%EC%97%85%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0/</link><guid isPermaLink="false">https://dataportal.kr/교육-산업에-대한-고찰/</guid><pubDate>Wed, 15 May 2024 16:34:53 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 15 May 2024 07:45:03 GMT</lastBuildDate><item><title><![CDATA[교육 산업에 대한 고찰]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EA%B5%90%EC%9C%A1-%EC%82%B0%EC%97%85%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0/</link><guid isPermaLink="false">https://dataportal.kr/교육-산업에-대한-고찰/</guid><pubDate>Wed, 15 May 2024 16:34:53 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -43,10 +43,9 @@
 &lt;/ol&gt;
 &lt;p&gt;이 중 하나만 이루어져서는 안 됩니다. 네 가지 요소가 두루두루 갖추어져야만 하는데요. 현실적으로 생각해 보았을 때 &lt;code&gt;이익&lt;/code&gt;을 추구해야 하는 기업의 특성상 각 요소 모두를 잘 갖추기란 쉽지 않은 일입니다. 그렇기에 더더욱 &lt;code&gt;교육혁신이라는 건 대단한 일&lt;/code&gt;이라고 생각합니다.&lt;/p&gt;
 &lt;p&gt;현재까지 파트타임으로 교육과 멘토링을 해오며 2천 명 이상의 멘티와 학습자(피교육자)를 만나왔는데요. 그 과정에서 네 가지 요소를 최대한 제공해 드리며 항상 &lt;code&gt;좋은 학습 경험&lt;/code&gt;과 &lt;code&gt;사람이 성장할 수 있는 환경&lt;/code&gt;을 제공하기 위해 노력해 왔던 것 같습니다.&lt;/p&gt;
-&lt;h2&gt;인용, 빠르게 성장해서 큰 산업을 일군 서비스들의 특징&lt;/h2&gt;
+&lt;h2&gt;인용, 교육업이 크게 성장하지 못한 이유&lt;/h2&gt;
 &lt;p&gt;링글의 창업자이신 이승훈(Hoon Lee)님도 과거 교육업에 대한 &lt;a href=&quot;https://brunch.co.kr/@seunghoon82/438&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;생각&lt;/a&gt;을 공유해주신 적 있는데요. 승훈님은 교육업이 크게 성장하지 못한 본질적인 이유를 &lt;code&gt;결심 또는 압박을 콘텐츠/서비스 이용 &amp;#x26; 유저 성장으로 연계시키지 못했기 때문&lt;/code&gt;이라고 이야기합니다.&lt;/p&gt;
-&lt;p&gt;결제하는 사람들은 많지만, 꾸준하게 공부해서 성장하고, 다시 결제해서 더 공부하는 사람들은 많지 않기 때문에 산업의 중심이 &lt;code&gt;&apos;공부하는 사람&apos;&lt;/code&gt; 보다는 &lt;code&gt;&apos;결제하는 사람&apos;&lt;/code&gt;에 초점을 맞춰지게 된 것 같다는 이야기인데요.&lt;/p&gt;
-&lt;p&gt;그러다 보니 유저(학습자, 피교육자)가 교육 서비스를 이용함으로써 얼마나 만족할 수 있게끔 만드느냐보다는 어떻게 결제하게끔 만드느냐가 초점이 된 산업이 된게 아닐까 싶습니다.&lt;/p&gt;
+&lt;p&gt;결제하는 사람들은 많지만, 꾸준하게 공부해서 성장하고, 다시 결제해서 더 공부하는 사람들은 많지 않기 때문에 산업의 중심이 &lt;code&gt;&apos;공부하는 사람&apos;&lt;/code&gt; 보다는 &lt;code&gt;&apos;결제하는 사람&apos;&lt;/code&gt;에 초점을 맞춰지게 된 것 같다는 이야기인데요. 그러다 보니 유저(학습자, 피교육자)가 교육 서비스를 이용함으로써 얼마나 만족할 수 있게끔 만드느냐보다는 어떻게 결제하게끔 만드느냐가 초점이 된 산업이 된게 아닐까 싶습니다.&lt;/p&gt;
 &lt;h2&gt;마무리&lt;/h2&gt;
 &lt;p&gt;이런 생각이 드실 수도 있습니다. &lt;code&gt;왜 사람들은 만족하지도 않는, 이용도 안 할 서비스와 교육을 구매할까?&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;사람은 생각보다 더 비합리적인 존재이기 때문에 언뜻 이해하기 어려운 소비도 큰 고민 없이 진행하기도 하고, 무엇보다 그 소비가 &lt;code&gt;교육&lt;/code&gt;이라면 스스로 불필요한 소비라고 생각하지 않는 경향이 있습니다. 이용하지도 않고 구매했다는 행위 자체만으로 만족감을 느끼고, 그 만족감에 중독되곤 합니다.&lt;/p&gt;
