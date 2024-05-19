@@ -1,4 +1,123 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 15 May 2024 08:39:06 GMT</lastBuildDate><item><title><![CDATA[교육 산업에 대한 고찰]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EA%B5%90%EC%9C%A1-%EC%82%B0%EC%97%85%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0/</link><guid isPermaLink="false">https://dataportal.kr/교육-산업에-대한-고찰/</guid><pubDate>Wed, 15 May 2024 16:34:53 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 19 May 2024 01:03:56 GMT</lastBuildDate><item><title><![CDATA[[더 나은 엔지니어가 되기 위한 루틴] 취미부터 중소기업, 대기업, 스타트업, 창업까지 경험하며 느낀 점]]></title><description><![CDATA[소개 저는 2007년, 12살의 나이에 VisualBasic 6.0이라는 언어로 개발을 처음 접하였습니다. 간단한 Windows Application을 만들며 저의 Computer Life를 편하게 만들어 나가곤 했는데요. 3년이 지난 1…]]></description><link>https://dataportal.kr/%EB%8D%94-%EB%82%98%EC%9D%80-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%A3%A8%ED%8B%B4-%EC%B7%A8%EB%AF%B8%EB%B6%80%ED%84%B0-%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85-%EB%8C%80%EA%B8%B0%EC%97%85-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85%EA%B9%8C%EC%A7%80-%EA%B2%BD%ED%97%98%ED%95%98%EB%A9%B0-%EB%8A%90%EB%82%80-%EC%A0%90/</link><guid isPermaLink="false">https://dataportal.kr/더-나은-엔지니어가-되기-위한-루틴-취미부터-중소기업-대기업-스타트업-창업까지-경험하며-느낀-점/</guid><pubDate>Sun, 19 May 2024 09:26:56 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 77.734375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAc1SJJj/xAAaEAACAgMAAAAAAAAAAAAAAAABAgAQERIx/9oACAEBAAEFAqzOxRsWJVv/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAEBAQEAAAAAAAAAAAAAAAARADEQ/9oACAEBAAY/AuZLsQX/xAAcEAEAAwACAwAAAAAAAAAAAAABABExECFRcaH/2gAIAQEAAT8hFVzrxGkCuAqlF5HYPYB97GH1n//aAAwDAQACAAMAAAAQjP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHRABAAICAwEBAAAAAAAAAAAAAREhADFBUWHh8P/aAAgBAQABPxClgQOnO8QZO6Wt4OVgyzR8wzQc2UR+ujFgMKNn4de5PMRzSfTP/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/5a3288c3bf18100ad8ff000a1922c3bb/72e01/1.jpg&quot;
+        srcset=&quot;/static/5a3288c3bf18100ad8ff000a1922c3bb/e4a55/1.jpg 256w,
+/static/5a3288c3bf18100ad8ff000a1922c3bb/36dd4/1.jpg 512w,
+/static/5a3288c3bf18100ad8ff000a1922c3bb/72e01/1.jpg 1024w,
+/static/5a3288c3bf18100ad8ff000a1922c3bb/ac99c/1.jpg 1536w,
+/static/5a3288c3bf18100ad8ff000a1922c3bb/e1596/1.jpg 2048w,
+/static/5a3288c3bf18100ad8ff000a1922c3bb/01fc7/1.jpg 3200w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;소개&lt;/h2&gt;
+&lt;p&gt;저는 2007년, 12살의 나이에 VisualBasic 6.0이라는 언어로 개발을 처음 접하였습니다. 간단한 Windows Application을 만들며 저의 Computer Life를 편하게 만들어 나가곤 했는데요.&lt;/p&gt;
+&lt;p&gt;3년이 지난 15살에는 우연히 교내 도서관에서 &lt;code&gt;&amp;#x3C;프로그래머의 길, 멘토에게 묻다; 인사이트(Insight)&gt;&lt;/code&gt;라는 책을 읽게 되었습니다. 이 책은 소프트웨어 개발 분야에서 커리어를 다년간 쌓아온 Dave Hoover가 프로그래밍을 생업으로 삼으며 살아가려면 각 시기별로 어떻게 행동해야하는지, 어떤 마음가짐을 가져야하는지, 커뮤니티를 어떻게 활용해야 나에게 도움이 되는지 같은 구체적인 상황과 해결책을 이야기하고 있습니다.&lt;/p&gt;
+&lt;p&gt;책이 출간되고 14년이 지난 지금 생각해보면 지금은 어느정도 흔한 이야기들이기도 한데요. 그때 당시에 책에서 이야기하는 내용들은 상당히 매력적이었고, &lt;code&gt;개발자의 삶과 마음가짐&lt;/code&gt;에 대하여 알게되어 큰 감명을 받았던 기억이 납니다.&lt;/p&gt;
+&lt;p&gt;이때를 시점으로 개발자라는 커리어에 매력을 느끼고 본격적으로 방향성을 잡고 공부하기 시작했습니다. 이 시점은 여태까지 사용해왔던 VisualBasic 6.0의 한계점으로 인하여 애플리케이션의 규모가 커질수록 코드베이스의 관리가 어려워진다고 느낄때 즈음이기도 했습니다. (VisualBasic 6.0은 절차지향적 프로그래밍 언어입니다.)&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[교육 산업에 대한 고찰]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EA%B5%90%EC%9C%A1-%EC%82%B0%EC%97%85%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0/</link><guid isPermaLink="false">https://dataportal.kr/교육-산업에-대한-고찰/</guid><pubDate>Wed, 15 May 2024 16:34:53 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
