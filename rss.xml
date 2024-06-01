@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 01 Jun 2024 12:00:06 GMT</lastBuildDate><item><title><![CDATA[우리가 하는 일은 두 가지 유형의 일 뿐이다. (부제; 직무의 통합)]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EC%9A%B0%EB%A6%AC%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%80-%EB%91%90-%EA%B0%80%EC%A7%80-%EC%9C%A0%ED%98%95%EC%9D%98-%EC%9D%BC-%EB%BF%90%EC%9D%B4%EB%8B%A4-%EB%B6%80%EC%A0%9C-%EC%A7%81%EB%AC%B4%EC%9D%98-%ED%86%B5%ED%95%A9/</link><guid isPermaLink="false">https://dataportal.kr/우리가-하는-일은-두-가지-유형의-일-뿐이다-부제-직무의-통합/</guid><pubDate>Sat, 01 Jun 2024 19:03:50 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 01 Jun 2024 12:00:54 GMT</lastBuildDate><item><title><![CDATA[우리가 하는 일은 두 가지 유형의 일 뿐이다. (부제; 직무의 통합)]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EC%9A%B0%EB%A6%AC%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%80-%EB%91%90-%EA%B0%80%EC%A7%80-%EC%9C%A0%ED%98%95%EC%9D%98-%EC%9D%BC-%EB%BF%90%EC%9D%B4%EB%8B%A4-%EB%B6%80%EC%A0%9C-%EC%A7%81%EB%AC%B4%EC%9D%98-%ED%86%B5%ED%95%A9/</link><guid isPermaLink="false">https://dataportal.kr/우리가-하는-일은-두-가지-유형의-일-뿐이다-부제-직무의-통합/</guid><pubDate>Sat, 01 Jun 2024 19:03:50 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -23,7 +23,7 @@
         decoding=&quot;async&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;여러분은 평소 어떤 일을 하시나요?&lt;/code&gt; 고객의 요구사항을 분석하고 정리하여 문서로 만들기, 상세한 기능 명세서와 화면 설계서 작성, 기획서와 화면 디자인을 보며 어떻게 개발할지 고민하기 같은 제품을 만들기 위한 일부터&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;여러분은 평소 어떤 일을 하시나요?&lt;/code&gt; 고객의 요구사항을 분석하고 정리하여 문서로 만들기, 상세한 기능 명세서와 화면 설계서 작성하기, 기획서와 화면 디자인을 보며 어떻게 개발할지 고민하기 같은 제품을 만들기 위한 일부터&lt;/p&gt;
 &lt;p&gt;기업의 재무나 회계 자료를 정리하고 보고서를 만드는 일, 인체의 질병과 손상을 연구하고 진단/치료하는 일, 개인이나 단체를 대신하여 법정에서 그들을 변호해 주는 일까지 세상에는 정말 다양한 유형의 일이 존재합니다.&lt;/p&gt;
 &lt;p&gt;그런데 이 모든 일을 잘 놓고 보면 일이라는 것은 두 가지 유형밖에 없다는 것을 알 수 있는데요. &lt;code&gt;무엇을 할지 고민하는 일&lt;/code&gt; 그리고 &lt;code&gt;어떻게 할지 고민하는 일&lt;/code&gt;입니다. 오늘은 제품 개발과 관련된 예시와 관점으로 이 이야기를 풀어보려고 합니다.&lt;/p&gt;
 &lt;h1&gt;무엇을 할지 고민하는 일&lt;/h1&gt;
