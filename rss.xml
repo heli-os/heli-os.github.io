@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 01 Jun 2024 16:15:38 GMT</lastBuildDate><item><title><![CDATA[우리가 하는 일은 두 가지 유형의 일 뿐이다. (부제; 직무의 통합)]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EC%9A%B0%EB%A6%AC%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%80-%EB%91%90-%EA%B0%80%EC%A7%80-%EC%9C%A0%ED%98%95%EC%9D%98-%EC%9D%BC-%EB%BF%90%EC%9D%B4%EB%8B%A4-%EB%B6%80%EC%A0%9C-%EC%A7%81%EB%AC%B4%EC%9D%98-%ED%86%B5%ED%95%A9/</link><guid isPermaLink="false">https://dataportal.kr/우리가-하는-일은-두-가지-유형의-일-뿐이다-부제-직무의-통합/</guid><pubDate>Sat, 01 Jun 2024 19:03:50 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 01 Jun 2024 16:16:38 GMT</lastBuildDate><item><title><![CDATA[우리가 하는 일은 두 가지 유형의 일 뿐이다. (부제; 직무의 통합)]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EC%9A%B0%EB%A6%AC%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%80-%EB%91%90-%EA%B0%80%EC%A7%80-%EC%9C%A0%ED%98%95%EC%9D%98-%EC%9D%BC-%EB%BF%90%EC%9D%B4%EB%8B%A4-%EB%B6%80%EC%A0%9C-%EC%A7%81%EB%AC%B4%EC%9D%98-%ED%86%B5%ED%95%A9/</link><guid isPermaLink="false">https://dataportal.kr/우리가-하는-일은-두-가지-유형의-일-뿐이다-부제-직무의-통합/</guid><pubDate>Sat, 01 Jun 2024 19:03:50 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -52,7 +52,7 @@
 &lt;p&gt;무엇을 할지 주로 고민하는 &lt;code&gt;Product Manager&lt;/code&gt;와 어떻게 할지 주로 고민하는 &lt;code&gt;Software Engineer&lt;/code&gt; 이 두 직무를 예시로 이야기해 보겠습니다.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;Product Manager&lt;/code&gt;는 전략을 담당하고 무엇을 하면 좋을지 치열하게 조사하고 계획을 수립합니다. 이들 중 전문성을 강화하고 소위 말하는 &lt;code&gt;일 잘하는 사람&lt;/code&gt;이라고 불리는 사람들은 이런 특징이 있습니다.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;우리 사용자와 고객, 데이터, 비즈니스, 산업 등 몇 가지의 고유한 전문성을 지니고 있습니다.&lt;/li&gt;
+&lt;li&gt;우리 사용자와 고객, 데이터, 비즈니스, 산업 등에 대한 깊은 이해도를 지니고 있습니다.&lt;/li&gt;
 &lt;li&gt;성공적인 프로덕트를 만들기 위해 끊임없이 호기심을 가지고 다양한 방식으로 집요하게 쪼개서 분석합니다.&lt;/li&gt;
 &lt;li&gt;비판적 사고(Critical Thinking) 능력이 매우 뛰어납니다.&lt;/li&gt;
 &lt;li&gt;단순히 가설을 세워서 실행하고 검증하는 것이 아닌, &apos;그래서 그게 왜 중요했는가?&apos;라는 질문에 대답할 수 있을 정도로, 주도적으로 문제를 정의하고 해결합니다.&lt;/li&gt;
