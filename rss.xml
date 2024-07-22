@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 22 Jul 2024 06:41:00 GMT</lastBuildDate><item><title><![CDATA[PM은 무얼 하는 사람?]]></title><description><![CDATA[Job Title이 PM이라고 해서 다 같은 PM은 아니다 일반적으로 PM이 하는 일은 두 가지로 나누어 볼 수 있다. 기능을 만들고 출시하기를 목표로 하는 PM 제품 성공시키기를 목표로 하는 PM 기능 출시가 목표인 PM…]]></description><link>https://dataportal.kr/PM%EC%9D%80-%EB%AC%B4%EC%96%BC-%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C/</link><guid isPermaLink="false">https://dataportal.kr/PM은-무얼-하는-사람/</guid><pubDate>Mon, 22 Jul 2024 14:15:09 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 22 Jul 2024 06:49:15 GMT</lastBuildDate><item><title><![CDATA[PM은 무얼 하는 사람?]]></title><description><![CDATA[Job Title이 PM이라고 해서 다 같은 PM은 아니다 일반적으로 PM이 하는 일은 두 가지로 나누어 볼 수 있다. 기능을 만들고 출시하기를 목표로 하는 PM 제품 성공시키기를 목표로 하는 PM 기능 출시가 목표인 PM…]]></description><link>https://dataportal.kr/PM%EC%9D%80-%EB%AC%B4%EC%96%BC-%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C/</link><guid isPermaLink="false">https://dataportal.kr/PM은-무얼-하는-사람/</guid><pubDate>Mon, 22 Jul 2024 14:15:09 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -106,7 +106,7 @@
 &lt;/ul&gt;
 &lt;h1&gt;결론&lt;/h1&gt;
 &lt;p&gt;회사와 제품의 단계에 따라 필요한 역할과 역량이 크게 달라짐. Pre-PMF/Feature Work/Growth Work/PMF Expansion/Scaling Work 같은 제품 단계별로 고민이 다를 수 밖에 없음.&lt;/p&gt;
-&lt;p&gt;그럼에도 성공적인 제품을 만들기 위해 고민하고, 제품이 성공하려면 어떻게 해야할까?를 집요하게 고민해야한다는 본질은 변하지 않음. 또한 이러한 고민은 Product Manager만 해서는 안됨. 제품을 함께 만드는 엔지니어와 디자이너 뿐 아니라 팀 전체가 공통으로 고민해야만 하는 문제라고 생각됨.&lt;/p&gt;
+&lt;p&gt;그럼에도 제품이 성공하려면 어떻게 해야할까?를 집요하게 고민해야한다는 본질은 변하지 않음. 또한 이러한 고민은 Product Manager만 해서는 안됨. 제품을 함께 만드는 엔지니어와 디자이너 뿐 아니라 팀 전체가 공통으로 고민해야만 하는 문제라고 생각됨.&lt;/p&gt;
 &lt;style class=&quot;grvsc-styles&quot;&gt;
   .grvsc-container {
     overflow: auto;
