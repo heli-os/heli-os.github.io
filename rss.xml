@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 25 Jul 2024 15:37:33 GMT</lastBuildDate><item><title><![CDATA[조직이 커지면서 발생하는 문제]]></title><description><![CDATA[3명밖에 없던 팀이 10명, 50명, 10…]]></description><link>https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4-%EC%BB%A4%EC%A7%80%EB%A9%B4%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%AC%B8%EC%A0%9C/</link><guid isPermaLink="false">https://dataportal.kr/조직이-커지면서-발생하는-문제/</guid><pubDate>Fri, 26 Jul 2024 00:15:49 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 25 Jul 2024 16:43:23 GMT</lastBuildDate><item><title><![CDATA[조직이 커지면서 발생하는 문제]]></title><description><![CDATA[3명밖에 없던 팀이 10명, 50명, 10…]]></description><link>https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4-%EC%BB%A4%EC%A7%80%EB%A9%B4%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%AC%B8%EC%A0%9C/</link><guid isPermaLink="false">https://dataportal.kr/조직이-커지면서-발생하는-문제/</guid><pubDate>Fri, 26 Jul 2024 00:15:49 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -39,8 +39,8 @@
 &lt;p&gt;경험상 내가 크게 노력하지 않아도 모든 구성원이 어떤 일을 하고 있는지 가시적으로 보이는 규모가 가장 재미있었던 것 같다. 최대치는 대략 20명 정도 규모인듯하다.&lt;/p&gt;
 &lt;p&gt;회사 전체가 20명 미만이라면 회사 전체가 어떻게 돌아가는지 한눈에 보이고, 내가 하는 일이 회사에 영향을 주고 있다는 게 명확히 보인다.&lt;/p&gt;
 &lt;p&gt;반면 회사 전체 인원은 훨씬 많지만, 팀이 10명~20명인 경우 회사 전체를 보는게 쉽지 않다. 자연스레 내가 속한 부서의 업무만 신경 쓰게 된다.&lt;/p&gt;
-&lt;p&gt;큰 조직과 작은 조직 모두 각자 장단점이 있다. 그러므로 중요한 것은 &lt;code&gt;내가 지금 어떤 경험을 하고 싶은가?&lt;/code&gt;이다. 두 유형의 조직을 모두 경험해 본 결과 나와 더 맞는 경험은 작은 조직에서 전체를 보고 전체에 영향을 주는 경험이었다.&lt;/p&gt;
-&lt;p&gt;그 외에도 작은 조직에는 다양한 장점이 있다. 그 이야기를 잘 정리하여 &lt;a href=&quot;https://www.amazon.com/Company-One-Staying-Small-Business/dp/1328972356&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;펴낸 책; Company of One: Why Staying Small Is the Next Big Thing for Business&lt;/a&gt;이 있으니 관심있다면 읽어보길 추천한다.&lt;/p&gt;
+&lt;p&gt;큰 조직과 작은 조직 모두 장단점이 있다. 중요한 것은 &lt;code&gt;내가 지금 어떤 경험을 하고 싶은가?&lt;/code&gt;이다. 두 유형의 조직을 모두 경험해 본 결과 나와 더 맞는 경험은 작은 조직에서 전체를 보고 전체에 영향을 주는 경험이었다.&lt;/p&gt;
+&lt;p&gt;그 외에도 작은 조직에는 다양한 장점이 있다. 사례를 기반으로 이야기해주는 &lt;a href=&quot;https://www.amazon.com/Company-One-Staying-Small-Business/dp/1328972356&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;책; Company of One: Why Staying Small Is the Next Big Thing for Business&lt;/a&gt;이 있으니 관심있다면 읽어보길 추천한다.&lt;/p&gt;
 &lt;style class=&quot;grvsc-styles&quot;&gt;
   .grvsc-container {
     overflow: auto;
