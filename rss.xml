@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 01 Aug 2024 05:00:48 GMT</lastBuildDate><item><title><![CDATA[티몬·위메프 사태로 알아보는 흑자도산]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%ED%8B%B0%EB%AA%AC-%EC%9C%84%EB%A9%94%ED%94%84-%EC%82%AC%ED%83%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%ED%9D%91%EC%9E%90%EB%8F%84%EC%82%B0/</link><guid isPermaLink="false">https://dataportal.kr/티몬-위메프-사태로-알아보는-흑자도산/</guid><pubDate>Thu, 01 Aug 2024 13:37:49 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 01 Aug 2024 05:54:36 GMT</lastBuildDate><item><title><![CDATA[티몬·위메프 사태로 알아보는 흑자도산]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%ED%8B%B0%EB%AA%AC-%EC%9C%84%EB%A9%94%ED%94%84-%EC%82%AC%ED%83%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%ED%9D%91%EC%9E%90%EB%8F%84%EC%82%B0/</link><guid isPermaLink="false">https://dataportal.kr/티몬-위메프-사태로-알아보는-흑자도산/</guid><pubDate>Thu, 01 Aug 2024 13:37:49 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -63,7 +63,8 @@
 &lt;li&gt;매입 세금계산서 ↔︎ 출금 내역 매칭/관리&lt;/li&gt;
 &lt;li&gt;지급요청(지출결의)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;그 외에도 &lt;code&gt;5초 만에 발행할 수 있는 세금계산서&lt;/code&gt;를 비롯한 기업 간 거래를 쉽게 만들기 위한 다양한 기능을 제공하고 있으니 &lt;a href=&quot;https://bolta.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;무료로 이용&lt;/a&gt;해보고, 아직 볼타 팀이 해결하지 못한 문제가 있다면 주저 말고 말해달라.&lt;/p&gt;
+&lt;p&gt;그 외에도 &lt;code&gt;5초 만에 발행할 수 있는 세금계산서&lt;/code&gt;를 비롯한 기업 간 거래를 쉽게 만들기 위한 다양한 기능을 제공하고 있다. 이를 통해 모든 기업의 재무팀이 자금 상황에 대한 가시성을 높여 흑자도산과 같은 위험을 피하길 바란다.&lt;/p&gt;
+&lt;p&gt;볼타 팀은 앞으로도 재무팀이 더 건강한 비즈니스를 구축하는 데 도움을 주기 위해 노력하고자 한다. 모든 기능은 &lt;a href=&quot;https://bolta.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;무료로 이용&lt;/a&gt; 해볼 수 있으니, 둘러보고 아직 볼타 팀이 해결하지 못한 문제가 있다면 주저 말고 말해달라.&lt;/p&gt;
 &lt;p&gt;용기 내어 말해준 고객은 &lt;code&gt;&apos;이제 볼타가 없으면 업무를 할 수 없게 되었다.&apos;&lt;/code&gt;, &lt;code&gt;&apos;볼타가 없으면 출근하고 싶지 않다.&apos;&lt;/code&gt;라고 이야기하기도 한다.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;볼타 기능 둘러보기: &lt;a href=&quot;https://bolta.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://bolta.io&lt;/a&gt;&lt;/li&gt;
