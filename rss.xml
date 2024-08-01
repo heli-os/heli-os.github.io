@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 01 Aug 2024 05:00:04 GMT</lastBuildDate><item><title><![CDATA[티몬·위메프 사태로 알아보는 흑자도산]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%ED%8B%B0%EB%AA%AC-%EC%9C%84%EB%A9%94%ED%94%84-%EC%82%AC%ED%83%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%ED%9D%91%EC%9E%90%EB%8F%84%EC%82%B0/</link><guid isPermaLink="false">https://dataportal.kr/티몬-위메프-사태로-알아보는-흑자도산/</guid><pubDate>Thu, 01 Aug 2024 13:37:49 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 01 Aug 2024 05:00:48 GMT</lastBuildDate><item><title><![CDATA[티몬·위메프 사태로 알아보는 흑자도산]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%ED%8B%B0%EB%AA%AC-%EC%9C%84%EB%A9%94%ED%94%84-%EC%82%AC%ED%83%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%ED%9D%91%EC%9E%90%EB%8F%84%EC%82%B0/</link><guid isPermaLink="false">https://dataportal.kr/티몬-위메프-사태로-알아보는-흑자도산/</guid><pubDate>Thu, 01 Aug 2024 13:37:49 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -50,12 +50,8 @@
 &lt;h2&gt;흑자도산&lt;/h2&gt;
 &lt;p&gt;위에서 설명한 두 종류의 거래 구조로 인하여 흑자도산이 발생할 수 있다.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;플랫폼을 이용한 기업과 개인 간 거래&lt;/code&gt; : 신용카드 매출은 신고되었으나 플랫폼으로부터 정산받지 못하여 흑자도산&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;전자세금계산서 기반 기업 간 거래&lt;/code&gt; : 전자세금계산서를 발행하였으나 거래처로부터 대금을 지급받지 못하여 흑자도산&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;플랫폼을 이용한 기업과 개인 간 거래&lt;/code&gt; : 신용카드 매출은 신고되었으나 플랫폼으로부터 정산받지 못하여 흑자도산&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;전자세금계산서 기반 기업 간 거래&lt;/code&gt; : 전자세금계산서를 발행하였으나 거래처로부터 대금을 지급받지 못하여 흑자도산&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;이 중 전자세금계산서 기반 기업 간 거래의 경우, 거래를 증빙하는 전자세금계산서가 발행되었기 때문에 재무제표상 매출이 존재하지만, 실제로는 대금을 지급받지 못해 현금 흐름이 막히는 현상을 겪게 된다.&lt;/p&gt;
 &lt;p&gt;이렇게 현금 흐름이 막힌 기업에게 돈을 받아야 하는 다른 기업이 있다면 대출을 받게 되고, 대출의 규모가 커져 자본 잠식 상태에 빠지게 되면 &lt;code&gt;줄줄이 현금 흐름이 막히고 연쇄적으로 파산&lt;/code&gt;하는 사태가 벌어지게 된다. 1997년 IMF 구제금융 요청 시기에 여러 기업이 줄도산한 것과 비슷한 현상이다.&lt;/p&gt;
