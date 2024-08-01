@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 01 Aug 2024 05:54:36 GMT</lastBuildDate><item><title><![CDATA[티몬·위메프 사태로 알아보는 흑자도산]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%ED%8B%B0%EB%AA%AC-%EC%9C%84%EB%A9%94%ED%94%84-%EC%82%AC%ED%83%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%ED%9D%91%EC%9E%90%EB%8F%84%EC%82%B0/</link><guid isPermaLink="false">https://dataportal.kr/티몬-위메프-사태로-알아보는-흑자도산/</guid><pubDate>Thu, 01 Aug 2024 13:37:49 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 01 Aug 2024 08:15:08 GMT</lastBuildDate><item><title><![CDATA[티몬·위메프 사태로 알아보는 흑자도산]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%ED%8B%B0%EB%AA%AC-%EC%9C%84%EB%A9%94%ED%94%84-%EC%82%AC%ED%83%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%ED%9D%91%EC%9E%90%EB%8F%84%EC%82%B0/</link><guid isPermaLink="false">https://dataportal.kr/티몬-위메프-사태로-알아보는-흑자도산/</guid><pubDate>Thu, 01 Aug 2024 13:37:49 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -57,7 +57,7 @@
 &lt;p&gt;이렇게 현금 흐름이 막힌 기업에게 돈을 받아야 하는 다른 기업이 있다면 대출을 받게 되고, 대출의 규모가 커져 자본 잠식 상태에 빠지게 되면 &lt;code&gt;줄줄이 현금 흐름이 막히고 연쇄적으로 파산&lt;/code&gt;하는 사태가 벌어지게 된다. 1997년 IMF 구제금융 요청 시기에 여러 기업이 줄도산한 것과 비슷한 현상이다.&lt;/p&gt;
 &lt;h2&gt;매출/매입 세금계산서 관리&lt;/h2&gt;
 &lt;p&gt;이런 문제를 예방하기 위해 기업들은 &lt;code&gt;매출 세금계산서와 입금 내역&lt;/code&gt;, &lt;code&gt;매입 세금계산서와 출금 내역&lt;/code&gt;을 &lt;code&gt;매칭하여 관리&lt;/code&gt;하게 된다. 이 작업을 평소에 해두지 않으면 연말에 받지 못한 돈을 손실 처리하거나 아직 지급하지 않은 돈을 한꺼번에 지급하면서 뜻하지 않은 비용이 발생할 수 있기 때문이다. 생각보다 많은 기업이 이런 문제를 겪곤 한다.&lt;/p&gt;
-&lt;p&gt;이러한 문제를 해결하기 위해 볼타를 창업하게 되었고, 볼타에서는 무료로 아래와 같은 기능을 제공하고 있다.&lt;/p&gt;
+&lt;p&gt;이러한 문제를 해결하기 위해 볼타를 창업하게 되었고, 볼타에서는 아래와 같은 기능을 무료로 제공하고 있다.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;매출 세금계산서 ↔︎ 입금 내역 매칭/관리&lt;/li&gt;
 &lt;li&gt;매입 세금계산서 ↔︎ 출금 내역 매칭/관리&lt;/li&gt;
