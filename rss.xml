@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 20 Jan 2025 17:43:03 GMT</lastBuildDate><item><title><![CDATA[개발 조직에서의 리더 (부제: 다양한 문제해결 스타일)]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EA%B0%9C%EB%B0%9C-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C%EC%9D%98-%EB%A6%AC%EB%8D%94/</link><guid isPermaLink="false">https://dataportal.kr/개발-조직에서의-리더/</guid><pubDate>Tue, 21 Jan 2025 01:04:54 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 20 Jan 2025 17:44:28 GMT</lastBuildDate><item><title><![CDATA[개발 조직에서의 리더 (부제: 다양한 문제해결 스타일)]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EA%B0%9C%EB%B0%9C-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C%EC%9D%98-%EB%A6%AC%EB%8D%94/</link><guid isPermaLink="false">https://dataportal.kr/개발-조직에서의-리더/</guid><pubDate>Tue, 21 Jan 2025 01:04:54 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -28,9 +28,9 @@
 &lt;h2&gt;MOI 리더십 모델&lt;/h2&gt;
 &lt;p&gt;변화를 만들어 내려면 환경은 반드시 다음 세 가지 구성 요소를 포함해야 한다.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;M(Motivation; 동기부여): 위협하거나 보상하거나, 밀거나 당겨서 관련 있는 사람을 움직이도록 만드는 일&lt;/li&gt;
-&lt;li&gt;O(Organization; 조직화): 아이디어 실현이 가능하도록 만드는 구조&lt;/li&gt;
-&lt;li&gt;I(Idea; 아이디어, Innovation; 혁신): 씨앗, 실현될 것의 이미지&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;M(Motivation; 동기부여)&lt;/code&gt;: 위협하거나 보상하거나, 밀거나 당겨서 관련 있는 사람을 움직이도록 만드는 일&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;O(Organization; 조직화)&lt;/code&gt;: 아이디어 실현이 가능하도록 만드는 구조&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;I(Idea; 아이디어, Innovation; 혁신)&lt;/code&gt;: 씨앗, 실현될 것의 이미지&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;떄론 변화를 저지하는 것도 리더십이라고 할 수 있다. 변화가 일어나는 것을 멈추게 하고 싶다면, 환경에 다음 세 가지 중 한 가지를 하면 된다.&lt;/p&gt;
 &lt;ul&gt;
@@ -46,7 +46,7 @@
 &lt;li&gt;아이디어의 흐름을 관리하기&lt;/li&gt;
 &lt;li&gt;품질을 유지하기&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;이 세 가지가 문제 해결형 리더십의 특징적 구성 요소이며 이것이 바로 훌륭한 개발 조직 리더의 특징이다. 물론, 리더는 이 세 가지를 자신의 동기부여, 조직화, 혁신 능력에 따라 각자 서로 다른 방법으로 달성한다. 품질 향상을 목적으로 새로운 측정 도구를 도입하고자 하는 상황에서, 도구를 만드는 방법이 있고(I-전략), 도구를 사용하는 방법을 사람들에게 가르치고 사용하도록 설득하는 방법도 있으며(M-전략), 도구를 사용하는 사람들을 지원하는 체계를 만드는 방법도 있다.(O-전략).&lt;/p&gt;
+&lt;p&gt;이 세 가지가 문제 해결형 리더십의 특징적 구성 요소이며 &lt;code&gt;이것이 바로 훌륭한 개발 조직 리더의 특징&lt;/code&gt;이다. 물론, 리더는 이 세 가지를 자신의 동기부여, 조직화, 혁신 능력에 따라 각자 서로 다른 방법으로 달성한다. 품질 향상을 목적으로 새로운 측정 도구를 도입하고자 하는 상황에서, 도구를 만드는 방법이 있고(I-전략), 도구를 사용하는 방법을 사람들에게 가르치고 사용하도록 설득하는 방법도 있으며(M-전략), 도구를 사용하는 사람들을 지원하는 체계를 만드는 방법도 있다.(O-전략).&lt;/p&gt;
 &lt;p&gt;문제 해결형 리더가 되기 위해서 갑자기 개종 수준의 변화가 필요한 것은 아니다. 단지 자신에게 어떤 전략이 부족한지 MOI의 목적과 수단을 조합하여 살펴본 다음, 한 번에 하나씩 부족한 부분을 채우면 된다. 새로운 방식에 각각 익숙해지면 또 다른 선택을 할 수 있게 되고, 문제 해결을 위해 환경에 긍정적 영향을 미칠 수 있는 기회가 늘어난다. 그리고 결국에는 팀이 더 생산적으로 바뀌는 놀라운 모습을 볼 수 있을 것이다.&lt;/p&gt;
 &lt;h2&gt;문제 해결 스타일&lt;/h2&gt;
 &lt;p&gt;앞서 훌륭한 개발 조직의 리더가 아래 세 가지에 특히 노력한다고 이야기 했다.&lt;/p&gt;
@@ -55,7 +55,7 @@
 &lt;li&gt;아이디어의 흐름을 관리하기&lt;/li&gt;
 &lt;li&gt;품질을 유지하기&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;간혹, 주변 사람들이 나에게 &lt;code&gt;개발을 잘 하는 사람들은 어떤 특징이 있나요?&lt;/code&gt;라던가 &lt;code&gt;시니어 엔지니어가 되려면 어떻게 해야하나요?&lt;/code&gt;, &lt;code&gt;훌륭한 테크리더는 어떻게 될 수 있나요?&lt;/code&gt; 같은 질문을 하는 경우가 있다. 그때마다 한두가지의 특징을 말해주거나, 요행을 바라지 말라며 혼내기 바빴는데 이번 기회에 평소에 어렴풋이 인지하고 있던 생각을 정리해보려 한다.&lt;/p&gt;
+&lt;p&gt;간혹, 주변 사람들이 나에게 &lt;code&gt;개발을 잘 하는 사람들은 어떤 특징이 있나요?&lt;/code&gt;라던가 &lt;code&gt;시니어 엔지니어가 되려면 어떻게 해야하나요?&lt;/code&gt;, &lt;code&gt;훌륭한 테크리더는 어떻게 될 수 있나요?&lt;/code&gt; 같은 질문을 하는 경우가 있다. 그때마다 한두가지의 특징을 말해주거나, 요행을 바라지 말라며 혼내기 바빴는데 이번 기회에 평소에 어렴풋이 인지하고 있던 생각을 위 세 가지 키워드를 중심으로 정리해보려 한다.&lt;/p&gt;
 &lt;h3&gt;문제에 대한 이해&lt;/h3&gt;
 &lt;p&gt;개발자들 중에는 아이디어에 푹 빠져 있지만, 자신의 일과 바깥 세상 사이의 연결 감각이 부족한 경우가 흔하다. 특히 눈앞에 닥친 문제를 이해하고 싶어 하지 않으며, 유일한 목표는 흥미로운 것을 탐색하는 일이다.&lt;/p&gt;
 &lt;p&gt;모든 구성원이 스스로 목표를 분명하게 이해하는 환경이라면, 위와 같은 팀원은 문제 해결형 팀에서 최고의 팀원이 될 수 있다. 그러나 환경적인 제한이 없다면 쓸모없는 시간만 보낼 뿐이고, 일은 우연에 의해서만 이루어진다. 모든 사람이 문제를 이해하는 환경을 만드는 데 도움을 주는 행동 중에서 우리가 흔히 볼 수 있는 것들은 구체적으로 다음과 같다.&lt;/p&gt;
