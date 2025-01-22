@@ -1,4 +1,135 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 21 Jan 2025 04:34:46 GMT</lastBuildDate><item><title><![CDATA[개발 조직에서의 리더 (부제: 다양한 문제해결 스타일)]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EA%B0%9C%EB%B0%9C-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C%EC%9D%98-%EB%A6%AC%EB%8D%94/</link><guid isPermaLink="false">https://dataportal.kr/개발-조직에서의-리더/</guid><pubDate>Tue, 21 Jan 2025 01:04:54 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 22 Jan 2025 06:17:16 GMT</lastBuildDate><item><title><![CDATA[인터넷에서 상대방을 추적하는 혁신적인 방법]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EC%9D%B8%ED%84%B0%EB%84%B7%EC%97%90%EC%84%9C-%EC%83%81%EB%8C%80%EB%B0%A9%EC%9D%84-%EC%B6%94%EC%A0%81%ED%95%98%EB%8A%94-%ED%98%81%EC%8B%A0%EC%A0%81%EC%9D%B8-%EB%B0%A9%EB%B2%95/</link><guid isPermaLink="false">https://dataportal.kr/인터넷에서-상대방을-추적하는-혁신적인-방법/</guid><pubDate>Wed, 22 Jan 2025 14:55:30 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwQG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAVO2DGOfLiv/xAAaEAEAAgMBAAAAAAAAAAAAAAABAxECBCQx/9oACAEBAAEFAsbuXCl9gObRBj2AJ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAICAQUAAAAAAAAAAAAAAAABAhEDECExMkH/2gAIAQEABj8CVI7LTNL1VRurJpcJn//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExQVH/2gAIAQEAAT8hv2dlLeXchIBce58jIIK9LgvUkCf/2gAMAwEAAgADAAAAEIwP/8QAFhEBAQEAAAAAAAAAAAAAAAAAARBB/9oACAEDAQE/EMSf/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARMf/aAAgBAgEBPxDDV//EABwQAQEAAgMBAQAAAAAAAAAAAAERACExQVFhgf/aAAgBAQABPxACy8jXWRDwViE+R7xz3QYPuV2EK7t3MV9khU/uAjIDgPM//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/beb00e2c543c193add088f90c6a33865/72e01/death-note.jpg&quot;
+        srcset=&quot;/static/beb00e2c543c193add088f90c6a33865/e4a55/death-note.jpg 256w,
+/static/beb00e2c543c193add088f90c6a33865/36dd4/death-note.jpg 512w,
+/static/beb00e2c543c193add088f90c6a33865/72e01/death-note.jpg 1024w,
+/static/beb00e2c543c193add088f90c6a33865/eea4a/death-note.jpg 1280w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;데스노트라는 일본 애니메이션을 본적 있는가? 안본 사람을 위해 대략 내용을 설명해주자면, 얼굴과 이름을 알고 있는 상태에서 작품명과 동일한 이름의 &lt;code&gt;데스노트&lt;/code&gt;에 이름을 적으면 그 사람이 어디에 있든 사망에 이르게 할 수 있다는 컨셉을 지닌 애니메이션이다.&lt;/p&gt;
+&lt;p&gt;그리고 이 애니메이션의 초반에는 전세계에의 불특정 다수가 사망하는 것을 보고, 특정 &lt;code&gt;단체&lt;/code&gt;의 소행이라 판단한채 범인을 검거하기 위해 추리를 펼치는 모습이 등장한다. 하지만 범인은 일본에 거주하는 평범한 학생이었다.(작품에서는 &lt;code&gt;키라&lt;/code&gt;라는 별칭으로 불리운다.)&lt;/p&gt;
+&lt;p&gt;이때 작품에 등장하는 천재 명탐정(작품에서는 &lt;code&gt;L&lt;/code&gt;이라는 이름으로 불리운다.)이 범인의 위치를 구체화 하기 위하여 구역을 나누고, 각 구역마다 방송을 송출하며 미끼를 던지는 모습이 등장한다. 이러한 방식은 범죄 수사에서 흔히 쓰이는데, 숨겨진 신원을 밝혀낸다는 의미에서 &lt;code&gt;비익명화&lt;/code&gt;라고 부른다.&lt;/p&gt;
+&lt;p&gt;이제 우리에게는 익명이라는 개념이 너무 익숙하다. 인터넷 자체가 익명이기 때문이다. 인터넷을 이용하여 익명으로 여러 범죄가 이루어지고, 비밀이 오고간다.&lt;/p&gt;
+&lt;p&gt;최근 한 15세 해커가 흥미로운 연구 결과를 공개했다. 그는 Cloudflare라는 CDN 서비스의 특성을 이용해 Signal이나 Discord 같은 메신저 사용자의 위치를 추적할 수 있는 방법을 발견했다. 이 방법은 사용자의 어떤 조작도 필요 없이 약 400km 반경 내에서 위치를 특정할 수 있다고 한다.&lt;/p&gt;
+&lt;h2&gt;공격 방법의 원리&lt;/h2&gt;
+&lt;p&gt;이 공격의 핵심은 Cloudflare의 캐시 시스템에 있다. Cloudflare는 전 세계 330개 도시에 데이터센터를 두고 있으며, 사용자와 가까운 데이터센터에서 콘텐츠를 제공한다. 해커는 이 특성을 이용해 특정 콘텐츠가 어느 데이터센터에 캐시되었는지 추적함으로써 사용자의 대략적인 위치를 파악할 수 있었다.&lt;/p&gt;
+&lt;h2&gt;Signal과 Discord의 취약점&lt;/h2&gt;
+&lt;p&gt;Signal의 경우, 메시지에 첨부된 이미지나 파일이 Cloudflare CDN을 통해 전달된다. 사용자가 채팅방을 열거나 푸시 알림을 받을 때 이 파일들이 자동으로 다운로드되며, 이 과정에서 사용자의 위치 정보가 노출될 수 있다.&lt;/p&gt;
+&lt;p&gt;Discord도 비슷한 취약점을 가지고 있다. 특히 친구 요청을 보낼 때 프로필 이미지가 푸시 알림과 함께 전송되는데, 이 과정에서 위치 추적이 가능하다. 해커는 이를 자동화한 &lt;code&gt;&apos;GeoGuesser&apos;&lt;/code&gt;라는 Discord 봇을 제작해 실제로 Discord CTO의 위치를 추적하는 데 성공했다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/7ab49abdf674427886ab67b64241445f/geo-guesser.gif&quot; alt=&quot;geo guesser&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;보안 업체들의 반응&lt;/h2&gt;
+&lt;p&gt;이 취약점이 공개된 후, 각 회사의 반응은 제각각이었다. Signal은 이를 자신들의 책임이 아니라며 사용자가 알아서 주의해야 한다는 입장을 보였다. Discord는 초기에는 수정을 약속했지만 나중에는 Cloudflare의 문제라고 입장을 바꿨다. Cloudflare는 결국 일부 취약점을 수정했지만, 근본적인 문제는 여전히 남아있다.&lt;/p&gt;
+&lt;h2&gt;시사점&lt;/h2&gt;
+&lt;p&gt;이 사례는 현대 인터넷 인프라의 복잡성과 그로 인한 예상치 못한 보안 위험을 보여준다. 특히 성능 향상을 위해 도입된 기술이 역설적으로 프라이버시를 위협할 수 있다는 점을 잘 보여준다.&lt;/p&gt;
+&lt;p&gt;개인의 프라이버시가 중요한 저널리스트, 활동가, 그리고 일반 사용자들은 이러한 위험을 인지하고 적절한 보호 조치를 취할 필요가 있다. VPN이나 Tor 같은 추가적인 보안 도구의 사용을 고려해볼 만하다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;전문: &lt;a href=&quot;https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[개발 조직에서의 리더 (부제: 다양한 문제해결 스타일)]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EA%B0%9C%EB%B0%9C-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C%EC%9D%98-%EB%A6%AC%EB%8D%94/</link><guid isPermaLink="false">https://dataportal.kr/개발-조직에서의-리더/</guid><pubDate>Tue, 21 Jan 2025 01:04:54 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
