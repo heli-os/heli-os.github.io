@@ -1,5 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 30 Jan 2025 18:19:05 GMT</lastBuildDate><item><title><![CDATA[동시성 패턴: Fail-fast와 Single Flight 패턴 비교]]></title><description><![CDATA[hero]]></description><link>https://dataportal.kr/%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%8C%A8%ED%84%B4-Fail-fast%EC%99%80-Single-Flight-%ED%8C%A8%ED%84%B4-%EB%B9%84%EA%B5%90/</link><guid isPermaLink="false">https://dataportal.kr/동시성-패턴-Fail-fast와-Single-Flight-패턴-비교/</guid><pubDate>Fri, 31 Jan 2025 02:58:12 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;./assets/1.jpeg&quot; alt=&quot;hero&quot;&gt;&lt;/p&gt;
-&lt;iframe src=&quot;https://embed.reddit.com/r/Kotlin/comments/1icz7k8/whats_the_name_of_this_concurrency_concept&quot;    scrolling=&quot;no&quot; width=&quot;100%&quot; height=&quot;316&quot;&gt;&lt;/iframe&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 31 Jan 2025 10:43:29 GMT</lastBuildDate><item><title><![CDATA[동시성 패턴: Fail-fast와 Single Flight 패턴 비교]]></title><description><![CDATA[원문 상황 OP가 설명한 상황: 여러 비동기 작업이 있고, 그 중 하나라도 실패하면 다른 작업들을 취소하고 싶은 상황 구체적인 예시: 여러 API를 동시에 호출하는데, 하나라도 실패하면 다른 호출들을 취소 제안된 해결 방식들  1. Structured…]]></description><link>https://dataportal.kr/%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%8C%A8%ED%84%B4-Fail-fast%EC%99%80-Single-Flight-%ED%8C%A8%ED%84%B4-%EB%B9%84%EA%B5%90/</link><guid isPermaLink="false">https://dataportal.kr/동시성-패턴-Fail-fast와-Single-Flight-패턴-비교/</guid><pubDate>Fri, 31 Jan 2025 02:58:12 GMT</pubDate><content:encoded>&lt;iframe src=&quot;https://embed.reddit.com/r/Kotlin/comments/1icz7k8/whats_the_name_of_this_concurrency_concept&quot;    scrolling=&quot;no&quot; width=&quot;100%&quot; height=&quot;316&quot;&gt;&lt;/iframe&gt;
+&lt;h2&gt;원문 상황&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;OP가 설명한 상황: 여러 비동기 작업이 있고, 그 중 하나라도 실패하면 다른 작업들을 취소하고 싶은 상황&lt;/li&gt;
+&lt;li&gt;구체적인 예시: 여러 API를 동시에 호출하는데, 하나라도 실패하면 다른 호출들을 취소&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;제안된 해결 방식들&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAEDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe5NAUf/xAAXEAEAAwAAAAAAAAAAAAAAAAARAiAh/9oACAEBAAEFAtZLT//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAAMAAAAAAAAAAAAAAAAAAAAgIf/aAAgBAQAGPwIi/wD/xAAXEAEAAwAAAAAAAAAAAAAAAAABACBx/9oACAEBAAE/IVxiAq//2gAMAwEAAgADAAAAEDsP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QJ//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EKf/xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhIDH/2gAIAQEAAT8QyS6EOgpV5kPOP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;concurrency patterns&quot;
+        title=&quot;concurrency patterns&quot;
+        src=&quot;/static/23838bd30ef41ae806a62d95fbe3051f/72e01/concurrency-patterns.jpg&quot;
+        srcset=&quot;/static/23838bd30ef41ae806a62d95fbe3051f/e4a55/concurrency-patterns.jpg 256w,
+/static/23838bd30ef41ae806a62d95fbe3051f/36dd4/concurrency-patterns.jpg 512w,
+/static/23838bd30ef41ae806a62d95fbe3051f/72e01/concurrency-patterns.jpg 1024w,
+/static/23838bd30ef41ae806a62d95fbe3051f/ac99c/concurrency-patterns.jpg 1536w,
+/static/23838bd30ef41ae806a62d95fbe3051f/e1596/concurrency-patterns.jpg 2048w,
+/static/23838bd30ef41ae806a62d95fbe3051f/08688/concurrency-patterns.jpg 2500w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;1. Structured Concurrency 활용&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;coroutineScope 사용: &lt;code&gt;all-or-nothing&lt;/code&gt; 방식으로 동작.
+&lt;ul&gt;
+&lt;li&gt;하나의 자식 코루틴이 실패하면 모든 자식 코루틴을 즉시 취소함.&lt;/li&gt;
+&lt;li&gt;실패를 상위로 전파하며, 트랜잭션과 같은 원자적 작업에 적합함.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;supervisorScope와는 차이점이 있음: 각 자식 코루틴이 독립적으로 동작함.
+&lt;ul&gt;
+&lt;li&gt;실패를 격리시키고 부분적 실패를 허용함.&lt;/li&gt;
+&lt;li&gt;독립적인 작업들을 실행할 때 적합함.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Single Flight 패턴&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;동일한 작업이 동시에 요청될 때 중복 실행을 방지&lt;/li&gt;
+&lt;li&gt;첫 번째 요청만 실제로 실행하고 나머지는 그 결과를 공유&lt;/li&gt;
+&lt;li&gt;실제 사용 사례:
+&lt;ul&gt;
+&lt;li&gt;캐시가 없을 때 여러 요청이 동시에 들어오는 상황&lt;/li&gt;
+&lt;li&gt;API 호출 중복 방지&lt;/li&gt;
+&lt;li&gt;리소스 낭비 방지&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Reference: &lt;a href=&quot;https://pkg.go.dev/golang.org/x/sync/singleflight&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Golang의 singleflight&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;This discussion covers two important concurrency patterns in Programming(e.g. Kotlin):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The fail-fast pattern using coroutineScope, which cancels all operations when one fails&lt;/li&gt;
+&lt;li&gt;The Single Flight pattern, which deduplicates concurrent requests for the same operation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;While they serve different purposes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fail-fast focuses on error propagation and maintaining consistency&lt;/li&gt;
+&lt;li&gt;Single Flight optimizes resource usage by preventing duplicate operations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Both patterns are valuable tools in building robust concurrent systems with Kotlin.&lt;/p&gt;
 &lt;style class=&quot;grvsc-styles&quot;&gt;
   .grvsc-container {
     overflow: auto;
