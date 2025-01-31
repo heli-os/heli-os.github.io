@@ -173,6 +173,12 @@
 <li>Client-side caching further reduces the need for Redis reads</li>
 </ol>
 <p>The combination of single-flight at both CloudFront and Aggregator levels, plus client-side caching, has resulted in a substantial reduction in service requests and overall Redis load, creating a more efficient and performant system.</p>
+<h3>Important Consideration for Single-flight</h3>
+<p>He noted a critical consideration when implementing single-flight, particularly in Go:</p>
+<ul>
+<li>If single-flight objects aren't separated by routes, the locking mechanism (which occurs for every request) can become a bottleneck. This is a characteristic specific to Go's implementation of single-flight, and the behavior might differ in other programming languages.</li>
+<li>The combination of single-flight at both CloudFront and Aggregator levels, plus client-side caching, has resulted in a substantial reduction in service requests and overall Redis load, creating a more efficient and performant system.</li>
+</ul>
 <h2>My Thoughts</h2>
 <p>As a backend engineering, I find this discussion particularly relevant since it addresses a common business scenario we often encounter. When multiple clients requests the same resource simultaneously (e.g. fetching user profiles or processing payment transactions), we need to carefully handle these concurrent requests to optimize system resources and maintain data consistency.</p>
 <p>What fascinates me is how Golang has built-in support for this pattern through their <code>singleflight</code> package. It shows that this concurrency pattern is so commonly needed that they decided to provide it at the language ecosystem level. This makes me wonder why other languages haven't adopted similar built-in solutions.</p>
