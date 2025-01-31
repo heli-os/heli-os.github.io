@@ -1,8 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 31 Jan 2025 10:43:29 GMT</lastBuildDate><item><title><![CDATA[동시성 패턴: Fail-fast와 Single Flight 패턴 비교]]></title><description><![CDATA[원문 상황 OP가 설명한 상황: 여러 비동기 작업이 있고, 그 중 하나라도 실패하면 다른 작업들을 취소하고 싶은 상황 구체적인 예시: 여러 API를 동시에 호출하는데, 하나라도 실패하면 다른 호출들을 취소 제안된 해결 방식들  1. Structured…]]></description><link>https://dataportal.kr/%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%8C%A8%ED%84%B4-Fail-fast%EC%99%80-Single-Flight-%ED%8C%A8%ED%84%B4-%EB%B9%84%EA%B5%90/</link><guid isPermaLink="false">https://dataportal.kr/동시성-패턴-Fail-fast와-Single-Flight-패턴-비교/</guid><pubDate>Fri, 31 Jan 2025 02:58:12 GMT</pubDate><content:encoded>&lt;iframe src=&quot;https://embed.reddit.com/r/Kotlin/comments/1icz7k8/whats_the_name_of_this_concurrency_concept&quot;    scrolling=&quot;no&quot; width=&quot;100%&quot; height=&quot;316&quot;&gt;&lt;/iframe&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 31 Jan 2025 10:59:00 GMT</lastBuildDate><item><title><![CDATA[동시성 패턴: Fail-fast와 Single Flight 패턴 비교]]></title><description><![CDATA[원문 상황  OP…]]></description><link>https://dataportal.kr/%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%8C%A8%ED%84%B4-Fail-fast%EC%99%80-Single-Flight-%ED%8C%A8%ED%84%B4-%EB%B9%84%EA%B5%90/</link><guid isPermaLink="false">https://dataportal.kr/동시성-패턴-Fail-fast와-Single-Flight-패턴-비교/</guid><pubDate>Fri, 31 Jan 2025 02:58:12 GMT</pubDate><content:encoded>&lt;iframe src=&quot;https://embed.reddit.com/r/Kotlin/comments/1icz7k8/whats_the_name_of_this_concurrency_concept&quot;    scrolling=&quot;no&quot; width=&quot;100%&quot; height=&quot;316&quot;&gt;&lt;/iframe&gt;
 &lt;h2&gt;원문 상황&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB+0lEQVQ4y6VTa2/bMAzU//9zw7rOzaNp4jSJH5IlW37JaZwbjorXAhuwDzNAkJQlirw7qdBPKIyB8x7dMOJ/vnmeoZ6ef+JHkmC12SJZr/H69oZDmmK93eKQHiXf7nZIj0fs9nus1hvs0xTJywqrzQb7w0HWt687WOegnpME374/oaoq9H0P37YYhgFt16HrOrRttK7vZa3xHiEE2VfXtXjvW1m/Xq9QlXUotEHdNDDWonIOtq4lti56U1kUWoN72QVzXjCMI8YQMI4jwjTJ2IqHlyJL7JoGuqrg6nhJaYwUZKE/C47w/YTrxwzgDnXOcmRFiUteiH3N81JLzoI0/eiUBfOylH3aGBzOBto2mKYJqjSVjMbO2JV4Ez3XWZRj8bvf778ZZUybxc/CMGNFoAXYhzWL963gSuMeYkQyCDxjFvjbp4jD8XzGKctwyfPHyAVOlwvOWSZ5+n7C6RJjTkE4iG3bRebrxn+SwnE49lc2S23kIEdnTrw4vnQ5TYJVZDcIMcMQWSYEqii1dMRDxIvs9cMgxkPUZkvN+WhRj1Gv/qHLBSp5KZ7CZdvei19uXPQlF4wBYWiAe/jn81MyojGIAtfSJT2NsqDo+T8vC2ijBR7CsTwCgcpa6fR2u0GJZKyTtilktwjdfQreiTUi+KUI/y8PgdhTAcTwF4bsLMlfG/pYAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;question&quot;
+        title=&quot;question&quot;
+        src=&quot;/static/7e23a678b2734b1fe4448c0328ff08ed/2bef9/1.png&quot;
+        srcset=&quot;/static/7e23a678b2734b1fe4448c0328ff08ed/6f3f2/1.png 256w,
+/static/7e23a678b2734b1fe4448c0328ff08ed/01e7c/1.png 512w,
+/static/7e23a678b2734b1fe4448c0328ff08ed/2bef9/1.png 1024w,
+/static/7e23a678b2734b1fe4448c0328ff08ed/f2b95/1.png 1515w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;OP가 설명한 상황: 여러 비동기 작업이 있고, 그 중 하나라도 실패하면 다른 작업들을 취소하고 싶은 상황&lt;/li&gt;
-&lt;li&gt;구체적인 예시: 여러 API를 동시에 호출하는데, 하나라도 실패하면 다른 호출들을 취소&lt;/li&gt;
+&lt;li&gt;OP가 설명한 상황: 동일 메소드에 대한 여러 비동기 요청이 있을때, 이미 다른 비동기 요청에 의해 처리중이라면, 다시 내부 로직을 수행하지 않고 다른 요청의 처리 결과를 기다렸다가 사용하고 싶음.&lt;/li&gt;
+&lt;li&gt;예시: 한번 호출 할 때 마다 비용이 발생하는 외부 API를 호출하는데, 같은 식별자(key)로 여러 요청이 들어오면 기존 요청의 처리 결과를 기다렸다가 사용&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;제안된 해결 방식들&lt;/h2&gt;
 &lt;p&gt;&lt;span
@@ -70,6 +93,12 @@
 &lt;li&gt;Single Flight optimizes resource usage by preventing duplicate operations&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Both patterns are valuable tools in building robust concurrent systems with Kotlin.&lt;/p&gt;
+&lt;h2&gt;My Thoughts&lt;/h2&gt;
+&lt;p&gt;As a backend engineering, I find this discussion particularly relevant since it addresses a common business scenario we often encounter. When multiple clients requests the same resource simultaneously (e.g. fetching user profiles or processing payment transactions), we need to carefully handle these concurrent requests to optimize system resources and maintain data consistency.&lt;/p&gt;
+&lt;p&gt;What fascinates me is how Golang has built-in support for this pattern through their &lt;code&gt;singleflight&lt;/code&gt; package. It shows that this concurrency pattern is so commonly needed that they decided to provide it at the language ecosystem level. This makes me wonder why other languages haven&apos;t adopted similar built-in solutions.&lt;/p&gt;
+&lt;p&gt;In my experience with Kotlin and Spring Boot, we often have to implement this pattern ourselves or rely on caching mechanisms. While these solutions work, having a standardized approach like Go&apos;s would be beneficial for consistency across different projects and team.&lt;/p&gt;
+&lt;p&gt;While this pattern might not be 100% applicable in distributed environments with multiple instances, having it as part of the ecosystem provides valuable insights into solving concurrency challenges. Without exploring Go or studying various concurrency patterns, I might never have discovered this elegant approach to handling duplicate requests.&lt;/p&gt;
+&lt;p&gt;Have you encountered similar concurrency challenges in your project? How did you handle them?&lt;/p&gt;
 &lt;style class=&quot;grvsc-styles&quot;&gt;
   .grvsc-container {
     overflow: auto;
