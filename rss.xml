@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 31 Jan 2025 10:59:00 GMT</lastBuildDate><item><title><![CDATA[동시성 패턴: Fail-fast와 Single Flight 패턴 비교]]></title><description><![CDATA[원문 상황  OP…]]></description><link>https://dataportal.kr/%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%8C%A8%ED%84%B4-Fail-fast%EC%99%80-Single-Flight-%ED%8C%A8%ED%84%B4-%EB%B9%84%EA%B5%90/</link><guid isPermaLink="false">https://dataportal.kr/동시성-패턴-Fail-fast와-Single-Flight-패턴-비교/</guid><pubDate>Fri, 31 Jan 2025 02:58:12 GMT</pubDate><content:encoded>&lt;iframe src=&quot;https://embed.reddit.com/r/Kotlin/comments/1icz7k8/whats_the_name_of_this_concurrency_concept&quot;    scrolling=&quot;no&quot; width=&quot;100%&quot; height=&quot;316&quot;&gt;&lt;/iframe&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 31 Jan 2025 11:02:24 GMT</lastBuildDate><item><title><![CDATA[동시성 패턴: Fail-fast와 Single Flight 패턴 비교]]></title><description><![CDATA[원문 상황  OP…]]></description><link>https://dataportal.kr/%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%8C%A8%ED%84%B4-Fail-fast%EC%99%80-Single-Flight-%ED%8C%A8%ED%84%B4-%EB%B9%84%EA%B5%90/</link><guid isPermaLink="false">https://dataportal.kr/동시성-패턴-Fail-fast와-Single-Flight-패턴-비교/</guid><pubDate>Fri, 31 Jan 2025 02:58:12 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.359375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHqp5LEg//EABoQAAICAwAAAAAAAAAAAAAAAAABERICAyH/2gAIAQEAAQUCydWtqZJY4nJ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAQQDAAAAAAAAAAAAAAAAAAEQESExYZH/2gAIAQEABj8Crim2smDB/8QAGhAAAwEAAwAAAAAAAAAAAAAAAAERITFRgf/aAAgBAQABPyFukM5proezSg4qXISP/9oADAMBAAIAAwAAABAAz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQEBAAMBAQAAAAAAAAAAAAERACExcUFh/9oACAEBAAE/EDgNXmsfHeAYLgoMF+Jis6JH9wEEHWBxpdB9d//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/65191d3fa2671140f0b73ef9aab539eb/72e01/1.jpg&quot;
+        srcset=&quot;/static/65191d3fa2671140f0b73ef9aab539eb/e4a55/1.jpg 256w,
+/static/65191d3fa2671140f0b73ef9aab539eb/36dd4/1.jpg 512w,
+/static/65191d3fa2671140f0b73ef9aab539eb/72e01/1.jpg 1024w,
+/static/65191d3fa2671140f0b73ef9aab539eb/9657e/1.jpg 1216w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://embed.reddit.com/r/Kotlin/comments/1icz7k8/whats_the_name_of_this_concurrency_concept&quot;    scrolling=&quot;no&quot; width=&quot;100%&quot; height=&quot;316&quot;&gt;&lt;/iframe&gt;
 &lt;h2&gt;원문 상황&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
