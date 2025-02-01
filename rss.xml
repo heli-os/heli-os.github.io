@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 01 Feb 2025 17:34:54 GMT</lastBuildDate><item><title><![CDATA[기브앤테이크 6장. 이기적인 이타주의자]]></title><description><![CDATA[아래 내용은 채팅방에 공유했던 내용이라 문체를 별도로 가공하지 않고 그대로 단락만 정리하여 작성하였습니다. :)…]]></description><link>https://dataportal.kr/%EA%B8%B0%EB%B8%8C%EC%95%A4%ED%85%8C%EC%9D%B4%ED%81%AC-6%EC%9E%A5-%EC%9D%B4%EA%B8%B0%EC%A0%81%EC%9D%B8-%EC%9D%B4%ED%83%80%EC%A3%BC%EC%9D%98%EC%9E%90/</link><guid isPermaLink="false">https://dataportal.kr/기브앤테이크-6장-이기적인-이타주의자/</guid><pubDate>Sun, 02 Feb 2025 02:02:06 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 01 Feb 2025 17:43:44 GMT</lastBuildDate><item><title><![CDATA[기브앤테이크 6장. 이기적인 이타주의자]]></title><description><![CDATA[아래 내용은 채팅방에 공유했던 내용이라 문체를 별도로 가공하지 않고 그대로 단락만 정리하여 작성하였습니다. :)…]]></description><link>https://dataportal.kr/%EA%B8%B0%EB%B8%8C%EC%95%A4%ED%85%8C%EC%9D%B4%ED%81%AC-6%EC%9E%A5-%EC%9D%B4%EA%B8%B0%EC%A0%81%EC%9D%B8-%EC%9D%B4%ED%83%80%EC%A3%BC%EC%9D%98%EC%9E%90/</link><guid isPermaLink="false">https://dataportal.kr/기브앤테이크-6장-이기적인-이타주의자/</guid><pubDate>Sun, 02 Feb 2025 02:02:06 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -31,7 +31,7 @@
 &lt;h3&gt;전체 내용을 읽으면서 느낀 것 + 생각&lt;/h3&gt;
 &lt;p&gt;내가 본능적으로 깨닫고 지니고 있던 마음가짐이 실제로 많은 연구와 사례를 통해 유의미하다는걸 알 수 있었고, 쭉 읽으면서도 저에게 있어서 보상은 &apos;돈&apos;보다는 그들의 성공과 그들이 성공으로 나아가는 과정에서 발생하는 다양한 시행착오를 근처에서 바라볼 수 있는 특권을 가지는 것이라는 생각이 들었네요.&lt;/p&gt;
 &lt;p&gt;책에서 &apos;일을 더 많이하면서도 활력을 유지하는 사람&apos;에 대해 언급하는데, 실제로 저도 하는 일이 많고 새로운걸 도전하는걸 즐기는 편인데 딱히 힘들다고 생각해본적이 없는데요. 일단 뭐든 하면 잘 해내는 편이고 어느정도 이상의 성취를 이루는 것이 여태까지는 막연하게 성취를 느낄때까지 달려가는 속도가 남들보다 월등히 빠르다. 정도로 생각하고 있었지만, 이번 챕터를 읽어보니 내가 하는 행동과 생각 하나하나에 어떤 영향이 있고 어떻게 발산 시킬 수 있는지 명시적으로 짚어가는 습관이 크게 영향을 준게 아닐까 싶습니다. 지금 이 글을 쓰는 순간에도 이 글을 읽는 여러분들에게 어떤 영향이 있을지 생각하면서 쓰고 있네요.&lt;/p&gt;
-&lt;h2&gt;아래는 책 내용 일부 인용 + 살짝의 편집 정리&lt;/h2&gt;
+&lt;h3&gt;아래는 책 내용 일부 인용 + 살짝의 편집 정리&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;똑똑한 이타주의자는 어리석은 이타주의자보다 덜 이타적일지도 모르지만, 그들은 어리석은 이타주의자와 이기주의자보다 더 바람직한 존재다.&lt;/li&gt;
 &lt;li&gt;성공을 거둔 기버는 단순히 동료보다 더 이타적이기만 한 것이 아니라 그들 자신의 이익을 도모하는 데도 적극적이다.&lt;/li&gt;
@@ -43,7 +43,55 @@
 &lt;li&gt;베푸는 과정에서 동정심을 지나치게 많이 표현하면 동정심 감퇴, 스트레스, 부담감 그리고 피로라고 표현 할 수 있는 &apos;정신적 에너지 소진&apos;이 발생 할 것 같지만, 실제로는 그렇지 않다. 오히려 도움을 필요로 하는 사람들을 효과적으로 도와주지 못한다고 생각할 때 소진된다.&lt;/li&gt;
 &lt;li&gt;일을 더 많이 하면서도 활력을 유지하는 모든 사람은 내가 하는 행동이 고객과 회사에 어떤 영향을 끼칠 수 있는지 이해하고, 그들의 성공과 만족을 위해 일한다는 것을 알고 있다. (책에서는 의사-환자의 관계로 설명함.)&lt;/li&gt;
 &lt;li&gt;직관적으로 생각하면 다소 이상하지만, 기버는 더 큰 영향력을 끼침으로써 더 많이 베풀면서도 에너지 소진을 피한다. 더 큰 영향력을 끼침으로써 그들의 성공을 위해 도움을 주고 있다는 것을 명확히 알고 있기 때문이다.&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[코틀린의 null 값에 대한 고찰]]></title><description><![CDATA[원문 상황  OP가 제기한 상황: Kotlin에서 null을 다룰 때 어떤 방식이 가장 좋은지에 대한 고민 특히 여러 개의 nullable…]]></description><link>https://dataportal.kr/%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-null-%EA%B0%92%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0/</link><guid isPermaLink="false">https://dataportal.kr/코틀린의-null-값에-대한-고찰/</guid><pubDate>Sat, 01 Feb 2025 10:10:48 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;/ul&gt;
+&lt;h3&gt;위 내용을 읽은 모임(?) 멤버들의 반응&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 44.140625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAABkElEQVQoz32SW0/CQBCF+2/UKBVaroXer9B2ewVKBUGJiS++8++PmYltYmJ8ONntbPfbOTMj3T6+cGkuCKIUZplgEfqw7Qia7mAyW7Gmc51XdaJhpM7/lXR7ecc1rRFlFdYiR5TkiJMS4VrA9Tew3Yj3XhBjsbQweB5DHk5Yz6Npvx8qM5Z0P1DwIKsYyCp0w0UYpfDDmDMmbZIC6zhjYFE1KOsG9e6Fz+K04PM0q7AyXH5MUsYLKOqcP/wwwel8hR/EyIot4rTErjkhESWKas+Asj5wrD1eIPItqu2BgY63BrGkzvvjQIFpB30WdJEgIq85RvCs2CERFYuypDjB6l2LaCN+A59ktQe2xzeIrGZAXu570P5wQrTJ2Ak90LSvvcjRXDM64Ax3jzK0lcU2mvbMlvaHV1TblrMlAK0EJMuUoWH5XDtqFk3CeLqERJ0ZqQt4poBuxjAsD5YTchNopdrYboil7jBAW9kc002Pu0qlovqTqOs/QA3H/BOWXWFpOGy/+6mTPJz2o9KNzl9z+A3VuEKBJ+A0lAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;chat-1&quot;
+        title=&quot;chat-1&quot;
+        src=&quot;/static/001e282d40e95cfff5ac2a914067d6db/2bef9/2.png&quot;
+        srcset=&quot;/static/001e282d40e95cfff5ac2a914067d6db/6f3f2/2.png 256w,
+/static/001e282d40e95cfff5ac2a914067d6db/01e7c/2.png 512w,
+/static/001e282d40e95cfff5ac2a914067d6db/2bef9/2.png 1024w,
+/static/001e282d40e95cfff5ac2a914067d6db/87488/2.png 1282w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 40.23437500000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABYlAAAWJQFJUiTwAAABT0lEQVQoz21QSXKDMBDkSznES2wHhEASSCCxg11ODnlEnt+pGcjiqhy6ujWq7lkiV86oqwFDkcJnCaw4wSoBZzVcqX5QWc0otIQ1GUotUZoMRolVawmZnBC9v31iHD7gncTYe3SNRd9YdKFAWxs0lUaoFDO9rRaQ8QFZcvwHB0TZ6xNkvMM8eDYEp+CKlNnbHK0vWNc2Z+5CicBNNP81m4c4Fy+ITHqEkhfcrz1uc4d5CJh6z2HNZvRu1YSOGpCuDet2A9W0PCPSYg+Tx7jNLaauxjIGXKdm7cpGDWse1/zWxH9BtUiJPd9l7j3GrsbQOA6kYJqWeOrXOk1ETOchXsYGY1et/62D+p0w4bB5qHldMlDQMqyhE/8FNlOzsa34pnRzxnZnnjCLnzEGjftyQ+VKVEbwis6kK4oUhYpZlypBXWZQ6Qni/Axx2T2A1v4CpCAq2VlHR7IAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;chat-2&quot;
+        title=&quot;chat-2&quot;
+        src=&quot;/static/9c33f7df0504a879d28f55ae723910a8/2bef9/3.png&quot;
+        srcset=&quot;/static/9c33f7df0504a879d28f55ae723910a8/6f3f2/3.png 256w,
+/static/9c33f7df0504a879d28f55ae723910a8/01e7c/3.png 512w,
+/static/9c33f7df0504a879d28f55ae723910a8/2bef9/3.png 1024w,
+/static/9c33f7df0504a879d28f55ae723910a8/71c1d/3.png 1536w,
+/static/9c33f7df0504a879d28f55ae723910a8/776d3/3.png 1814w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[코틀린의 null 값에 대한 고찰]]></title><description><![CDATA[원문 상황  OP가 제기한 상황: Kotlin에서 null을 다룰 때 어떤 방식이 가장 좋은지에 대한 고민 특히 여러 개의 nullable…]]></description><link>https://dataportal.kr/%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-null-%EA%B0%92%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0/</link><guid isPermaLink="false">https://dataportal.kr/코틀린의-null-값에-대한-고찰/</guid><pubDate>Sat, 01 Feb 2025 10:10:48 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
