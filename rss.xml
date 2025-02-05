@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 01 Feb 2025 17:43:44 GMT</lastBuildDate><item><title><![CDATA[기브앤테이크 6장. 이기적인 이타주의자]]></title><description><![CDATA[아래 내용은 채팅방에 공유했던 내용이라 문체를 별도로 가공하지 않고 그대로 단락만 정리하여 작성하였습니다. :)…]]></description><link>https://dataportal.kr/%EA%B8%B0%EB%B8%8C%EC%95%A4%ED%85%8C%EC%9D%B4%ED%81%AC-6%EC%9E%A5-%EC%9D%B4%EA%B8%B0%EC%A0%81%EC%9D%B8-%EC%9D%B4%ED%83%80%EC%A3%BC%EC%9D%98%EC%9E%90/</link><guid isPermaLink="false">https://dataportal.kr/기브앤테이크-6장-이기적인-이타주의자/</guid><pubDate>Sun, 02 Feb 2025 02:02:06 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 05 Feb 2025 15:01:42 GMT</lastBuildDate><item><title><![CDATA[작은 규모=공정한 평가]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EC%9E%91%EC%9D%80-%EA%B7%9C%EB%AA%A8-%EA%B3%B5%EC%A0%95%ED%95%9C-%ED%8F%89%EA%B0%80/</link><guid isPermaLink="false">https://dataportal.kr/작은-규모-공정한-평가/</guid><pubDate>Wed, 05 Feb 2025 23:47:55 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.359375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdCMZGP/xAAaEAEAAgMBAAAAAAAAAAAAAAACAAEDIjER/9oACAEBAAEFAr72VjLgOvmrbF//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAfEAACAgIBBQAAAAAAAAAAAAABAgAREjEhQVFSYYH/2gAIAQEABj8CxXQbU4lsxy62agA7n7CfEVKYK/sz/8QAHRAAAgMBAAMBAAAAAAAAAAAAAREAMUEhUWFx4f/aAAgBAQABPyG6yAayeTGku7UYPBooYEbIiT7fkQhJYu/YxzXB9U//2gAMAwEAAgADAAAAEKgv/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBABAQEAAwEBAQAAAAAAAAAAAREhADFBYVGR/9oACAEBAAE/EGlABWrstnV84DVAPBqZB+7vzOUdqSn6ER/vHA1tRRGzSdIv3iTgIXA3Ce6ZIN5FaBRtFBjz/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/ffb07e6c67aa84015a72a5b3177d72be/72e01/1.jpg&quot;
+        srcset=&quot;/static/ffb07e6c67aa84015a72a5b3177d72be/e4a55/1.jpg 256w,
+/static/ffb07e6c67aa84015a72a5b3177d72be/36dd4/1.jpg 512w,
+/static/ffb07e6c67aa84015a72a5b3177d72be/72e01/1.jpg 1024w,
+/static/ffb07e6c67aa84015a72a5b3177d72be/9657e/1.jpg 1216w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;최근 폴 그레이엄의 &amp;#x3C;해커와 화가&gt;를 읽고 있는데, 책에서 언급된 작은 조직의 장점을 현대 기업 환경에 비추어 분석해보고자 합니다.&lt;/p&gt;
+&lt;h2&gt;소규모 조직의 핵심 장점&lt;/h2&gt;
+&lt;p&gt;대규모 조직에서는 개인의 기여도를 정확히 측정하기 어렵습니다. 수천 명이 함께 일하는 환경에서는 각자의 성과가 전체 평균에 희석되어 버립니다. 반면 10명 내외의 소규모 조직에서는 개인의 성과가 즉각적으로 드러나고, 공정한 평가가 가능합니다.&lt;/p&gt;
+&lt;h2&gt;소규모 조직이 빠른 이유&lt;/h2&gt;
+&lt;p&gt;큰 조직은 거대한 구식 전함과 같습니다. 수천 명이 노를 젓지만, 개인의 노력이 전체 속도에 미치는 영향은 미미합니다. 그러나 10명의 작은 배는 다릅니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;개인의 기여도가 즉시 확인됩니다.&lt;/li&gt;
+&lt;li&gt;높은 실력자들이 모여 있어 평균 성과가 높습니다.&lt;/li&gt;
+&lt;li&gt;서로를 독려하며 최선을 다하는 문화가 형성됩니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;현대 스타트업에 주는 시사점&lt;/h2&gt;
+&lt;p&gt;스티브 잡스가 말했듯 스타트업의 성패는 초기 멤버 구성에 달려있습니다. 2010년에 쓰여진 이 통찰력 깊은 책은 현대에 접어들며 더욱 중요해졌습니다. 소규모 조직은 단순히 규모가 작다는 것을 넘어, 뛰어난 인재들이 자신의 가치를 온전히 인정받을 수 있는 환경을 제공합니다.&lt;/p&gt;
+&lt;p&gt;작은 규모가 성공을 보장하지는 않습니다. 하지만 작은 규모이기에 가능한 것들이 많습니다. 그것은 공정한 평가와 그에 따른 보상, 그리고 이를 통한 최고 인재들의 성장입니다.&lt;/p&gt;
+&lt;p&gt;볼타 팀은 초기부터 작은 규모의 조직을 유지하는 것의 중요성에 대하여 깊게 고민했는데요. 그리고 관련하여 글로 남긴적도 있었죠. 관련 글은 아래에서 읽어보실 수 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%9E%91%EC%9D%80-%ED%8C%80%EC%9D%84-%EC%9C%A0%EC%A7%80%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0/&quot;&gt;[볼타 이야기] 작은 팀을 유지하려는 이유&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;그러다보니 책에서 언급된 내용이 더 와닿았고, 10년이 훌쩍 지났음에도 통찰을 전달하는 모습을 보며 문득 10여년 전 처음 만나뵈었던 쿠팡의 창업자 김범석 의장님이 생각나기도 했습니다. 김범석 의장님은 그때 당시엔 잘 와닿지 않았지만 지금에서야 돌이켜보니 너무나도 당연한 이야기를 혼자서 묵묵히 주장하고 계셨거든요.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[기브앤테이크 6장. 이기적인 이타주의자]]></title><description><![CDATA[아래 내용은 채팅방에 공유했던 내용이라 문체를 별도로 가공하지 않고 그대로 단락만 정리하여 작성하였습니다. :)…]]></description><link>https://dataportal.kr/%EA%B8%B0%EB%B8%8C%EC%95%A4%ED%85%8C%EC%9D%B4%ED%81%AC-6%EC%9E%A5-%EC%9D%B4%EA%B8%B0%EC%A0%81%EC%9D%B8-%EC%9D%B4%ED%83%80%EC%A3%BC%EC%9D%98%EC%9E%90/</link><guid isPermaLink="false">https://dataportal.kr/기브앤테이크-6장-이기적인-이타주의자/</guid><pubDate>Sun, 02 Feb 2025 02:02:06 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
