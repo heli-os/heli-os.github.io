@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Feb 2025 04:21:15 GMT</lastBuildDate><item><title><![CDATA[프론트엔드 개발 없이 만드는 보상 시스템 아키텍처 (Benefit/Referral/Reward)]]></title><description><![CDATA[hero…]]></description><link>https://dataportal.kr/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%97%86%EC%9D%B4-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B3%B4%EC%83%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-Benefit-Referral-Reward/</link><guid isPermaLink="false">https://dataportal.kr/프론트엔드-개발-없이-만드는-보상-시스템-아키텍처-Benefit-Referral-Reward/</guid><pubDate>Tue, 25 Feb 2025 00:01:39 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;./assets/1.jpeg&quot; alt=&quot;hero&quot;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 02 Mar 2025 06:00:53 GMT</lastBuildDate><item><title><![CDATA[고민하는 시간의 가치]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94-%EC%8B%9C%EA%B0%84%EC%9D%98-%EA%B0%80%EC%B9%98/</link><guid isPermaLink="false">https://dataportal.kr/고민하는-시간의-가치/</guid><pubDate>Sun, 02 Mar 2025 14:53:08 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.359375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHrrbiRX//EABoQAAICAwAAAAAAAAAAAAAAAAECABIDESL/2gAIAQEAAQUCfdU6WFiBiFUn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAgEFAAAAAAAAAAAAAAAAAAEQAhEiUYH/2gAIAQEABj8CdtCjFLoqY//EABsQAAICAwEAAAAAAAAAAAAAAAABMWERIVFx/9oACAEBAAE/IbNlg3VSPQwphvopBSeyf//aAAwDAQACAAMAAAAQyA//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAgIDAAAAAAAAAAAAAAABABEhUUFhof/aAAgBAQABPxDJtCi01KkK1dXMFkm/KFXhLKbwdorgVgBds//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/24ff984bd137094b8eadd713efb40615/72e01/1.jpg&quot;
+        srcset=&quot;/static/24ff984bd137094b8eadd713efb40615/e4a55/1.jpg 256w,
+/static/24ff984bd137094b8eadd713efb40615/36dd4/1.jpg 512w,
+/static/24ff984bd137094b8eadd713efb40615/72e01/1.jpg 1024w,
+/static/24ff984bd137094b8eadd713efb40615/9657e/1.jpg 1216w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;트러블슈팅이란 무언가를 행동하고 그 과정에서 발생한 문제를 해결해 가는 과정이 아닌, 실행하기 전 충분한 상상과 사유의 과정이 아닐까?&lt;/p&gt;
+&lt;p&gt;이는 단순한 학습에도 큰 교훈을 가져다준다. 과거의 경험과 지식이 쌓여 충분한 상상과 사유의 과정을 거치지 않고, &quot;이건 대략 그럴 것이다&quot;라며 넘겨짚는 경우가 많다. 점점 &lt;code&gt;&apos;내가 배우려는 것은 무엇인가&apos;&lt;/code&gt;, &lt;code&gt;&apos;이것의 본질은 무엇인가&apos;&lt;/code&gt;를 비롯한 고민의 과정이 생략되고 간결해지고 있다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;이는 시대의 변화 때문일까? AI의 발전도 영향이 있을까?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;누군가는 &quot;아무 걱정 없이 고민하는 사치를 부릴 여유가 없다&quot;라며 반문할 수도 있을 것이다. 하지만 그럴수록 무언가에 대하여 고민하고 상상하는 시간은 더욱 가치 있어진다.&lt;/p&gt;
+&lt;h2&gt;&lt;code&gt;당신은 왜 그렇게 치열하게 사는가?&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;물질적 풍요? 가정의 평화? 자아실현? 어떤 이유에서든 목표하는 바에 도달하기 위해선 치열한 경쟁이 필연적이다. 하지만 목표에 도달하는 것은 극소수의 사람이다. 많은 사람들은 목표에 도달하기 위해 노력하고 실행하고 회고하며 나아간다. 그렇다면 이 과정 자체를 충분히 즐길 수 있어야 하지 않을까?&lt;/p&gt;
+&lt;p&gt;내가 살아가는 IT 업계에서는 이 세상을 &apos;무한경쟁 게임&apos;에 비유하곤 한다. 이러한 무한경쟁 속에서 스스로를 잃은 채로 타인과 비교하며 그들을 추종하는 것은 너무나도 불행한 일이다. 무한한 가능성이 존재하는 게임 속에서 스스로 한계를 결정짓는 행위이기 때문이다.&lt;/p&gt;
+&lt;h2&gt;나에 대한 이해&lt;/h2&gt;
+&lt;p&gt;그렇기에 타인에게 이끌려 다니지 않고 스스로 가치를 만들어낼 수 있어야 한다. 이를 위해선 &apos;나의 강점과 약점은 무엇인지&apos;, &apos;나의 관심사는 무엇인지&apos;를 비롯하여 나 자신을 잘 이해하고, 스스로 고민하고 생각하는 시간이 필요한 것이다.&lt;/p&gt;
+&lt;p&gt;사실 이 글을 읽는 당신은 본능적으로 수년 전부터, 본질의 중요성에 대해 알고 있었을 것이다. 그럼에도 본질에 다가가는 것이 두려워 다가가지 못했을 가능성이 높다.
+본능적으로는 알고 있지만, 본질에 대해 생각하는 것을 피하는 행위는 양가감정을 극대화하게 된다. 양가감정이 극에 달하면 결국 스스로 가치 있게 보냈다고 생각했던 과거의 시간들을 부정하게 된다.&lt;/p&gt;
+&lt;p&gt;남에게 보여주고 싶은 모습만을 보여주기 위해 나를 숨길수록 나에 대해 잃어가고, 어느 순간 허탈감을 느끼게 된다.&lt;/p&gt;
+&lt;p&gt;내가 개발자이니 개발자로서의 관점을 말해보겠다. 당신은 왜 개발자로서 일하는가? 개발이 재미있고 즐거우면 취미로 하면 되는 것 아닌가? 왜 업으로 하는가?&lt;/p&gt;
+&lt;p&gt;나는 어떠한 문제를 발견하고, 구체화한 뒤 그 문제를 해결하기 위한 가설을 세우는 과정 자체를 즐긴다. 이는 개발자의 소양이라기보단 사회를 구성하는 구성원으로서 우리가 살아가는 세상에 많은 관심이 있다는 것에 가깝다. 업의 관점으론 우리 업계의 PM이라는 직무를 가진 사람들의 소양에 가깝다.&lt;/p&gt;
+&lt;p&gt;그럼에도 난 저런 고민과 상상이 즐겁다. 하지만 가설을 세우는 것에서 끝난다면 아쉽지 아니한가? 가설을 검증하기 위해 실행하고, 평가해보고 싶은 욕심도 당연히 있다. 운 좋게도 내가 개발자이기에, 그것도 꽤나 역량 좋은 개발자 중 하나이기에 내 가설을 검증하기 위한 수단으로 개발을 하고, 개발자로 일하는 것이다.&lt;/p&gt;
+&lt;p&gt;난 내 힘이 닿는 데까지 내가 해결 가능한 문제를 발굴하고 실제로 그 문제를 해결해보려고 한다.&lt;/p&gt;
+&lt;p&gt;지금은 우리 고객의 고민을 0개로 만들어주고 싶다. 이것이 내가 개발자로서 살아가는 이유이자 내 삶의 목적이다.​​​​​​​​​​​​​​​​&lt;/p&gt;</content:encoded></item><item><title><![CDATA[프론트엔드 개발 없이 만드는 보상 시스템 아키텍처 (Benefit/Referral/Reward)]]></title><description><![CDATA[hero…]]></description><link>https://dataportal.kr/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%97%86%EC%9D%B4-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B3%B4%EC%83%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-Benefit-Referral-Reward/</link><guid isPermaLink="false">https://dataportal.kr/프론트엔드-개발-없이-만드는-보상-시스템-아키텍처-Benefit-Referral-Reward/</guid><pubDate>Tue, 25 Feb 2025 00:01:39 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;./assets/1.jpeg&quot; alt=&quot;hero&quot;&gt;&lt;/p&gt;
 &lt;h2&gt;들어서며&lt;/h2&gt;
 &lt;p&gt;제품을 만들다보면 어느날, &lt;code&gt;보상 시스템&lt;/code&gt; 이라는걸 만들게 되는 시점이 도래합니다. 간단하게는 마케팅 프로모션 목적의 보상 시스템이 될 수도 있고, 기존 사용자가 신규 사용자/잠재 고객에게 직접 소개하며 할인 혜택을 제공하는 구조까지 다양한데요.&lt;/p&gt;
 &lt;p&gt;이번 글에서는 코드 레벨적인 접근보다는 구조적으로 어떻게 설계하면 좋은가에 대한 이야기를 중점으로 다루어보겠습니다.&lt;/p&gt;
