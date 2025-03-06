@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 02 Mar 2025 11:33:43 GMT</lastBuildDate><item><title><![CDATA[하고 싶은 것의 부재]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EA%B2%83%EC%9D%98-%EB%B6%80%EC%9E%AC/</link><guid isPermaLink="false">https://dataportal.kr/하고-싶은-것의-부재/</guid><pubDate>Sun, 02 Mar 2025 20:19:26 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 06 Mar 2025 13:47:17 GMT</lastBuildDate><item><title><![CDATA[B2C와 B2B 환경에서의 엔지니어링: 각자의 매력과 차이점]]></title><description><![CDATA[제가 엔지니어로서 경험했던 B2C와 B2B 환경은 각기 다른 매력과 도전이 있었는데요. 이번 글에서는 제 경험을 바탕으로 두 환경의 차이점과 각각의 장단점에 대해 이야기해보려 합니다. B2B의 매력: 고객과의 긴밀한 관계 B2B와 B2C…]]></description><link>https://dataportal.kr/b2c-and-b2b-for-engineer/</link><guid isPermaLink="false">https://dataportal.kr/b2c-and-b2b-for-engineer/</guid><pubDate>Thu, 06 Mar 2025 21:58:40 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.359375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABoGKzvRMH/8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEh/9oACAEBAAEFArESYJzJsjb3/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BV//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AUf/xAAZEAEAAgMAAAAAAAAAAAAAAAAAAUERITH/2gAIAQEABj8CcWytuZf/xAAcEAACAwADAQAAAAAAAAAAAAAAAREhQTFRYXH/2gAIAQEAAT8hqXCPqrByU08Q7JLpEGSWTRmD8P/aAAwDAQACAAMAAAAQnN//xAAXEQADAQAAAAAAAAAAAAAAAAAAAUEh/9oACAEDAQE/EE3DNP/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBC23//xAAeEAEAAgIBBQAAAAAAAAAAAAABABEhUWExQYGxwf/aAAgBAQABPxAiwMyOtWnaAoZxJw5YlU+iw9wnUbQMgeYUaBhRRrs+SxqTqVqf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/da707c8447d84c61d61b74180baa2e6e/72e01/1.jpg&quot;
+        srcset=&quot;/static/da707c8447d84c61d61b74180baa2e6e/e4a55/1.jpg 256w,
+/static/da707c8447d84c61d61b74180baa2e6e/36dd4/1.jpg 512w,
+/static/da707c8447d84c61d61b74180baa2e6e/72e01/1.jpg 1024w,
+/static/da707c8447d84c61d61b74180baa2e6e/9657e/1.jpg 1216w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;제가 엔지니어로서 경험했던 B2C와 B2B 환경은 각기 다른 매력과 도전이 있었는데요. 이번 글에서는 제 경험을 바탕으로 두 환경의 차이점과 각각의 장단점에 대해 이야기해보려 합니다.&lt;/p&gt;
+&lt;h3&gt;B2B의 매력: 고객과의 긴밀한 관계&lt;/h3&gt;
+&lt;p&gt;B2B와 B2C는 각자 매력이 있지만, 저는 B2B를 훨씬 더 좋아하는 편입니다. B2B 환경에서는 고객과 더 가까이서 깊은 이야기를 나눌 수 있기 때문인데요. 직접 고객의 목소리(VoC)를 들으며, 실제 임팩트를 산정하고 우선순위를 결정하는 과정에 참여할 기회가 많습니다. 이런 측면에서 B2C보다 B2B에서 더 재미있게 일할 수 있었습니다.&lt;/p&gt;
+&lt;p&gt;어떤 분들은 이 글을 읽고, B2B가 고객 이야기 듣기 더 어려운 것 아닌지 생각하실 수 있습니다. 하지만 &lt;code&gt;심층 고객 인터뷰&lt;/code&gt;를 비롯해 더 깊은 이야기를 나누기 용이하고, 개인을 넘어 조직과 회사 전체에 영향을 주는 제품을 만들다 보니 복잡성이 훨씬 증가합니다. 이런 복잡성 속에서 문제를 더 구체화하고 풀어나가는 과정이 꽤나 즐겁습니다.&lt;/p&gt;
+&lt;h3&gt;복잡한 조직 설득이라는 도전&lt;/h3&gt;
+&lt;p&gt;B2B 제품 개발에서 또 흥미로웠던 점은 복잡한 이해관계를 가진 조직을 설득하기 위한 제품을 어떻게 만들지 고민하는 과정입니다. B2B 제품은 여러 부서와 다양한 의사결정자들을 만족시켜야 하므로, 제품 설계가 더 복잡해질 수 있습니다. 이러한 복잡성이 오히려 저에게는 흥미로운 도전으로 다가왔습니다.&lt;/p&gt;
+&lt;h3&gt;B2B 회사 내에서도 플랫폼 조직 선호&lt;/h3&gt;
+&lt;p&gt;흥미롭게도 제가 B2C 서비스 회사에서 일할 때도, 대고객용 앞단 서비스 조직보다는 뒷단 플랫폼 조직에서 일하는 것을 더 즐겼습니다. 그 이유는 일반적으로 플랫폼 조직이 릴리즈하는 경우 정말 많은 사이드 이펙트가 발생할 수 있고, 심지어는 데이터의 정합성 자체가 깨질 수 있기에 문제 하나하나 깊게 고민해보고, 최고의 선택을 해야만 하기 때문이었습니다.&lt;/p&gt;
+&lt;h3&gt;다양한 경험의 중요성&lt;/h3&gt;
+&lt;p&gt;제 생각에는 B2C와 B2B 모두 두루두루 경험해보는 것이 좋습니다. &lt;code&gt;지금 무얼 해보고 싶은가&lt;/code&gt;라는 기준은 계속 바뀔 테니, 그 기준이나 생각이 바뀔 때 즈음이 새로운 도전을 시작하기 좋은 시점이 아닐까 싶습니다.&lt;/p&gt;
+&lt;h3&gt;결론&lt;/h3&gt;
+&lt;p&gt;엔지니어링 환경은 B2C와 B2B 모두 각자의 매력과 도전이 있습니다. 개인적으로는 B2B 환경이 제 성향과 더 잘 맞았지만, 이는 개인의 선호도와 목표에 따라 달라질 수 있습니다. 중요한 것은 다양한 경험을 통해 자신에게 맞는 환경을 찾아가는 과정이라고 생각합니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[하고 싶은 것의 부재]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EA%B2%83%EC%9D%98-%EB%B6%80%EC%9E%AC/</link><guid isPermaLink="false">https://dataportal.kr/하고-싶은-것의-부재/</guid><pubDate>Sun, 02 Mar 2025 20:19:26 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
