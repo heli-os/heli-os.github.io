@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 06 Mar 2025 13:57:17 GMT</lastBuildDate><item><title><![CDATA[B2C와 B2B 환경에서의 엔지니어링: 각자의 매력과 차이점]]></title><description><![CDATA[제가 엔지니어로서 경험했던 B2C와 B2B 환경은 각기 다른 매력과 도전이 있었는데요. 이번 글에서는 제 경험을 바탕으로 두 환경의 차이점과 각각의 장단점에 대해 이야기해보려 합니다. B2B의 매력: 고객과의 긴밀한 관계 B2B와 B2C…]]></description><link>https://dataportal.kr/b2c-and-b2b-for-engineer/</link><guid isPermaLink="false">https://dataportal.kr/b2c-and-b2b-for-engineer/</guid><pubDate>Thu, 06 Mar 2025 21:58:40 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 08 Mar 2025 04:01:03 GMT</lastBuildDate><item><title><![CDATA[결과에 확신이 없더라도 꾸준히 노력해야 하는 이유]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EA%B2%B0%EA%B3%BC%EC%97%90-%ED%99%95%EC%8B%A0%EC%9D%B4-%EC%97%86%EB%8D%94%EB%9D%BC%EB%8F%84-%EA%BE%B8%EC%A4%80%ED%9E%88-%EB%85%B8%EB%A0%A5%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/</link><guid isPermaLink="false">https://dataportal.kr/결과에-확신이-없더라도-꾸준히-노력해야-하는-이유/</guid><pubDate>Sat, 08 Mar 2025 12:41:49 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.359375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAExaRIcP//EABoQAAICAwAAAAAAAAAAAAAAAAECACERIkH/2gAIAQEAAQUCoINS2JxzdrP/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAwEBAAAAAAAAAAAAAAAAARESIXGR/9oACAEBAAY/AkqiNt6S9TOkI//EABoQAQEAAwEBAAAAAAAAAAAAAAERADFBIWH/2gAIAQEAAT8hgMU6bmaKUcCbNeE4oSQVHGOHYpoxfY8+5//aAAwDAQACAAMAAAAQhx//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAEAAgIDAQEAAAAAAAAAAAABESEAQTFRYZHw/9oACAEBAAE/EBAk98JcH7rGqBMhBb1eBmEWkLdRiO6hMxS3p6yxMOCEPR6rzkAFB6j7n//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/ed2b531946eee63c75e9a4bf87f5764b/72e01/1.jpg&quot;
+        srcset=&quot;/static/ed2b531946eee63c75e9a4bf87f5764b/e4a55/1.jpg 256w,
+/static/ed2b531946eee63c75e9a4bf87f5764b/36dd4/1.jpg 512w,
+/static/ed2b531946eee63c75e9a4bf87f5764b/72e01/1.jpg 1024w,
+/static/ed2b531946eee63c75e9a4bf87f5764b/9657e/1.jpg 1216w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;우리는 종종 무언가를 시작하거나 계속할 때 확신이 필요하다고 생각합니다. &lt;code&gt;이 길이 맞는걸까?&lt;/code&gt;, &lt;code&gt;내가 정말 잘하고 있는 걸까?&lt;/code&gt;, &lt;code&gt;결과가 나올까?&lt;/code&gt; 이런 의문이 끊임없이 머릿솜을 맴돕니다. 하지만 인생의 가장 큰 성취는 종종 확신 없이 그저 계쏙해서 나아갔을 때 찾아옵니다.&lt;/p&gt;
+&lt;h2&gt;확신보다 중요한 것은 지속성이다&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;&quot;그냥 하는거에요. 확신 있어서 하는 게 아니고 그냥 계속 하는거에요&quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;이 말은 단순하지만 깊은 진리를 담고 있습니다. 우리 삶의 대부분의 일은 처음부터 완벽한 확신을 가지고 시작하지 않습니다. 오히려 불확실함 속에서 한 걸음씩 나아가며 길을 찾아갑니다.&lt;/p&gt;
+&lt;p&gt;전문가들도 시작은 초보자였습니다. 차이점은 그들이 포기하지 않고 계속했다는 것뿐입니다. 확신이 없어도 그저 계속 나아갔습니다.&lt;/p&gt;
+&lt;h2&gt;꺾이는 순간에도 그냥 하는 힘&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;&quot;꺾이지 않는 마음이 아니라 꺾였는데 그냥 하는 거야.&quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;완벽한 의지력과 결단력으로 절대 꺾이지 않는 사람은 존재하지 않습니다. 진정한 강인함은 좌절과 의심의 순간에도 다시 일어나 계속하는 능력에 있습니다.&lt;/p&gt;
+&lt;p&gt;자신감이 떨어지고, 확신이 사라지고, 의욕이 꺾여도 다시 시작하는 것이 중요합니다.&lt;/p&gt;
+&lt;h2&gt;돌멩이를 던지듯, 경험을 쌓아가는 과정&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;&quot;돌멩이 던져서 과녁에 맞춘다고 생각을 하고 어느 순간에 자신을 좀 믿고서 천천히 쌓여 간다고 생각해.&quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;모든 시도는 경험으로 쌓입니다. 처음에는 돌멩이를 무작정 던지는 것처럼 느껴질 수 있습니다. 하지만 계속 던질수록 감각이 생기고, 조금씩 과녁에 가까워집니다. 이것이 바로 성장 과정입니다.&lt;/p&gt;
+&lt;p&gt;실패와 시행착오는 낭비가 아니라 성공으로 가는 필수 단계입니다. 각 실패는 다음 시도를 위한 귀중한 데이터입니다.&lt;/p&gt;
+&lt;h2&gt;과도한 고민은 행동을 막는다&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;&quot;이거저거 생각하잖아? 아무것도 안 돼. 가고 싶은데 발을 떼면 벌써 반은 간 거야.&quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;너무 많은 생각은 종종 우리를 마비시킵니다. &lt;code&gt;완벽한 타이밍&lt;/code&gt;, &lt;code&gt;충분한 준비&lt;/code&gt;, &lt;code&gt;더 많은 정보&lt;/code&gt;를 기다리다 보면 결국 아무 것도 시작하지 못합니다. 가장 중요한 것은 그저 첫 발을 떼는 것입니다.&lt;/p&gt;
+&lt;p&gt;행동은 생각보다 강력합니다. 생각으로는 얻을 수 없는 통찰과 경험을 행동을 통해 얻을 수 있습니다.&lt;/p&gt;
+&lt;h2&gt;부족함을 인정할 때 더 강해진다&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;&quot;내가 모자르다고 생각하고 내가 부족하다는 생각이 어느 순간에는 너를 더 높이 올려줄 수 있는 굉장히 큰 원동력이 돼.&quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;자신의 한계와 부족함을 인정하는 것은 약함이 아니라 성장의 시작입니다. 완벽하다고 생각하는 사람은 더 배우려 하지 않습니다.&lt;/p&gt;
+&lt;p&gt;반면 자신의 부족함을 인정하는 사람은 계속해서 배우고 성장합니다. 겸손함은 우리를 더 열린 마음으로 만들고, 더 많은 가능성에 눈을 뜨게 합니다.&lt;/p&gt;
+&lt;h2&gt;매일의 작은 노력이 쌓여 큰 변화가 된다&lt;/h2&gt;
+&lt;p&gt;결국 삶의 큰 성취는 하루아침에 이루어지지 않습니다. 성취는 &lt;code&gt;매일의 작은 노력&lt;/code&gt;, &lt;code&gt;실패 후에도 다시 일어나는 의지&lt;/code&gt;, &lt;code&gt;확신 없이도 계속 나아가는 용기&lt;/code&gt;가 모여 만들어진 결과입니다.&lt;/p&gt;
+&lt;p&gt;오늘 당신이 하는 일에 완전한 확신이 없더라도 괜찮습니다. 그저 계속하세요. 돌멩이를 던지듯 계속 시도하세요. 그러다보면 그 모든 노력이 쌓여 상상하지 못했던 높이에 도달하게 될 것입니다.&lt;/p&gt;
+&lt;p&gt;확신이 없어도 계속 나아가는 것, 그것이 바로 &lt;code&gt;진정한 성장의 비결&lt;/code&gt;입니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[B2C와 B2B 환경에서의 엔지니어링: 각자의 매력과 차이점]]></title><description><![CDATA[제가 엔지니어로서 경험했던 B2C와 B2B 환경은 각기 다른 매력과 도전이 있었는데요. 이번 글에서는 제 경험을 바탕으로 두 환경의 차이점과 각각의 장단점에 대해 이야기해보려 합니다. B2B의 매력: 고객과의 긴밀한 관계 B2B와 B2C…]]></description><link>https://dataportal.kr/b2c-and-b2b-for-engineer/</link><guid isPermaLink="false">https://dataportal.kr/b2c-and-b2b-for-engineer/</guid><pubDate>Thu, 06 Mar 2025 21:58:40 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
