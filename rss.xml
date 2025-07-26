@@ -1,4 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 23 Jul 2025 23:42:27 GMT</lastBuildDate><item><title><![CDATA[내 안의 회로를 밝히는 시간에 대한 기록]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%82%B4-%EC%95%88%EC%9D%98-%ED%9A%8C%EB%A1%9C%EB%A5%BC-%EB%B0%9D%ED%9E%88%EB%8A%94-%EC%8B%9C%EA%B0%84%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B8%B0%EB%A1%9D/</link><guid isPermaLink="false">https://dataportal.kr/내-안의-회로를-밝히는-시간에-대한-기록/</guid><pubDate>Thu, 24 Jul 2025 08:31:01 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 26 Jul 2025 11:16:26 GMT</lastBuildDate><item><title><![CDATA[뿌리 없는 성장은 없다 - 빠른 성장이라는 착각]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%BF%8C%EB%A6%AC-%EC%97%86%EB%8A%94-%EC%84%B1%EC%9E%A5%EC%9D%80-%EC%97%86%EB%8B%A4/</link><guid isPermaLink="false">https://dataportal.kr/뿌리-없는-성장은-없다/</guid><pubDate>Sat, 26 Jul 2025 19:25:49 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 832px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 53.90625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBv/EABUBAQEAAAAAAAAAAAAAAAAAAAIA/9oADAMBAAIQAxAAAAFZIHC0xlA3/8QAGxAAAgEFAAAAAAAAAAAAAAAAAQIDAAQQERL/2gAIAQEAAQUCuGZ3AO4pOkFHH//EABYRAQEBAAAAAAAAAAAAAAAAAAAREv/aAAgBAwEBPwGtP//EABYRAQEBAAAAAAAAAAAAAAAAAAARE//aAAgBAgEBPwGM3//EABkQAAIDAQAAAAAAAAAAAAAAAAERACAiYf/aAAgBAQAGPwJPI7MlKaQNP//EABkQAAIDAQAAAAAAAAAAAAAAAAERACExEP/aAAgBAQABPyFBJlS4KzRaxEpPCbHJ0oZ//9oADAMBAAIAAwAAABAHP//EABYRAQEBAAAAAAAAAAAAAAAAAAAhEf/aAAgBAwEBPxCq2//EABgRAAIDAAAAAAAAAAAAAAAAAAARASFR/9oACAECAQE/EIWhNP/EABwQAQACAwEBAQAAAAAAAAAAAAEAESFBUTFxkf/aAAgBAQABPxB0TUfS+xiWi2k2ZGoQX8LmemYqVAsOR2ykrkBfh+T/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hero&quot;
+        title=&quot;hero&quot;
+        src=&quot;/static/29de4e24f5f00f7d2d0f8cb489fcbfd8/c2601/1.jpg&quot;
+        srcset=&quot;/static/29de4e24f5f00f7d2d0f8cb489fcbfd8/e4a55/1.jpg 256w,
+/static/29de4e24f5f00f7d2d0f8cb489fcbfd8/36dd4/1.jpg 512w,
+/static/29de4e24f5f00f7d2d0f8cb489fcbfd8/c2601/1.jpg 832w&quot;
+        sizes=&quot;(max-width: 832px) 100vw, 832px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;나무에게서 배우는 진짜 성장의 법칙&lt;/h2&gt;
+&lt;p&gt;조금 전, 나무들이 서로 소통한다는 흥미로운 영상을 보았다. 본질은 다른 내용이었지만, 오히려 그 부분이 인상 깊었다. 뿌리 아래 숨겨진 거대한 네트워크를 통해 영양분을 나누고, 위험을 알리고, 심지어 죽어가는 나무가 자신의 마지막 자원을 다른 나무에게 전달한다는 내용이었다. (영상; &lt;a href=&quot;https://youtu.be/iAaz9PrMcjU&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;칸을 뒤집은 미친 환경 캠페인&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;그 순간 문득 떠오른 생각이 있었다. &lt;code&gt;&quot;이것이야말로 많은 사람들이 놓치고 있는 성장의 본질이 아닐까?&quot;&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;빠른 성장이라는 착각&lt;/h2&gt;
+&lt;p&gt;스타트업 씬에서, 개발자 커뮤니티에서, 심지어 일상 대화에서도 &lt;code&gt;빠른 성장&lt;/code&gt;은 늘 미덕으로 여겨진다. 빠르게 승진하고, 빠르게 기술을 익히고, 빠르게 성과를 내는 것. 마치 그것이 성공의 전부인 양 말이다.&lt;/p&gt;
+&lt;p&gt;그런데 정말 그럴까? 나무를 보라. 100년을 살아남은 거대한 참나무와 2년 만에 쑥 자란 포풀러 중 어느 것이 진정한 성장을 이뤘다고 할 수 있을까?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;많은 사람들이 &apos;성장&apos;과 &apos;팽창&apos;을 구분하지 못한다.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;팽창은 빠르지만 취약하다.&lt;/code&gt; &lt;code&gt;성장은 느리지만 지속 가능하다.&lt;/code&gt; 나무가 위로만 자라려 하면 뿌리가 얕아져 첫 번째 폭풍에 쓰러진다. 사람도 마찬가지다.&lt;/p&gt;
+&lt;h2&gt;보이지 않는 곳에서 일어나는 진짜 성장&lt;/h2&gt;
+&lt;p&gt;나무의 가장 중요한 부분은 눈에 보이지 않는다. 땅 위의 웅장한 모습은 땅 아래 뿌리 시스템이 있기에 가능하다. 연구에 따르면, 건강한 나무의 뿌리 시스템은 지상부보다 2배~3배 넓게 퍼져있다고 한다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;사람의 성장도 마찬가지다.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;겉으로 드러나는 것들 &lt;em&gt;화려한 프로젝트, 빠른 승진, 높은 연봉&lt;/em&gt; 이것들은 보이지 않는 기초가 탄탄할 때만 의미가 있다.&lt;/p&gt;
+&lt;p&gt;진짜 성장의 뿌리는 이런 것들이다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;깊이 있는 사고력과 문제 해결 능력&lt;/li&gt;
+&lt;li&gt;지속적인 학습 습관과 적응력&lt;/li&gt;
+&lt;li&gt;진정성 있는 소통과 협업 능력&lt;/li&gt;
+&lt;li&gt;원칙과 가치관에 기반한 의사결정력&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;이런 &lt;code&gt;&apos;뿌리&apos;&lt;/code&gt;들이 견고해야 어떤 변화가 와도 흔들리지 않는다.&lt;/p&gt;
+&lt;p&gt;최근 AI가 업무 현장을 빠르게 바꾸고 있다. 표면적인 스킬만 가진 사람들은 위기감을 느끼지만, 깊은 사고력과 문제 해결 능력을 기른 사람들은 오히려 AI를 도구로 활용해 더 큰 가치를 창출한다. 뿌리가 깊으면 가지도 더 멀리 뻗을 수 있기 때문이다.&lt;/p&gt;
+&lt;h2&gt;협력이 만드는 지속가능한 성장&lt;/h2&gt;
+&lt;p&gt;나무들의 가장 놀라운 특징은 경쟁하지 않는다는 것이다. 대신 협력한다.&lt;/p&gt;
+&lt;p&gt;어린나무가 그늘 아래서 자랄 때, 큰 나무는 자신의 뿌리를 통해 영양분을 나눠준다. 가뭄이 들면 물을 공유하고, 해충이 공격하면 화학 신호로 경고한다. 심지어 서로 다른 종끼리도 도우며 산다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;왜 그럴까? 숲 전체가 건강해야 각자도 건강하기 때문이다.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;현대 사회는 개인의 성공에만 집중하라고 가르친다. 하지만 정말 지속가능한 성장을 이루려면, 자신을 둘러싼 생태계를 함께 키워야 한다.&lt;/p&gt;
+&lt;p&gt;좋은 멘토를 만나고, 동료들과 지식을 나누고, 후배들을 도우며, 업계 전체의 발전에 이바지하는 것. 이것이 나무들이 수백 년을 버텨내는 비결이다.&lt;/p&gt;
+&lt;p&gt;개발자 커뮤니티에서 가장 존경받는 사람들을 보라. 그들은 단순히 코드를 잘 짜는 사람이 아니라, 다른 사람들의 성장을 도우며 전체 생태계를 풍요롭게 만드는 사람들이다.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;진정한 리더는 혼자 높이 올라가는 사람이 아니라, 다른 사람들도 함께 성장할 수 있는 토양을 만드는 사람이다.&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;가지치기의 지혜&lt;/h2&gt;
+&lt;p&gt;나무는 때로 자신의 가지를 포기한다. 아픈 가지, 약한 가지, 잘못된 방향으로 자란 가지를 스스로 떨어뜨린다. 전체의 건강을 위해서다.&lt;/p&gt;
+&lt;p&gt;사람의 성장에도 이런 지혜가 필요하다. 때로는 포기하는 용기가 필요하다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;더 이상 의미 없는 일들&lt;/li&gt;
+&lt;li&gt;에너지를 소모시키는 관계들&lt;/li&gt;
+&lt;li&gt;과거의 성공에 대한 집착&lt;/li&gt;
+&lt;li&gt;남들의 기대에 맞추려는 강박&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;진정한 성장은 무언가를 더하는 것만이 아니라, 불필요한 것을 덜어내는 것이기도 하다. &lt;code&gt;집중이야말로 성장의 핵심이다.&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;계절을 받아들이는 힘&lt;/h2&gt;
+&lt;p&gt;나무는 계절을 거부하지 않는다. 봄에는 새싹을 틔우고, 여름에는 무성하게 자라고, 가을에는 잎을 떨어뜨리고, 겨울에는 조용히 쉰다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;모든 계절이 성장의 일부라는 것을 안다.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;사람의 인생에도 계절이 있다. 빠르게 성장하는 시기가 있고, 정체된 것 같은 시기도 있다. 실패와 좌절의 겨울도 있고, 새로운 시작의 봄도 있다.&lt;/p&gt;
+&lt;p&gt;많은 사람들이 겨울을 견디지 못한다. 당장 눈에 보이는 성과가 없으면 불안해하고, 남들과 비교하며 조급해한다. 하지만 겨울이야말로 뿌리가 가장 깊어지는 시기다.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;중요한 것은 지금이 어떤 계절인지 인정하고, 그 계절에 맞는 성장을 하는 것이다.&lt;/code&gt; 겨울에 꽃을 피우려 억지 쓸 필요 없다. 조용히 뿌리를 기르며 다가올 봄을 준비하면 된다.&lt;/p&gt;
+&lt;h2&gt;나무에게서 배우는 성장의 원칙&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;깊이를 선택하라&lt;/code&gt; 빠른 것보다 깊은 것을. 많은 것보다 탄탄한 것을. 당장 보이지 않아도 뿌리부터 단단히 하자.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;연결을 선택하라&lt;/code&gt; 경쟁보다 협력을, 혼자 잘되려 하지 말고, 함께 자랄 수 있는 관계들을 만들어가자.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;계절을 선택하라&lt;/code&gt; 억지로 서두르지 말고, 자신만의 성장 리듬을 찾자. 지금이 뿌리를 기르는 시기라면, 그것에 집중하자.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;이것들은 단순한 조언이 아니다. 수백 년을 살아남은 나무들이 증명해 낸 생존과 성장의 법칙이다.&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;마치며&lt;/h2&gt;
+&lt;p&gt;나무는 하루아침에 자라지 않는다. 하지만 100년을 버틴다.&lt;/p&gt;
+&lt;p&gt;사람도 마찬가지다. 진짜 성장은 보이지 않는 곳에서, 천천히, 다른 이들과 함께 이뤄진다.&lt;/p&gt;
+&lt;p&gt;오늘도 조급함에 떠밀려 어디론가 달려가고 있다면, 잠시 멈춰 서자. 내 뿌리는 충분히 깊은가? 나와 연결된 사람들은 건강하게 자라고 있는가? 지금은 나에게 어떤 계절인가?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;진짜 성장은 속도가 아니라 방향이다.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;그리고 그 방향을 알려주는 가장 좋은 나침반은, 아마도 창밖에서 묵묵히 자라고 있는 나무들일지도 모른다.&lt;/p&gt;
+&lt;p&gt;성장이란 결국 시간이 증명해 주는 것이다. 조급해하지 말자. 깊이 뿌리내리고, 따뜻하게 연결되고, 자신만의 계절을 받아들이며 성장해 가자.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;느린 것이 부끄러운 게 아니다. 방향을 잃는 것이 부끄러운 것이다.&lt;/code&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[내 안의 회로를 밝히는 시간에 대한 기록]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%82%B4-%EC%95%88%EC%9D%98-%ED%9A%8C%EB%A1%9C%EB%A5%BC-%EB%B0%9D%ED%9E%88%EB%8A%94-%EC%8B%9C%EA%B0%84%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B8%B0%EB%A1%9D/</link><guid isPermaLink="false">https://dataportal.kr/내-안의-회로를-밝히는-시간에-대한-기록/</guid><pubDate>Thu, 24 Jul 2025 08:31:01 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 832px; &quot;
     &gt;
@@ -821,33 +902,7 @@ user&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt;&lt;span class=&q
 &lt;li&gt;&lt;code&gt;전반적으로, 문제 해결형 리더로서 자신의 스타일을 강화하려면 어떤 새로운 행동을 연습할 필요가 있을까?&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;위 질문을 받고 &lt;code&gt;부족한 부분이 많지만, 나는 아직 리더가 되기엔 멀었으니 괜찮아.&lt;/code&gt;라고 말하는 사람이 있다면, 명심하라. 리더는 조직에서 임명된 리더만 있는 것이 아니라, 그 조직의 변화를 만들어내는 모든 사람을 의미한다.&lt;/p&gt;
-&lt;p&gt;위 내용은 &lt;a href=&quot;https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22740964&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;제럴드 와인버그의 테크니컬 리더&lt;/a&gt;의 내용과 나의 경험을 일부 섞어 작성하였으니, 더 깊은 내용이 궁금하다면 책을 한번 읽어보는걸 추천한다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[재미있게, 의미있게]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C-%EC%9D%98%EB%AF%B8%EC%9E%88%EA%B2%8C/</link><guid isPermaLink="false">https://dataportal.kr/재미있게-의미있게/</guid><pubDate>Sat, 18 Jan 2025 00:56:28 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 832px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 53.90625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAbzHE00EpP8A/8QAHRAAAQMFAQAAAAAAAAAAAAAAAQIDEQATISMxMv/aAAgBAQABBQK7Dil7JQaayT6HP//EABcRAAMBAAAAAAAAAAAAAAAAAAABERL/2gAIAQMBAT8Bahk//8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/AU6U/8QAHBAAAQUAAwAAAAAAAAAAAAAAAQACEBFREjGB/9oACAEBAAY/Ag0dageTqyBer2P/xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhQVH/2gAIAQEAAT8hiOcVhChOuCBP0WbSYyy5QzjWf//aAAwDAQACAAMAAAAQuA//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QM7BTb//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBljLL/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUFRYaH/2gAIAQEAAT8QLhdu7XgOq4zghOeJzPuBCrA3e8CmgJes0lYErdGelnnP/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;hero&quot;
-        title=&quot;hero&quot;
-        src=&quot;/static/2be012778aae2e0aea01916875eda5ff/c2601/1.jpg&quot;
-        srcset=&quot;/static/2be012778aae2e0aea01916875eda5ff/e4a55/1.jpg 256w,
-/static/2be012778aae2e0aea01916875eda5ff/36dd4/1.jpg 512w,
-/static/2be012778aae2e0aea01916875eda5ff/c2601/1.jpg 832w&quot;
-        sizes=&quot;(max-width: 832px) 100vw, 832px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;설렘과 신중함이 교차하는 시기에서, 새로운 만남이 내 일상을 조금씩 물들이고 있다. 우연히 시작된 이 만남은 처음에는 그저 평범했지만, 시간이 지날수록 특별한 의미로 다가왔다. 무심코 나누는 대화 속에서도 서로를 향한 관심이 자연스럽게 피어났다.&lt;/p&gt;
-&lt;p&gt;그녀와 보내는 시간은 마음이 편안해지는 순간들의 연속이다. 약속 시간이 다가올 때의 설렘, 대화가 끝나지 않는 만남, 그리고 헤어질 때마다 느끼는 아쉬움까지. 누군가를 만나기 위해 시간과 마음을 내는 것이 망설여졌던 적도 있었지만, 그녀와는 모든 순간이 자연스럽다.&lt;/p&gt;
-&lt;p&gt;하지만 그녀의 마음은 아직 조심스럽다. &quot;너무 서두르고 싶지 않다&quot;는 그녀의 말에는 과거의 아픔이 담겨있다. 성급했던 관계들이 남긴 상처가, 그녀를 더욱 신중하게 만든 것 같다. 나 역시 그녀의 마음을 이해하고 존중하며, 서두르지 않으려 한다.&lt;/p&gt;
-&lt;p&gt;지금은 서로를 천천히 알아가는 시간이 필요하다. 함께 웃고, 이야기를 나누며, 자연스럽게 서로의 일상에 스며드는 과정. 그 속에서 피어나는 감정들을 조급하게 서두르지 않으려 한다. 서로에 대한 기대와 설렘을 간직한 채, 한 걸음 한 걸음 천천히 나아가고 싶다.&lt;/p&gt;
-&lt;p&gt;이전의 &apos;재미있게&apos;는 가벼움을 의미했다면, 지금의 &apos;의미있게&apos;는 서로를 진심으로 이해하고 배려하는 마음을 담고 있다. 시간이 걸리더라도, 서로의 속도를 맞추며 쌓아가는 이 순간들이 특별한 인연으로 이어지기를 조심스레 희망한다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[평범한 결혼생활 - 임경선 / 별점 3.0]]></title><description><![CDATA[https://flybook.page.link/1PAsTRgRNTBFdm4f9 2…]]></description><link>https://dataportal.kr/%ED%8F%89%EB%B2%94%ED%95%9C-%EA%B2%B0%ED%98%BC%EC%83%9D%ED%99%9C-%EC%9E%84%EA%B2%BD%EC%84%A0/</link><guid isPermaLink="false">https://dataportal.kr/평범한-결혼생활-임경선/</guid><pubDate>Wed, 18 Sep 2024 04:23:18 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://flybook.page.link/1PAsTRgRNTBFdm4f9&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 936px; &quot;&gt;
+&lt;p&gt;위 내용은 &lt;a href=&quot;https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22740964&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;제럴드 와인버그의 테크니컬 리더&lt;/a&gt;의 내용과 나의 경험을 일부 섞어 작성하였으니, 더 깊은 내용이 궁금하다면 책을 한번 읽어보는걸 추천한다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[평범한 결혼생활 - 임경선 / 별점 3.0]]></title><description><![CDATA[https://flybook.page.link/1PAsTRgRNTBFdm4f9 2…]]></description><link>https://dataportal.kr/%ED%8F%89%EB%B2%94%ED%95%9C-%EA%B2%B0%ED%98%BC%EC%83%9D%ED%99%9C-%EC%9E%84%EA%B2%BD%EC%84%A0/</link><guid isPermaLink="false">https://dataportal.kr/평범한-결혼생활-임경선/</guid><pubDate>Wed, 18 Sep 2024 04:23:18 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://flybook.page.link/1PAsTRgRNTBFdm4f9&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 936px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 41.01562499999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPElEQVQoz42STUsCURSG/bP9gZaBi4h20UbctAoKSVoZgUGblkaQMWamjV+j4xjOmDZzZ+6Md3zCEQUhrQsvB+7hPud9uSc19Xy0lo7WXKrWNfBESBjNkWGMDJfVD2YEUm3Vqp8a2GMOcjnSV/lEp4Ub2oZJ+aVC9a3Bc1mj3mgmAxaPfgOv7hY19TmekMlfcnaSJnu8z0UuS88cUv/oojd7tNp9+oPR2uU2p2uH0+mEaumawvkRmcM99EoRx/miZ9qYloPrhRugv6InwNrzLXWtyLtWRK89IIRPHM9RKiaaxYm7/8ASoPAlYeDiiynWwMAyOzgTSceSGMMQayRxXR/XC3ZC15GFH7J5Ygwr4K7kcf8keHx1sW0b25lsBW58iick367A84KlhMQPIpRSqJkimimCJPLu1Vk5/AE+BVqStTcMRAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;평범한 결혼생활 - 임경선 / 별점 3.0&quot; title=&quot;평범한 결혼생활 - 임경선 / 별점 3.0&quot; src=&quot;/static/5f9c8ec341dcc3f81d5985332b5affdf/6d2da/share.flybook.kr_eCvYCb.png&quot; srcset=&quot;/static/5f9c8ec341dcc3f81d5985332b5affdf/6f3f2/share.flybook.kr_eCvYCb.png 256w,
 /static/5f9c8ec341dcc3f81d5985332b5affdf/01e7c/share.flybook.kr_eCvYCb.png 512w,
