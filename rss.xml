@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 28 Jul 2025 15:36:18 GMT</lastBuildDate><item><title><![CDATA[내연기관과 개발자의 만남 - 기계공학에서 배우는 창의적 사고]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%82%B4%EC%97%B0%EA%B8%B0%EA%B4%80%EA%B3%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%A7%8C%EB%82%A8/</link><guid isPermaLink="false">https://dataportal.kr/내연기관과-개발자의-만남/</guid><pubDate>Tue, 29 Jul 2025 00:10:15 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Aug 2025 00:18:24 GMT</lastBuildDate><item><title><![CDATA[내연기관과 개발자의 만남 - 기계공학에서 배우는 창의적 사고]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%82%B4%EC%97%B0%EA%B8%B0%EA%B4%80%EA%B3%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%A7%8C%EB%82%A8/</link><guid isPermaLink="false">https://dataportal.kr/내연기관과-개발자의-만남/</guid><pubDate>Tue, 29 Jul 2025 00:10:15 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 832px; &quot;
     &gt;
@@ -32,7 +32,7 @@
 &lt;p&gt;더 놀라운건 &lt;code&gt;EGR(Exhaust Gas Recirculation)&lt;/code&gt; 시스템이었다. 이미 연소된 배기가스를 다시 흡기구로 보내서 새로운 공기와 섞는다는 개념이다.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;&quot;왜 더러운 배기가스를 다시 넣는거야?&quot;&lt;/code&gt;라고 물었더니, 친구가 웃으며 설명해줬다. 이미 연소된 CO₂와 H₂O는 불활성 가스라서 산소 농도를 희석시킨다. 그러면 연소 할 수 있는 산소가 줄어드니 연소 온도가 낮아지고, 결국 질소산화물 배출이 줄어든다는 것이다.&lt;/p&gt;
 &lt;p&gt;여기서 핵심은 &lt;code&gt;의도적으로 연소 효율을 약간 떨어뜨려서&lt;/code&gt; 환경적 목표를 달성한다는 점이었다. 최고 성능을 포기하고 다른 가치(환경)를 선택하는 엔지니어링적인 결정이다.&lt;/p&gt;
-&lt;p&gt;정말 기발한 발상이다. 완벽한 연소보다는 &lt;code&gt;전체적인 최적화&lt;/code&gt;를 추구하는 아이디어. 이런 시스템적 사고를 배울 수 있었다.&lt;/p&gt;
+&lt;p&gt;정말 기발한 발상이다. 완벽한 연소라는 &lt;code&gt;국지 최적화&lt;/code&gt;보다, 전체적인 균형을 중시하는 &lt;code&gt;시스템 최적화&lt;/code&gt;의 사고방식. 그 차이를 배울 수 있었다.&lt;/p&gt;
 &lt;h2&gt;제약이 만드는 혁신&lt;/h2&gt;
 &lt;p&gt;가장 인상 깊었던 건 이런 기술들이 탄생한 배경이었다. 환경 규제가 강해질수록 엔지니어들이 더 창의적인 해결책을 만들어낸다는 것이다.&lt;/p&gt;
 &lt;ul&gt;
@@ -40,7 +40,7 @@
 &lt;li&gt;출력은 유지해야 하고&lt;/li&gt;
 &lt;li&gt;연비도 좋아야 한다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;이런 상충하는 요구사항들 사이에서 &lt;code&gt;물 분사, EGR, 다양한 연소 제어 기법&lt;/code&gt;들이 탄생했다. 제약이 오히려 혁신의 동력이 된 셈이다.&lt;/p&gt;
+&lt;p&gt;이런 상충하는 요구사항들 사이에서 &lt;code&gt;물 분사, EGR, 다양한 연소 제어 기법&lt;/code&gt;들이 탄생했다. 결국 제약이야말로 혁신을 강제로 끌어내는 연료가 된 셈이다.&lt;/p&gt;
 &lt;p&gt;소프트웨어 엔지니어링에서도 마찬가지 아닌가? &lt;code&gt;메모리 제한, 응답 시간 요구사항, 동시 접속자 수&lt;/code&gt; 등등. 이런 제약 조건들이 있기에 우리도 더 효율적인 알고리즘과 아키텍처를 고민하게 되는 것이다.&lt;/p&gt;
 &lt;h2&gt;ECO 모드와 트레이드오프&lt;/h2&gt;
 &lt;p&gt;ECO 모드에 대한 이야기도 흥미로웠다. 흡기량을 줄이면 배기가스는 줄어들지만 출력도 함께 떨어진다. 완벽한 트레이드오프다.&lt;/p&gt;
@@ -71,7 +71,9 @@
 &lt;p&gt;전공 지식을 일상 언어로 번역하는 능력, 그리고 상대방이 이해할 수 있도록 친절하게 설명하는 마음씨. 이런 사람과 함께 이야기하는 시간이 얼마나 소중한지 새삼 느꼈다.&lt;/p&gt;
 &lt;p&gt;기계공학을 전공했지만 지금은 개발자로 일하고 있는 친구에게 고마운 마음이다. 전공 지식을 잊지 않고 간직하면서도, 내가 흥미를 가질 수 있도록 연결고리를 만들어준 그 센스와 배려심.&lt;/p&gt;
 &lt;p&gt;앞으로도 이런 대화를 계속 나눌 수 있기를 바란다. 서로 다른 분야에서 배운 것들을 나누며, 함께 성장해나가는 관계. 이게 바로 진정한 친구가 아닐까?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&quot;모든 학문은 연결되어 있다&quot;는 말의 참뜻을 알 것 같다. 오늘도 또 하나 배웠다.&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[뿌리 없는 성장은 없다 - 빠른 성장이라는 착각]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%BF%8C%EB%A6%AC-%EC%97%86%EB%8A%94-%EC%84%B1%EC%9E%A5%EC%9D%80-%EC%97%86%EB%8B%A4/</link><guid isPermaLink="false">https://dataportal.kr/뿌리-없는-성장은-없다/</guid><pubDate>Sat, 26 Jul 2025 19:25:49 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;&lt;strong&gt;&quot;모든 학문은 연결되어 있다&quot;는 말의 참뜻을 알 것 같다. 오늘도 또 하나 배웠다.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;앞으로도 이런 대화를 계속 나눌 수 있기를 바란다. 서로 다른 분야에서 배운 것들을 나누며, 서로의 사고 격자를 한 칸씩 촘촘하게 메워가는 관계. 그 과정에서 우리는 조금 더 깊고, 조금 더 넓게 세상을 이해하게 될 것이다.&lt;/p&gt;
+&lt;p&gt;언젠가는 내가 또 다른 분야의 이야기를 들려줄 차례가 오겠지. 그때 이 친구의 격자에도 새로운 선이 그어질 것이다. 모든 학문이 연결되어 있다는 말, 오늘 나는 그것을 머리가 아니라 가슴으로 배웠다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[뿌리 없는 성장은 없다 - 빠른 성장이라는 착각]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%BF%8C%EB%A6%AC-%EC%97%86%EB%8A%94-%EC%84%B1%EC%9E%A5%EC%9D%80-%EC%97%86%EB%8B%A4/</link><guid isPermaLink="false">https://dataportal.kr/뿌리-없는-성장은-없다/</guid><pubDate>Sat, 26 Jul 2025 19:25:49 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 832px; &quot;
     &gt;
