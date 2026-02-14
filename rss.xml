@@ -1,4 +1,191 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 06 Feb 2026 12:16:52 GMT</lastBuildDate><item><title><![CDATA[첫 페이지를 넘기는 용기]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EC%B2%AB-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A5%BC-%EB%84%98%EA%B8%B0%EB%8A%94-%EC%9A%A9%EA%B8%B0/</link><guid isPermaLink="false">https://dataportal.kr/첫-페이지를-넘기는-용기/</guid><pubDate>Sat, 31 Jan 2026 23:03:34 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Theo's Blog RSS Feed]]></title><description><![CDATA[볼타 CTO 테오 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 14 Feb 2026 13:16:22 GMT</lastBuildDate><item><title><![CDATA[의미는 해석에서 태어난다]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EC%9D%98%EB%AF%B8%EB%8A%94-%ED%95%B4%EC%84%9D%EC%97%90%EC%84%9C-%ED%83%9C%EC%96%B4%EB%82%9C%EB%8B%A4/</link><guid isPermaLink="false">https://dataportal.kr/의미는-해석에서-태어난다/</guid><pubDate>Sat, 14 Feb 2026 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 832px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 53.90625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBBf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB6qTMGtAo/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECERASMf/aAAgBAQABBQK0WjaOHw//xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAEDAQE/Abhp/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERAv/aAAgBAgEBPwGaIz//xAAWEAEBAQAAAAAAAAAAAAAAAAAAMSD/2gAIAQEABj8CVcf/xAAWEAEBAQAAAAAAAAAAAAAAAABhECD/2gAIAQEAAT8heY2L/9oADAMBAAIAAwAAABD/AA//xAAXEQEAAwAAAAAAAAAAAAAAAAAAEVFh/9oACAEDAQE/EM0Kf//EABURAQEAAAAAAAAAAAAAAAAAAABh/9oACAECAQE/EKKP/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERIUHx/9oACAEBAAE/EMbJjYh6QliFTa7vSJ60f//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;같은 풍경이 서로 다른 색으로 해석되는 모습&quot;
+        title=&quot;같은 풍경이 서로 다른 색으로 해석되는 모습&quot;
+        src=&quot;/static/7e536d73a01ae007400852a73eb9c386/c2601/landscape-of-interpretation.jpg&quot;
+        srcset=&quot;/static/7e536d73a01ae007400852a73eb9c386/e4a55/landscape-of-interpretation.jpg 256w,
+/static/7e536d73a01ae007400852a73eb9c386/36dd4/landscape-of-interpretation.jpg 512w,
+/static/7e536d73a01ae007400852a73eb9c386/c2601/landscape-of-interpretation.jpg 832w&quot;
+        sizes=&quot;(max-width: 832px) 100vw, 832px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;1.&lt;/h2&gt;
+&lt;p&gt;소설을 쓰려면 뭐가 필요할까.&lt;/p&gt;
+&lt;p&gt;대부분 &apos;소재&apos;라고 답한다. 자극적인 사건, 기막힌 반전, 특별한 경험. 우리가 기억하는 소설 대부분이 강렬한 소재를 가지고 있으니, 당연한 답처럼 느껴진다.&lt;/p&gt;
+&lt;p&gt;하지만 『죄와 벌』은 어떤가. 가난한 학생이 전당포 노파를 죽이는 이야기다. 소재만 놓고 보면 신문 사회면 기사와 다를 바 없다. 『노인과 바다』는? 노인이 바다에서 큰 물고기를 잡는다. 그게 전부다.&lt;/p&gt;
+&lt;p&gt;소재가 아니라 훈련이다. 같은 재료를 가지고도 완전히 다른 요리를 만들어내는 것, 그것이 진짜 실력이다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;2.&lt;/h2&gt;
+&lt;p&gt;삶도 마찬가지인 것 같다.&lt;/p&gt;
+&lt;p&gt;극적인 일이 일어나야 삶이 특별해지는 게 아니다. 똑같은 출근길, 똑같은 점심시간, 똑같은 귀갓길. 이 반복되는 일상을 어떤 태도로 경험하느냐에 따라, 삶의 질감이 완전히 달라진다.&lt;/p&gt;
+&lt;p&gt;기계적으로 임하면 그저 반복이다. 능동적으로 임하면 매일이 조금씩 다르다. 같은 길인데 오늘은 바람이 다르다. 같은 카페인데 오늘은 음악이 다르다. 같은 대화인데 오늘은 상대방의 표정에서 새로운 것을 읽는다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;3.&lt;/h2&gt;
+&lt;p&gt;의미는 객관적으로 부여되는 것이 아니다. 의미는 해석을 통해 생겨난다.&lt;/p&gt;
+&lt;p&gt;우리는 보통 의미를 &apos;발견&apos;한다고 말한다. 마치 어딘가에 숨겨져 있는 보물을 찾듯이. 하지만 실은 그렇지 않다. 의미는 숨겨져 있지 않다. 내가 만들어내는 것이다.&lt;/p&gt;
+&lt;p&gt;같은 퇴사를 겪어도, 어떤 사람은 실패로 해석하고 어떤 사람은 전환점으로 해석한다. 같은 이별을 겪어도, 누군가에겐 상실이고 누군가에겐 성장이다. 사건 자체에는 의미가 없다. 의미를 입히는 건 나다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;4.&lt;/h2&gt;
+&lt;p&gt;글쓰기에서 재미있는 구분이 있다. 에피소드적인 글과 에픽적인 글.&lt;/p&gt;
+&lt;p&gt;에피소드는 사건의 나열이다. 오늘 이런 일이 있었고, 어제는 저런 일이 있었다. 재미는 있을 수 있지만, 읽고 나면 남는 게 별로 없다. 각 부분이 따로 논다.&lt;/p&gt;
+&lt;p&gt;에픽은 다르다. 각각의 사건이 하나의 큰 흐름 안에서 서로를 비추고, 전체가 되어 하나의 메시지를 만든다. 같은 사건들인데, 엮는 방식에 따라 완전히 다른 이야기가 된다.&lt;/p&gt;
+&lt;p&gt;삶도 그렇다. 일어난 일들은 같아도, 그것을 어떻게 엮느냐에 따라 내 삶의 이야기가 달라진다. 에피소드의 나열로 살 것인가, 하나의 에픽으로 엮을 것인가.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;5.&lt;/h2&gt;
+&lt;p&gt;논리를 뛰어넘어 직접 몸과 마음으로 얻는 이해가 있다.&lt;/p&gt;
+&lt;p&gt;매일 가던 길이 아닌 다른 길로 가보는 것. 늘 듣던 음악 대신 침묵을 들어보는 것. 익숙한 패턴을 한 번 깨보는 것. 삶에 아주 작은 변화를 주는 것.&lt;/p&gt;
+&lt;p&gt;그런 체험은 두꺼운 책보다 더 깊은 지혜로 이끌 때가 있다. 머리로 이해하는 것과 몸으로 아는 것은 다르다. 수영 이론을 아무리 공부해도, 물에 들어가기 전에는 수영을 할 수 없듯이.&lt;/p&gt;
+&lt;p&gt;논리를 뛰어넘어 직접 몸과 마음으로 얻는 이해의 체험. 그것은 그동안 주목하지 못했던 삶의 또 다른 측면을 부각시켜준다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;6.&lt;/h2&gt;
+&lt;p&gt;이충녕의 『어떤 생각들은 나의 세계가 된다』를 읽으며 이런 생각들이 정리되었다. 이 책이 특별한 건, 거창한 철학을 이야기하는 듯하면서도 결국 일상으로 돌아온다는 점이었다. 넷플릭스를 고르지 못하는 밤, 성격 탓을 하는 습관, SNS를 스크롤하는 손가락. 일상의 장면에서 생각의 실마리를 끌어낸다.&lt;/p&gt;
+&lt;p&gt;그리고 그 실마리들이 모여서 하나의 질문이 된다. 나는 지금 삶을 어떻게 해석하고 있는가.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;7.&lt;/h2&gt;
+&lt;p&gt;나는 지금까지 삶에서 소재를 찾고 있었던 건 아닐까. 특별한 경험, 극적인 전환, 기막힌 우연. 그런 것들이 있어야 삶이 의미 있어진다고 생각했던 건 아닐까.&lt;/p&gt;
+&lt;p&gt;하지만 소재가 아니라 훈련이다. 일상을 능동적으로 경험하는 훈련. 일어난 일에 의미를 해석하는 훈련. 에피소드를 에픽으로 엮는 훈련.&lt;/p&gt;
+&lt;p&gt;의미는 어딘가에서 떨어지는 게 아니다.
+내가 해석할 때, 비로소 태어난다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;8.&lt;/h2&gt;
+&lt;p&gt;그래서 오늘도 해석한다.&lt;/p&gt;
+&lt;p&gt;오늘 아침 마신 커피의 온도, 창밖으로 들어오는 2월의 빛, 이 글을 쓰는 지금 이 시간. 특별할 것 없는 하루다. 하지만 이 하루를 어떤 눈으로 바라보느냐에 따라, 이 하루는 어떤 책 한 권보다 더 많은 것을 가르쳐줄 수 있다.&lt;/p&gt;
+&lt;p&gt;어떤 생각들은 나의 세계가 된다.
+그리고 그 세계는, 내가 해석하는 만큼 넓어진다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[성격이라는 피난처]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EC%84%B1%EA%B2%A9%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%94%BC%EB%82%9C%EC%B2%98/</link><guid isPermaLink="false">https://dataportal.kr/성격이라는-피난처/</guid><pubDate>Sat, 14 Feb 2026 11:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 832px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 53.90625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQME/9oADAMBAAIQAxAAAAFzJ2s9kY6T/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQERIh/9oACAEBAAEFAi+mnGmf/8QAFREBAQAAAAAAAAAAAAAAAAAAABL/2gAIAQMBAT8BhD//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEv/aAAgBAgEBPwG1v//EABcQAAMBAAAAAAAAAAAAAAAAAAAQMQH/2gAIAQEABj8Cd1U//8QAGhABAAIDAQAAAAAAAAAAAAAAAQARECFh4f/aAAgBAQABPyGFqYPUlpsWd0//2gAMAwEAAgADAAAAEIsf/8QAFxEBAAMAAAAAAAAAAAAAAAAAABFRcf/aAAgBAwEBPxDSdv/EABYRAQEBAAAAAAAAAAAAAAAAAAABcf/aAAgBAgEBPxCmX//EABsQAAMAAgMAAAAAAAAAAAAAAAABETFRYZHx/9oACAEBAAE/EMj6NVF5GLe4JdIm1W7k9c//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;넓은 들판 위 작은 쉘터 안에 앉아 바깥을 바라보는 사람&quot;
+        title=&quot;넓은 들판 위 작은 쉘터 안에 앉아 바깥을 바라보는 사람&quot;
+        src=&quot;/static/0a5cf6f51bc5a865017e3a1a568171d2/c2601/shelter-in-the-field.jpg&quot;
+        srcset=&quot;/static/0a5cf6f51bc5a865017e3a1a568171d2/e4a55/shelter-in-the-field.jpg 256w,
+/static/0a5cf6f51bc5a865017e3a1a568171d2/36dd4/shelter-in-the-field.jpg 512w,
+/static/0a5cf6f51bc5a865017e3a1a568171d2/c2601/shelter-in-the-field.jpg 832w&quot;
+        sizes=&quot;(max-width: 832px) 100vw, 832px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&quot;나는 원래 이런 사람이야.&quot;&lt;/p&gt;
+&lt;p&gt;누구나 한 번쯤은 들어본 문장이다. 혹은 스스로 내뱉어본 문장이다. 회의에서 의견을 못 내는 사람은 &quot;나는 원래 내성적이라서&quot;, 계획을 끝까지 밀어붙이지 못하는 사람은 &quot;나는 원래 쉽게 질려서&quot;, 남의 부탁을 거절 못 하는 사람은 &quot;나는 원래 착한 사람이라서&quot;. 성격이라는 단어 뒤에 숨으면, 어떤 행동이든 설명이 되는 것 같다.&lt;/p&gt;
+&lt;p&gt;그런데 어느 순간부터, 이 문장이 불편해졌다.&lt;/p&gt;
+&lt;h2&gt;설명인가, 면책인가&lt;/h2&gt;
+&lt;p&gt;&quot;나는 원래 이런 사람이야&quot;라는 말 속에는 여러 겹의 의미가 숨어 있다. &apos;그러니까 바꿀 수 없어&apos;, &apos;그러니까 이해해줘&apos;, &apos;그러니까 내 잘못이 아니야&apos;. 가만히 뜯어보면, 이건 자기 행동을 설명하는 것이 아니라 면책하는 것에 가깝다.&lt;/p&gt;
+&lt;p&gt;자신의 행위에 합리적인 이유를 부여하고 싶은 것은 인간의 뿌리 깊은 욕망이다. 그리고 &apos;성격&apos;은 그 욕망을 채우기에 너무 편리한 도구다. 한 번 붙이면 더 이상 설명할 필요가 없으니까. 피난처처럼 안전하니까.&lt;/p&gt;
+&lt;h2&gt;나를 삼인칭으로 본다는 것&lt;/h2&gt;
+&lt;p&gt;사람의 행동을 설명하는 방식에는 두 가지가 있다.&lt;/p&gt;
+&lt;p&gt;하나는 밖에서 보는 것이다. &quot;저 사람은 유전적으로 외향적이다&quot;, &quot;저 사람은 어린 시절 환경 때문에 그렇다.&quot; 관찰자의 시점. 과학적이고 객관적이지만, 거기에 &apos;나&apos;라는 주체는 없다.&lt;/p&gt;
+&lt;p&gt;다른 하나는 안에서 말하는 것이다. &quot;나는 이것을 원해서 이렇게 했다&quot;, &quot;나는 이것이 옳다고 판단해서 이렇게 선택했다.&quot; 나의 욕망과 판단이 근거가 되는, 주체적인 설명이다.&lt;/p&gt;
+&lt;p&gt;성격 탓을 할 때, 우리는 자신을 밖에서 바라보고 있는 것이다. 마치 관찰자가 실험 대상을 분석하듯. &quot;저 사람은 원래 그런 성격이니까.&quot; 그 &apos;저 사람&apos;이 바로 나인데.&lt;/p&gt;
+&lt;h2&gt;분노의 주인&lt;/h2&gt;
+&lt;p&gt;&quot;왜 화를 냈어?&quot;라는 질문에 &quot;나는 원래 급한 성격이라서&quot;라고 답하는 것과, &quot;상대방이 약속을 세 번째 어겼고, 나는 신뢰를 중요하게 여기는 사람이라 참기 어려웠다&quot;라고 답하는 것. 같은 분노인데 설명이 전혀 다르다.&lt;/p&gt;
+&lt;p&gt;전자는 성격에 떠넘긴 것이고, 후자는 자신의 행위를 이해한 것이다. 내 행동의 이유를 스스로 재구성할 수 있을 때, 비로소 그 행동의 주인이 된다. 반대로, 성격에 위임해버리면 나는 내 행동의 관객이 된다.&lt;/p&gt;
+&lt;h2&gt;착함이라는 도피&lt;/h2&gt;
+&lt;p&gt;&quot;나는 착한 사람이니까 어려움에 처한 사람을 도와줘야 해.&quot;&lt;/p&gt;
+&lt;p&gt;얼핏 들으면 아름다운 말이다. 하지만 이것도 같은 구조다. &apos;착한 사람&apos;이라는 정체성이 먼저 있고, 그 정체성을 유지하기 위해 도움을 주는 것이라면, 그것은 상대를 위한 것이 아니라 나를 위한 것이다.&lt;/p&gt;
+&lt;p&gt;진정한 도움은 &quot;나는 착한 사람이니까&quot;가 아니라 &quot;지금 이 상황에서 내가 할 수 있는 최선이 이것이라고 판단했기 때문에&quot;에서 나온다. 성격이 아니라 판단이 행위의 근거가 되어야 한다.&lt;/p&gt;
+&lt;h2&gt;권위가 무너진 자리&lt;/h2&gt;
+&lt;p&gt;SNS가 많은 것을 바꿨다. 보통은 비교의 원천, 우울의 촉매 정도로 이야기되지만, 다른 면도 있다.&lt;/p&gt;
+&lt;p&gt;과거에는 소수의 권위자가 정보를 독점했고, 그 독점이 카리스마를 만들었다. 카리스마는 꾸며진 겉모습에서 나올 뿐이다. SNS는 그 독점을 무너뜨렸다. 물론 온갖 가짜뉴스가 혼란을 만들기도 한다. 하지만 동시에, 기존 체제에 맹목적으로 순응하지 않는 감각도 키워준다.&lt;/p&gt;
+&lt;p&gt;결국 같은 맥락이다. 누군가의 권위에 기대는 대신 스스로 생각하는 것. 성격에 기대는 대신 스스로 판단하는 것.&lt;/p&gt;
+&lt;p&gt;이충녕의 『어떤 생각들은 나의 세계가 된다』를 읽으며 이 생각이 더 또렷해졌다. 분열은 혼란이기도 하지만, 새로운 가능성의 시작이기도 하다.&lt;/p&gt;
+&lt;h2&gt;피난처에서 나오기&lt;/h2&gt;
+&lt;p&gt;&quot;나는 원래 이런 사람이야&quot;라는 말을 쓰기 전에, 한 번 멈춰본다. 그리고 물어본다.&lt;/p&gt;
+&lt;p&gt;정말 원래 그런 건가? 아니면 그렇게 말하는 게 편한 건가?&lt;/p&gt;
+&lt;p&gt;피난처는 따뜻하다. 하지만 거기에 머물면 바깥세상을 잊는다. 불편하더라도, 내 행동의 이유를 나의 말로 설명할 수 있는 사람이 되고 싶다.&lt;/p&gt;
+&lt;p&gt;&quot;나는 이렇게 판단했기 때문에 이렇게 했다.&quot;&lt;/p&gt;
+&lt;p&gt;이 한 문장이, 성격이라는 피난처에서 나오는 첫걸음이 아닐까.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[선택이라는 이름의 자유]]></title><description><![CDATA[1. 금요일 저녁, 넷플릭스를 켠다. 썸네일을 훑는다. 스크롤을 내린다. 다시 올린다. 뭔가 끌리는 게 있다가도, 옆에 더 나은 게 있을 것 같아서 넘긴다. 10분이 지나고, 2…]]></description><link>https://dataportal.kr/%EC%84%A0%ED%83%9D%EC%9D%B4%EB%9D%BC%EB%8A%94-%EC%9D%B4%EB%A6%84%EC%9D%98-%EC%9E%90%EC%9C%A0/</link><guid isPermaLink="false">https://dataportal.kr/선택이라는-이름의-자유/</guid><pubDate>Sat, 14 Feb 2026 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 832px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 53.90625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB25WNgL//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAEFAl//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAE/IV//2gAMAwEAAgADAAAAEED/AP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAAMAAQUAAAAAAAAAAAAAAAABEUEQMVFxwf/aAAgBAQABPxCzsruzXpXwZM6f/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;수많은 갈림길 앞에 선 사람&quot;
+        title=&quot;수많은 갈림길 앞에 선 사람&quot;
+        src=&quot;/static/ca3628a9a8787369395b622487cd6a1c/c2601/crossroads-of-choices.jpg&quot;
+        srcset=&quot;/static/ca3628a9a8787369395b622487cd6a1c/e4a55/crossroads-of-choices.jpg 256w,
+/static/ca3628a9a8787369395b622487cd6a1c/36dd4/crossroads-of-choices.jpg 512w,
+/static/ca3628a9a8787369395b622487cd6a1c/c2601/crossroads-of-choices.jpg 832w&quot;
+        sizes=&quot;(max-width: 832px) 100vw, 832px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;1.&lt;/h2&gt;
+&lt;p&gt;금요일 저녁, 넷플릭스를 켠다.&lt;/p&gt;
+&lt;p&gt;썸네일을 훑는다. 스크롤을 내린다. 다시 올린다. 뭔가 끌리는 게 있다가도, 옆에 더 나은 게 있을 것 같아서 넘긴다. 10분이 지나고, 20분이 지나고, 결국 아무것도 고르지 못한 채 유튜브를 켠다.&lt;/p&gt;
+&lt;p&gt;수천 개의 콘텐츠가 눈앞에 있는데, 나는 아무것도 보지 못했다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;2.&lt;/h2&gt;
+&lt;p&gt;메뉴가 세 개인 식당에서는 고민이 짧다. 하지만 선택지가 열 개, 스무 개가 되면 이야기가 달라진다. 괌을 갈까, 몰디브를 갈까, 발리를 갈까. 심지어 그 선택이 결정적이지도 않다. 어디를 가든 즐거울 것이다. 그런데도 고르지 못한다.&lt;/p&gt;
+&lt;p&gt;이미 결정된 조건 내에서 고르는 건 쉽다. 어려운 건 아무런 제약 없이 열린 선택지 앞에 서는 것이다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;3.&lt;/h2&gt;
+&lt;p&gt;자유롭다는 건 좋은 것이라고 배웠다. 더 많은 선택지, 더 많은 가능성, 더 많은 길. 그것이 곧 풍요라고.&lt;/p&gt;
+&lt;p&gt;그런데 막상 모든 문이 열려 있으면, 어느 문으로 들어가야 할지 모르겠다. 문 앞에서 서성이다 지친다. 열려 있는 문이 많을수록 들어가지 못한 문도 많아지고, 들어가지 못한 문 뒤에 뭐가 있을지 계속 궁금해진다.&lt;/p&gt;
+&lt;p&gt;선택하지 못한 것들이 유령처럼 따라다닌다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;4.&lt;/h2&gt;
+&lt;p&gt;종교를 가진 사람들이 때로 부러울 때가 있다.&lt;/p&gt;
+&lt;p&gt;신앙이 있어서가 아니다. 규율이 있어서다. 무엇을 먹고, 무엇을 하지 않고, 어떤 날에 쉬고, 어떤 방식으로 기도하고. 삶의 많은 부분이 이미 정해져 있다. 그 안에서 고민할 여지가 줄어든다.&lt;/p&gt;
+&lt;p&gt;자유를 포기한 것처럼 보이지만, 오히려 그 안에서 깊은 평온을 찾는 사람들이 있다. 규율에 따라 스스로를 통제하면서, 역설적으로 더 자유로워지는 것이다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;5.&lt;/h2&gt;
+&lt;p&gt;연인 관계도 비슷하다.&lt;/p&gt;
+&lt;p&gt;상대방의 요구를 받아들인다. 금요일 저녁은 같이 보내기로 한다. 일요일 아침에는 같이 산책하기로 한다. 혼자였다면 무엇이든 할 수 있었던 시간을, 기꺼이 포기한다.&lt;/p&gt;
+&lt;p&gt;자유를 잃는 것일까? 표면적으로는 그렇다. 하지만 매주 금요일 뭘 할지 고민하지 않아도 된다는 안도감. 누군가와 함께한다는 충만함. 자유를 제한함으로써, 오히려 더 단단한 무언가를 얻는다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;6.&lt;/h2&gt;
+&lt;p&gt;아무런 토양에도 뿌리를 내리지 못하면, 삶은 수많은 방향으로 물살이 흐르는 바다에서 이리저리 떠다니다 질식하게 된다.&lt;/p&gt;
+&lt;p&gt;자유의 바다에서 질식한다. 이 표현이 머릿속에 남았다. 이충녕의 『어떤 생각들은 나의 세계가 된다』에서 만난 문장인데, 자유가 많으면 많을수록 숨이 트일 줄 알았는데 오히려 질식할 수 있다니. 묘하게 와닿았다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;7.&lt;/h2&gt;
+&lt;p&gt;생각해보면, 내가 가장 생산적이었던 시기는 제약이 있었던 시기였다.&lt;/p&gt;
+&lt;p&gt;마감이 정해져 있을 때. 예산이 한정되어 있을 때. 선택지가 줄어들었을 때. 그때 오히려 집중력이 생기고, 창의력이 나오고, 결과물이 만들어졌다.&lt;/p&gt;
+&lt;p&gt;무한한 시간과 무한한 자원이 있었다면? 아마 아무것도 하지 못했을 것이다. 넷플릭스 앞에서 20분을 허비하듯이.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;8.&lt;/h2&gt;
+&lt;p&gt;&apos;하고 싶은 대로 하는 것&apos;이 자유일까, &apos;해야 한다고 판단한 것을 실행할 수 있는 것&apos;이 자유일까.&lt;/p&gt;
+&lt;p&gt;전자는 욕망에 이끌리는 것이고, 후자는 이성으로 방향을 정하는 것이다. 자유를 쓰려면 먼저 기준이 있어야 한다. 기준 없는 자유는 표류다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;9.&lt;/h2&gt;
+&lt;p&gt;요즘 나는 의식적으로 선택지를 줄이려 한다.&lt;/p&gt;
+&lt;p&gt;아침에 뭘 먹을지 고민하지 않는다. 대략 정해두었다. 옷도 비슷한 것들로 채워두었다. 카페도 두세 군데만 간다. 사소한 결정에 에너지를 쓰지 않으니, 정말 중요한 결정 앞에서 더 또렷해진다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;10.&lt;/h2&gt;
+&lt;p&gt;끝없는 자유의 바다에서 표류하다가 질식해 정신을 잃는 것은, 자유를 상실하는 것에 가깝다. 모든 것을 할 수 있다는 것은, 아무것도 하지 않는 것과 종이 한 장 차이다.&lt;/p&gt;
+&lt;p&gt;자신의 삶에 선을 긋는 것. 그리고 그 선을 지키는 것.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;11.&lt;/h2&gt;
+&lt;p&gt;나는 아직도 때때로 선택 앞에서 멈춘다. 완벽한 선택을 하고 싶은 욕심이 발목을 잡는다.&lt;/p&gt;
+&lt;p&gt;하지만 이제는 안다. 완벽한 선택이란 없다는 것을. 선택하지 않는 것이 가장 나쁜 선택이라는 것을. 그리고 무언가를 포기해야 비로소 무언가를 얻을 수 있다는 것을.&lt;/p&gt;
+&lt;p&gt;자유란 모든 것을 가질 수 있는 상태가 아니다.
+무엇을 가지지 않을지 스스로 정할 수 있는 상태다.&lt;/p&gt;
+&lt;p&gt;선을 긋자.
+그 선 안에서, 진짜 자유가 시작된다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[첫 페이지를 넘기는 용기]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EC%B2%AB-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A5%BC-%EB%84%98%EA%B8%B0%EB%8A%94-%EC%9A%A9%EA%B8%B0/</link><guid isPermaLink="false">https://dataportal.kr/첫-페이지를-넘기는-용기/</guid><pubDate>Sat, 31 Jan 2026 23:03:34 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 832px; &quot;
     &gt;
