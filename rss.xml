@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[테오 블로그 RSS Feed]]></title><description><![CDATA[오랫동안 제품을 만들어온 엔지니어의 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 20 Mar 2026 07:47:12 GMT</lastBuildDate><item><title><![CDATA[팀에 '우리다움'이 없으면 논의는 시작되지 않는다]]></title><description><![CDATA["왜 아무도 말을 안 하지" 회의실에 여섯 명이 앉아 있다. 화면에는 새 프로젝트의 기획 초안이 띄워져 있다. 리더가 말한다. "의견 있으면 편하게 말해주세요." 침묵. 5초, 1…]]></description><link>https://dataportal.kr/%ED%8C%80%EC%97%90-%EC%9A%B0%EB%A6%AC%EB%8B%A4%EC%9B%80%EC%9D%B4-%EC%97%86%EC%9C%BC%EB%A9%B4-%EB%85%BC%EC%9D%98%EB%8A%94-%EC%8B%9C%EC%9E%91%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4/</link><guid isPermaLink="false">https://dataportal.kr/팀에-우리다움이-없으면-논의는-시작되지-않는다/</guid><pubDate>Fri, 20 Mar 2026 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[테오 블로그 RSS Feed]]></title><description><![CDATA[오랫동안 제품을 만들어온 엔지니어의 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 20 Mar 2026 12:36:53 GMT</lastBuildDate><item><title><![CDATA[팀에 '우리다움'이 없으면 논의는 시작되지 않는다]]></title><description><![CDATA["왜 아무도 말을 안 하지" 회의실에 여섯 명이 앉아 있다. 화면에는 새 프로젝트의 기획 초안이 띄워져 있다. 리더가 말한다. "의견 있으면 편하게 말해주세요." 침묵. 5초, 1…]]></description><link>https://dataportal.kr/%ED%8C%80%EC%97%90-%EC%9A%B0%EB%A6%AC%EB%8B%A4%EC%9B%80%EC%9D%B4-%EC%97%86%EC%9C%BC%EB%A9%B4-%EB%85%BC%EC%9D%98%EB%8A%94-%EC%8B%9C%EC%9E%91%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4/</link><guid isPermaLink="false">https://dataportal.kr/팀에-우리다움이-없으면-논의는-시작되지-않는다/</guid><pubDate>Fri, 20 Mar 2026 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 832px; &quot;
     &gt;
@@ -1199,7 +1199,7 @@
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;요즘 재밌는 서비스들을 보면 공통점이 있습니다. 기능이 특별하지 않습니다. 그냥 이쁩니다. 필수가 아닌데 사람들이 씁니다.&lt;/p&gt;
-&lt;p&gt;행사 등록 플랫폼 &lt;a href=&quot;https://lu.ma&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Luma&lt;/a&gt;가 그렇습니다. 유사 서비스들과 기능이 크게 다르지 않은데, 군더더기 없이 깔끔합니다. 필름 카메라 느낌을 주는 사진 앱 &lt;a href=&quot;https://once.film&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;once.film&lt;/a&gt;도 비슷합니다. 기능은 단순한데, 감성이 있습니다. 출시 두 달 만에 월 매출 천만 원을 넘겼다고 들었습니다.&lt;/p&gt;
+&lt;p&gt;행사 등록 플랫폼 &lt;a href=&quot;https://lu.ma&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Luma&lt;/a&gt;가 그렇습니다. 유사 서비스들과 기능이 크게 다르지 않은데, 군더더기 없이 깔끔합니다. 필름 카메라 느낌을 주는 사진 앱 &lt;a href=&quot;https://once.film&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;once.film&lt;/a&gt;도 비슷합니다. 기능은 단순한데, 감성이 있습니다. 출시 두 달 만에 월 매출 천만 원을 넘겼다고 들었습니다.&lt;/p&gt;
 &lt;p&gt;이런 서비스들을 보면서 떠오른 말이 있습니다.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;&quot;생필품이 아니라 사치품을 팔아야 한다. 사치품은 취향이다. 취향을 사고 파는 플랫폼이 살아남는다.&quot;&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;꽤 설득력 있는 말이라고 생각했습니다. 필수가 아닌 것을 사게 만드는 힘. 그게 취향이니까요.&lt;/p&gt;
@@ -1703,7 +1703,7 @@
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;나무에게서 배우는 진짜 성장의 법칙&lt;/h2&gt;
-&lt;p&gt;조금 전, 나무들이 서로 소통한다는 흥미로운 영상을 보았다. 본질은 다른 내용이었지만, 오히려 그 부분이 인상 깊었다. 뿌리 아래 숨겨진 거대한 네트워크를 통해 영양분을 나누고, 위험을 알리고, 심지어 죽어가는 나무가 자신의 마지막 자원을 다른 나무에게 전달한다는 내용이었다. (영상; &lt;a href=&quot;https://youtu.be/iAaz9PrMcjU&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;칸을 뒤집은 미친 환경 캠페인&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;조금 전, 나무들이 서로 소통한다는 흥미로운 영상을 보았다. 본질은 다른 내용이었지만, 오히려 그 부분이 인상 깊었다. 뿌리 아래 숨겨진 거대한 네트워크를 통해 영양분을 나누고, 위험을 알리고, 심지어 죽어가는 나무가 자신의 마지막 자원을 다른 나무에게 전달한다는 내용이었다. (영상; &lt;a href=&quot;https://youtu.be/iAaz9PrMcjU&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;칸을 뒤집은 미친 환경 캠페인&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;그 순간 문득 떠오른 생각이 있었다. &lt;code&gt;&quot;이것이야말로 많은 사람들이 놓치고 있는 성장의 본질이 아닐까?&quot;&lt;/code&gt;&lt;/p&gt;
 &lt;h2&gt;빠른 성장이라는 착각&lt;/h2&gt;
 &lt;p&gt;스타트업 씬에서, 개발자 커뮤니티에서, 심지어 일상 대화에서도 &lt;code&gt;빠른 성장&lt;/code&gt;은 늘 미덕으로 여겨진다. 빠르게 승진하고, 빠르게 기술을 익히고, 빠르게 성과를 내는 것. 마치 그것이 성공의 전부인 양 말이다.&lt;/p&gt;
@@ -1938,11 +1938,7 @@
 &lt;p&gt;나는 어떠한 문제를 발견하고, 구체화한 뒤 그 문제를 해결하기 위한 가설을 세우는 과정 자체를 즐긴다. 이는 개발자의 소양이라기보단 사회를 구성하는 구성원으로서 우리가 살아가는 세상에 많은 관심이 있다는 것에 가깝다. 업의 관점으론 우리 업계의 PM이라는 직무를 가진 사람들의 소양에 가깝다.&lt;/p&gt;
 &lt;p&gt;그럼에도 난 저런 고민과 상상이 즐겁다. 하지만 가설을 세우는 것에서 끝난다면 아쉽지 아니한가? 가설을 검증하기 위해 실행하고, 평가해보고 싶은 욕심도 당연히 있다. 운 좋게도 내가 개발자이기에, 그것도 꽤나 역량 좋은 개발자 중 하나이기에 내 가설을 검증하기 위한 수단으로 개발을 하고, 개발자로 일하는 것이다.&lt;/p&gt;
 &lt;p&gt;난 내 힘이 닿는 데까지 내가 해결 가능한 문제를 발굴하고 실제로 그 문제를 해결해보려고 한다.&lt;/p&gt;
-&lt;p&gt;지금은 우리 고객의 고민을 0개로 만들어주고 싶다. 이것이 내가 개발자로서 살아가는 이유이자 내 삶의 목적이다.​​​​​​​​​​​​​​​​&lt;/p&gt;</content:encoded></item><item><title><![CDATA[프론트엔드 개발 없이 만드는 보상 시스템 아키텍처 (Benefit/Referral/Reward)]]></title><description><![CDATA[hero…]]></description><link>https://dataportal.kr/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%97%86%EC%9D%B4-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B3%B4%EC%83%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-Benefit-Referral-Reward/</link><guid isPermaLink="false">https://dataportal.kr/프론트엔드-개발-없이-만드는-보상-시스템-아키텍처-Benefit-Referral-Reward/</guid><pubDate>Tue, 25 Feb 2025 00:01:39 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;./assets/1.jpeg&quot; alt=&quot;hero&quot;&gt;&lt;/p&gt;
-&lt;h2&gt;들어서며&lt;/h2&gt;
-&lt;p&gt;제품을 만들다보면 어느날, &lt;code&gt;보상 시스템&lt;/code&gt; 이라는걸 만들게 되는 시점이 도래합니다. 간단하게는 마케팅 프로모션 목적의 보상 시스템이 될 수도 있고, 기존 사용자가 신규 사용자/잠재 고객에게 직접 소개하며 할인 혜택을 제공하는 구조까지 다양한데요.&lt;/p&gt;
-&lt;p&gt;이번 글에서는 코드 레벨적인 접근보다는 구조적으로 어떻게 설계하면 좋은가에 대한 이야기를 중점으로 다루어보겠습니다.&lt;/p&gt;
-&lt;h2&gt;&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[작은 규모=공정한 평가]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EC%9E%91%EC%9D%80-%EA%B7%9C%EB%AA%A8-%EA%B3%B5%EC%A0%95%ED%95%9C-%ED%8F%89%EA%B0%80/</link><guid isPermaLink="false">https://dataportal.kr/작은-규모-공정한-평가/</guid><pubDate>Wed, 05 Feb 2025 23:47:55 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;지금은 우리 고객의 고민을 0개로 만들어주고 싶다. 이것이 내가 개발자로서 살아가는 이유이자 내 삶의 목적이다.​​​​​​​​​​​​​​​​&lt;/p&gt;</content:encoded></item><item><title><![CDATA[작은 규모=공정한 평가]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EC%9E%91%EC%9D%80-%EA%B7%9C%EB%AA%A8-%EA%B3%B5%EC%A0%95%ED%95%9C-%ED%8F%89%EA%B0%80/</link><guid isPermaLink="false">https://dataportal.kr/작은-규모-공정한-평가/</guid><pubDate>Wed, 05 Feb 2025 23:47:55 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -2375,7 +2371,7 @@ user&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt;&lt;span class=&q
 &lt;li&gt;리소스 낭비 방지&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Reference: &lt;a href=&quot;https://pkg.go.dev/golang.org/x/sync/singleflight&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Golang의 singleflight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Reference: &lt;a href=&quot;https://pkg.go.dev/golang.org/x/sync/singleflight&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Golang의 singleflight&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;This discussion covers two important concurrency patterns in Programming(e.g. Kotlin):&lt;/p&gt;
@@ -2413,8 +2409,8 @@ user&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt;&lt;span class=&q
 &lt;h3&gt;Additional Optimization with Rueidis&lt;/h3&gt;
 &lt;p&gt;They further optimized the system using &lt;code&gt;Rueidis&lt;/code&gt;, which provides server-assisted client-side caching in Go.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Reference: &lt;a href=&quot;https://gosuda.org/ko/blog/posts/improving-responsiveness-with-redis-client-side-caching-zb711e502&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;(KOR.) 레디스 클라이언트 사이드 캐시로 반응성 향상 시키기&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Reference: &lt;a href=&quot;https://gosuda.org/blog/posts/improving-responsiveness-with-redis-client-side-caching-zb711e502&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;(ENG.) Enhancing Responsiveness with Redis Client-Side Caching&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Reference: &lt;a href=&quot;https://gosuda.org/ko/blog/posts/improving-responsiveness-with-redis-client-side-caching-zb711e502&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;(KOR.) 레디스 클라이언트 사이드 캐시로 반응성 향상 시키기&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Reference: &lt;a href=&quot;https://gosuda.org/blog/posts/improving-responsiveness-with-redis-client-side-caching-zb711e502&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;(ENG.) Enhancing Responsiveness with Redis Client-Side Caching&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Current Architecture&lt;/h3&gt;
 &lt;p&gt;Their architecture flows as follows:&lt;/p&gt;
@@ -2487,7 +2483,7 @@ user&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt;&lt;span class=&q
 &lt;p&gt;이 사례는 현대 인터넷 인프라의 복잡성과 그로 인한 예상치 못한 보안 위험을 보여준다. 특히 성능 향상을 위해 도입된 기술이 역설적으로 프라이버시를 위협할 수 있다는 점을 잘 보여준다.&lt;/p&gt;
 &lt;p&gt;개인의 프라이버시가 중요한 저널리스트, 활동가, 그리고 일반 사용자들은 이러한 위험을 인지하고 적절한 보호 조치를 취할 필요가 있다. VPN이나 Tor 같은 추가적인 보안 도구의 사용을 고려해볼 만하다.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;전문: &lt;a href=&quot;https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;전문: &lt;a href=&quot;https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[개발 조직에서의 리더 (부제: 다양한 문제해결 스타일)]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EA%B0%9C%EB%B0%9C-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C%EC%9D%98-%EB%A6%AC%EB%8D%94/</link><guid isPermaLink="false">https://dataportal.kr/개발-조직에서의-리더/</guid><pubDate>Tue, 21 Jan 2025 01:04:54 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
@@ -2584,7 +2580,7 @@ user&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt;&lt;span class=&q
 &lt;li&gt;&lt;code&gt;전반적으로, 문제 해결형 리더로서 자신의 스타일을 강화하려면 어떤 새로운 행동을 연습할 필요가 있을까?&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;위 질문을 받고 &lt;code&gt;부족한 부분이 많지만, 나는 아직 리더가 되기엔 멀었으니 괜찮아.&lt;/code&gt;라고 말하는 사람이 있다면, 명심하라. 리더는 조직에서 임명된 리더만 있는 것이 아니라, 그 조직의 변화를 만들어내는 모든 사람을 의미한다.&lt;/p&gt;
-&lt;p&gt;위 내용은 &lt;a href=&quot;https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22740964&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;제럴드 와인버그의 테크니컬 리더&lt;/a&gt;의 내용과 나의 경험을 일부 섞어 작성하였으니, 더 깊은 내용이 궁금하다면 책을 한번 읽어보는걸 추천한다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[평범한 결혼생활 - 임경선 / 별점 3.0]]></title><description><![CDATA[https://flybook.page.link/1PAsTRgRNTBFdm4f9 2…]]></description><link>https://dataportal.kr/%ED%8F%89%EB%B2%94%ED%95%9C-%EA%B2%B0%ED%98%BC%EC%83%9D%ED%99%9C-%EC%9E%84%EA%B2%BD%EC%84%A0/</link><guid isPermaLink="false">https://dataportal.kr/평범한-결혼생활-임경선/</guid><pubDate>Wed, 18 Sep 2024 04:23:18 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://flybook.page.link/1PAsTRgRNTBFdm4f9&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 936px; &quot;&gt;
+&lt;p&gt;위 내용은 &lt;a href=&quot;https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22740964&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;제럴드 와인버그의 테크니컬 리더&lt;/a&gt;의 내용과 나의 경험을 일부 섞어 작성하였으니, 더 깊은 내용이 궁금하다면 책을 한번 읽어보는걸 추천한다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[평범한 결혼생활 - 임경선 / 별점 3.0]]></title><description><![CDATA[https://flybook.page.link/1PAsTRgRNTBFdm4f9 2…]]></description><link>https://dataportal.kr/%ED%8F%89%EB%B2%94%ED%95%9C-%EA%B2%B0%ED%98%BC%EC%83%9D%ED%99%9C-%EC%9E%84%EA%B2%BD%EC%84%A0/</link><guid isPermaLink="false">https://dataportal.kr/평범한-결혼생활-임경선/</guid><pubDate>Wed, 18 Sep 2024 04:23:18 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://flybook.page.link/1PAsTRgRNTBFdm4f9&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 936px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 41.01562499999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPElEQVQoz42STUsCURSG/bP9gZaBi4h20UbctAoKSVoZgUGblkaQMWamjV+j4xjOmDZzZ+6Md3zCEQUhrQsvB+7hPud9uSc19Xy0lo7WXKrWNfBESBjNkWGMDJfVD2YEUm3Vqp8a2GMOcjnSV/lEp4Ub2oZJ+aVC9a3Bc1mj3mgmAxaPfgOv7hY19TmekMlfcnaSJnu8z0UuS88cUv/oojd7tNp9+oPR2uU2p2uH0+mEaumawvkRmcM99EoRx/miZ9qYloPrhRugv6InwNrzLXWtyLtWRK89IIRPHM9RKiaaxYm7/8ASoPAlYeDiiynWwMAyOzgTSceSGMMQayRxXR/XC3ZC15GFH7J5Ygwr4K7kcf8keHx1sW0b25lsBW58iick367A84KlhMQPIpRSqJkimimCJPLu1Vk5/AE+BVqStTcMRAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;평범한 결혼생활 - 임경선 / 별점 3.0&quot; title=&quot;평범한 결혼생활 - 임경선 / 별점 3.0&quot; src=&quot;/static/5f9c8ec341dcc3f81d5985332b5affdf/6d2da/share.flybook.kr_eCvYCb.png&quot; srcset=&quot;/static/5f9c8ec341dcc3f81d5985332b5affdf/6f3f2/share.flybook.kr_eCvYCb.png 256w,
 /static/5f9c8ec341dcc3f81d5985332b5affdf/01e7c/share.flybook.kr_eCvYCb.png 512w,
@@ -2656,11 +2652,11 @@ user&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt;&lt;span class=&q
 &lt;li&gt;지급요청(지출결의)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;그 외에도 &lt;code&gt;5초 만에 발행할 수 있는 세금계산서&lt;/code&gt;를 비롯한 기업 간 거래를 쉽게 만들기 위한 다양한 기능을 제공하고 있다. 이를 통해 모든 기업의 재무팀이 자금 상황에 대한 가시성을 높여 흑자도산과 같은 위험을 피하길 바란다.&lt;/p&gt;
-&lt;p&gt;볼타 팀은 앞으로도 재무팀이 더 건강한 비즈니스를 구축하는 데 도움을 주기 위해 노력하고자 한다. 모든 기능은 &lt;a href=&quot;https://bolta.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;무료로 이용&lt;/a&gt; 해볼 수 있으니, 둘러보고 아직 볼타 팀이 해결하지 못한 문제가 있다면 주저 말고 말해달라.&lt;/p&gt;
+&lt;p&gt;볼타 팀은 앞으로도 재무팀이 더 건강한 비즈니스를 구축하는 데 도움을 주기 위해 노력하고자 한다. 모든 기능은 &lt;a href=&quot;https://bolta.io&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;무료로 이용&lt;/a&gt; 해볼 수 있으니, 둘러보고 아직 볼타 팀이 해결하지 못한 문제가 있다면 주저 말고 말해달라.&lt;/p&gt;
 &lt;p&gt;용기 내어 말해준 고객은 &lt;code&gt;&apos;이제 볼타가 없으면 업무를 할 수 없게 되었다.&apos;&lt;/code&gt;, &lt;code&gt;&apos;볼타가 없으면 출근하고 싶지 않다.&apos;&lt;/code&gt;라고 이야기하기도 한다.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;볼타 기능 둘러보기: &lt;a href=&quot;https://bolta.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://bolta.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;고객 사례 둘러보기: &lt;a href=&quot;https://bolta.io/customer-story&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://bolta.io/customer-story&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;볼타 기능 둘러보기: &lt;a href=&quot;https://bolta.io&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://bolta.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;고객 사례 둘러보기: &lt;a href=&quot;https://bolta.io/customer-story&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://bolta.io/customer-story&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[조직이 커지면서 발생하는 문제]]></title><description><![CDATA[3명밖에 없던 팀이 10명, 50명, 10…]]></description><link>https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4-%EC%BB%A4%EC%A7%80%EB%A9%B4%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%AC%B8%EC%A0%9C/</link><guid isPermaLink="false">https://dataportal.kr/조직이-커지면서-발생하는-문제/</guid><pubDate>Fri, 26 Jul 2024 00:15:49 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
@@ -2703,7 +2699,7 @@ user&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt;&lt;span class=&q
 &lt;p&gt;회사 전체가 20명 미만이라면 회사 전체가 어떻게 돌아가는지 한눈에 보이고, 내가 하는 일이 회사에 영향을 주고 있다는 게 명확히 보인다.&lt;/p&gt;
 &lt;p&gt;반면 회사 전체 인원은 훨씬 많지만, 팀이 10명~20명인 경우 회사 전체를 보는게 쉽지 않다. 자연스레 내가 속한 부서의 업무만 신경 쓰게 된다.&lt;/p&gt;
 &lt;p&gt;큰 조직과 작은 조직 모두 장단점이 있다. 중요한 것은 &lt;code&gt;내가 지금 어떤 경험을 하고 싶은가?&lt;/code&gt;이다. 두 유형의 조직을 모두 경험해 본 결과 나와 더 맞는 경험은 작은 조직에서 전체를 보고 전체에 영향을 주는 경험이었다.&lt;/p&gt;
-&lt;p&gt;그 외에도 작은 조직에는 다양한 장점이 있다. 사례를 기반으로 이야기해주는 &lt;a href=&quot;https://www.amazon.com/Company-One-Staying-Small-Business/dp/1328972356&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;책; Company of One: Why Staying Small Is the Next Big Thing for Business&lt;/a&gt;이 있으니 관심있다면 읽어보길 추천한다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[PM은 무얼 하는 사람?]]></title><description><![CDATA[Job Title이 PM이라고 해서 다 같은 PM은 아니다 일반적으로 PM이 하는 일은 두 가지로 나누어 볼 수 있다. 기능을 만들고 출시하기를 목표로 하는 PM 제품 성공시키기를 목표로 하는 PM 기능 출시가 목표인 PM…]]></description><link>https://dataportal.kr/PM%EC%9D%80-%EB%AC%B4%EC%96%BC-%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C/</link><guid isPermaLink="false">https://dataportal.kr/PM은-무얼-하는-사람/</guid><pubDate>Mon, 22 Jul 2024 14:15:09 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;그 외에도 작은 조직에는 다양한 장점이 있다. 사례를 기반으로 이야기해주는 &lt;a href=&quot;https://www.amazon.com/Company-One-Staying-Small-Business/dp/1328972356&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;책; Company of One: Why Staying Small Is the Next Big Thing for Business&lt;/a&gt;이 있으니 관심있다면 읽어보길 추천한다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[PM은 무얼 하는 사람?]]></title><description><![CDATA[Job Title이 PM이라고 해서 다 같은 PM은 아니다 일반적으로 PM이 하는 일은 두 가지로 나누어 볼 수 있다. 기능을 만들고 출시하기를 목표로 하는 PM 제품 성공시키기를 목표로 하는 PM 기능 출시가 목표인 PM…]]></description><link>https://dataportal.kr/PM%EC%9D%80-%EB%AC%B4%EC%96%BC-%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C/</link><guid isPermaLink="false">https://dataportal.kr/PM은-무얼-하는-사람/</guid><pubDate>Mon, 22 Jul 2024 14:15:09 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -2780,7 +2776,7 @@ user&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt;&lt;span class=&q
 &lt;li&gt;Business Viability Risk: 사업적으로 타당하지 않은 제품(비용 효율적이지 못하거나 법이나 규제에 저촉되는 경우)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1&gt;PM에게 필요한 역량&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.lennysnewsletter.com/p/product-management-survey&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;A comprehensive survey of Product Management - Lenny&apos;s Newsletter&lt;/a&gt;에 따르면 글로벌 회사들에서 커뮤니케이션, 실행, 프로덕트 센스, 전략적인 사고, 협업 능력, 데이터, 디자인 등 다양한 역량을 요구하고 있음을 알 수 있음. 하지만 우선순위는 회사마다 천차만별.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.lennysnewsletter.com/p/product-management-survey&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;A comprehensive survey of Product Management - Lenny&apos;s Newsletter&lt;/a&gt;에 따르면 글로벌 회사들에서 커뮤니케이션, 실행, 프로덕트 센스, 전략적인 사고, 협업 능력, 데이터, 디자인 등 다양한 역량을 요구하고 있음을 알 수 있음. 하지만 우선순위는 회사마다 천차만별.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;오라클: 테크니컬 백그라운드&lt;/li&gt;
 &lt;li&gt;왓츠앱: 프로덕트 센스&lt;/li&gt;
@@ -2839,7 +2835,7 @@ user&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt;&lt;span class=&q
 &lt;p&gt;업무를 수행할 때 각자 맡은 바에 따라 책임과 권한의 범위가 크게 다른데요. 책임과 권한의 범위에 따라 성과의 종류와 크기가 결정되기도 합니다. 이를 이해하면 자신의 역할과 업무 범위를 명확히 파악할 수 있으며, 이를 통해 커리어를 발전시키는 데 중요한 통찰을 얻을 수 있기도 합니다.&lt;/p&gt;
 &lt;p&gt;이 글에서는 &lt;code&gt;Mandate Levels&lt;/code&gt;라는 기준에 따라 권한과 책임이 어떻게 단계적으로 구분되는지 이야기해 보고자 합니다.&lt;/p&gt;
 &lt;h1&gt;Mandate Levels&lt;/h1&gt;
-&lt;p&gt;&lt;code&gt;Mandate Levels&lt;/code&gt;는 John Cutler가 제안한 개념입니다. &lt;a href=&quot;https://cutlefish.substack.com/p/tbm-2752-mandate-levels&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;TBM 27/52: Mandate Levels&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Mandate Levels&lt;/code&gt;는 John Cutler가 제안한 개념입니다. &lt;a href=&quot;https://cutlefish.substack.com/p/tbm-2752-mandate-levels&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;TBM 27/52: Mandate Levels&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;그는 권한/자율/위임과 같은 단어를 들을 때마다 &apos;그게 무얼 의미하는 거지?&apos;라는 기시감을 느꼈다고 합니다. 이를 계기로, 추상적으로 세 단어를 사용하는 게 아닌, 더 구체적인 표현 방법은 없을까 고민하게 되었고, 그 결과 &lt;code&gt;Mandate Levels&lt;/code&gt;라는 일에 대한 9가지 기준을 세우게 되었습니다.&lt;/p&gt;
 &lt;p&gt;참고로 &lt;code&gt;Levels&lt;/code&gt;라고 표현했다고 특정 일을 하는 사람들을 기준으로 상하관계나 등급을 나타내는 것은 아닙니다. 단지 종류를 나누었을 뿐이니 이 글을 읽으실 때 유의해 주시기를 부탁드립니다.&lt;/p&gt;
 &lt;h2&gt;Level A: 기초 단계&lt;/h2&gt;
@@ -2952,7 +2948,7 @@ user&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt;&lt;span class=&q
 &lt;li&gt;&lt;code&gt;Project Manager (실행)&lt;/code&gt;: 개발팀과 소통하며 제품을 만들기 위한 일련의 작업을 수행합니다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;여기서도 전략과 실행 즉, 무엇을 할지 고민하는 일과 어떻게 할지 고민하는 일로 나누어집니다.&lt;/p&gt;
-&lt;p&gt;그러다 이 둘이 하나로 합쳐진 &lt;code&gt;전략 + 실행을 모두 수행하는 역할&lt;/code&gt;이 생겨납니다. 이것이 바로 Scrum Product Owner 입니다. 참고: &lt;a href=&quot;https://www.scrum.org/resources/what-is-a-product-owner&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;What is a Product Owner? | Scrum.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;그러다 이 둘이 하나로 합쳐진 &lt;code&gt;전략 + 실행을 모두 수행하는 역할&lt;/code&gt;이 생겨납니다. 이것이 바로 Scrum Product Owner 입니다. 참고: &lt;a href=&quot;https://www.scrum.org/resources/what-is-a-product-owner&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;What is a Product Owner? | Scrum.org&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;참고로 여기서 말하는 &lt;code&gt;Scrum Product Owner&lt;/code&gt;는 한국에서 널리 알려진 &lt;code&gt;Product Owner&lt;/code&gt;와는 다릅니다. 해외에는 &lt;code&gt;Product Owner&lt;/code&gt;라는 Job Position이 거의 없습니다. 대부분 &lt;code&gt;Product Manager&lt;/code&gt;가 Scrum Product Owner의 역할을 수행하는 정도의 관계입니다.&lt;/p&gt;
 &lt;p&gt;이 글에서는 편의상 &lt;code&gt;Product Manager&lt;/code&gt;를 전략을 담당하는 역할, &lt;code&gt;Product Owner&lt;/code&gt;를 전략과 실행을 모두 담당하는 역할 정도로 표현할 예정이니 이해 부탁드립니다.&lt;/p&gt;
 &lt;h2&gt;직무의 통합?&lt;/h2&gt;
@@ -3029,7 +3025,7 @@ user&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt;&lt;span class=&q
 &lt;p&gt;이 중 하나만 이루어져서는 안 됩니다. 네 가지 요소가 두루두루 갖추어져야만 하는데요. 현실적으로 생각해 보았을 때 &lt;code&gt;이익&lt;/code&gt;을 추구해야 하는 기업의 특성상 각 요소 모두를 잘 갖추기란 쉽지 않은 일입니다. 그렇기에 더더욱 &lt;code&gt;교육혁신이라는 건 대단한 일&lt;/code&gt;이라고 생각합니다.&lt;/p&gt;
 &lt;p&gt;현재까지 파트타임으로 교육과 멘토링을 해오며 2천 명 이상의 멘티와 학습자(피교육자)를 만나왔는데요. 그 과정에서 네 가지 요소를 최대한 제공해 드리며 항상 &lt;code&gt;좋은 학습 경험&lt;/code&gt;과 &lt;code&gt;사람이 성장할 수 있는 환경&lt;/code&gt;을 제공하기 위해 노력해 왔으나 이게 제 개인의 노력이 아니라 기업의 &apos;업&apos;이었다면 불가능했을거라 생각합니다.&lt;/p&gt;
 &lt;h2&gt;인용, 교육업이 크게 성장하지 못한 이유&lt;/h2&gt;
-&lt;p&gt;링글의 창업자이신 이승훈(Hoon Lee)님도 과거 교육업에 대한 &lt;a href=&quot;https://brunch.co.kr/@seunghoon82/438&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;생각&lt;/a&gt;을 공유해주신 적 있는데요. 승훈님은 교육업이 크게 성장하지 못한 본질적인 이유를 &lt;code&gt;결심 또는 압박을 콘텐츠/서비스 이용 &amp;#x26; 유저 성장으로 연계시키지 못했기 때문&lt;/code&gt;이라고 이야기합니다.&lt;/p&gt;
+&lt;p&gt;링글의 창업자이신 이승훈(Hoon Lee)님도 과거 교육업에 대한 &lt;a href=&quot;https://brunch.co.kr/@seunghoon82/438&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;생각&lt;/a&gt;을 공유해주신 적 있는데요. 승훈님은 교육업이 크게 성장하지 못한 본질적인 이유를 &lt;code&gt;결심 또는 압박을 콘텐츠/서비스 이용 &amp;#x26; 유저 성장으로 연계시키지 못했기 때문&lt;/code&gt;이라고 이야기합니다.&lt;/p&gt;
 &lt;p&gt;결제하는 사람들은 많지만, 꾸준하게 공부해서 성장하고, 다시 결제해서 더 공부하는 사람들은 많지 않기 때문에 산업의 중심이 &lt;code&gt;&apos;공부하는 사람&apos;&lt;/code&gt; 보다는 &lt;code&gt;&apos;결제하는 사람&apos;&lt;/code&gt;에 초점을 맞춰지게 된 것 같다는 이야기인데요. 그러다 보니 유저(학습자, 피교육자)가 교육 서비스를 이용함으로써 얼마나 만족할 수 있게끔 만드느냐보다는 어떻게 결제하게끔 만드느냐가 초점이 된 산업이 된게 아닐까 싶습니다.&lt;/p&gt;
 &lt;h2&gt;마무리&lt;/h2&gt;
 &lt;p&gt;이런 생각이 드실 수도 있습니다. &lt;code&gt;왜 사람들은 만족하지도 않는, 이용도 안 할 서비스와 교육을 구매할까?&lt;/code&gt;&lt;/p&gt;
@@ -3155,7 +3151,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 
   &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;button onClick&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;handleClick&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Click me&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;button&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot; style=&quot;white-space: normal; width: auto; left: 0;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;예제 소스코드: &lt;a href=&quot;https://playcode.io/1867478?v=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;React Playground - useCallback Sample 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;예제 소스코드: &lt;a href=&quot;https://playcode.io/1867478?v=1&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;React Playground - useCallback Sample 1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/10a87292c4f2de5103b81c56483a2328/2.gif&quot; alt=&quot;useCallback Sample 1.gif&quot;&gt;&lt;/p&gt;
 &lt;h2&gt;개선 &amp;#x26; 최적화 - useCallback Sample #2&lt;/h2&gt;
 &lt;p&gt;첫 번째 예시는 정말 동작만 되게끔 만들기 위해 다수의 함수가 생성되고, 코드의 길이도 긴 편이라 가독성과 효율이 뛰어나지 못합니다. Javascript의 Prototype과 클로저를 적극 활용하여 코드의 길이를 전반적으로 줄여보겠습니다.&lt;/p&gt;
@@ -3191,7 +3187,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
     &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
   &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot; style=&quot;white-space: normal; width: auto; left: 0;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;예제 소스코드: &lt;a href=&quot;https://playcode.io/1867478?v=2&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;React Playground - useCallback Sample2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;예제 소스코드: &lt;a href=&quot;https://playcode.io/1867478?v=2&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;React Playground - useCallback Sample2&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/081905ec66ffa16789d439562fd985b2/3.gif&quot; alt=&quot;useCallback Sample 2.gif&quot;&gt;&lt;/p&gt;
 &lt;h2&gt;문제점&lt;/h2&gt;
 &lt;p&gt;두 단계에 걸쳐 &lt;code&gt;useCallback&lt;/code&gt;을 임의로 만들어보았는데요. 이 코드를 React에서 사용하기에는 큰 문제가 있습니다. 바로 렌더링마다 &lt;code&gt;useCallback&lt;/code&gt; 함수가 새롭게 호출되면서 캐시도 초기화된다는 건데요.&lt;/p&gt;
@@ -3231,7 +3227,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;p&gt;실제로 &lt;code&gt;mountCallback&lt;/code&gt;과 &lt;code&gt;updateCallback&lt;/code&gt;이 분리되어 있으며, 각 생명주기에 따라 적절한 함수를 호출하는 모습을 볼 수 있습니다.&lt;/p&gt;
 &lt;p&gt;자세한 구현은 내용이 길어져 관련 소스코드 링크로 생략합니다.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/facebook/react/blob/9e3b772b8cabbd8cadc7522ebe3dde3279e79d9e/packages/react-reconciler/src/ReactFiberHooks.new.js&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;facebook/react on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/facebook/react/blob/9e3b772b8cabbd8cadc7522ebe3dde3279e79d9e/packages/react-reconciler/src/ReactFiberHooks.new.js&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;facebook/react on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;마무리&lt;/h2&gt;
 &lt;p&gt;이번 예시는 React라는 라이브러리의 생태계 위에서 코드를 작성하다 보니 React 컴포넌트의 생명주기까지 확인을 해야만 했는데요. 순수 Javascript 프로젝트에서는 함수의 파라미터가 동일하다면 반환 값을 캐싱하는 형태도 위 코드를 활용하여 구현해볼 수 있을 것으로 보입니다. &lt;code&gt;다들 한번 해보시면 어떨까요? 🙂&lt;/code&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[더 많은 기회를 발견하는 방법, The Red car theory]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%8D%94-%EB%A7%8E%EC%9D%80-%EA%B8%B0%ED%9A%8C%EB%A5%BC-%EB%B0%9C%EA%B2%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-The-Red-car-theory/</link><guid isPermaLink="false">https://dataportal.kr/더-많은-기회를-발견하는-방법-The-Red-car-theory/</guid><pubDate>Wed, 17 Apr 2024 21:35:20 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
@@ -3337,7 +3333,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
         decoding=&quot;async&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://jayoung.blog/brun-out/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;번아웃을 막는 건 워라밸이 아니다&lt;/a&gt;라는 게시글을 읽었습니다. 글의 시작에 아래와 같은 문장이 적혀있었는데, 너무 공감되는 말이라 번아웃에 대한 생각을 이야기해 보려 해요.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://jayoung.blog/brun-out/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;번아웃을 막는 건 워라밸이 아니다&lt;/a&gt;라는 게시글을 읽었습니다. 글의 시작에 아래와 같은 문장이 적혀있었는데, 너무 공감되는 말이라 번아웃에 대한 생각을 이야기해 보려 해요.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;내가 생각하기에 일하면서 듣는 (또는 하는) 가장 어색한 말 중 하나가 야근하고 있는 사람에게 ‘천천히 하세요, 그러다가 번아웃 와요’ 하는 말이다.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -3393,12 +3389,12 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;다중 워크스페이스 기능 업데이트&lt;/code&gt;: 대표님 한 분이 여러 사업장을 운영하고 계신 경우가 많다는 걸 최근 고객 인터뷰를 통해 알게 되었는데요. 유료 고객 중에서도 이와 같은 &lt;code&gt;페인 포인트&lt;/code&gt;를 가진 고객이 있었기에 빠르게 이를 지원하기 위한 업데이트를 선보였습니다.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;세금계산서 변경 이력 기능 업데이트&lt;/code&gt;: 볼타 서비스를 협업 도구로 사용하는 고객이 늘어남에 따라 세금계산서에 대한 전체 변경 이력(생성, 승인, 변경부터 발행, 이메일 발송 등)을 확인하실 수 있게끔 업데이트를 선보였습니다.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;볼타코퍼레이션-택스어드바이저스, 전략적 제휴&lt;/code&gt;: 법인 시장 공략을 위해 법인 전문 세무 서비스를 제공하는 택스어드바이저스와 전략적 제휴를 맺었습니다. 택스어드바이저스는 볼타의 파트너이자 주요 고객이기도 합니다. &lt;a href=&quot;https://news.mt.co.kr/mtview.php?no=2024022112544385268&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;볼타코퍼레이션-택스어드바이저스, 전략적 제휴…&quot;법인 시장 공략 확대&quot;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;채용 페이지 리뉴얼 &amp;#x26; 본격 마케터 채용 오픈&lt;/code&gt;: 기존에는 프로덕트 엔지니어(FE/BE) 포지션만 오픈 해두고 채용을 진행하고 있습니다. 최근 RoundHR에 &lt;code&gt;채용 페이지&lt;/code&gt; 기능이 업데이트되면서 팀 채용 페이지도 리뉴얼하였는데요. 그와 동시에 콘텐츠 마케터 채용도 본격적으로 시작하였습니다. &lt;a href=&quot;https://careers.bolta.io/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;볼타(Bolta) 채용 : 볼타는 고속성장 중!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;볼타코퍼레이션-택스어드바이저스, 전략적 제휴&lt;/code&gt;: 법인 시장 공략을 위해 법인 전문 세무 서비스를 제공하는 택스어드바이저스와 전략적 제휴를 맺었습니다. 택스어드바이저스는 볼타의 파트너이자 주요 고객이기도 합니다. &lt;a href=&quot;https://news.mt.co.kr/mtview.php?no=2024022112544385268&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;볼타코퍼레이션-택스어드바이저스, 전략적 제휴…&quot;법인 시장 공략 확대&quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;채용 페이지 리뉴얼 &amp;#x26; 본격 마케터 채용 오픈&lt;/code&gt;: 기존에는 프로덕트 엔지니어(FE/BE) 포지션만 오픈 해두고 채용을 진행하고 있습니다. 최근 RoundHR에 &lt;code&gt;채용 페이지&lt;/code&gt; 기능이 업데이트되면서 팀 채용 페이지도 리뉴얼하였는데요. 그와 동시에 콘텐츠 마케터 채용도 본격적으로 시작하였습니다. &lt;a href=&quot;https://careers.bolta.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;볼타(Bolta) 채용 : 볼타는 고속성장 중!&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Do: Academic&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;주주 총회 세미나&lt;/code&gt;: 볼타는 2023년 4월 창업하여, 올해가 2년차가 되는 기업입니다. 그 사이 여러 투자를 받으며 기관투자자를 비롯한 주주가 늘어났는데요. 3월 정기 주주 총회 시즌을 앞두고 그래도 대략은 알아두면 좋을 것 같아서 평소 도움을 많이 받고 있는 법무법인 디라이트의 주주 총회 세미나를 다녀왔습니다. &lt;a href=&quot;https://n.news.naver.com/mnews/article/092/0002320361?sid=105&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;정기주주총회 준비 101&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;주주 총회 세미나&lt;/code&gt;: 볼타는 2023년 4월 창업하여, 올해가 2년차가 되는 기업입니다. 그 사이 여러 투자를 받으며 기관투자자를 비롯한 주주가 늘어났는데요. 3월 정기 주주 총회 시즌을 앞두고 그래도 대략은 알아두면 좋을 것 같아서 평소 도움을 많이 받고 있는 법무법인 디라이트의 주주 총회 세미나를 다녀왔습니다. &lt;a href=&quot;https://n.news.naver.com/mnews/article/092/0002320361?sid=105&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;정기주주총회 준비 101&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;Frontend System Engineering&lt;/code&gt;: 미래에 출시 될 제품과 서비스에서도 볼타의 브랜드를 잘 녹여내면서도 UX의 유려함을 지켜내기 위한 고민을 이번주에도 가졌습니다. 저번주에는 단순히 혼자 생각하고 자료를 리서치하는 수준에서 그쳤는데, 이번주에는 프로덕트 디자이너분에게 고민을 털어놓고 이야기 나누었습니다. 다음주는 프론트엔드 엔지니어분과 함께 방향성을 논의해본 뒤 팀 전체에 내용을 공유드리고자 합니다.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;유료화, 그 이후 (After Willingness to pay) 게시글 발행&lt;/code&gt;: 얼마 전 Disquiet에 공유된 유료화 관련 경험 공유 게시글을 보고 느낀 점을 정리해보았습니다. &lt;a href=&quot;/%EC%9C%A0%EB%A3%8C%ED%99%94-%EA%B7%B8-%EC%9D%B4%ED%9B%84-After-Willingness-to-pay&quot;&gt;유료화, 그 이후 (After Willingness to pay)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -3644,7 +3640,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;li&gt;&lt;code&gt;채용 원칙 정리&lt;/code&gt;: 볼타 창업 당시 공동창업자인 문혁님과 함께 둘만의 채용 원칙을 정했었는데요. 그 이후 2023년 3분기 채용을 거치며 지금에 이르기까지 그 원칙과 생각이 조금 더 구체화 된 것 같다는 생각이 들어 &lt;a href=&quot;/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%B1%84%EC%9A%A9-%EC%9B%90%EC%B9%99&quot;&gt;[볼타 이야기] 채용 원칙&lt;/a&gt;이라는 글을 작성했습니다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Do: Academic&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;TDD(Test Driven Development)에 대한 단상&lt;/code&gt;: 최근(사실 더 과거부터) TDD에 대한 이야기가 자주 등장합니다. 저는 TDD에 대한 장점은 공감하고 있지만, &lt;code&gt;항상 필요한가?&lt;/code&gt;라는 의문을 가지고 있었는데요. 우연히 보게된 영상에 제가 평소에 가지고 있던 생각과 비슷한 의견이 담겨있어 놀랐습니다. 영상 속 댓글을 인용하자면 아래와 같습니다. / 영상: &lt;a href=&quot;https://youtu.be/gs1qM1TF5zA&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;효율적인 테스트 코드 작성법-포프TV&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;TDD(Test Driven Development)에 대한 단상&lt;/code&gt;: 최근(사실 더 과거부터) TDD에 대한 이야기가 자주 등장합니다. 저는 TDD에 대한 장점은 공감하고 있지만, &lt;code&gt;항상 필요한가?&lt;/code&gt;라는 의문을 가지고 있었는데요. 우연히 보게된 영상에 제가 평소에 가지고 있던 생각과 비슷한 의견이 담겨있어 놀랐습니다. 영상 속 댓글을 인용하자면 아래와 같습니다. / 영상: &lt;a href=&quot;https://youtu.be/gs1qM1TF5zA&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;효율적인 테스트 코드 작성법-포프TV&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;소프트웨어 개발, 테스팅 또한 경제적인 활동이다. 자원(시간, 인력)을 적게 투입하여 최대한의 효용을 뽑아내어야 한다.&lt;/li&gt;
 &lt;li&gt;코드에 따라 유닛 테스트는 필요할 때도 있고 필요하지 않을 때도 있다.&lt;/li&gt;
@@ -3666,7 +3662,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;h2&gt;Think&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;도파민 중독&lt;/code&gt;: 스타트업 대표/창업자 모임, 리더 모임 등에서 일도 도파민이라는 이야기가 나왔습니다. 이전까지는 일상에서 크게 재미를 느끼는 것 없이 가장 좋아하는 것, 잘하는 것을 하고 있을 뿐이라고 생각했는데요. 이 이야기를 듣고 잠시 충격을 받았습니다. 사실 저를 비롯한 그 모임의 모든 사람은 일이라는 도파민에 중독되어 있는 사람이었던거죠. 무의식중에 더 나은 고객 만족을 위해 일종의 중독적인 동기부여를 느끼고 있었습니다. 여기까지 생각이 미치고 과거를 돌이켜보니 지금 가장 기회가 많고, 기대도 많이 받고 있기 때문에 더 열심히, 잘해야겠다는 생각이 들었습니다.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;두려움 없는 조직&lt;/code&gt;: 스타트업 리더 주간 회고 모임에 함께하고 계시는 분이 추천해 주신 책인데요. 왜 침묵하게 되는가, 왜 그들은 침묵하는가에 대한 이야기를 다루고 있습니다. 결론은 &lt;code&gt;심리적 안정감&lt;/code&gt; 6글자로 요약할 수 있다고 합니다. 시간 될 때 한번 읽어보려고 합니다.🙂 추천해 주신 분의 리뷰: &lt;a href=&quot;https://brunch.co.kr/@912bfe1501bd49e/7&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;[두려움 없는 조직] 책 리뷰&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;두려움 없는 조직&lt;/code&gt;: 스타트업 리더 주간 회고 모임에 함께하고 계시는 분이 추천해 주신 책인데요. 왜 침묵하게 되는가, 왜 그들은 침묵하는가에 대한 이야기를 다루고 있습니다. 결론은 &lt;code&gt;심리적 안정감&lt;/code&gt; 6글자로 요약할 수 있다고 합니다. 시간 될 때 한번 읽어보려고 합니다.🙂 추천해 주신 분의 리뷰: &lt;a href=&quot;https://brunch.co.kr/@912bfe1501bd49e/7&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;[두려움 없는 조직] 책 리뷰&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Keep&lt;/h2&gt;
 &lt;ul&gt;
@@ -3724,7 +3720,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;li&gt;&lt;code&gt;주요 포지션의 양적 확장이 가능하신 분을 모신다&lt;/code&gt;: 기존 팀원들이 하는 일을 당연히 할 수 있으면서도 새로운 영역으로 확장하는데 기여하실 수 있는 사람을 모신다.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;현재의 채용 원칙&lt;/h2&gt;
-&lt;p&gt;볼타 팀은 2024년 시작과 함께 &lt;a href=&quot;https://news.mt.co.kr/mtview.php?no=2024012613574584122&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Pre-A 투자 유치 소식&lt;/a&gt;을 공개적으로 알렸는데요. 그와 동시에 신규 채용을 시작하였고, 기존의 채용 원칙과 과거 채용 프로세스를 회고해보며 채용 원칙을 다시 한번 정리하였습니다.&lt;/p&gt;
+&lt;p&gt;볼타 팀은 2024년 시작과 함께 &lt;a href=&quot;https://news.mt.co.kr/mtview.php?no=2024012613574584122&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Pre-A 투자 유치 소식&lt;/a&gt;을 공개적으로 알렸는데요. 그와 동시에 신규 채용을 시작하였고, 기존의 채용 원칙과 과거 채용 프로세스를 회고해보며 채용 원칙을 다시 한번 정리하였습니다.&lt;/p&gt;
 &lt;p&gt;이전의 원칙들은 그대로 유지하면서 크게 6개의 원칙과 기준이 추가되었습니다.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;같이 일해본 적 있는 분들은 최대한 풀타임으로 모시지 않는다.&lt;/li&gt;
@@ -3748,7 +3744,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;li&gt;우리 팀과 제품의 존재 조차 모르는 고객들을 발굴하고, 우리 제품을 사용하게 하려면 어떻게 해야 할까?&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;미래에 창업을 꿈꾸고 계시거나, 마음 맞는 팀원들과 제품을 재미있게 만들어보는 경험을 하고 싶으시다면 볼타 팀에서 정말 귀중한 경험을 쌓으실 수 있을거라고 장담합니다.&lt;/p&gt;
-&lt;p&gt;B2B 마케터, 프로덕트 엔지니어(Frontend), 프로덕트 엔지니어(Backend) 포지션을 채용 중에 있으니 많은 관심 부탁드립니다. &lt;a href=&quot;https://careers.bolta.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;볼타(Bolta) 채용 : 볼타는 고속성장중!&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[주간회고] 2024년 5주차]]></title><description><![CDATA[Do: Work 리뉴얼 릴리즈 기념 회식: 볼타 서비스 리뉴얼은 꽤나 장기간으로 가져왔던 프로젝트입니다. 리뉴얼과 관련된 자세한 내용은 202…]]></description><link>https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-5%EC%A3%BC%EC%B0%A8/</link><guid isPermaLink="false">https://dataportal.kr/주간회고-2024년-5주차/</guid><pubDate>Sun, 04 Feb 2024 21:15:20 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;B2B 마케터, 프로덕트 엔지니어(Frontend), 프로덕트 엔지니어(Backend) 포지션을 채용 중에 있으니 많은 관심 부탁드립니다. &lt;a href=&quot;https://careers.bolta.io&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;볼타(Bolta) 채용 : 볼타는 고속성장중!&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[주간회고] 2024년 5주차]]></title><description><![CDATA[Do: Work 리뉴얼 릴리즈 기념 회식: 볼타 서비스 리뉴얼은 꽤나 장기간으로 가져왔던 프로젝트입니다. 리뉴얼과 관련된 자세한 내용은 202…]]></description><link>https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-5%EC%A3%BC%EC%B0%A8/</link><guid isPermaLink="false">https://dataportal.kr/주간회고-2024년-5주차/</guid><pubDate>Sun, 04 Feb 2024 21:15:20 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -3777,13 +3773,13 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;리뉴얼 릴리즈 기념 회식&lt;/code&gt;: 볼타 서비스 리뉴얼은 꽤나 장기간으로 가져왔던 프로젝트입니다. 리뉴얼과 관련된 자세한 내용은 &lt;a href=&quot;/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/#%EB%B3%BC%ED%83%80:-%EC%A0%84%EB%A9%B4-%EB%A6%AC%EB%89%B4%EC%96%BC-&amp;#x26;-FrontEnd-Engineering&quot;&gt;2023년 회고 게시글&lt;/a&gt;에서 다룬 적 있는데요. 정말 쉴 틈 없이 빠르게 달려왔기 때문에 피로를 푸는 느낌으로 회식을 진행했습니다. 🙂&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;외부 제휴사 미팅&lt;/code&gt;: 과거 제휴 논의를 해왔던 파트너사들과 밀린 미팅을 진행했습니다. 리뉴얼 릴리즈를 위해 기술과 제품 개발에만 집중하고 있던 시점이라 한없이 밀리고 있었는데요. 그래도 오랫동안 기다려주셔서 감사할 따름입니다.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;스트롱벤처스 포트폴리오 밋업&lt;/code&gt;: 최근 볼타 팀은 스트롱벤처스로부터 &lt;a href=&quot;https://news.mt.co.kr/mtview.php?no=2024012613574584122&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Pre-A 투자를 유치&lt;/a&gt;하였는데요. 운 좋게도 직후에 분기별로 진행되는 스트롱벤처스 포트폴리오 밋업이 개최되었고, 이 행사에 다녀오게 되었습니다. 해당 행사에 참가하신 분 중에는 저희 고객사 분들도 계셨는데, 오프라인으로 처음 인사드리는 분들도 계셔서 만나 뵙게 되어 매우 반가웠네요.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;스트롱벤처스 포트폴리오 밋업&lt;/code&gt;: 최근 볼타 팀은 스트롱벤처스로부터 &lt;a href=&quot;https://news.mt.co.kr/mtview.php?no=2024012613574584122&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Pre-A 투자를 유치&lt;/a&gt;하였는데요. 운 좋게도 직후에 분기별로 진행되는 스트롱벤처스 포트폴리오 밋업이 개최되었고, 이 행사에 다녀오게 되었습니다. 해당 행사에 참가하신 분 중에는 저희 고객사 분들도 계셨는데, 오프라인으로 처음 인사드리는 분들도 계셔서 만나 뵙게 되어 매우 반가웠네요.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;채용 커피챗/인터뷰&lt;/code&gt;: 이번 주를 시작으로 본격적으로 신규 채용을 오픈하였습니다. B2B 마케터, 프로덕트 엔지니어(Frontend), 프로덕트 엔지니어(Backend) 포지션을 채용 중이며, 3분기까지 각 1명씩 모시는 걸 목표로 오픈해 두었지만 생각보다 많은 분들이 관심 가져 주셔서 후보자분들과 이야기 나눠볼 수 있는 시간을 가졌습니다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Do: Academic&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;도커 교과서 스터디&lt;/code&gt;: 격주 일요일에 오프라인에서 모이는 도커 스터디를 진행하고 있는데요. 이번 한 주는 이 스터디를 위한 자료를 준비하고, 일요일에 모여서 스터디를 진행하였습니다.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;찰리 멍거 바이블 2회독&lt;/code&gt;: &lt;a href=&quot;https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306333657&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;찰리 멍거 바이블&lt;/a&gt;은 2024년 1월 중순에 북클럽으로 읽었던 책입니다. 경제와 투자 관련 서적이지만, &lt;code&gt;현인들의 현자&lt;/code&gt;라고 불리는 찰리 멍거의 100년 치 인생 노하우가 담겨있는 책이라고 이야기해도 될 정도였습니다. 저는 항상 일을 잘하기 위해서는 내가 속해있는 섹터뿐 아니라 다른 섹터에 대한 이해를 바탕으로 새로운 방식의 문제 접근 방식이 필요하다고 생각했는데요. 찰리 멍거는 이를 &lt;code&gt;격자형 멘탈 모델&lt;/code&gt;이라 소개하고 있습니다. 짧은 경험으로 어렴풋이 가지고 있던 생각이 100년의 현자와 비슷하다는 부분에서 놀랐고, 제 가치관이 더 명확해지는 기회였습니다. 다시 한번 리마인드하는 목적으로 완독 2주 뒤 한번 더 읽었습니다.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;찰리 멍거 바이블 2회독&lt;/code&gt;: &lt;a href=&quot;https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306333657&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;찰리 멍거 바이블&lt;/a&gt;은 2024년 1월 중순에 북클럽으로 읽었던 책입니다. 경제와 투자 관련 서적이지만, &lt;code&gt;현인들의 현자&lt;/code&gt;라고 불리는 찰리 멍거의 100년 치 인생 노하우가 담겨있는 책이라고 이야기해도 될 정도였습니다. 저는 항상 일을 잘하기 위해서는 내가 속해있는 섹터뿐 아니라 다른 섹터에 대한 이해를 바탕으로 새로운 방식의 문제 접근 방식이 필요하다고 생각했는데요. 찰리 멍거는 이를 &lt;code&gt;격자형 멘탈 모델&lt;/code&gt;이라 소개하고 있습니다. 짧은 경험으로 어렴풋이 가지고 있던 생각이 100년의 현자와 비슷하다는 부분에서 놀랐고, 제 가치관이 더 명확해지는 기회였습니다. 다시 한번 리마인드하는 목적으로 완독 2주 뒤 한번 더 읽었습니다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Keep&lt;/h2&gt;
 &lt;ul&gt;
@@ -3792,7 +3788,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;/ul&gt;
 &lt;h2&gt;Problem&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;그랜드 오픈은 신중하게 하기&lt;/code&gt;: 이전에 프라이머 &lt;a href=&quot;https://www.facebook.com/douglasguen3&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;권도균 대표&lt;/a&gt;님 께서 그랜드 오픈, 대규모 업데이트를 좋아하지 말라고 권고한다는 글을 쓰신 적 있는데요. 이 글을 읽었을 때 당시엔 &apos;초기 스타트업 제품은 할만하지 않을까?&apos;라고 생각했던 기억이 납니다. 하지만 실제로 리뉴얼을 준비하면서 그랜드 오픈/대규모 업데이트를 경험해 보니 아무리 초기 스타트업이어도 쉽지 않은 일이었습니다.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;그랜드 오픈은 신중하게 하기&lt;/code&gt;: 이전에 프라이머 &lt;a href=&quot;https://www.facebook.com/douglasguen3&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;권도균 대표&lt;/a&gt;님 께서 그랜드 오픈, 대규모 업데이트를 좋아하지 말라고 권고한다는 글을 쓰신 적 있는데요. 이 글을 읽었을 때 당시엔 &apos;초기 스타트업 제품은 할만하지 않을까?&apos;라고 생각했던 기억이 납니다. 하지만 실제로 리뉴얼을 준비하면서 그랜드 오픈/대규모 업데이트를 경험해 보니 아무리 초기 스타트업이어도 쉽지 않은 일이었습니다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -3829,7 +3825,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;p&gt;&lt;code&gt;고객과 팀에 최대의 시간을 쏟자&lt;/code&gt;: 채용이 아무리 중요해도 팀과 고객 그리고 제품만큼은 아니라는 생각이 문득 들었습니다. 최대한 대부분의 시간을 고객과 팀에 쏟고, 채용의 우선순위를 낮게 가져가 보려고 합니다. 메이저 채용 플랫폼에 공개적으로 채용 공고를 올리지 않고, SNS와 일부 아웃바운드 수준으로만 채용 기회를 노리고 있습니다.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;주 1회 회고하기&lt;/code&gt;: 이 회고 글은 &lt;a href=&quot;https://www.linkedin.com/in/yeoneui-hong&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;홍연의&lt;/a&gt;님이 만들어주신 &lt;code&gt;IT 업계 스타트업 팀장 회고 모임&lt;/code&gt; 시간에 작성한 회고인데요. 매주 일요일 온라인으로 모여 각자 체크인 후 회고를 작성하고 매달 1회 모이는 방식입니다. 막상 회고를 작성해 보니 잊고 있었던 기억도 새록새록 나고, 생각을 정리하기 좋았던 것 같습니다. 빠지지 않고 잘 참가해 보려고 합니다. 공개적으로 공유하기 힘든 내용은 개인 메모로 작성 예정입니다.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;주 1회 회고하기&lt;/code&gt;: 이 회고 글은 &lt;a href=&quot;https://www.linkedin.com/in/yeoneui-hong&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;홍연의&lt;/a&gt;님이 만들어주신 &lt;code&gt;IT 업계 스타트업 팀장 회고 모임&lt;/code&gt; 시간에 작성한 회고인데요. 매주 일요일 온라인으로 모여 각자 체크인 후 회고를 작성하고 매달 1회 모이는 방식입니다. 막상 회고를 작성해 보니 잊고 있었던 기억도 새록새록 나고, 생각을 정리하기 좋았던 것 같습니다. 빠지지 않고 잘 참가해 보려고 합니다. 공개적으로 공유하기 힘든 내용은 개인 메모로 작성 예정입니다.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[[볼타 이야기] 작은 팀을 유지하려는 이유]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%9E%91%EC%9D%80-%ED%8C%80%EC%9D%84-%EC%9C%A0%EC%A7%80%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0/</link><guid isPermaLink="false">https://dataportal.kr/볼타-이야기-작은-팀을-유지하려는-이유/</guid><pubDate>Sun, 04 Feb 2024 13:45:50 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -3856,7 +3852,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
         decoding=&quot;async&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;이 글은 &lt;a href=&quot;https://www.linkedin.com/in/keeyonghan/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;한기용님&lt;/a&gt;의 글 중 저희 팀이 생각하는 방향과 일치하는 부분이 있어 일부 재가공하여 작성되었습니다.&lt;/p&gt;
+&lt;p&gt;이 글은 &lt;a href=&quot;https://www.linkedin.com/in/keeyonghan/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;한기용님&lt;/a&gt;의 글 중 저희 팀이 생각하는 방향과 일치하는 부분이 있어 일부 재가공하여 작성되었습니다.&lt;/p&gt;
 &lt;p&gt;보통 스타트업의 장점은 빠른 의사결정 속도라고 이야기합니다. 하지만 나날이 성장하는 스타트업에서도 인원이 증가하고 인재 밀도가 낮아질수록 이 빠른 결정력은 점차 퇴화하는 경향을 보입니다. 마치 차량의 바퀴가 많다고 해서 더 빨리 움직일 것이라고 착각하는 것과 비슷한 맥락입니다.&lt;/p&gt;
 &lt;p&gt;물론, 그렇게 느려지더라도 스타트업은 대기업에 비해 의사결정 속도가 빠른 편입니다. 그러나 인원이 늘어나면서 더 많은 의사결정 레이어가 추가되고, 커뮤니케이션의 복잡성이 증가하는 등 새로운 도전에 직면하게 됩니다. 이러한 도전에 대처하려면 어떻게 해야 할까요?&lt;/p&gt;
 &lt;ol&gt;
@@ -3867,13 +3863,13 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;p&gt;일반적으로 규모가 커짐에 따라 특정한 역할을 염두에 두고 사람을 뽑기 시작하기 때문에 사업의 방향이 바뀜에 따라 새로운 역할로 배치하는게 어렵기도 하고, 매출이 나는 비즈니스를 버리고 새로운 것을 한다는 것은 생각보다 큰 뚝심과 결정을 필요로 합니다. 여기에 AI가 너무나도 빠르게 발전하다 보니 변화 방향성을 예측하기가 더 힘들어지고 있습니다.&lt;/p&gt;
 &lt;p&gt;가능하면 최대한 작은 규모를 유지하면서 점점 인재밀도를 높이는 방향으로 조직을 운영할 수 있다면 세상의 변화에 훨씬 더 빠르게 반응하면서 성장을 위한 성장이 아닌 건강하고 오래 갈 수 있는 성장을 할 수 있지 않을까? 생각됩니다.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;관련 책: &lt;a href=&quot;https://www.amazon.com/Company-One-Staying-Small-Business/dp/1328972356&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Company Of One: Why Staying Small Is the Next Big Thing for Business&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;관련 책: &lt;a href=&quot;https://www.amazon.com/Company-One-Staying-Small-Business/dp/1328972356&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Company Of One: Why Staying Small Is the Next Big Thing for Business&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;이 책은 작은 규모를 유지함으로써 성장을 위한 성장에서 발생하는 골칫거리를 피할 수 있다는 내용을 담고 있고, 이와 관련된 부분을 사례 중심으로 잘 설명하고 있습니다.&lt;/p&gt;
 &lt;h2&gt;정리&lt;/h2&gt;
 &lt;p&gt;지금까지 스타트업의 발전이란 일단 PMF(Product Market Fit)를 찾으면 빠른 성장을 목표로 투자를 받고 사람을 더 뽑는 루프를 계속 돌리는 형태로 가는 것이 일반적이었는데 앞으로는 그렇지 않을 것으로 보입니다.&lt;/p&gt;
 &lt;p&gt;Gen AI 등으로 인해 한 사람이 할 수 있는 일의 양이 점점 커지는 상황에서 성장을 위해 위험하게 몸집을 불리는 것보다는 의사소통 비용이 많이 들지 않고 플랫한 조직으로 운영할 수 있는 정도로만 팀을 유지할 수 있다면 변화를 훨씬 더 빠르게 따라가면서 팀이 커지면서 생기는 다양한 이슈를 피할 수 있다는 점에서 매력적인 옵션이 아닌가 싶습니다.&lt;/p&gt;
-&lt;p&gt;실제로 볼타 팀도 최대한 불필요한 커뮤니케이션 비용을 다 줄이고, 효율적으로 일하기 위해 작은 팀을 유지하며 작은 팀의 강점을 모두 챙기기 위해 노력하고 있습니다. 이런 여정을 함께 하고 싶으시다면 언제든 연락주세요! &lt;a href=&quot;https://careers.bolta.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;볼타(Bolta) 채용 : 볼타는 고속성장중!&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[볼타 이야기] 결국 B2B는 잘 팔면 되는 거 아닌가?]]></title><description><![CDATA[최근 "결국 B2B는 잘 팔면 되는 거 아닌가?"라는 주제로 고민해 볼 기회가 있었습니다. 평소에도 자주 들리던 이야기였는데요. 이때 했던 고민을 조금 정리해서 작성해 보려고 합니다. B2B 기업이 성장하는 방식은 크게 영업주도성장(SLG, Sales…]]></description><link>https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EA%B2%B0%EA%B5%AD-B2B%EB%8A%94-%EC%9E%98-%ED%8C%94%EB%A9%B4-%EB%90%98%EB%8A%94-%EA%B1%B0-%EC%95%84%EB%8B%8C%EA%B0%80/</link><guid isPermaLink="false">https://dataportal.kr/볼타-이야기-결국-B2B는-잘-팔면-되는-거-아닌가/</guid><pubDate>Thu, 01 Feb 2024 00:15:12 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;실제로 볼타 팀도 최대한 불필요한 커뮤니케이션 비용을 다 줄이고, 효율적으로 일하기 위해 작은 팀을 유지하며 작은 팀의 강점을 모두 챙기기 위해 노력하고 있습니다. 이런 여정을 함께 하고 싶으시다면 언제든 연락주세요! &lt;a href=&quot;https://careers.bolta.io&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;볼타(Bolta) 채용 : 볼타는 고속성장중!&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[볼타 이야기] 결국 B2B는 잘 팔면 되는 거 아닌가?]]></title><description><![CDATA[최근 "결국 B2B는 잘 팔면 되는 거 아닌가?"라는 주제로 고민해 볼 기회가 있었습니다. 평소에도 자주 들리던 이야기였는데요. 이때 했던 고민을 조금 정리해서 작성해 보려고 합니다. B2B 기업이 성장하는 방식은 크게 영업주도성장(SLG, Sales…]]></description><link>https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EA%B2%B0%EA%B5%AD-B2B%EB%8A%94-%EC%9E%98-%ED%8C%94%EB%A9%B4-%EB%90%98%EB%8A%94-%EA%B1%B0-%EC%95%84%EB%8B%8C%EA%B0%80/</link><guid isPermaLink="false">https://dataportal.kr/볼타-이야기-결국-B2B는-잘-팔면-되는-거-아닌가/</guid><pubDate>Thu, 01 Feb 2024 00:15:12 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -3907,14 +3903,14 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;h2&gt;제품주도성장(PLG, Product-led growth)&lt;/h2&gt;
 &lt;p&gt;기업 사용자의 Digital Literacy가 향상되면서 고객 스스로가 처음부터 적극적으로 필요한 기능을 검색하여 발견하고, 홈페이지를 통해 여러 제품을 비교해 보거나 무료 체험해 본 뒤 사용 가치가 크다고 판단하는 시점에 유료 플랜을 결제하는 방식입니다. (Try-before-you-buy)&lt;/p&gt;
 &lt;p&gt;홈페이지 SEO, Paid advertising, 투명한 유료 정책 공개 등에 집중하여 과거 영업 담당자가 하던 역할을 제품 커뮤니케이션에 쏟아 넣는 방식이라고 이야기할 수 있습니다.&lt;/p&gt;
-&lt;p&gt;참고: &lt;a href=&quot;https://kimchihill.com/2021/08/28/product-led-growth-and-its-seven-faq/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;제품주도성장(Product Led Growth)의 일곱가지 FAQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;참고: &lt;a href=&quot;https://kimchihill.com/2021/08/28/product-led-growth-and-its-seven-faq/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;제품주도성장(Product Led Growth)의 일곱가지 FAQ&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;생각&lt;/h2&gt;
 &lt;p&gt;기업의 성장을 위해서는 당연히 둘 다 중요합니다. 하지만 어떤 방식으로 성장하든 &lt;code&gt;결국 고객이 최대의 효용을 느껴야 한다&lt;/code&gt;고 생각합니다.&lt;/p&gt;
 &lt;p&gt;B2B는 제품 특성상 구매자(구매 결정권자)와 사용자가 다른 경우가 많습니다. 사용자가 한 달에 한두 번씩만 관심을 가져야 하는 제품이라면 괜찮을 수도 있겠지만 기업의 업무를 효율화해 주는 SaaS일수록 사용자들이 하루에도 몇 번씩 서비스에 방문해서 이용하기 때문에 더욱 &lt;code&gt;고객의 효용&lt;/code&gt;이 중요합니다.&lt;/p&gt;
 &lt;p&gt;볼타 팀은 기업 금융에서 발생하는 비효율을 최적화하는 B2B 핀테크 SaaS를 만들어 나가고 있습니다. 현재는 전체 기업 금융/자금 업무 프로세스 중 고객들의 Pain Point가 가장 큰 &lt;code&gt;전자세금계산서&lt;/code&gt; 분야를 날카롭게 파고들어 시장에 진입하고 있으며 빠른 속도로 모든 프로세스를 최적화하여 SaaS 형태로 제공하고자 합니다.&lt;/p&gt;
 &lt;p&gt;이를 위해선 새로운 기능과 서비스를 출시하더라도 사용자들이 큰 어려움 없이, 별도의 학습 없이도 스스로 제품을 이해할 수 있게 하는 것이 필요합니다.&lt;/p&gt;
 &lt;p&gt;초기 스타트업이 고객의 요구사항을 맞추어주려다 추후 돌이킬 수 없을 수준의 프랑켄슈타인 같은 제품을 만들어내는 걸 자주 목격했었는데요. 개인적으로는 &lt;code&gt;사업적으로 성공하면서도 기술이나 UX적으로도 완벽한 B2B SaaS&lt;/code&gt;를 만들어 내고 싶은 욕심이 있습니다.&lt;/p&gt;
-&lt;p&gt;이런 여정에 함께 하고 싶으시거나 저희 팀이 이전에 어떤 레슨런을 해왔고, 앞으로 어떤 챌린지를 해나갈지 궁금하시다면 언제든 연락주세요! &lt;a href=&quot;https://careers.bolta.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;볼타(Bolta) 채용 : 볼타는 고속성장중!&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2023년 회고: 프로젝트, 퇴사, 창업, 채용, 기술]]></title><description><![CDATA[2023년은 여러 중요한 사건들이 있었던 한 해였습니다. 그 중 창업이 가장 기억에 남는데요. 이번 글에서는 2023년부터 게시글 발행 시점까지를 타임라인 순서대로 적어보고자 합니다. 카카오페이: 신규 프로젝트 202…]]></description><link>https://dataportal.kr/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/</link><guid isPermaLink="false">https://dataportal.kr/2023년-회고-프로젝트-퇴사-창업-채용-기술/</guid><pubDate>Fri, 26 Jan 2024 15:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;이런 여정에 함께 하고 싶으시거나 저희 팀이 이전에 어떤 레슨런을 해왔고, 앞으로 어떤 챌린지를 해나갈지 궁금하시다면 언제든 연락주세요! &lt;a href=&quot;https://careers.bolta.io&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;볼타(Bolta) 채용 : 볼타는 고속성장중!&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2023년 회고: 프로젝트, 퇴사, 창업, 채용, 기술]]></title><description><![CDATA[2023년은 여러 중요한 사건들이 있었던 한 해였습니다. 그 중 창업이 가장 기억에 남는데요. 이번 글에서는 2023년부터 게시글 발행 시점까지를 타임라인 순서대로 적어보고자 합니다. 카카오페이: 신규 프로젝트 202…]]></description><link>https://dataportal.kr/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/</link><guid isPermaLink="false">https://dataportal.kr/2023년-회고-프로젝트-퇴사-창업-채용-기술/</guid><pubDate>Fri, 26 Jan 2024 15:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -4015,7 +4011,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;li&gt;특정 기능을 사용하기 위해 &lt;code&gt;&apos;어떻게&apos;&lt;/code&gt; 해야 하는지 고민하지 않게 한다.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;이를 위해 SDK를 개발하기로 결정했고, SDK 아키텍처에 대한 고민을 시작합니다. 경험상 아키텍처는 여러명이 처음부터 다 같이 고민하면 좋은 결과가 나오기 힘들었기에, 한 명이 총대 메고 초안을 잡고 Review &amp;#x26; Feedback 받는 구조가 가장 좋겠다는 판단을 내렸습니다. 그리고 그걸 &lt;code&gt;제가 하게 됩니다.&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;조금 오래되어 정확하지는 않지만, 수요일 즈음 이 논의를 마치고 집에 돌아가 곧장 리서치를 통해 대략의 아키텍처를 잡고 그 주 주말까지 시연 가능한 프로토타입을 만들었던걸로 기억합니다. &lt;a href=&quot;https://github.com/heli-os/data-provider-client&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;프로토타입 GitHub Repository&lt;/a&gt; 상 커밋 기록을 보면 아마 맞는 듯 합니다.&lt;/p&gt;
+&lt;p&gt;조금 오래되어 정확하지는 않지만, 수요일 즈음 이 논의를 마치고 집에 돌아가 곧장 리서치를 통해 대략의 아키텍처를 잡고 그 주 주말까지 시연 가능한 프로토타입을 만들었던걸로 기억합니다. &lt;a href=&quot;https://github.com/heli-os/data-provider-client&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;프로토타입 GitHub Repository&lt;/a&gt; 상 커밋 기록을 보면 아마 맞는 듯 합니다.&lt;/p&gt;
 &lt;p&gt;그리고 그 다음 주 평일에 곧장 Review를 진행하고, 수정할 부분을 수정한 뒤 Sdk 개발을 본격적으로 진행했습니다. (실제 개발된 모습은 GitHub Repository와 다릅니다. 😅) 해당 프로토타입에 대해서도 이야기할게 많은데, 너무 길어질 듯 하여 추후에 기회가 되면 별도 게시글로 다루어보도록 하겠습니다.&lt;/p&gt;
 &lt;p&gt;Sdk 개발과 플랫폼 서버 개발까지 모두 끝마치고선 본격적으로 MVP 타겟 조직과 밀접하게 협업하며 Feature를 만들어 나갔고, 처음 보여드린 &lt;code&gt;계좌번호 입력 시 은행 추론 기능&lt;/code&gt;이 개발되었습니다.&lt;/p&gt;
 &lt;p&gt;그 후에는 전사 확장을 위해 프로젝트의 이름이 로고로 프린팅된 반팔 티셔츠를 만들어 입고 다니며 홍보하기도 하고, 여러 프로젝트의 담당자들이 이 티셔츠에 대하여 물어볼 때 마다 &lt;code&gt;&apos;우리가 개발한 신규 플랫폼을 연동하면 드린다.&apos;&lt;/code&gt;라고 답하기도 했던 기억이 나네요. 최근에는 반팔 티셔츠에서 맨투맨으로 확장되고, 초기 잡아둔 마일스톤에서 조금 더 확장하여 잘 Develop 되고 있다고 전해 듣고 있습니다. 😁&lt;/p&gt;
@@ -4023,9 +4019,9 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;p&gt;앞선 프로젝트를 마치고 신규 프로젝트를 준비하고 있던 시점에 퇴사를 결정하게 됩니다. 예정되어 있는 프로젝트 모두 기대 되는 프로젝트라 이 경험을 저 대신 하셨을 다른 팀원 분들에게 질투가 나기도 하는데요. 이 결정에 대해선 후회하지 않습니다.&lt;/p&gt;
 &lt;p&gt;왜 퇴사 했는지는 앞서 이야기 드렸지만, &lt;code&gt;저는 창업을 했습니다.&lt;/code&gt;&lt;/p&gt;
 &lt;h2&gt;볼타: 창업&lt;/h2&gt;
-&lt;p&gt;공동창업자인 문혁님이 처음 &lt;a href=&quot;https://disquiet.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;디스콰이엇&lt;/a&gt;을 통해 공동창업에 대한 이야기를 주셨는데요. 그때 당시엔 1주일에 몇개씩 비슷한 종류의 콜드메일이 왔기에 당연히 대수롭지 않게 무시하고 넘어갔습니다. 그랬더니 링크드인까지 찾아오셔서 자료를 전달주시며 이야기를 이어 나가려고 하셨고, 그제서야 메시지를 읽어보기 시작했습니다.&lt;/p&gt;
-&lt;p&gt;공감가는 내용이 꽤 많았으며, 자료를 읽고 든 궁금증을 링크드인 메시지로 질문드렸습니다. 그리고 마침 근처에 계시길레 오프라인에서 만나뵈었는데, 만난지 1시간 만에 &lt;code&gt;같이 하시죠.&lt;/code&gt;라고 말씀 드리고 곧장 팀장님에게 퇴사 의사를 밝혔습니다. 조금 더 자세한 이야기는 &lt;a href=&quot;https://dis.qa/mrfii&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;코파운더를 찾은 Bolta 메이커 문혁님의 스토리&lt;/a&gt; 게시글을 참고해주세요.&lt;/p&gt;
-&lt;p&gt;초반에는 법인 설립과 사무실 없이 주말에 서로의 집 근처에서 만나서 이야기를 나눴습니다. 알고보니 서로의 집이 10분 거리였습니다. 처음엔 코딩, 개발 전혀 없이 노코드로 랜딩 페이지를 만들고 반응을 보는게 중요하다고 생각했습니다.(참고: &lt;a href=&quot;https://blog.bolta.io/landingpage&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;노코드 랜딩 페이지 만들기&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;공동창업자인 문혁님이 처음 &lt;a href=&quot;https://disquiet.io&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;디스콰이엇&lt;/a&gt;을 통해 공동창업에 대한 이야기를 주셨는데요. 그때 당시엔 1주일에 몇개씩 비슷한 종류의 콜드메일이 왔기에 당연히 대수롭지 않게 무시하고 넘어갔습니다. 그랬더니 링크드인까지 찾아오셔서 자료를 전달주시며 이야기를 이어 나가려고 하셨고, 그제서야 메시지를 읽어보기 시작했습니다.&lt;/p&gt;
+&lt;p&gt;공감가는 내용이 꽤 많았으며, 자료를 읽고 든 궁금증을 링크드인 메시지로 질문드렸습니다. 그리고 마침 근처에 계시길레 오프라인에서 만나뵈었는데, 만난지 1시간 만에 &lt;code&gt;같이 하시죠.&lt;/code&gt;라고 말씀 드리고 곧장 팀장님에게 퇴사 의사를 밝혔습니다. 조금 더 자세한 이야기는 &lt;a href=&quot;https://dis.qa/mrfii&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;코파운더를 찾은 Bolta 메이커 문혁님의 스토리&lt;/a&gt; 게시글을 참고해주세요.&lt;/p&gt;
+&lt;p&gt;초반에는 법인 설립과 사무실 없이 주말에 서로의 집 근처에서 만나서 이야기를 나눴습니다. 알고보니 서로의 집이 10분 거리였습니다. 처음엔 코딩, 개발 전혀 없이 노코드로 랜딩 페이지를 만들고 반응을 보는게 중요하다고 생각했습니다.(참고: &lt;a href=&quot;https://blog.bolta.io/landingpage&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;노코드 랜딩 페이지 만들기&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;노코드 랜딩 페이지를 &lt;code&gt;&apos;이러한 기능이 제공될 예정인데 지금 신청하면 무료, 4주 뒤에는 유료!&apos;&lt;/code&gt;라는 뉘앙스로 꾸미기 시작했고, 200곳 가량이 사용 신청을 해주셨습니다. 그 중 일부를 필터링한 뒤 한달 동안 모두 인터뷰하며 그들이 겪고있는 &lt;code&gt;진짜 문제&lt;/code&gt;에 대하여 파고들기 시작했습니다. 그 과정에서 MVP Spec과 향후 방향성을 대략 잡을 수 있었고, 본격 개발을 통하여 MVP를 출시하게 됩니다.&lt;/p&gt;
 &lt;h2&gt;볼타: MVP 출시&lt;/h2&gt;
 &lt;p&gt;&lt;span
@@ -4154,7 +4150,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;h3&gt;과제 2. 인프라 관리 효율화&lt;/h3&gt;
 &lt;p&gt;볼타 팀의 모든 서비스는 AWS 인프라 위에서 운영되고 있습니다. EC2, RDS, Aurora, ParamterStroe, ALB, VPC, IAM 등 다양한 매니지드 서비스를 여러 목적으로 사용하다 보니 비슷한 부분이 반복되기도 하고 생성해 놓고 잊기도 하는 등 여러 가지 이슈가 식별되었습니다.&lt;/p&gt;
 &lt;p&gt;이에 IaC(Infrastructure as Code)의 필요성을 느끼게 되었고, 여러 후보를 두고 고민해 본 끝에 Terraform을 도입하게 되었습니다.&lt;/p&gt;
-&lt;p&gt;asbubam(이승우)님의 약 7년 전 &lt;a href=&quot;https://blog.2dal.com/2017/10/28/aws-vpc-with-terraform-modules/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;AWS VPC with Terraform Modules&lt;/a&gt; 게시글과 &lt;a href=&quot;https://blog.cloudacode.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;KC(Chang Kyungcheol)&lt;/a&gt;님의 조언으로 1주일도 안되어서 모든 인프라를 테라폼으로 성공적으로 옮길 수 있었습니다.&lt;/p&gt;
+&lt;p&gt;asbubam(이승우)님의 약 7년 전 &lt;a href=&quot;https://blog.2dal.com/2017/10/28/aws-vpc-with-terraform-modules/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;AWS VPC with Terraform Modules&lt;/a&gt; 게시글과 &lt;a href=&quot;https://blog.cloudacode.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;KC(Chang Kyungcheol)&lt;/a&gt;님의 조언으로 1주일도 안되어서 모든 인프라를 테라폼으로 성공적으로 옮길 수 있었습니다.&lt;/p&gt;
 &lt;p&gt;이 작업을 통해 크게 세 가지 효과를 얻을 수 있었습니다.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;하나의 인프라 요소를 추가/변경하더라도 추적하기 쉬워졌으며 전체적인 형상 가시성이 더 명확해졌습니다.&lt;/li&gt;
@@ -4166,7 +4162,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;p&gt;우선 서비스 실행 방식을 EC2에서 &lt;code&gt;ECS(Elastic Container Service)&lt;/code&gt;로 이관하는 결정을 내렸습니다. 기존에도 모든 서버 애플리케이션은 도커 이미지로서 컨테이너화되어 관리되고 있었기에 큰 공수가 필요하지 않았습니다. 그럼에도 애플리케이션을 조금 더 효율적으로 배포, 관리하고 Scale을 조정하는데 큰 도움을 주기에 도입하지 않을 이유가 없었습니다.&lt;/p&gt;
 &lt;p&gt;그 후 배포 파이프라인도 손보게 됩니다. AWS CodeBuild/Pipeline, Jekins, CircleCI, Drone CI 등 전통적이거나 널리 사용되는 SaaS와 매니지드 서비스를 다양하게 고려해보았습니다. 비용과 효율성 등을 종합적으로 고려하였는데, 평균적인 Build Time이나 횟수를 명확히 판단할 수 없는 시점이었기에 이를 추론하는게 쉽지는 않았습니다.&lt;/p&gt;
 &lt;p&gt;또한 단순히 빌드와 배포 트리거만 필요한 것이 아니라 배치 애플리케이션 실행을 정기적으로 트리거해주는 기능도 필요했습니다. 이 시점에서 Jekins가 가장 가능성 높은 후보로 거론되었으나 젠킨스 파이프라인을 작성하거나 AWS, Slack, GitHub, Email 등을 연동하는데 필요한 공수까지 고려하였을 때 너무 비효율적이라 판단하였습니다.&lt;/p&gt;
-&lt;p&gt;추가 리서치를 통해 &lt;a href=&quot;https://www.jetbrains.com/teamcity/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;JetBrains TeamCity&lt;/a&gt;를 알게 되었고, 필요한 모든 외부 연동이 별도 플러그인 설치 없이 자체적으로 지원하고 있음을 알게 되었습니다. 결국 TeamCity를 이용하여 빌드/배포/배치 실행 프로세스를 셋업하게 되었고, 현재까지도 별도 LICENSE 비용 없이 무료 범위 내에서 잘 사용하고 있습니다.&lt;/p&gt;
+&lt;p&gt;추가 리서치를 통해 &lt;a href=&quot;https://www.jetbrains.com/teamcity/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;JetBrains TeamCity&lt;/a&gt;를 알게 되었고, 필요한 모든 외부 연동이 별도 플러그인 설치 없이 자체적으로 지원하고 있음을 알게 되었습니다. 결국 TeamCity를 이용하여 빌드/배포/배치 실행 프로세스를 셋업하게 되었고, 현재까지도 별도 LICENSE 비용 없이 무료 범위 내에서 잘 사용하고 있습니다.&lt;/p&gt;
 &lt;p&gt;먼 미래엔 AWS 매니지드 서비스로 넘어가지 않을까 싶기는 합니다.&lt;/p&gt;
 &lt;h2&gt;볼타: 채용&lt;/h2&gt;
 &lt;p&gt;두 명 뿐이었던 팀원은 약 8개월에 걸쳐 5명이 되었습니다.&lt;/p&gt;
@@ -4179,8 +4175,8 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;p&gt;그 후 백엔드 개발쪽에 굵직한 기술 과제들이 많아 새로운 백엔드 개발자 한 분을 모셔야겠다는 생각이 들었고, 결과적으로 &lt;code&gt;셰인&lt;/code&gt;을 모시게 되었습니다. 셰인은 아직 대학에 재학중이신, 졸업예정 상태이셨는데요. 그럼에도 수많은 후보자들이 어려워했던 인터뷰를 정말 잘 답변해주셨고, 무엇보다 &lt;code&gt;Fresh-Eyes&lt;/code&gt;와 &lt;code&gt;열정&lt;/code&gt;으로 제품에 대한 새로운 의견을 적극적으로 제시해주실 수 있는 분이라는 생각이 들어 모시게 되었습니다.&lt;/p&gt;
 &lt;p&gt;마지막으로 &lt;code&gt;제이&lt;/code&gt;를 모시게 되었습니다. 리뉴얼에서 필요한 프론트 엔지니어링 작업량이 상당하였고, 이를 제가 백엔드 엔지니어링과 함께 하는 것 보다는 프론트엔드 엔지니어를 한 분 새롭게 모시는게 더 효율적일 것이라는 판단이 있었습니다. 제이는 인터뷰 과정에서부터 &lt;code&gt;한정된 시간 속에서 일을 효율적으로 하는 방법을 통달하신 분&lt;/code&gt;이라는 생각이 들게 하는 분이었습니다. 이 부분이 모든 팀원에게 귀감되며, 배울 수 있는 점이라고 생각되어 모시게 되었습니다.&lt;/p&gt;
 &lt;h2&gt;볼타: 투자&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://bolta.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;간편 전자세금계산서 발행, 관리 - 볼타&lt;/a&gt;를 서비스하는 (주)볼타코퍼레이션은 2023년 4월 17일 법인을 설립하였습니다. 2호선 서울대입구역 도보 2분 거리에 위치한 BS타워(관악구 관악로 158)를 첫 사무실로 이용하였는데요.&lt;/p&gt;
-&lt;p&gt;이 사무실은 저희 Seed 투자사인 &lt;a href=&quot;https://springcamp.co&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;스프링 캠프&lt;/a&gt;의 사무실이며, 배치 프로그램 이전에 잠시 비어있는 공간을 대여해주셔서 이용했습니다. 덕분에 너무 넓은 공간을 편하게 이용할 수 있었습니다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://bolta.io&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;간편 전자세금계산서 발행, 관리 - 볼타&lt;/a&gt;를 서비스하는 (주)볼타코퍼레이션은 2023년 4월 17일 법인을 설립하였습니다. 2호선 서울대입구역 도보 2분 거리에 위치한 BS타워(관악구 관악로 158)를 첫 사무실로 이용하였는데요.&lt;/p&gt;
+&lt;p&gt;이 사무실은 저희 Seed 투자사인 &lt;a href=&quot;https://springcamp.co&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;스프링 캠프&lt;/a&gt;의 사무실이며, 배치 프로그램 이전에 잠시 비어있는 공간을 대여해주셔서 이용했습니다. 덕분에 너무 넓은 공간을 편하게 이용할 수 있었습니다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
@@ -4206,11 +4202,11 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
         decoding=&quot;async&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;2023년 5월 10일에는 스프링 캠프로부터 Seed 투자를 유치하게 됩니다. &lt;a href=&quot;https://platum.kr/archives/206678&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;전자세금계산서 SaaS ‘볼타코퍼레이션’, 스프링캠프로부터 시드 투자 유치&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;그 후 시간이 지나 8월 1일, 강남역에 위치한 위워크 강남역2호점으로 이사하게 되었고, 추가 채용에 따라 조금 더 넓은 호실로 옮겨오면서 8개월만에 이사를 두 번하기도 했습니다. (참고: &lt;a href=&quot;https://blog.bolta.io/office/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;공유오피스를 고를 때 고려했던 점들
+&lt;p&gt;2023년 5월 10일에는 스프링 캠프로부터 Seed 투자를 유치하게 됩니다. &lt;a href=&quot;https://platum.kr/archives/206678&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;전자세금계산서 SaaS ‘볼타코퍼레이션’, 스프링캠프로부터 시드 투자 유치&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;그 후 시간이 지나 8월 1일, 강남역에 위치한 위워크 강남역2호점으로 이사하게 되었고, 추가 채용에 따라 조금 더 넓은 호실로 옮겨오면서 8개월만에 이사를 두 번하기도 했습니다. (참고: &lt;a href=&quot;https://blog.bolta.io/office/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;공유오피스를 고를 때 고려했던 점들
 &lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;2023년 8월 25일에는 중소벤처기업부 기술창업지원 프로그램 &apos;팁스(TIPS)&apos;에 선정됩니다. &lt;a href=&quot;https://www.venturesquare.net/893436&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;세금계산서 발행&amp;#x26;관리 서비스 &apos;볼타&apos; 운영사 볼타코퍼레이션, &apos;팁스&apos; 선정&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;2023년 12월, Pre-A 투자를 클로징 하였습니다. 해당 투자는 미국계 밴처캐피탈 &lt;a href=&quot;https://www.strongvc.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;스트롱벤처스(Strong Ventures)&lt;/a&gt;가 리드했으며, &lt;a href=&quot;https://www.companoid.io/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;컴패노이드 랩스&lt;/a&gt;와 &lt;a href=&quot;https://www.linkedin.com/in/keeyonghan/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;한기용&lt;/a&gt;님이 함께 해주셨습니다. &lt;a href=&quot;https://platum.kr/archives/221703&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;‘볼타’ 운영사 볼타코퍼레이션, 스트롱벤처스로부터 프리 A 투자 유치&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2023년 8월 25일에는 중소벤처기업부 기술창업지원 프로그램 &apos;팁스(TIPS)&apos;에 선정됩니다. &lt;a href=&quot;https://www.venturesquare.net/893436&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;세금계산서 발행&amp;#x26;관리 서비스 &apos;볼타&apos; 운영사 볼타코퍼레이션, &apos;팁스&apos; 선정&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2023년 12월, Pre-A 투자를 클로징 하였습니다. 해당 투자는 미국계 밴처캐피탈 &lt;a href=&quot;https://www.strongvc.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;스트롱벤처스(Strong Ventures)&lt;/a&gt;가 리드했으며, &lt;a href=&quot;https://www.companoid.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;컴패노이드 랩스&lt;/a&gt;와 &lt;a href=&quot;https://www.linkedin.com/in/keeyonghan/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;한기용&lt;/a&gt;님이 함께 해주셨습니다. &lt;a href=&quot;https://platum.kr/archives/221703&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;‘볼타’ 운영사 볼타코퍼레이션, 스트롱벤처스로부터 프리 A 투자 유치&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
@@ -4237,9 +4233,9 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;center&gt;투자 소식 공개 이전 한기용님의 개인 SNS 🙂&lt;/center&gt;
 &lt;p&gt;기용과의 인연은 정말 우연히 이어졌는데요. 처음에는 EO에 소개된 인터뷰 영상으로 접하게 되었었습니다.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://youtu.be/nLL409se8sM&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;27년차 실리콘밸리 개발자의 인생 이야기 [한기용] 1부&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://youtu.be/XKqLz6WJSRA&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;40대 중반이 돼서야 깨닫고 실천할 수 있게 된 것 [한기용] 2부&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://youtu.be/3U0cbzmwSYc&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;이런 얘기를 하면 화내는 사람도 있죠 [한기용] 3부 최종화&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://youtu.be/nLL409se8sM&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;27년차 실리콘밸리 개발자의 인생 이야기 [한기용] 1부&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://youtu.be/XKqLz6WJSRA&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;40대 중반이 돼서야 깨닫고 실천할 수 있게 된 것 [한기용] 2부&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://youtu.be/3U0cbzmwSYc&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;이런 얘기를 하면 화내는 사람도 있죠 [한기용] 3부 최종화&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;그 후 여러 회사에서 오프라인 세션을 진행하시는 것을 지인과 SNS를 통해 전해 들었는데요. 그러다 2023년 8월, 기용님이 한국에 들어오신다는 소식을 듣고선 한번 뵙고 싶다는 생각에 &lt;code&gt;&apos;기회가 된다면 뵙고 싶다&apos;&lt;/code&gt;라고 드렸는데, 실제로 저와 같이 따로 연락드린 분들을 모아 세션을 진행해주셨습니다.&lt;/p&gt;
 &lt;p&gt;&lt;span
@@ -4266,7 +4262,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;center&gt;자리를 준비하시어 DM으로 연락주신 모습&lt;/center&gt;
 &lt;p&gt;세션은 개발자, 디자이너, PO, 사업개발, 데이터 분석가, 데이터 엔지니어 등 다양한 직군의 사람이 참가해주셨고 &lt;code&gt;1) 해외취업&lt;/code&gt;, &lt;code&gt;2) 건강한 피드백&lt;/code&gt;, &lt;code&gt;3) 리더십&lt;/code&gt; 같은 주제로 구성되었습니다. 건강한 피드백과 리더십에 대한 내용은 &lt;a href=&quot;/%ED%95%9C%EA%B8%B0%EC%9A%A9%EB%8B%98%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EB%8B%A8%EC%B2%B4%EC%B1%97-%ED%9A%8C%EA%B3%A0&quot;&gt;한기용님과 함께하는 단체챗 회고&lt;/a&gt;에 간략하게 정리되어 있습니다.&lt;/p&gt;
 &lt;p&gt;그 후 시간이 지나 링크드인을 통해 엔젤투자 의사를 먼저 밝혀 주셨고, 기술 조직 운영에 대한 노하우 부분에서 많은 도움을 받을 수 있을 것 같다는 판단하에 엔젤투자자로 모시게 되었습니다.&lt;/p&gt;
-&lt;p&gt;컴패노이드 랩스는 HCI, UX 전문가 &lt;a href=&quot;https://www.linkedin.com/in/alanjkjang&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;장진규 의장님&lt;/a&gt;과의 인연으로 함께 해주시게 되었습니다.&lt;/p&gt;
+&lt;p&gt;컴패노이드 랩스는 HCI, UX 전문가 &lt;a href=&quot;https://www.linkedin.com/in/alanjkjang&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;장진규 의장님&lt;/a&gt;과의 인연으로 함께 해주시게 되었습니다.&lt;/p&gt;
 &lt;h2&gt;개인적인 이야기&lt;/h2&gt;
 &lt;p&gt;창업하며 일하는 방식과 협업 방식이 크게 바뀌게 되었습니다. 과거에는 플랫폼 엔지니어링 위주로 경험했다 보니 서버 개발자와 PM을 제외한 프론트엔드 개발자, 프로덕트 디자이너와 밀접하게 협업할 기회가 많지 않았습니다. 협업 기회가 생기더라도 대부분 PM을 통해서 협업하거나 일시적으로 협업하고 끝났던 것 같습니다.&lt;/p&gt;
 &lt;p&gt;그래서 이 부분을 약 100개의 사이드 프로젝트를 경험하며 채워나갔지만, 그럼에도 마음속에는 약간의 &lt;code&gt;결핍&lt;/code&gt;으로 남아있었다고 생각합니다. 어떻게 하면 더 효율적으로 &lt;code&gt;가치를 만들 수 있을까&lt;/code&gt;, 어떻게 하면 &lt;code&gt;한정된 시간 동안 최대의 효율을 낼 수 있을까&lt;/code&gt;, 어떻게 하면 &lt;code&gt;다른 사람보다 100배 빠르게, 잘할 수 있을까&lt;/code&gt;라는 생각이 계속 들었습니다.&lt;/p&gt;
@@ -4289,72 +4285,11 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;p&gt;제품을 더 사용자 친화적이고 효율적으로 만들기 위한 연구와 개발을 지속적으로 진행하려고 합니다. 예정되어 있는 기능과 서비스 뿐 아니라, 앞으로 새롭게 챌린지하게 될 것들까지 상상 할 수 없는 속도로 준비하고 있습니다. 또한, 제품의 안정성과 보안성을 더욱 강화하기 위한 작업도 함께 진행할 예정입니다.&lt;/p&gt;
 &lt;p&gt;이 글에서 모두 밝히긴 어렵지만 &lt;code&gt;2024년&lt;/code&gt;은 2023년보다 &lt;code&gt;20배&lt;/code&gt;, &lt;code&gt;30배&lt;/code&gt; 빠르게 나아갈 수 있을 것으로 기대합니다.&lt;/p&gt;
 &lt;h3&gt;목표 3. 채용&lt;/h3&gt;
-&lt;p&gt;팀을 더 강화하고 더 많은 역량 있는 인재를 채용하는 것도 중요한 목표 중 하나입니다. 제품과 팀의 성장과 발전을 위해 필요한 역량과 경험을 가지신 분들을 영입하고자 합니다. 현재 B2B 마케터, 백엔드 개발자, 프론트엔드 개발자 포지션을 열어두었으며, 관심 있으신분을 위해 채용 공고를 함께 첨부합니다. &lt;a href=&quot;https://careers.bolta.io/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;볼타(Bolta) 채용 : 볼타는 고속성장중!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;팀을 더 강화하고 더 많은 역량 있는 인재를 채용하는 것도 중요한 목표 중 하나입니다. 제품과 팀의 성장과 발전을 위해 필요한 역량과 경험을 가지신 분들을 영입하고자 합니다. 현재 B2B 마케터, 백엔드 개발자, 프론트엔드 개발자 포지션을 열어두었으며, 관심 있으신분을 위해 채용 공고를 함께 첨부합니다. &lt;a href=&quot;https://careers.bolta.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;볼타(Bolta) 채용 : 볼타는 고속성장중!&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;목표 4. 건강&lt;/h3&gt;
 &lt;p&gt;마지막으로, 2024년에는 개인의 건강에 대한 부분을 더 큰 중요성으로 다루고 관리하려 합니다. 다양한 스트레스를 관리하기 위해 지금보다 건강한 식사와 규칙적인 운동을 병행하고자 합니다. 최대한 컨디션의 Low-High 격차를 줄여 항상 뛰어난 판단을 내릴 수 있기를 기대합니다. 이를 통해 팀과 제품의 목표를 달성하는 데 큰 기여를 할 수 있다고 믿습니다.&lt;/p&gt;
 &lt;h2&gt;마무리&lt;/h2&gt;
-&lt;p&gt;그럼, 2024년에도 모두 잘 부탁드립니다. 🙂&lt;/p&gt;</content:encoded></item><item><title><![CDATA[실리콘밸리는 이렇게 일합니다: 진짜 일과 가짜 일]]></title><description><![CDATA[해당 게시글은 실리콘밸리는 이렇게 일합니다 by BZCF | 비즈까페 영상을 보고 작성된 글입니다.]]></description><link>https://dataportal.kr/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EB%8A%94-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4-%EC%A7%84%EC%A7%9C-%EC%9D%BC%EA%B3%BC-%EA%B0%80%EC%A7%9C-%EC%9D%BC/</link><guid isPermaLink="false">https://dataportal.kr/실리콘밸리는-이렇게-일합니다-진짜-일과-가짜-일/</guid><pubDate>Fri, 12 Jan 2024 00:31:42 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMC/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAByvoioP/EABoQAQABBQAAAAAAAAAAAAAAAAEAAhARITH/2gAIAQEAAQUCY5vX10//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAADAQAAAAAAAAAAAAAAAAAQESAx/9oACAEBAAY/Ahjj/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARIUExYf/aAAgBAQABPyEWqKJkAp4zer6qejcBisycmT//2gAMAwEAAgADAAAAEFAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHRABAAICAwEBAAAAAAAAAAAAAREhADFBUWGR4f/aAAgBAQABPxBFZiXZonr9xL0t67PmCr6wKz33EFWnc84xxUpFcY2FoQYK4z//2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;hero&quot;
-        title=&quot;hero&quot;
-        src=&quot;/static/ac96c54da6ee339dc3f3216939fdaac7/72e01/1.jpg&quot;
-        srcset=&quot;/static/ac96c54da6ee339dc3f3216939fdaac7/e4a55/1.jpg 256w,
-/static/ac96c54da6ee339dc3f3216939fdaac7/36dd4/1.jpg 512w,
-/static/ac96c54da6ee339dc3f3216939fdaac7/72e01/1.jpg 1024w,
-/static/ac96c54da6ee339dc3f3216939fdaac7/ac99c/1.jpg 1536w,
-/static/ac96c54da6ee339dc3f3216939fdaac7/e1596/1.jpg 2048w,
-/static/ac96c54da6ee339dc3f3216939fdaac7/01fc7/1.jpg 3200w&quot;
-        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;해당 게시글은 &lt;a href=&quot;https://youtu.be/D6S5gIdRYQs&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;실리콘밸리는 이렇게 일합니다 by BZCF | 비즈까페&lt;/a&gt; 영상을 보고 작성된 글입니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[JPA Entity 연관관계와 Domain Entity에 대한 생각]]></title><description><![CDATA[얼마 전 JPA Entity 연관관계 어떻게 걸까요? + 엔티티 연관관계 PTSD이라는 영상이 올라왔습니다. 평소 비슷한 질문을 많이 받고 있기도 하고, 최근에 관련하여 고민했던 경험이 있어 글로 해당 생각을 남겨보려고 합니다. Agenda…]]></description><link>https://dataportal.kr/JPA-Entity-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EC%99%80-Domain-Entity%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81/</link><guid isPermaLink="false">https://dataportal.kr/JPA-Entity-연관관계와-Domain-Entity에-대한-생각/</guid><pubDate>Mon, 01 Jan 2024 15:48:47 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAbSo0GH/xAAYEAADAQEAAAAAAAAAAAAAAAAAAQIyMf/aAAgBAQABBQJiJ4sVlH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAbEAADAAIDAAAAAAAAAAAAAAAAARExUSFxkf/aAAgBAQABPyFsux6ZWxtJBn7EVcCZ7P/aAAwDAQACAAMAAAAQ8A//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAxQSH/2gAIAQEAAT8QKAqpTsO71eJafC+VzMzRALzMaq1WuMAAi/D2mB4Ot//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;hero&quot;
-        title=&quot;hero&quot;
-        src=&quot;/static/6a9e9372f858570b04cf1ccfcd6bbdf0/72e01/1.jpg&quot;
-        srcset=&quot;/static/6a9e9372f858570b04cf1ccfcd6bbdf0/e4a55/1.jpg 256w,
-/static/6a9e9372f858570b04cf1ccfcd6bbdf0/36dd4/1.jpg 512w,
-/static/6a9e9372f858570b04cf1ccfcd6bbdf0/72e01/1.jpg 1024w,
-/static/6a9e9372f858570b04cf1ccfcd6bbdf0/ac99c/1.jpg 1536w,
-/static/6a9e9372f858570b04cf1ccfcd6bbdf0/e1596/1.jpg 2048w,
-/static/6a9e9372f858570b04cf1ccfcd6bbdf0/01fc7/1.jpg 3200w&quot;
-        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;얼마 전 &lt;a href=&quot;https://youtu.be/vgNHW_nb2mg&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;JPA Entity 연관관계 어떻게 걸까요? + 엔티티 연관관계 PTSD&lt;/a&gt;이라는 영상이 올라왔습니다. 평소 비슷한 질문을 많이 받고 있기도 하고, 최근에 관련하여 고민했던 경험이 있어 글로 해당 생각을 남겨보려고 합니다.&lt;/p&gt;
-&lt;h2&gt;Agenda&lt;/h2&gt;
-&lt;p&gt;이번 글에서 이야기 해보려는 주요 아젠다는 아래와 같습니다.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Domain Entity는 무엇인가?&lt;/li&gt;
-&lt;li&gt;JPA Entity 연관관계는 어떻게 활용하는가&lt;/li&gt;
-&lt;li&gt;도메인/비즈니스 로직 기반 개발&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Appendix&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://youtu.be/gRrOUT-VeZ4&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;DB 의존 개발을 하지말자&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[다른 사람에게 도움을 구하는 가장 좋은 방법]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C-%EB%8F%84%EC%9B%80%EC%9D%84-%EA%B5%AC%ED%95%98%EB%8A%94-%EA%B0%80%EC%9E%A5-%EC%A2%8B%EC%9D%80-%EB%B0%A9%EB%B2%95/</link><guid isPermaLink="false">https://dataportal.kr/다른-사람에게-도움을-구하는-가장-좋은-방법/</guid><pubDate>Mon, 01 Jan 2024 00:06:38 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;그럼, 2024년에도 모두 잘 부탁드립니다. 🙂&lt;/p&gt;</content:encoded></item><item><title><![CDATA[다른 사람에게 도움을 구하는 가장 좋은 방법]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C-%EB%8F%84%EC%9B%80%EC%9D%84-%EA%B5%AC%ED%95%98%EB%8A%94-%EA%B0%80%EC%9E%A5-%EC%A2%8B%EC%9D%80-%EB%B0%A9%EB%B2%95/</link><guid isPermaLink="false">https://dataportal.kr/다른-사람에게-도움을-구하는-가장-좋은-방법/</guid><pubDate>Mon, 01 Jan 2024 00:06:38 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
     &gt;
@@ -4519,11 +4454,11 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;p&gt;2021년 10월, 페이스북(현 Meta)의 서비스(FaceBook, Instagram, WhatsApp, Oculus, ...) 전반을 이용할 수 없는 장애가 발생 했었습니다. 해당 장애는 긴급 복구되는데 5시간, 완벽하게 복구되는데 12시간이 걸렸을 정도로 이례적으로 오래걸렸는데요.&lt;/p&gt;
 &lt;p&gt;이런 경우 일반적으로 서버 장애, 서버 다운이라고 표현하지만 정확히 말하자면 이는 서버 다운은 아니었습니다. 네트워크의 문제였습니다.&lt;/p&gt;
 &lt;p&gt;그리고 이렇게 복구에 오래 걸리는 네트워크 관련 문제는 대부분 &quot;DNS&quot;에 의해 발생합니다.&lt;/p&gt;
-&lt;p&gt;실제로 페이스북, 인스타그램 접속 제한의 문제도 DNS였구요. 구체적으로 공개되기 전 까지는 BGP hijacking을 비롯한 BGP 관련 문제가 아닐까 단순히 &apos;추정&apos;하고 있었는데, 그 추정이 사실이었습니다. &lt;a href=&quot;https://www.zdnet.com/article/what-took-facebook-down-major-global-outage-drags-on&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;What took Facebook down @ ZDNET&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;BGP(Border Gateway Protocol)는 인터넷 최상위에 존재하는 &lt;a href=&quot;https://people.cs.rutgers.edu/~pxk/352/notes/autonomous_systems.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;autonomous systems (AS)&lt;/a&gt; (ex. KT, SKT, LGU+ 등 ISP)간에 라우팅에 사용되는 표준 프로토콜입니다. 그렇기 때문에 대부분의 사람들과 각 기업의 네트워크 관리자들은 일반적으로 BGP를 다룰 일이 없습니다.&lt;/p&gt;
+&lt;p&gt;실제로 페이스북, 인스타그램 접속 제한의 문제도 DNS였구요. 구체적으로 공개되기 전 까지는 BGP hijacking을 비롯한 BGP 관련 문제가 아닐까 단순히 &apos;추정&apos;하고 있었는데, 그 추정이 사실이었습니다. &lt;a href=&quot;https://www.zdnet.com/article/what-took-facebook-down-major-global-outage-drags-on&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;What took Facebook down @ ZDNET&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BGP(Border Gateway Protocol)는 인터넷 최상위에 존재하는 &lt;a href=&quot;https://people.cs.rutgers.edu/~pxk/352/notes/autonomous_systems.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;autonomous systems (AS)&lt;/a&gt; (ex. KT, SKT, LGU+ 등 ISP)간에 라우팅에 사용되는 표준 프로토콜입니다. 그렇기 때문에 대부분의 사람들과 각 기업의 네트워크 관리자들은 일반적으로 BGP를 다룰 일이 없습니다.&lt;/p&gt;
 &lt;p&gt;그리고 이 문제는 단순히 서비스를 이용할 수 없는 것에서 그치는 것이 아니라 여러가지 성가신 문제를 야기하기도 했는데요.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;As annoying as this is to you, it may be even more annoying to Facebook employees. There are reports that &lt;a href=&quot;https://twitter.com/sheeraf/status/1445099150316503057?s=21&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Facebook employees can&apos;t enter their buildings&lt;/a&gt; because their &quot;smart&quot; badges and doors were also disabled by this network failure. If true, Facebook&apos;s people literally can&apos;t enter the building to fix things.&lt;/p&gt;
+&lt;p&gt;As annoying as this is to you, it may be even more annoying to Facebook employees. There are reports that &lt;a href=&quot;https://twitter.com/sheeraf/status/1445099150316503057?s=21&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Facebook employees can&apos;t enter their buildings&lt;/a&gt; because their &quot;smart&quot; badges and doors were also disabled by this network failure. If true, Facebook&apos;s people literally can&apos;t enter the building to fix things.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;해당 네트워크 장애로 인해 건물 출입 인증 시스템 또한 무력화 되었다는겁니다. 즉, 복구를 위해 건물에 들어갈 수 없는 문제가 발생한건데요. 이정도로 장애의 범위가 컸기 때문에 복구까지 더욱 오래 걸린 것이 아닌가 싶습니다.&lt;/p&gt;
 &lt;p&gt;그래서 BGP와 BGP Hijacking이 뭐길레 이런 문제가 발생했을까 궁금 하실텐데요. BGP에 대해 이야기해보기 전, DNS의 전반적인 구조에 대해 먼저 이야기 해보겠습니다.&lt;/p&gt;
@@ -4551,7 +4486,7 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;이 그림은 인터뷰에서 자주나오는 질문 중 하나인, “브라우저에 URL을 입력했을 때 일어나는 일”을 DNS 레벨에서 표현한 다이어그램입니다.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.naver.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;www.naver.com&lt;/a&gt; → Local DNS → Root DNS → com DNS → naver.com DNS → ...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.naver.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;www.naver.com&lt;/a&gt; → Local DNS → Root DNS → com DNS → naver.com DNS → ...&lt;/p&gt;
 &lt;p&gt;내가 접속하고자 하는 도메인을 입력하면, 해당 도메인에 대한 정보를 가진 DNS로부터 IP 정보를 받아오게 됩니다. 그 후, 해당 아이피로 HTTP 요청을 보내는 것이지요.&lt;/p&gt;
 &lt;p&gt;그렇다면 네트워크 상에는 IP를 가진 정말 많은 디바이스가 존재할텐데, 내가 찾아가야 하는 IP는 어떻게 찾는걸까요?&lt;/p&gt;
 &lt;p&gt;디테일하게 설명하면 복잡하고, 오늘의 핵심은 아니기 때문에 정말 간단하게 설명하자면, 우리가 사용하는 모든 네트워크는 어떤 통신사에 소속되어 있습니다. 그렇기 때문에 통신사에서는 IP에 대한 모든 정보를 지니고 있습니다.&lt;/p&gt;
@@ -4695,13 +4630,13 @@ cachedDependencies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d
 &lt;li&gt;&lt;strong&gt;GitHub Pages 정적 블로그&lt;/strong&gt; : Jekyll/Gastby 기반 GitHub Hosting 정적 블로그입니다. 블로그의 테마나 소소한 설정을 변경할 때 마다 Commit이 생성되는게 너무 싫었습니다. 마크다운 파일을 하나하나 관리하는 번거로움도 있었구요.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;티스토리&lt;/strong&gt; : 이리저리 옮겨다니다 결국 정착한 플랫폼이었습니다. 나름 OpenAPI도 제공하고, SEO도 준수 했습니다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;그렇게 티스토리를 몇년간 잘 사용하면서도 Custom Domain에 대한 지원이 미흡한 부분이 정말 아쉬웠습니다. 그럼에도 참아가며 잘 사용하고 있었는데, 이번에 올라온 &lt;a href=&quot;https://notice.tistory.com/2664&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;[안내] 티스토리 Open API가 종료됩니다.&lt;/a&gt; 공지사항을 보고선 빠르게 블로그 플랫폼을 옮겨야겠다는 생각이 들었습니다.&lt;/p&gt;
+&lt;p&gt;그렇게 티스토리를 몇년간 잘 사용하면서도 Custom Domain에 대한 지원이 미흡한 부분이 정말 아쉬웠습니다. 그럼에도 참아가며 잘 사용하고 있었는데, 이번에 올라온 &lt;a href=&quot;https://notice.tistory.com/2664&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;[안내] 티스토리 Open API가 종료됩니다.&lt;/a&gt; 공지사항을 보고선 빠르게 블로그 플랫폼을 옮겨야겠다는 생각이 들었습니다.&lt;/p&gt;
 &lt;p&gt;아예 서비스를 버리지 않고 정비를 해나가는 부분에서 긍정적이기도 했지만, 대략 전해 들어 알고 있는 티스토리 개발 팀의 현황(?)을 고려해보았을 때 아쉬운 부분이 빠른 시일 내에 해결되기는 어려울 것이란 판단이 들었습니다.&lt;/p&gt;
 &lt;p&gt;그래서, 지금 보시는 블로그로 이관했습니다!&lt;/p&gt;
 &lt;p&gt;이 블로그는 GitHub Pages 정적 블로그입니다. 처음 GitHub Pages 정적 블로그를 접하고 몇년이 지나면서 처음 느꼈던 불필요한 Commit이 생성되는 부분을 회피할 방법을 알게 되었고, 무엇보다 너무 매력적인 블로그 테마를 발견했기 때문에 돌아오게 되었습니다.&lt;/p&gt;
 &lt;h2&gt;vallista-land&lt;/h2&gt;
-&lt;p&gt;해당 블로그는 &lt;strong&gt;우아한형제들&lt;/strong&gt;에 재직중이신 마광휘님이 만드신 오픈소스 블로그 &lt;a href=&quot;https://github.com/Vallista/vallista-land&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Vallista/vallista-land&lt;/a&gt;를 활용하여 만들어졌습니다.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://vallista.kr/%EB%B8%94%EB%A1%9C%EA%B7%B8-v3-%EA%B0%9C%ED%8E%B8/#%EB%B8%94%EB%A1%9C%EA%B7%B8-V3&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;vallista-land 프로젝트 소개 글&lt;/a&gt;을 조금 인용하자면 크게 신경 쓴 사항은 다음과 같다고 합니다. 자세한 내용은 링크에서 확인 부탁드립니다. 🙂&lt;/p&gt;
+&lt;p&gt;해당 블로그는 &lt;strong&gt;우아한형제들&lt;/strong&gt;에 재직중이신 마광휘님이 만드신 오픈소스 블로그 &lt;a href=&quot;https://github.com/Vallista/vallista-land&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Vallista/vallista-land&lt;/a&gt;를 활용하여 만들어졌습니다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vallista.kr/%EB%B8%94%EB%A1%9C%EA%B7%B8-v3-%EA%B0%9C%ED%8E%B8/#%EB%B8%94%EB%A1%9C%EA%B7%B8-V3&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;vallista-land 프로젝트 소개 글&lt;/a&gt;을 조금 인용하자면 크게 신경 쓴 사항은 다음과 같다고 합니다. 자세한 내용은 링크에서 확인 부탁드립니다. 🙂&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Windows, Mac OS 두 환경에서의 크로스 브라우징 대응 (Chrome, Safari...)&lt;/li&gt;
 &lt;li&gt;모바일 대응 (Android, iOS)&lt;/li&gt;
@@ -5154,9 +5089,9 @@ obj1&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class
 &lt;p&gt;글을 읽어보니 코로나19와 관련된 몇 가지 사회문제를 기술적으로 해결해보고자 하는 사람들을 모집하고 있었습니다. 시간적 여유도 있었고, 재미있어 보였기 때문에 합류하게 되었습니다. 합류해보니 저를 포함해 20명이 조금 안 되는 인원이 있었고, 본격적으로 프로젝트를 추진하기 시작했습니다.&lt;/p&gt;
 &lt;p&gt;그렇게 진행된 프로젝트는 많은 수의 상을 받고, 언론에 노출되기도 하고, &lt;code&gt;코드포코리아&lt;/code&gt;라는 비영리 단체가 설립되는 등 큰 성과를 가져다주었습니다. 다만 그 과정은 꽤나 길었기에, 관련 링크를 첨부하는 것으로 대체하겠습니다.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.korea.kr/archive/expDocView.do?docId=39223&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;2020 마스크 앱 백서&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1o-BfBvo8ftwrhxQRaAitYkyGhN4WakLpFJwORCPYIQc/edit#heading=h.u73c578aps6f&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;모두가 함께 한 공적마스크 이야기 - 코드포코리아&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://youthhub.kr/hub/research/%EB%AF%B8%EB%9E%98%EB%A5%BC-%EC%82%AC%EB%8A%94-%EC%8B%9C%EB%AF%BC%EB%93%A4-%EC%B2%AD%EB%85%84-%EC%9D%B8%ED%84%B0%EB%B7%B0%EC%A7%91&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;미래를 사는 시민들 (청년 인터뷰집) - 청년허브&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.korea.kr/archive/expDocView.do?docId=39223&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;2020 마스크 앱 백서&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1o-BfBvo8ftwrhxQRaAitYkyGhN4WakLpFJwORCPYIQc/edit#heading=h.u73c578aps6f&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;모두가 함께 한 공적마스크 이야기 - 코드포코리아&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://youthhub.kr/hub/research/%EB%AF%B8%EB%9E%98%EB%A5%BC-%EC%82%AC%EB%8A%94-%EC%8B%9C%EB%AF%BC%EB%93%A4-%EC%B2%AD%EB%85%84-%EC%9D%B8%ED%84%B0%EB%B7%B0%EC%A7%91&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;미래를 사는 시민들 (청년 인터뷰집) - 청년허브&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;그리고 2020년 하반기에는 새로운 기술 경험을 위한 도전도 해보게 됩니다. 기존에 경험해본 기술을 쭉 나열해보자면 정말 다양했습니다. VB 6.0, C#, C++(with Dx9, Windows API), PHP, Java-Android, C-Arduino, JavaScript-React, JavaScript-Node.js(Express.js), ...&lt;/p&gt;
 &lt;p&gt;여러 기술 경험을 통해 클라이언트 사이드 언어는 제 성향과는 맞지 않는다는 결론을 내리기도 했습니다. 무언가를 하려고 할 때마다 플랫폼의 주체에 의한 제한이나 한계가 너무 많았고 그게 썩 마음에 들지 않았습니다. 그래서 최근 2년 정도는 서버 사이드의 Javacript-Node.js(Express.js)를 주력으로 사용하고 있었습니다.&lt;/p&gt;
@@ -5209,7 +5144,7 @@ obj1&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class
     &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;2021년: 확장&lt;/h2&gt;
 &lt;p&gt;이 확장은 조금 복합적인 의미를 지니고 있습니다.&lt;/p&gt;
-&lt;p&gt;첫 번째로 &lt;code&gt;프로젝트 경험의 확장&lt;/code&gt;입니다. 2020년에 어쩌다 시작하게 된 비영리 단체인 &lt;code&gt;코드포코리아&lt;/code&gt;에서 다양하고 많은 수의 프로젝트를 진행하였습니다. 그중에서는 2020년 수준으로 큰 성과를 냈던 프로젝트도 존재했습니다. &lt;a href=&quot;https://jinssssun.tistory.com/4&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;정부에 재능 기부한 썰~ Feat. 코로나19 개인 안심번호&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;첫 번째로 &lt;code&gt;프로젝트 경험의 확장&lt;/code&gt;입니다. 2020년에 어쩌다 시작하게 된 비영리 단체인 &lt;code&gt;코드포코리아&lt;/code&gt;에서 다양하고 많은 수의 프로젝트를 진행하였습니다. 그중에서는 2020년 수준으로 큰 성과를 냈던 프로젝트도 존재했습니다. &lt;a href=&quot;https://jinssssun.tistory.com/4&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;정부에 재능 기부한 썰~ Feat. 코로나19 개인 안심번호&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;두 번째는 &lt;code&gt;기술 경험의 확장&lt;/code&gt;이었습니다. 이것도 나름대로 순조로웠습니다. 특별한 어려움 없이 계획을 세워나가며 하고 싶은 공부를 마음껏 할 수 있었습니다.&lt;/p&gt;
 &lt;p&gt;그리고 대망의 세 번째는 &lt;code&gt;직무 경험의 확장&lt;/code&gt;이었습니다. 조금 더 구체적으로는 회사에 소속된 웹 백엔드 엔지니어로서 할 수 있는 경험을 해보고 싶어 졌습니다. 그중에서도 특히 협업, 기술 전문성, 오너십 세 가지를 명확히 경험해보고 배워보고 싶었습니다.&lt;/p&gt;
 &lt;p&gt;이 생각을 했을 무렵이 2021년 2분기 즈음이었습니다. 곧바로 로켓펀치를 접속해 &apos;Java&apos;, &apos;SpringBoot&apos; 키워드로 채용 공고를 찾아보기 시작했습니다. 그리고 검색 결과 최상단에 노출되던 회사 한 곳과, 평소 관심 가지고 있던 &apos;사진&apos;과 관련된 제품을 만드는 곳, 전체 두 곳을 지원하였습니다.&lt;/p&gt;
@@ -5253,7 +5188,7 @@ obj1&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class
 &lt;li&gt;만약 회사에서 문제를 해결해 나가는 과정 속에서 어려움을 겪는다면 어떻게 해야 할까요?&lt;/li&gt;
 &lt;li&gt;내가 현재 프로젝트에 동기 부여되지 않는다면 어떻게 해야 좋을까요?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;개인적으로 이런 것들은 회사에서, 그리고 팀에서 챙겨줄 필요가 있다고 생각합니다. 제가 합류하게 된 조직, 특히 조직장님은 이런 부분에 많은 관심을 가지고 계시며 매우 적극적이셨습니다. 조직 외에도 회사 전반적으로 개인 기여자들의 성장을 지원해주려는 노력이 있었고, 이런 글을 쓸 기회도 얻을 수 있었습니다. &lt;a href=&quot;https://tech.kakaopay.com/post/junior-opensource/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;오픈소스 활동 이야기 - 카카오페이&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;개인적으로 이런 것들은 회사에서, 그리고 팀에서 챙겨줄 필요가 있다고 생각합니다. 제가 합류하게 된 조직, 특히 조직장님은 이런 부분에 많은 관심을 가지고 계시며 매우 적극적이셨습니다. 조직 외에도 회사 전반적으로 개인 기여자들의 성장을 지원해주려는 노력이 있었고, 이런 글을 쓸 기회도 얻을 수 있었습니다. &lt;a href=&quot;https://tech.kakaopay.com/post/junior-opensource/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;오픈소스 활동 이야기 - 카카오페이&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;물론 아쉬운 부분도 있었습니다. 조직에 대한 아쉬움보다는 대기업이라는 것에서 오는 아쉬움이었습니다. 아무래도 R&amp;#x26;R이 명확해진 만큼 해볼 수 있는 경험의 범위에 한계가 있었습니다. 저는 그래서 개발 커뮤니티를 시작했습니다.&lt;/p&gt;
 &lt;h2&gt;내가 개발 커뮤니티를 하는 이유&lt;/h2&gt;
 &lt;p&gt;취미로 개발을 시작하고 현재까지 12년이 흘렀고, 곧 13년이 됩니다. 하지만 전체를 보았을 때 그 기간을 잘 사용하지는 못했습니다.&lt;/p&gt;
@@ -5273,9 +5208,9 @@ obj1&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class
 &lt;p&gt;평소 자주 함께 학습하고, 경험을 공유하던 10여 명의 사람들과 2022년 2월 즈음 만들게 된 기술 경험 공유 네트워크는 어느덧 100명을 넘어 200명 중반을 향해 달려가고 있습니다. 자연스럽게 검색을 통해 유입된 경우도 있었지만, 여러 경로를 통해 만나 뵙게 된 개발자분들을 하나둘 영업한 결과이기도 했습니다. 올 한 해는 100% 온라인으로 운영되었지만, 내년에는 기회가 된다면 오프라인으로 기술 경험을 공유할 수 있는 자리를 마련해보고 싶은 욕심이 생기기도 합니다.&lt;/p&gt;
 &lt;p&gt;혹시 관심 있는 분이 계시다면 함께해요! 🙂&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;홈페이지 -&gt; &lt;a href=&quot;https://weekly.ac&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://weekly.ac&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;GitHub Organization 가입 -&gt; &lt;a href=&quot;https://github.com/weekly-academy/members&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://github.com/weekly-academy/members&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;오픈 채팅방(비밀번호: 9323) -&gt; &lt;a href=&quot;https://open.kakao.com/o/gyvuT5Yd&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://open.kakao.com/o/gyvuT5Yd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;홈페이지 -&gt; &lt;a href=&quot;https://weekly.ac&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://weekly.ac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub Organization 가입 -&gt; &lt;a href=&quot;https://github.com/weekly-academy/members&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://github.com/weekly-academy/members&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;오픈 채팅방(비밀번호: 9323) -&gt; &lt;a href=&quot;https://open.kakao.com/o/gyvuT5Yd&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://open.kakao.com/o/gyvuT5Yd&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;그리고 최근에는 회사와 팀도 결국 하나의 네트워크이고, 하나의 커뮤니티라는 것을 깨달았습니다. 그래서 마음 맞는 조직에서 구성원 각자의 경험을 공유하고, 피드백을 주고받으며 회사, 팀, 그리고 구성원 모두 함께 성장할 수 있는 &lt;code&gt;&apos;상황 학습을 실현할 수 있는 조직&apos;&lt;/code&gt;을 만들고 싶다는 욕심이 생겼습니다.&lt;/p&gt;
 &lt;p&gt;상황 학습은 구성주의 교육철학에 바탕을 둔 학습 이론입니다. 구성주의의 기본 가정은 다음과 같습니다.&lt;/p&gt;
@@ -5365,7 +5300,7 @@ obj1&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class
 &lt;h2&gt;List Calendars &amp;#x26; Events API&lt;/h2&gt;
 &lt;p&gt;이러한 유즈케이스를 실제로 적용하기 위해서는 캘린더의 목록을 조회하고, 해당 캘린더에 등록된 이벤트를 조회하거나 새롭게 추가하는 등 몇 가지 구글 캘린더 API를 사용해야만 합니다. 이를 조금 더 자세히 알아보겠습니다.&lt;/p&gt;
 &lt;h3&gt;CalendarList: list&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/v3/reference/calendarList/list&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://developers.google.com/calendar/api/v3/reference/calendarList/list&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/v3/reference/calendarList/list&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://developers.google.com/calendar/api/v3/reference/calendarList/list&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 879px; &quot;
@@ -5391,7 +5326,7 @@ obj1&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class
 &lt;center&gt;캘린더 리스트 조회 API&lt;/center&gt;
 &lt;p&gt;캘린더 리스트 조회 API는 단순히 Authorization 헤더에 인증 토큰을 넘겨 해당 계정에 등록된 캘린더의 목록을 조회하는 API입니다. 이를 통해 캘린더의 ID와 같은 정보를 얻어올 수 있으며, 캘린더 ID는 각 캘린더를 고유하게 식별하는 ID로 사용됩니다.&lt;/p&gt;
 &lt;h3&gt;Events: list&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/v3/reference/events/list&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://developers.google.com/calendar/api/v3/reference/events/list&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/v3/reference/events/list&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://developers.google.com/calendar/api/v3/reference/events/list&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
@@ -5471,7 +5406,7 @@ obj1&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class
 &lt;p&gt;음..🤔 벌써 불안합니다. 서비스에 1억 개의 구글 계정이 등록되어 있다면 어떻게 될까요? 5분 안에 모든 이벤트 정보를 가져올 수 있을까요? 5분마다 네트워크 통신 비용을 지불해야 하는 걸까요? 만약 5분 안에 모든 이벤트 정보를 가져올 수 있고, 네트워크 통신 비용도 지불할 수 있다면 모든 문제가 해결되는 걸까요?&lt;/p&gt;
 &lt;p&gt;그렇지 않습니다. 사용자 입장에서 생각해보겠습니다. 이 구조에서는 구글 캘린더에서 일정 정보가 변경되었음에도 서비스는 아직 그 정보를 알지 못하는 상황이 발생할 수 있습니다. 그렇게 한번 오차가 발생하고, 오차가 누적되다 보면 사용자는 결국 서비스를 이탈하게 될 것입니다.&lt;/p&gt;
 &lt;h2&gt;Strategy #3. Fetch every time with Sync Token&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/guides/sync?hl=en&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://developers.google.com/calendar/api/guides/sync?hl=en&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/guides/sync?hl=en&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://developers.google.com/calendar/api/guides/sync?hl=en&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;그럼 다시 매 요청마다 이벤트 정보를 가져오는 방법으로 돌아가 API 호출이 왜 오래 걸리는지 생각해보겠습니다. 일반적으로 API 호출이 오래걸리는 것은 네트워크가 느려서 일수도 있지만, 한번에 탐색하는 데이터의 양이 너무 많아서 그런 경우가 많습니다. 그리고 API Reference를 조금 더 자세히 살펴보면 syncToken이라는 필드가 존재하고 있음을 확인할 수 있습니다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -5500,7 +5435,7 @@ obj1&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class
 &lt;p&gt;이는 마지막으로 Sync한 시점으로부터 발생한 변경사항만 탐색하는 방법이라고 합니다.&lt;/p&gt;
 &lt;p&gt;그래서 이를 적용해보았는데..... 생각보다 엄청나게 빨라지지는 않았습니다. 또한 결국에는 일정주기로 전체 탐색을 해야하는 구조로 되어 있어, 앞서 존재했던 매 요청마다 사용자가 대기해야한다는 문제는 근본적으로 해결할 수 없었습니다.&lt;/p&gt;
 &lt;h2&gt;Strategy #4. Get push notifications&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/guides/push?hl=en&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://developers.google.com/calendar/api/guides/push?hl=en&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.google.com/calendar/api/guides/push?hl=en&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://developers.google.com/calendar/api/guides/push?hl=en&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
@@ -5564,7 +5499,7 @@ obj1&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class
 &lt;p&gt;데이터 서명의 경우 하면 좋은데, 수신 측과 발신 측 모두 약간의 번거로움이 생길 수 있는 기능입니다. 하지만 그와 동시에 이상적 시스템을 위해선 꼭 적용해야 하는 부분이기도 합니다.&lt;/p&gt;
 &lt;p&gt;막상 데이터 서명 기능을 제공하더라도 사용자에 따라 서명을 귀찮아하거나 검증을 위한 컴퓨팅 리소스 할애 등을 이유로 평문으로 데이터를 전달 받기 원하는 경우가 있을 수도 있습니다. 이 부분은 시스템을 구성하는 데 있어 고려해볼 만한 부분인 것 같습니다.&lt;/p&gt;
 &lt;p&gt;만약 데이터 서명을 선택적 기능으로 제공한다면 &apos;기능은 제공하지만, 사용자가 안전하게 사용하지 않는 것&apos;이라는 책임 회피/전가 즉, Shared Responsibility 구조를 가지게 됩니다. 이는 많은 소프트웨어와 정책, 사업 등에서 채택하고 있는 방법이고 웹훅을 정말 적극적으로 제공하는 깃헙 또한 데이터 서명을 선택적 기능으로 제공하고 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://docs.github.com/en/developers/webhooks-and-events/webhooks/securing-your-webhooks&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://docs.github.com/en/developers/webhooks-and-events/webhooks/securing-your-webhooks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.github.com/en/developers/webhooks-and-events/webhooks/securing-your-webhooks&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://docs.github.com/en/developers/webhooks-and-events/webhooks/securing-your-webhooks&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;3. 신뢰할 수 있는 발신처 제공&lt;/h3&gt;
 &lt;p&gt;웹훅을 수신하는 입장에서 생각해볼 때, 우리가 수신한 웹훅이 정말 신뢰할 수 있는 시스템이 보낸 제대로 된 데이터일까? 라는 부분은 정말 중요한 요소입니다. 통신을 암호화하고, 데이터를 서명하였더라도 그때 사용하는 인증서나 키가 노출된다면 무용지물입니다.&lt;/p&gt;
 &lt;p&gt;&apos;웹훅을 보낸 발신처를 신뢰할 수 있는가?&apos;를 판단할 수 있는 가장 대표적 지표는 웹훅을 발신한 시스템이 &apos;누구&apos;인가입니다. 그렇다면 &apos;누구&apos;는 어떻게 식별할 수 있을까요? 방법은 L7에서 확인하거나 L3에서 확인하는 등 다양하겠지만, 가장 쉽고 널리 사용되는 방법은 웹훅 발신 시스템의 IP를 우리 네트워크에 화이트 리스트로 등록하여 L3에서 발신처를 검증하는 방식입니다.&lt;/p&gt;
@@ -5906,7 +5841,7 @@ obj1&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class
 &lt;p&gt;도메인에 따라서 MVC로 작성한 코드가 거대한 레거시 덩어리로 느껴질 수도 있습니다. 하지만 그럼에도 불구하고 아키텍처 그 자체보다는 코드가 지니는 가치와 생산성에 집중해야만 합니다. 방식이 다를 뿐, 틀린 것은 아닙니다. 이를 얼마나 잘 타협하면서 의존성의 크기를 잘 조절하는지도 정말 중요합니다.&lt;/p&gt;
 &lt;h2&gt;Appendix&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/Gummybearr/random-kata/tree/main/kotlin/simple-hexagonal&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Gummybearr/random-kata/tree/main/kotlin/simple-hexagonal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/thombergs/buckpal&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://github.com/thombergs/buckpal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Gummybearr/random-kata/tree/main/kotlin/simple-hexagonal&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://github.com/Gummybearr/random-kata/tree/main/kotlin/simple-hexagonal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/thombergs/buckpal&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://github.com/thombergs/buckpal&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item></channel></rss>

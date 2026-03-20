@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-template-tag-tsx",
+    "path": "/tags/리뷰/",
+    "result": {"data":{"allMarkdownRemark":{"nodes":[{"fields":{"slug":"/기브앤테이크-6장-이기적인-이타주의자/"},"frontmatter":{"title":"기브앤테이크 6장. 이기적인 이타주의자","date":"2025-02-02T02:02:06.000Z"}},{"fields":{"slug":"/평범한-결혼생활-임경선/"},"frontmatter":{"title":"평범한 결혼생활 - 임경선 / 별점 3.0","date":"2024-09-18T04:23:18.000Z"}}],"totalCount":2}},"pageContext":{"tag":"리뷰"}},
+    "staticQueryHashes": ["2580406332","3810308631"]}
