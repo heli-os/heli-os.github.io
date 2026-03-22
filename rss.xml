@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[테오 블로그 RSS Feed]]></title><description><![CDATA[오랫동안 제품을 만들어온 엔지니어의 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 22 Mar 2026 00:11:26 GMT</lastBuildDate><item><title><![CDATA[빨라진 실행, 느려진 팀 — 생산성의 역설]]></title><description><![CDATA[스프린트가 끝났다. 개발자들은 할 일이 없다. 기획은 아직 안 나왔고, 디자인은 리뷰 중이다. 백로그에는 "추후 논의"라고 적힌 티켓만 쌓여 있다. 이상한 일이다. 팀의 실행 속도는 분명히 빨라졌다. 예전에 2주 걸리던 피처를…]]></description><link>https://dataportal.kr/%EB%B9%A8%EB%9D%BC%EC%A7%84-%EC%8B%A4%ED%96%89-%EB%8A%90%EB%A0%A4%EC%A7%84-%ED%8C%80-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%98-%EC%97%AD%EC%84%A4/</link><guid isPermaLink="false">https://dataportal.kr/빨라진-실행-느려진-팀-생산성의-역설/</guid><pubDate>Sat, 21 Mar 2026 19:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[테오 블로그 RSS Feed]]></title><description><![CDATA[오랫동안 제품을 만들어온 엔지니어의 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 22 Mar 2026 00:29:38 GMT</lastBuildDate><item><title><![CDATA[빨라진 실행, 느려진 팀 — 생산성의 역설]]></title><description><![CDATA[스프린트가 끝났다. 개발자들은 할 일이 없다. 기획은 아직 안 나왔고, 디자인은 리뷰 중이다. 백로그에는 "추후 논의"라고 적힌 티켓만 쌓여 있다. 이상한 일이다. 팀의 실행 속도는 분명히 빨라졌다. 예전에 2주 걸리던 피처를…]]></description><link>https://dataportal.kr/%EB%B9%A8%EB%9D%BC%EC%A7%84-%EC%8B%A4%ED%96%89-%EB%8A%90%EB%A0%A4%EC%A7%84-%ED%8C%80-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%98-%EC%97%AD%EC%84%A4/</link><guid isPermaLink="false">https://dataportal.kr/빨라진-실행-느려진-팀-생산성의-역설/</guid><pubDate>Sat, 21 Mar 2026 19:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 832px; &quot;
     &gt;
@@ -83,9 +83,9 @@
 &lt;p&gt;그렇다면 이 역설을 어떻게 깰 수 있을까.&lt;/p&gt;
 &lt;p&gt;핵심은 간단하다. What을 PM과 디자이너만의 영역으로 두지 않는 것이다. 문제 파악, 아이디에이션, 방향 설정 — 이 과정에 엔지니어가 함께 참여해야 한다.&lt;/p&gt;
 &lt;p&gt;말처럼 쉽지는 않다. 그래도 구체적인 방법은 있다.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;고객 문의 기반 문제 파악에 참여한다.&lt;/strong&gt; 고객이 어떤 문제로 문의를 넣는지, 어떤 기능을 예상과 다르게 쓰는지를 엔지니어가 직접 보는 것만으로도 시야가 달라진다. 구글 스프레드시트 내보내기를 단순 데이터 추출용으로 만들었는데, 고객이 이걸로 자체 ERP를 구축하고 있다면 — 그건 엔지니어가 가장 빨리 포착할 수 있는 종류의 인사이트다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;고객 문의 기반 문제 파악에 참여한다.&lt;/strong&gt; 고객이 어떤 문제로 문의를 넣는지, 어떤 기능을 예상과 다르게 쓰는지를 엔지니어가 직접 보는 것만으로도 시야가 달라진다. 단순 알림용으로 만든 웹훅을 고객이 자체 자동화 파이프라인의 핵심 트리거로 쓰고 있다면 — 그건 엔지니어가 가장 빨리 포착할 수 있는 종류의 인사이트다.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;벤치마크 세션을 함께 한다.&lt;/strong&gt; 경쟁사 분석, 시장 리서치를 PM만 하는 게 아니라, 팀 전체가 주기적으로 함께 들여다본다. 엔지니어의 관점에서 보이는 기술적 가능성이 전혀 다른 아이디어를 만들어내기도 한다.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;프로토타이핑으로 아이디에이션에 기여한다.&lt;/strong&gt; 피그마 목업 대신 실제로 동작하는 프로토타입을 빠르게 만들어서 팀의 논의를 앞당긴다. How가 싸진 세상에서, 프로토타입을 만드는 비용도 거의 없다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;프로토타이핑으로 아이디에이션에 기여한다.&lt;/strong&gt; 피그마 목업 대신 실제로 동작하는 프로토타입을 빠르게 만들어서 팀의 논의를 앞당긴다. How가 저렴해진 세상에서, 프로토타입을 만드는 비용도 거의 없다.&lt;/p&gt;
 &lt;p&gt;결국 How만 잘하는 사람은 대체 가능해진다. What에 참여할 수 있는 엔지니어만이 팀에서 유의미한 자리를 유지할 수 있다. 이건 위협이 아니라 기회다. 과거에는 엔지니어가 기획에 참여할 여유가 없었지만, 지금은 실행 시간이 줄어든 만큼 여유가 생겼으니까.&lt;/p&gt;
 &lt;h3&gt;What과 How를 같은 스프린트에서 하지 않기&lt;/h3&gt;
 &lt;p&gt;&lt;span
