@@ -1,0 +1,1 @@
+(self.webpackChunk_vallista_land_blog=self.webpackChunk_vallista_land_blog||[]).push([[878],{8878:function(){}}]);
