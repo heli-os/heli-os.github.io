@@ -1,4 +1,153 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[테오 블로그 RSS Feed]]></title><description><![CDATA[오랫동안 제품을 만들어온 엔지니어의 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 29 Mar 2026 17:24:35 GMT</lastBuildDate><item><title><![CDATA[나라는 이야기의 작가는 누구인가]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%82%98%EB%9D%BC%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98-%EC%9E%91%EA%B0%80%EB%8A%94-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80/</link><guid isPermaLink="false">https://dataportal.kr/%EB%82%98%EB%9D%BC%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98-%EC%9E%91%EA%B0%80%EB%8A%94-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80/</guid><pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[테오 블로그 RSS Feed]]></title><description><![CDATA[오랫동안 제품을 만들어온 엔지니어의 블로그]]></description><link>https://dataportal.kr</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 29 Mar 2026 17:51:48 GMT</lastBuildDate><item><title><![CDATA[리더십팀은 UN이 아니다]]></title><description><![CDATA[리더십 미팅이 시작되었다. 엔지니어링 리드가 먼저 입을 연다. "개발팀 입장에서 말씀드리면, 이번 일정은 현실적으로 어렵습니다." 프로덕트 리드가 바로 받는다. "PM…]]></description><link>https://dataportal.kr/%EB%A6%AC%EB%8D%94%EC%8B%AD%ED%8C%80%EC%9D%80-UN%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4/</link><guid isPermaLink="false">https://dataportal.kr/%EB%A6%AC%EB%8D%94%EC%8B%AD%ED%8C%80%EC%9D%80-UN%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4/</guid><pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 54.6875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAe5K2bNYcP/EABkQAQEBAAMAAAAAAAAAAAAAAAECAAMQEf/aAAgBAQABBQLCJPIPVxOk8P/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAMBAQAAAAAAAAAAAAAAAAABEBEh/9oACAEBAAY/AjrHNyf/xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAhEFH/2gAIAQEAAT8hWCy616yPZvogYPjOjcEAhv/aAAwDAQACAAMAAAAQE9//xAAWEQEBAQAAAAAAAAAAAAAAAAAAASH/2gAIAQMBAT8QjH//xAAWEQEBAQAAAAAAAAAAAAAAAAAAASH/2gAIAQIBAT8QrX//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMRBBUXHB/9oACAEBAAE/EGEsC68yvRzLYZ0nTCkNyDFn33weotLa3D5g0T//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;리더십팀은 UN이 아니다&quot;
+        title=&quot;&quot;
+        src=&quot;/static/98e7f6e544192df01f0d5def547b88d2/72e01/thumbnail.jpg&quot;
+        srcset=&quot;/static/98e7f6e544192df01f0d5def547b88d2/e4a55/thumbnail.jpg 256w,
+/static/98e7f6e544192df01f0d5def547b88d2/36dd4/thumbnail.jpg 512w,
+/static/98e7f6e544192df01f0d5def547b88d2/72e01/thumbnail.jpg 1024w,
+/static/98e7f6e544192df01f0d5def547b88d2/2f609/thumbnail.jpg 1408w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;리더십 미팅이 시작되었다. 엔지니어링 리드가 먼저 입을 연다. &quot;개발팀 입장에서 말씀드리면, 이번 일정은 현실적으로 어렵습니다.&quot; 프로덕트 리드가 바로 받는다. &quot;PM 조직에서는 이 기능이 이번 분기에 반드시 나가야 한다고 보고 있습니다.&quot; 디자인 리드가 끼어든다. &quot;디자인팀 관점에서는 품질을 더 가져가고 싶은데요.&quot; 각자 자기 팀을 대표해서 발언한다. 서로의 영역을 존중하며 합의점을 찾으려 한다. 대화는 정중하고, 분위기는 나쁘지 않다.&lt;/p&gt;
+&lt;p&gt;그런데 이 회의가 끝난 뒤, 결정된 것은 거의 없었다. 모두가 자기 팀의 이익을 조금씩 양보하면서 타협안을 만들었지만, 누구도 만족하지 않았고, 조직 전체에 가장 좋은 결정이 무엇인지는 논의조차 되지 않았다.&lt;/p&gt;
+&lt;p&gt;이 미팅은 UN 총회와 무엇이 다른가?&lt;/p&gt;
+&lt;h3&gt;대사와 리더의 차이&lt;/h3&gt;
+&lt;p&gt;UN 총회에서 각국의 대사는 자국의 이익을 대표한다. 그것이 그들의 역할이다. 양보는 최소화하고, 자국에 유리한 결과를 이끌어내는 것이 유능한 대사의 조건이다. 대사에게 &quot;당신 나라 이익 좀 포기하고 전체를 위해 양보하세요&quot;라고 말하면 어이없어할 것이다.&lt;/p&gt;
+&lt;p&gt;그런데 많은 리더십팀이 정확히 이 UN 모델로 작동한다. 엔지니어링 리드는 개발팀의 대사, 프로덕트 리드는 PM 조직의 대사, 디자인 리드는 디자인팀의 대사. 각자 자기 부서의 이익을 대변하기 위해 미팅에 온다. 미팅의 결과는 각 부서 이익의 타협점이지, 조직 전체를 위한 최선의 결정이 아니다.&lt;/p&gt;
+&lt;p&gt;여기서 근본적인 질문이 생긴다. 리더십팀에 앉아 있는 리더들의 정체성은 무엇인가? 그들은 부서의 대사인가, 조직의 리더인가?&lt;/p&gt;
+&lt;p&gt;내가 경험을 통해 확신하게 된 것은 이것이다. 리더십팀에서 내 첫 번째 팀은 내가 이끄는 팀이 아니라, 내가 속한 리더십팀이다. 엔지니어링 리드로서 나의 1순위 팀은 개발팀이 아니라 리더십팀이어야 한다. 이것은 개발팀을 소홀히 하라는 뜻이 아니다. 리더십팀에서 내린 결정이 조직 전체에 가장 좋은 결정이 되어야, 결국 개발팀도 더 나은 환경에서 일할 수 있다는 뜻이다.&lt;/p&gt;
+&lt;p&gt;대사는 자국에 불리한 결정에 반대한다. 리더는 자기 부서에 불리하더라도 조직 전체에 좋은 결정이면 지지한다. 이 차이가 UN 총회와 리더십팀을 구분한다.&lt;/p&gt;
+&lt;h3&gt;하나의 팀, 하나의 점수&lt;/h3&gt;
+&lt;p&gt;축구 경기를 생각해 보자. 미드필더가 경기 후 인터뷰에서 이렇게 말한다. &quot;저는 오늘 패스 성공률 94%를 기록했습니다. 제 역할은 충분히 했다고 생각합니다.&quot; 그런데 팀은 0-3으로 졌다. 이 미드필더는 좋은 경기를 한 것인가?&lt;/p&gt;
+&lt;p&gt;당연히 아니다. 축구에서 개인 기록이 아무리 좋아도 팀이 지면 의미가 없다. 모든 선수는 같은 점수를 받는다. 이긴 팀의 벤치 선수도 이긴 것이고, 진 팀의 MVP도 진 것이다. 하나의 팀, 하나의 점수.&lt;/p&gt;
+&lt;p&gt;조직도 마찬가지여야 한다. 엔지니어링팀이 모든 기술 지표를 달성했지만 회사 전체가 분기 목표를 놓쳤다면, 엔지니어링 리드도 실패한 것이다. 마케팅팀이 캠페인 성과를 초과 달성했지만 제품이 제때 출시되지 않아 매출이 빠졌다면, 마케팅 리드도 그 책임에서 자유롭지 않다.&lt;/p&gt;
+&lt;p&gt;이것이 불공평하게 느껴질 수 있다. &quot;내 팀은 잘했는데 왜 나까지 실패인가?&quot; 하지만 이 불공평함을 받아들이는 것이 리더십팀의 구성원이 되는 것의 의미다. 내 부서의 성과가 좋으면서 회사 전체가 안 좋다면, 그것은 내가 리더십팀의 리더로서 충분히 기여하지 못했다는 뜻이기도 하다. 다른 부서의 문제를 함께 풀었어야 했고, 자원 배분에 대해 더 적극적으로 의견을 냈어야 했고, 조직 전체의 병목을 해소하는 데 나서야 했다.&lt;/p&gt;
+&lt;p&gt;하나의 팀, 하나의 점수를 받아들이면, 리더십 미팅의 풍경이 바뀐다. &quot;우리 팀 입장에서는&quot;이라는 말 대신 &quot;회사 전체로 볼 때&quot;라는 말이 나오기 시작한다. 다른 부서의 문제가 더 이상 남의 일이 아니게 된다. 자원이 부족한 팀을 돕는 것이 내 부서의 이익을 줄이는 것이 아니라, 우리 모두의 점수를 올리는 것이 된다.&lt;/p&gt;
+&lt;h3&gt;왜 부서 이익을 내려놓기 어려운가&lt;/h3&gt;
+&lt;p&gt;그런데 왜 이것이 말처럼 쉽지 않을까?&lt;/p&gt;
+&lt;p&gt;첫 번째는 정체성의 문제다. &quot;나는 엔지니어링 리드다.&quot; 이 문장에서 정체성은 엔지니어링에 있다. 리더십팀의 구성원이라는 정체성은 부차적이다. 매일 함께 일하는 사람은 개발팀 팀원들이고, 리더십 미팅은 일주일에 한두 번이다. 자연스럽게 소속감은 부서에 더 강하게 형성된다.&lt;/p&gt;
+&lt;p&gt;두 번째는 부서원들의 기대다. 리더가 리더십 미팅에서 돌아올 때, 팀원들은 묻는다. &quot;우리한테 유리한 결과가 나왔나요?&quot; 리더가 &quot;사실 우리 팀에는 좀 불리하지만 회사 전체를 위해 이렇게 결정됐다&quot;고 말하면, 팀원들은 실망할 수 있다. &quot;우리 리드가 우리 편을 안 들어주네.&quot;&lt;/p&gt;
+&lt;p&gt;이 순간의 두려움이 크다. 리더십 미팅에서 조직 전체를 위해 양보한 리더가, 부서로 돌아가면 배신자 취급을 받을까 걱정하는 것이다. 그래서 많은 리더들은 리더십 미팅에서 자기 부서의 이익을 최대한 지키려 한다. 부서로 돌아가서 &quot;승리&quot;를 보고하기 위해.&lt;/p&gt;
+&lt;p&gt;하지만 나는 이 두려움이 대부분 과장되어 있다고 생각한다. 팀원들이 정말로 원하는 것은 &quot;우리 편만 드는 리더&quot;가 아니다. 그들이 원하는 것은 &quot;회사가 잘 되게 만드는 리더&quot;다. 조직이 잘 되어야 팀도 잘 되고, 팀이 잘 되어야 개인도 잘 된다는 것을 대부분의 팀원들은 알고 있다.&lt;/p&gt;
+&lt;p&gt;물론 그 결정의 배경을 제대로 설명해야 한다. &quot;그냥 결정됐어&quot;가 아니라, &quot;이런 이유로 이 결정이 조직 전체에 가장 좋다고 판단했고, 우리 팀에는 이런 영향이 있지만, 장기적으로는 이런 이점이 있다&quot;고 말해야 한다. 투명한 설명 없이 양보만 가져오면, 팀원들의 불만은 당연하다.&lt;/p&gt;
+&lt;h3&gt;조직의 리더로 서는 연습&lt;/h3&gt;
+&lt;p&gt;UN 모델에서 벗어나는 것은 한 번의 결심으로 되지 않는다. 습관을 바꿔야 한다. 몇 가지 구체적인 연습이 도움이 된다.&lt;/p&gt;
+&lt;p&gt;첫째, 리더십 미팅에서 발언할 때 주어를 바꾸는 것이다. &quot;개발팀 입장에서는&quot;을 &quot;회사 전체로 볼 때&quot;로 바꿔 보자. 단순한 언어의 변화지만, 이 변화가 사고의 프레임을 바꾼다. &quot;개발팀 입장에서는 일정이 부족합니다&quot;와 &quot;회사 전체로 볼 때 이 일정에서 가장 큰 리스크는 품질입니다&quot;는 같은 문제를 다른 시야로 본다. 전자는 부서의 어려움을 호소하는 것이고, 후자는 조직의 의사결정에 기여하는 것이다.&lt;/p&gt;
+&lt;p&gt;둘째, 다른 부서의 문제에 먼저 나서는 것이다. 마케팅팀이 어려움을 겪고 있을 때, &quot;그건 마케팅 이슈니까&quot;라고 넘기는 대신 &quot;우리 팀에서 도울 수 있는 부분이 있을까?&quot;라고 묻는다. 이것은 선의만의 문제가 아니다. 마케팅의 문제가 해결되지 않으면 결국 회사 전체의 점수가 내려가고, 그것은 내 점수이기도 하다.&lt;/p&gt;
+&lt;p&gt;셋째, 결정이 내려진 후에 그것을 진심으로 지지하는 것이다. 리더십 미팅에서 충분히 토론한 후 결정이 내려지면, 설령 내가 원래 다른 의견이었더라도, 그 결정을 부서에 돌아가서 적극적으로 지지해야 한다. &quot;나는 반대했는데 그렇게 결정됐어&quot;라고 말하는 순간, 리더십팀의 결정은 힘을 잃는다. 그리고 팀원들은 리더십팀이 하나의 팀이 아니라 각자 따로 노는 집단이라고 느끼게 된다.&lt;/p&gt;
+&lt;p&gt;당신은 리더십 미팅에서 부서의 대사로 앉아 있는가, 조직의 리더로 앉아 있는가? 다음 미팅에서 &quot;우리 팀 입장에서는&quot;이라는 말이 나오려 할 때, 한 번만 멈춰 보자. 그리고 &quot;회사 전체로 볼 때&quot;로 시작해 보자. 그 작은 전환이 리더십팀을 UN 총회에서 진짜 팀으로 바꾸는 첫걸음이 될 수 있다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[행동을 지적할 것인가, 성과를 지적할 것인가]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%ED%96%89%EB%8F%99%EC%9D%84-%EC%A7%80%EC%A0%81%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%A7%80%EC%A0%81%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80/</link><guid isPermaLink="false">https://dataportal.kr/%ED%96%89%EB%8F%99%EC%9D%84-%EC%A7%80%EC%A0%81%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%A7%80%EC%A0%81%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80/</guid><pubDate>Mon, 30 Mar 2026 11:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 54.6875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB7NdE1IT/xAAYEAEAAwEAAAAAAAAAAAAAAAABEBESAv/aAAgBAQABBQLpo2aiiP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAQEBAAAAAAAAAAAAAAAAAAEAIP/aAAgBAQAGPwKDP//EABkQAQEAAwEAAAAAAAAAAAAAAAERABBRYf/aAAgBAQABPyG20vuJdGkEjkGga//aAAwDAQACAAMAAAAQIA//xAAWEQEBAQAAAAAAAAAAAAAAAAABEEH/2gAIAQMBAT8QE0n/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxBGf//EABoQAQACAwEAAAAAAAAAAAAAAAERMQAQIUH/2gAIAQEAAT8QhUKHicIsoRkOdrSIBGxwiCT2Nf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;행동을 지적할 것인가, 성과를 지적할 것인가&quot;
+        title=&quot;&quot;
+        src=&quot;/static/72ac604ecf7cad6a312aecdfa57ea3b8/72e01/thumbnail.jpg&quot;
+        srcset=&quot;/static/72ac604ecf7cad6a312aecdfa57ea3b8/e4a55/thumbnail.jpg 256w,
+/static/72ac604ecf7cad6a312aecdfa57ea3b8/36dd4/thumbnail.jpg 512w,
+/static/72ac604ecf7cad6a312aecdfa57ea3b8/72e01/thumbnail.jpg 1024w,
+/static/72ac604ecf7cad6a312aecdfa57ea3b8/2f609/thumbnail.jpg 1408w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;분기 리뷰 자리에서였다. 한 리더의 팀은 목표 매출을 달성했다. 숫자만 보면 나무랄 데가 없었다. 그런데 그 팀의 이직률은 조직에서 가장 높았고, 다른 팀과의 협업 요청은 번번이 무산되었으며, 팀원들의 표정은 성과를 달성한 사람들의 것이 아니었다. 나는 이 리더에게 뭐라고 말해야 할까? 숫자는 좋았으니 &quot;수고했다&quot;고 해야 할까, 아니면 보이지 않는 문제를 꺼내야 할까?&lt;/p&gt;
+&lt;p&gt;이 상황에서 많은 리더가 침묵을 택한다. 숫자가 좋으니까. 측정 가능한 성과가 달성되었으니까. 하지만 숫자 뒤에 숨으면, 진짜 문제는 계속 자란다.&lt;/p&gt;
+&lt;h3&gt;측정할 수 있는 것의 유혹&lt;/h3&gt;
+&lt;p&gt;우리는 측정할 수 있는 것에 끌린다. 매출, 완료한 프로젝트 수, 고객 만족도 점수, 스프린트 속도. 이런 지표들은 명확하다. &quot;이번 분기 목표 대비 92%를 달성했다&quot;는 말에는 논쟁의 여지가 적다. 그래서 피드백하기 편하다. 숫자가 나를 대신 말해 주니까.&lt;/p&gt;
+&lt;p&gt;반면 행동은 모호하다. &quot;회의에서 다른 팀의 의견을 자주 끊는다&quot;, &quot;약속한 기한을 조용히 넘긴다&quot;, &quot;팀원들 앞에서는 동의하고 뒤에서는 다른 이야기를 한다.&quot; 이런 행동들은 KPI에 잡히지 않는다. 측정할 수 없으니 피드백의 대상이 되지 못한다.&lt;/p&gt;
+&lt;p&gt;건강검진을 떠올려 보자. 어떤 의사는 혈압, 혈당, 콜레스테롤 수치만 본다. 숫자가 정상이면 &quot;건강합니다&quot;라고 말한다. 또 다른 의사는 수치를 본 뒤에 생활습관을 묻는다. 수면은 충분한지, 운동은 하는지, 스트레스는 어떻게 관리하는지. 수치가 정상이어도 생활습관이 나쁘면 &quot;지금은 괜찮지만, 이대로 가면 문제가 생길 겁니다&quot;라고 말한다.&lt;/p&gt;
+&lt;p&gt;어느 의사가 더 좋은 의사인가? 답은 분명하다. 수치만 보는 의사는 문제가 발생한 후에야 반응한다. 생활습관까지 보는 의사는 문제가 발생하기 전에 경고한다.&lt;/p&gt;
+&lt;p&gt;조직에서 성과만 피드백하는 리더는 수치만 보는 의사와 같다. 숫자가 무너진 후에야 &quot;왜 이렇게 됐지?&quot;라고 묻는다. 하지만 그때는 이미 늦은 경우가 많다. 행동까지 보는 리더는 숫자가 무너지기 전에 신호를 읽는다.&lt;/p&gt;
+&lt;h3&gt;행동 피드백이 어려운 진짜 이유&lt;/h3&gt;
+&lt;p&gt;그런데 왜 대부분의 조직에서 행동에 대한 피드백은 잘 이루어지지 않을까?&lt;/p&gt;
+&lt;p&gt;첫 번째 이유는 주관성이다. 성과는 숫자로 이야기할 수 있지만, 행동은 해석이 필요하다. &quot;회의에서 상대의 말을 끊었다&quot;는 관찰은 비교적 객관적이지만, &quot;팀의 분위기를 나쁘게 만든다&quot;는 이미 판단이 섞여 있다. 이 판단이 나만의 해석인지, 모두가 공감하는 것인지 확신이 없다. 확신이 없으니 말을 꺼내기가 어렵다.&lt;/p&gt;
+&lt;p&gt;두 번째는 더 본질적인 문제다. 성과 피드백은 &apos;일&apos;에 대한 이야기이지만, 행동 피드백은 &apos;사람&apos;에 대한 이야기처럼 느껴진다는 것이다. &quot;이번 분기 매출이 목표에 못 미쳤다&quot;는 말은 업무 결과에 대한 평가다. 하지만 &quot;당신이 회의에서 다른 사람의 말을 자주 끊는다&quot;는 말은 인격에 대한 공격처럼 들릴 수 있다. 피드백을 주는 사람도 그게 두렵고, 받는 사람도 그렇게 느끼기 쉽다.&lt;/p&gt;
+&lt;p&gt;세 번째는 책임 추궁과 갈등을 혼동하는 것이다. 동료의 행동에 대해 이야기하는 것은 갈등을 일으키는 것이 아니라, 팀의 약속을 확인하는 것이다. 하지만 우리 머릿속에서 이 둘은 쉽게 구분되지 않는다. 행동을 지적하면 갈등이 생길 것 같고, 갈등은 피하고 싶으니 행동 피드백도 피하게 된다.&lt;/p&gt;
+&lt;p&gt;결과적으로 팀에서 일어나는 일은 이렇다. 성과 리뷰에서는 숫자 이야기만 한다. 행동에 대해서는 아무도 말하지 않는다. 그리고 숫자가 어느 날 갑자기 무너졌을 때, 모두가 놀란다. 사실은 갑자기가 아니었는데.&lt;/p&gt;
+&lt;h3&gt;성과 전에 행동이 먼저 무너진다&lt;/h3&gt;
+&lt;p&gt;대부분의 성과 문제는 갑자기 발생하지 않는다. 행동이라는 선행 지표가 먼저 신호를 보낸다.&lt;/p&gt;
+&lt;p&gt;회의에 자주 늦는 리더가 있다. 5분, 10분. 큰일은 아닌 것 같다. 하지만 이 행동이 반복되면 팀의 리듬이 깨진다. 다른 리더들도 시간을 덜 엄격하게 지키기 시작한다. 회의 시작이 매번 밀리고, 논의할 시간이 줄어들고, 중요한 결정이 다음으로 미뤄진다. 몇 달 뒤 프로젝트가 지연된다. 그때서야 &quot;왜 일정이 밀렸지?&quot;라고 묻지만, 뿌리는 훨씬 전에 시작되었다.&lt;/p&gt;
+&lt;p&gt;다른 팀의 요청을 무시하는 리더가 있다. 처음에는 &quot;바빠서 못 봤다&quot;는 핑계로 넘어간다. 하지만 이것이 패턴이 되면 협업이 끊긴다. 다른 팀들은 아예 요청을 하지 않게 된다. 각 팀이 독자적으로 움직이기 시작하고, 중복 작업이 생기고, 전체 효율이 떨어진다. 분기 성과가 나빠졌을 때 원인을 분석하면 &quot;협업 부재&quot;라는 결론이 나오지만, 그 시작은 한 리더의 반복된 무응답이었다.&lt;/p&gt;
+&lt;p&gt;이것이 내가 행동을 &apos;연기 감지기&apos;에 비유하는 이유다. 성과 지표는 화재 경보기다. 불이 나야 울린다. 하지만 행동은 연기 감지기다. 아직 불이 나지 않았지만, 연기가 피어오르고 있다는 것을 알려준다. 연기 감지기 없이 화재 경보기만 설치한 건물은 안전한 것 같지만, 실제로는 대응할 시간을 잃는다.&lt;/p&gt;
+&lt;p&gt;행동을 피드백하지 않는 조직은 연기 감지기 없이 운영되는 건물과 같다. 성과가 무너진 후에야 반응하고, 그때는 이미 손실이 크다.&lt;/p&gt;
+&lt;h3&gt;어떻게 행동을 이야기할 것인가&lt;/h3&gt;
+&lt;p&gt;행동 피드백이 어렵다는 것은 인정해야 한다. 하지만 어렵다고 피할 수는 없다. 방법은 있다. 핵심은 세 가지 요소를 갖추는 것이다. 구체적인 장면, 그 행동의 영향, 그리고 기대하는 변화.&lt;/p&gt;
+&lt;p&gt;&quot;당신의 태도가 문제입니다&quot;는 피드백이 아니다. 이것은 판단이다. 이런 말을 들으면 누구든 방어적이 된다.&lt;/p&gt;
+&lt;p&gt;대신 이렇게 말할 수 있다. &quot;지난 수요일 기획 회의에서 마케팅팀이 제안을 설명하는 중간에 두 번 말을 끊으셨어요. 그 후로 마케팅팀 쪽에서 발언이 거의 없었고, 결론이 한쪽으로만 기울어진 채 끝났습니다. 다음 회의에서는 상대 팀이 설명을 마칠 때까지 기다려 주시면, 더 균형 잡힌 논의가 될 것 같습니다.&quot;&lt;/p&gt;
+&lt;p&gt;차이가 느껴지는가? 앞의 말은 사람을 공격한다. 뒤의 말은 장면을 묘사하고, 영향을 설명하고, 구체적인 변화를 제안한다. 같은 문제를 이야기하지만, 받아들이는 사람의 경험은 완전히 다르다.&lt;/p&gt;
+&lt;p&gt;물론 이 공식을 안다고 해서 쉬워지는 것은 아니다. 여전히 불편하다. 하지만 최소한 &quot;어떻게 말해야 할지 모르겠다&quot;는 핑계는 줄어든다. 구조가 있으면 용기의 문턱이 낮아진다.&lt;/p&gt;
+&lt;p&gt;그리고 한 가지 더. 행동 피드백은 부정적인 것만이 아니다. &quot;지난 프로젝트에서 매주 진행 상황을 먼저 공유해 주신 덕분에 다른 팀과의 조율이 훨씬 수월했습니다&quot;도 행동 피드백이다. 좋은 행동을 구체적으로 이야기해 주면, 그 행동은 강화된다. 행동 피드백의 근육은 긍정적인 것부터 훈련하면 훨씬 쉽게 붙는다.&lt;/p&gt;
+&lt;p&gt;당신의 팀에서 마지막으로 누군가의 행동에 대해 이야기한 것은 언제인가? 숫자가 아닌, 그 사람의 행동에 대해서. 만약 기억이 나지 않는다면, 지금 당신의 팀에는 연기 감지기가 없는 셈이다. 불이 나기 전에, 연기를 먼저 이야기하자.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[불편한 지적이 팀을 살린다]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%B6%88%ED%8E%B8%ED%95%9C-%EC%A7%80%EC%A0%81%EC%9D%B4-%ED%8C%80%EC%9D%84-%EC%82%B4%EB%A6%B0%EB%8B%A4/</link><guid isPermaLink="false">https://dataportal.kr/%EB%B6%88%ED%8E%B8%ED%95%9C-%EC%A7%80%EC%A0%81%EC%9D%B4-%ED%8C%80%EC%9D%84-%EC%82%B4%EB%A6%B0%EB%8B%A4/</guid><pubDate>Mon, 30 Mar 2026 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1024px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 54.6875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAECAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAei95zuxif/EABsQAAIDAAMAAAAAAAAAAAAAAAECAAMREBMi/9oACAEBAAEFArWyPZ4B0FFadScf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bh//EABsQAAEEAwAAAAAAAAAAAAAAAAABEBEiITEy/9oACAEBAAY/AtwVXJJZJOW//8QAHBABAAICAwEAAAAAAAAAAAAAAQARITFBUXGB/9oACAEBAAE/IVqF/bNj7CAA5mpfUwhSjBAoon//2gAMAwEAAgADAAAAEMsv/8QAFxEBAAMAAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPxCxyP/EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxAQ7P/EABwQAQADAQADAQAAAAAAAAAAAAEAESExQVGRwf/aAAgBAQABPxBeydozvrzMnXE4Je/f2cmBZCQouUuoFi2jcIABQYE//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;불편한 지적이 팀을 살린다&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c1277a6f2ba5528a99fe541aa316e73b/72e01/thumbnail.jpg&quot;
+        srcset=&quot;/static/c1277a6f2ba5528a99fe541aa316e73b/e4a55/thumbnail.jpg 256w,
+/static/c1277a6f2ba5528a99fe541aa316e73b/36dd4/thumbnail.jpg 512w,
+/static/c1277a6f2ba5528a99fe541aa316e73b/72e01/thumbnail.jpg 1024w,
+/static/c1277a6f2ba5528a99fe541aa316e73b/2f609/thumbnail.jpg 1408w&quot;
+        sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;리더 미팅이 끝나고 각자 자리로 돌아가는 길이었다. 한 리더가 지난주에 약속한 일을 하지 않았다. 미팅에 참석한 모든 리더가 그 사실을 알고 있었다. 하지만 아무도 말하지 않았다. 그 대신 시선이 자연스럽게 나에게로 향했다. 결국 내가 지적했다. 미팅이 끝나고 몇몇 리더가 슬쩍 다가와 말했다. &quot;말씀하시길 잘했어요. 저도 신경 쓰이긴 했거든요.&quot;&lt;/p&gt;
+&lt;p&gt;그 순간 드는 생각이 있었다. 신경이 쓰였다면, 왜 직접 말하지 않았을까?&lt;/p&gt;
+&lt;p&gt;이것은 리더 한 명의 용기 문제가 아니다. 팀이 책임을 다루는 방식의 문제다. 그리고 이 문제를 풀지 못하면, 결국 모든 책임은 한 사람에게로 돌아간다.&lt;/p&gt;
+&lt;h3&gt;관리자의 짐을 동료에게 나누는 법&lt;/h3&gt;
+&lt;p&gt;축구 경기를 떠올려 보자. 감독만 선수를 야단치는 팀이 있고, 선수들끼리 서로 독려하고 지적하는 팀이 있다. 어느 팀이 더 강할까?&lt;/p&gt;
+&lt;p&gt;답은 명확하다. 선수들 사이에서 자발적으로 책임을 묻는 팀이 훨씬 강하다. 감독이 모든 상황을 볼 수는 없다. 경기장 안에서 벌어지는 일은 함께 뛰는 동료가 가장 잘 안다. 상대 수비를 제대로 안 따라간 동료에게 &quot;야, 뒤를 봐!&quot;라고 소리치는 것. 그것이 경기의 승패를 가른다.&lt;/p&gt;
+&lt;p&gt;조직도 마찬가지다. 리더가 여럿인 팀에서 책임을 묻는 역할이 오직 한 사람, 보통은 CEO나 CTO에게만 집중되어 있다면, 그 팀은 구조적으로 약하다. 한 사람이 모든 리더의 업무 이행을 추적하고, 미달 시 지적하고, 개선을 요구하는 것은 물리적으로 불가능하다. 설령 가능하더라도, 그것은 동료 간의 약속이 아니라 상하 관계의 감시가 된다.&lt;/p&gt;
+&lt;p&gt;반면 동료 리더들이 서로의 약속 이행을 확인하고, 미달 시 직접 이야기하는 팀이 있다. 이 팀에서는 책임의 무게가 한 사람에게 쏠리지 않는다. 모든 리더가 서로에게 책임을 묻기 때문에, 압박은 분산되고 효과는 배가된다. 감독 혼자 외치는 것보다 동료 선수 네 명이 함께 외치는 것이 훨씬 강력한 것처럼.&lt;/p&gt;
+&lt;p&gt;이것이 내가 동료 간 상호 피드백이 가장 효과적인 책임 시스템이라고 생각하는 이유다.&lt;/p&gt;
+&lt;h3&gt;왜 우리는 동료의 문제를 외면하는가&lt;/h3&gt;
+&lt;p&gt;그렇다면 왜 대부분의 팀에서 이런 상호 피드백이 자연스럽게 일어나지 않을까?&lt;/p&gt;
+&lt;p&gt;가장 큰 이유는 관계에 대한 두려움이다. &quot;내가 지적하면 관계가 틀어지지 않을까?&quot; 이 두려움은 매우 인간적이다. 특히 리더들 사이에서는 더 그렇다. 서로의 전문성을 존중하는 관계에서, 상대의 영역에 대해 뭔가를 지적한다는 것은 마치 그 사람의 역량을 의심하는 것처럼 느껴진다.&lt;/p&gt;
+&lt;p&gt;두 번째는 역할에 대한 착각이다. &quot;그건 CEO가 할 일이지, 내가 할 일이 아니야.&quot; 이 생각에는 묘한 편안함이 있다. 책임을 묻는 불편함을 윗사람에게 위임하면, 나는 좋은 동료로 남을 수 있다. 하지만 그 결과 CEO만 &apos;나쁜 역할&apos;을 맡게 되고, 나머지 리더들은 방관자가 된다.&lt;/p&gt;
+&lt;p&gt;세 번째는 더 근본적인 문제인데, 지적과 갈등을 혼동하는 것이다. 동료에게 &quot;지난주에 약속한 건 어떻게 됐어?&quot;라고 묻는 것은 갈등이 아니다. 합의한 약속의 이행을 확인하는 것이다. 하지만 많은 사람들이 이 질문 자체를 갈등의 시작으로 느낀다.&lt;/p&gt;
+&lt;p&gt;아이러니한 것은, 지적을 피하면 관계가 보존될 것 같지만 실제로는 반대라는 점이다. 문제를 외면하면 그것은 사라지지 않는다. 대신 불만으로 쌓인다. 회의실에서 말하지 못한 것들이 복도에서 뒷담화가 되고, 슬랙 DM에서 푸념이 된다. 지적하지 않는 것이 관계를 보호한다는 생각은 착각이다. 오히려 솔직하게 이야기한 후에 관계가 더 단단해지는 경험을 한 적이 있을 것이다. 불편한 대화 후에 &quot;아, 이 사람은 진심으로 이야기해 주는 사람이구나&quot;라는 신뢰가 생기는 순간 말이다.&lt;/p&gt;
+&lt;h3&gt;불편함을 시스템으로 만들기&lt;/h3&gt;
+&lt;p&gt;문제는 이 불편함이 &apos;개인의 용기&apos;에 의존해서는 지속되지 않는다는 것이다. 용기 있는 한두 사람이 지적을 하다가 지치면, 팀은 다시 침묵으로 돌아간다. 불편함을 시스템으로 만들어야 한다.&lt;/p&gt;
+&lt;p&gt;내가 효과적이라고 느낀 방법은 단순하다. 리더들이 일정 주기로 모여서, 서로에게 딱 한 가지씩 이야기하는 시간을 갖는 것이다. &quot;당신이 팀에 더 기여하기 위해 한 가지 더 잘했으면 하는 것&quot;을 직접 말한다.&lt;/p&gt;
+&lt;p&gt;처음 이 훈련을 시도했을 때, 분위기는 당연히 어색했다. 서로 눈을 잘 마주치지 못했고, 말을 꺼내기까지 긴 침묵이 흘렀다. 그런데 한 사람이 먼저 입을 열자 흐름이 바뀌었다. 첫 번째 피드백이 나오면 두 번째는 훨씬 쉬워진다. 세 번째부터는 분위기가 완전히 달라진다. 놀라운 것은 피드백을 받는 사람들의 반응이었다. 대부분 방어적이지 않았다. 오히려 &quot;아, 그게 그렇게 보였구나&quot;라며 고개를 끄덕이는 경우가 많았다.&lt;/p&gt;
+&lt;p&gt;이 훈련의 핵심은 피드백의 내용이 아니다. 팀 안에서 서로의 행동에 대해 이야기하는 것이 정상적인 일이라는 경험을 만드는 것이다. 한번 이 경험을 하고 나면, 일상에서도 동료에게 뭔가를 이야기하는 것이 조금 덜 어려워진다. 완전히 편해지지는 않는다. 하지만 &quot;우리는 서로에게 이런 이야기를 하는 팀이다&quot;라는 기준이 생긴다. 그 기준이 생기면, 침묵은 더 이상 예의가 아니라 회피가 된다.&lt;/p&gt;
+&lt;p&gt;중요한 것은 이 피드백이 일회성 이벤트가 아니라 반복 가능한 루틴이어야 한다는 점이다. 분기에 한 번이든, 중요한 프로젝트가 끝난 후든, 팀이 정기적으로 이 시간을 갖는 것이 핵심이다. 피드백은 근육과 같아서, 쓰지 않으면 약해진다.&lt;/p&gt;
+&lt;h3&gt;지적이 아니라 기대의 표현이다&lt;/h3&gt;
+&lt;p&gt;여기서 한 가지 프레이밍을 바꿔보고 싶다. 우리는 이것을 &apos;지적&apos;이라고 부르지만, 본질적으로는 &apos;기대의 표현&apos;이다.&lt;/p&gt;
+&lt;p&gt;동료에게 &quot;지난번 미팅에서 약속한 자료가 아직 안 나왔다&quot;고 말하는 것은, 그 동료에게 기대가 있기 때문이다. 기대가 없는 사람에게는 지적도 하지 않는다. 포기한 관계에서는 불편한 대화가 필요 없다. 그냥 거리를 두면 된다.&lt;/p&gt;
+&lt;p&gt;그래서 동료의 문제를 지적하는 것은 사실 이렇게 말하는 것과 같다. &quot;나는 당신이 더 잘할 수 있다고 믿는다. 그리고 이 팀이 함께 더 나아질 수 있다고 믿는다.&quot; 불편한 말을 건네는 것이 신뢰의 부재가 아니라 신뢰의 증거라는 것을 팀원들이 이해하면, 피드백의 의미가 달라진다.&lt;/p&gt;
+&lt;p&gt;물론 모든 지적이 기대의 표현이 되려면 전제가 있다. 진심이어야 한다. 자기 불편함을 해소하기 위한 지적, 우위를 점하기 위한 지적은 기대가 아니라 공격이다. 그 차이를 구분하는 것은 결국 &apos;이 말을 하는 이유가 이 사람과 이 팀을 위한 것인가&apos;라는 질문에 솔직하게 답하는 것이다.&lt;/p&gt;
+&lt;p&gt;당신의 팀에서 동료 리더에게 마지막으로 불편한 말을 건넨 것은 언제인가? 만약 기억이 나지 않는다면, 지금 당신의 팀에서 책임은 누구의 몫인가?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[나라는 이야기의 작가는 누구인가]]></title><description><![CDATA[…]]></description><link>https://dataportal.kr/%EB%82%98%EB%9D%BC%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98-%EC%9E%91%EA%B0%80%EB%8A%94-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80/</link><guid isPermaLink="false">https://dataportal.kr/%EB%82%98%EB%9D%BC%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98-%EC%9E%91%EA%B0%80%EB%8A%94-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80/</guid><pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 768px; &quot;
     &gt;
