@@ -1,0 +1,294 @@
+# 테오 블로그
+
+> 스타트업 CTO가 쓰는 제품 엔지니어링, Agentic AI 논문 리뷰, 조직·성장 에세이, 작은 팀의 기술에 대한 블로그. 오랫동안 제품을 만들어온 엔지니어의 기록.
+
+이 파일은 LLM·AI 검색 엔진(ChatGPT, Perplexity, Claude, Gemini 등)이 사이트를 효율적으로 이해하도록 돕는 가이드입니다.
+
+## 주요 리소스
+- 전체 글 목록: https://dataportal.kr/posts/
+- 태그 목록: https://dataportal.kr/tags/
+- 책 목록: https://dataportal.kr/books/
+- 저자 소개: https://dataportal.kr/about/
+- 저자 이력서: https://dataportal.kr/resume/
+- 사이트맵: https://dataportal.kr/sitemap-index.xml
+- RSS: https://dataportal.kr/rss.xml
+- 책 RSS: https://dataportal.kr/books/rss.xml
+
+## 글 (최신순)
+
+- [떠날 수 있어서 떠난다](https://dataportal.kr/%EB%96%A0%EB%82%A0-%EC%88%98-%EC%9E%88%EC%96%B4%EC%84%9C-%EB%96%A0%EB%82%9C%EB%8B%A4/) — 해외 이주의 이유는 세금이나 교육이 아니다. 떠날 수 있게 된 사람만이 떠날 수 있다. 안 하는 것과 못 하는 것의 차이, 그리고 리셋이라는 매력에 대한 관찰.
+- [책상 바깥에서 자라는 것들](https://dataportal.kr/%EC%B1%85%EC%83%81-%EB%B0%94%EA%B9%A5%EC%97%90%EC%84%9C-%EC%9E%90%EB%9D%BC%EB%8A%94-%EA%B2%83%EB%93%A4/) — 직관은 책상에서 쥐어짜는 것이 아니라, 책상을 떠난 시간에 조용히 쌓인다. 좋은 판단의 재료 절반은 의자 위에 없다. 일의 질은 일하지 않는 시간의 질에 수렴한다.
+- [사랑을 받지 않는 기술](https://dataportal.kr/%EC%82%AC%EB%9E%91%EC%9D%84-%EB%B0%9B%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B8%B0%EC%88%A0/) — 회피형이 발달시킨 정교한 생존전략을 자판기 메타포로 풀어낸 에세이. 받지 않는 일에 능숙해진 사람이 다시 받는 법을 배운다는 것에 대해.
+- [이름이 숫자가 되던 날](https://dataportal.kr/%EC%9D%B4%EB%A6%84%EC%9D%B4-%EC%88%AB%EC%9E%90%EA%B0%80-%EB%90%98%EB%8D%98-%EB%82%A0/) — 1952년 미 공군이 깨달은 사실 — 평균적인 조종사는 이 세상에 존재하지 않는다. 우리는 유령을 위해 설계된 조종석 안에서, 언제부터인가 이름이 아니라 숫자로 불리기 시작했다.
+- [금융 데이터, 하나의 API로 — Headless Finance Platform을 공개합니다](https://dataportal.kr/%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%98%EB%82%98%EC%9D%98-API%EB%A1%9C/) — 78개 금융기관의 데이터를 하나의 API로. 수십억 건의 비정형 거래내역을 정규화해온 팀이 만든 헤드리스 플랫폼을 소개합니다.
+- [설계된 직감, 설계된 빈틈 — 탐닉의 설계자들 북클럽 리포트](https://dataportal.kr/%EC%84%A4%EA%B3%84%EB%90%9C-%EC%A7%81%EA%B0%90-%EC%84%A4%EA%B3%84%EB%90%9C-%EB%B9%88%ED%8B%88/) — 닌텐도 Wii 기획자의 '탐닉의 설계자들'을 함께 읽고, 직감의 함정부터 디자이너의 에고까지 다양한 배경의 참가자들이 나눈 대화를 정리했다.
+- [Agentic AI 논문 읽기: A-MEM — 제텔카스텐에서 영감받은 에이전트 기억 시스템](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-A-MEM-%EC%A0%9C%ED%85%94%EC%B9%B4%EC%8A%A4%ED%85%90%EC%97%90%EC%84%9C-%EC%98%81%EA%B0%90%EB%B0%9B%EC%9D%80-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B8%B0%EC%96%B5-%EC%8B%9C%EC%8A%A4%ED%85%9C/) — A-MEM 논문을 해설합니다. 니클라스 루만의 제텔카스텐 방법론에서 영감받아, LLM 에이전트가 사전 정의된 구조 없이 동적으로 메모리를 조직·진화시키는 에이전틱 메모리 시스템을 분석합니다.
+- [Agentic AI 논문 읽기: Rise and Potential — 뇌·지각·행동으로 본 에이전트 전망](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Rise-and-Potential-%EB%87%8C%C2%B7%EC%A7%80%EA%B0%81%C2%B7%ED%96%89%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%B3%B8-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%A0%84%EB%A7%9D/) — LLM 기반 에이전트의 부상과 잠재력 서베이를 해설합니다. 인지 능력(Brain), 지각(Perception), 행동(Action)의 세 축으로 에이전트를 구성하고, 단일→다중→인간 협업의 3단계로 미래를 전망합니다.
+- [Agentic AI 논문 읽기: Autonomous Agents Survey — 자율 에이전트 구축의 해부도](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Autonomous-Agents-Survey-%EC%9E%90%EC%9C%A8-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%EC%9D%98-%ED%95%B4%EB%B6%80%EB%8F%84/) — LLM 기반 자율 에이전트 서베이를 해설합니다. 프로파일링, 메모리, 계획, 행동의 4가지 핵심 모듈로 에이전트 구축을 체계적으로 분류하고, 사회 시뮬레이션에서 소프트웨어 개발까지 응용을 조망합니다.
+- [Agentic AI 논문 읽기: RLHF의 한계 — 인간 피드백 강화학습의 미해결 과제](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-RLHF%EC%9D%98-%ED%95%9C%EA%B3%84-%EC%9D%B8%EA%B0%84-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9D%98-%EB%AF%B8%ED%95%B4%EA%B2%B0-%EA%B3%BC%EC%A0%9C/) — RLHF의 근본적 한계를 다룬 서베이를 해설합니다. 피드백 수집, 보상 모델 학습, 정책 최적화 각 단계의 구조적 문제와, 인간 피드백 자체의 본질적 한계를 체계적으로 분석합니다.
+- [Agentic AI 논문 읽기: Constitutional AI — 원칙 기반 자기 개선](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Constitutional-AI-%EC%9B%90%EC%B9%99-%EA%B8%B0%EB%B0%98-%EC%9E%90%EA%B8%B0-%EA%B0%9C%EC%84%A0/) — Constitutional AI 논문을 해설합니다. 인간 피드백 레이블 없이 원칙(헌법)만으로 AI를 자기 개선시키는 Anthropic의 2단계 프로세스 — 비판-수정의 지도학습과 RLAIF — 를 분석합니다.
+- [Agentic AI 논문 읽기: InvestorBench — 금융 의사결정 에이전트 벤치마크](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-InvestorBench-%EA%B8%88%EC%9C%B5-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC/) — InvestorBench 논문을 해설합니다. 주식·암호화폐·ETF 세 가지 자산에 걸쳐 13개 LLM의 투자 의사결정 능력을 평가하고, 계층적 장기 메모리 모델의 설계를 분석합니다.
+- [Agentic AI 논문 읽기: FINCH — 스프레드시트 중심 재무 벤치마크](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-FINCH-%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C%EC%8B%9C%ED%8A%B8-%EC%A4%91%EC%8B%AC-%EC%9E%AC%EB%AC%B4-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC/) — FINCH 논문을 해설합니다. Enron의 15,000개 스프레드시트에서 추출한 172개 실세계 워크플로우로, GPT 5.1 Pro조차 38.4%만 통과하는 엔터프라이즈 금융·회계의 극한 난이도를 드러냅니다.
+- [Agentic AI 논문 읽기: DocLLM — 레이아웃 인식 문서 이해 모델](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-DocLLM-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%9D%B8%EC%8B%9D-%EB%AC%B8%EC%84%9C-%EC%9D%B4%ED%95%B4-%EB%AA%A8%EB%8D%B8/) — DocLLM 논문을 해설합니다. 비전 인코더 없이 바운딩 박스 좌표만으로 문서 레이아웃을 이해하는 경량 LLM 확장의 설계와, 16개 데이터셋 중 14개에서 SOTA를 달성한 분리된 공간 어텐션 메커니즘을 분석합니다.
+- [Agentic AI 논문 읽기: ₩on — 한국어 금융 NLP의 첫 번째 벤치마크](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Won-%ED%95%9C%EA%B5%AD%EC%96%B4-%EA%B8%88%EC%9C%B5-NLP%EC%9D%98-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC/) — ₩on 논문을 해설합니다. 한국어 금융 LLM 평가를 위한 최초의 오픈 리더보드와 5,500개 벤치마크 문항, 80,000건 인스트럭션 데이터셋을 구축한 연구의 의미를 분석합니다.
+- [Agentic AI 논문 읽기: FinGPT — 오픈소스 금융 LLM 프레임워크](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-FinGPT-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%88%EC%9C%B5-LLM-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/) — FinGPT 논문을 해설합니다. BloombergGPT의 독점적 접근 대신, 오픈소스 모델 + 경량 파인튜닝 + 자동화된 데이터 파이프라인으로 금융 LLM을 민주화하려는 프레임워크의 설계를 분석합니다.
+- [Agentic AI 논문 읽기: BloombergGPT — 금융 특화 대규모 언어 모델의 탄생](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-BloombergGPT-%EA%B8%88%EC%9C%B5-%ED%8A%B9%ED%99%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8%EC%9D%98-%ED%83%84%EC%83%9D/) — BloombergGPT 논문을 해설합니다. Bloomberg의 40년치 금융 데이터 363B 토큰으로 훈련된 50.6B 모델이 금융 과제에서 범용 모델을 압도하면서도, 도메인 특화와 범용성의 균형을 어떻게 달성했는지 분석합니다.
+- [How는 어렵다](https://dataportal.kr/How%EB%8A%94-%EC%96%B4%EB%A0%B5%EB%8B%A4/) — 'How는 쉽다'는 말이 당연해진 시대에, 정작 자신이 일하는 방법을 설명할 수 있는 사람은 드물다. 코드화할 수 없는 절차 기억의 본질과, '어떻게'를 진짜로 이해한다는 것의 의미를 이야기한다.
+- [Agentic AI 논문 읽기: Tool Use Evolution — 단일 도구에서 다중 오케스트레이션까지](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Tool-Use-Evolution-%EB%8B%A8%EC%9D%BC-%EB%8F%84%EA%B5%AC%EC%97%90%EC%84%9C-%EB%8B%A4%EC%A4%91-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%EA%B9%8C%EC%A7%80/) — LLM 에이전트의 도구 사용 진화를 다룬 서베이를 해설합니다. 단일 도구 호출의 정확성에서 다중 도구 오케스트레이션의 견고성까지, 6가지 차원으로 도구 사용의 전체 지형을 조망합니다.
+- [Agentic AI 논문 읽기: Halo — DAG로 에이전트 워크플로우를 최적화하다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Halo-DAG%EB%A1%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EB%A5%BC-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EB%8B%A4/) — Halo 논문을 해설합니다. 에이전틱 LLM 워크플로우를 구조화된 DAG로 표현하고, 배치 쿼리 간 공유 계산을 발견하여 GPU-CPU 이종 파이프라인을 공동 스케줄링하는 시스템 최적화 접근법을 분석합니다.
+- [Agentic AI 논문 읽기: Paradigms — 도구 사용·계획·피드백의 삼각 구도](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Paradigms-%EB%8F%84%EA%B5%AC-%EC%82%AC%EC%9A%A9%C2%B7%EA%B3%84%ED%9A%8D%C2%B7%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%98-%EC%82%BC%EA%B0%81-%EA%B5%AC%EB%8F%84/) — LLM 기반 에이전트의 3대 패러다임 리뷰 논문을 해설합니다. 도구 사용, 계획, 피드백 학습을 통합 분류 체계로 정리하고, 세 가지 LLM 역할과 네 가지 범용 워크플로우로 에이전트 설계의 전체 지형을 조망합니다.
+- [Agentic AI 논문 읽기: AI Agents That Matter — 벤치마크의 함정을 파헤치다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-AI-Agents-That-Matter-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC%EC%9D%98-%ED%95%A8%EC%A0%95%EC%9D%84-%ED%8C%8C%ED%97%A4%EC%B9%98%EB%8B%A4/) — AI Agents That Matter 논문을 해설합니다. HumanEval SOTA 에이전트가 단순 재시도와 정확도 차이가 없으면서 비용은 50배라는 실증을 통해, 에이전트 벤치마킹의 네 가지 근본 문제와 파레토 프론티어 접근법을 분석합니다.
+- [Agentic AI 논문 읽기: ETO — 실패 궤적으로 에이전트를 훈련하다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-ETO-%EC%8B%A4%ED%8C%A8-%EA%B6%A4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%ED%9B%88%EB%A0%A8%ED%95%98%EB%8B%A4/) — ETO(Trial and Error) 논문을 해설합니다. 성공 시연만 모방하는 기존 학습을 넘어, 에이전트의 실패 궤적과 성공 궤적을 대조하여 정책을 직접 업데이트하는 탐색 기반 궤적 최적화 프레임워크를 분석합니다.
+- [Agentic AI 논문 읽기: LATS — 트리 탐색으로 추론과 행동을 통합하다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-LATS-%ED%8A%B8%EB%A6%AC-%ED%83%90%EC%83%89%EC%9C%BC%EB%A1%9C-%EC%B6%94%EB%A1%A0%EA%B3%BC-%ED%96%89%EB%8F%99%EC%9D%84-%ED%86%B5%ED%95%A9%ED%95%98%EB%8B%A4/) — LATS 논문을 해설합니다. 몬테카를로 트리 탐색을 LLM 에이전트에 적용하여 추론, 행동, 계획을 하나로 통합한 프레임워크의 설계를 분석하고, Reflexion을 넘어선 체계적 탐색이 어떤 조건에서 효과적인지 살펴봅니다.
+- [Agentic AI 논문 읽기: Reflexion — 실패를 언어로 되감는 에이전트](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Reflexion-%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EC%96%B8%EC%96%B4%EB%A1%9C-%EB%90%98%EA%B0%90%EB%8A%94-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/) — Reflexion 논문을 해설합니다. 가중치를 건드리지 않고 자연어 반성만으로 에이전트를 강화하는 언어적 강화학습 프레임워크를 분석하고, HumanEval 91% pass@1이라는 성과가 어떤 조건에서 가능했는지 살펴봅니다.
+- [Agentic AI 논문 읽기: Multi-Agent Survey — 집단 지능의 지도를 펼치다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Multi-Agent-Survey-%EC%A7%91%EB%8B%A8-%EC%A7%80%EB%8A%A5%EC%9D%98-%EC%A7%80%EB%8F%84%EB%A5%BC-%ED%8E%BC%EC%B9%98%EB%8B%A4/) — LLM 기반 다중 에이전트 서베이 논문을 해설합니다. 에이전트-환경 인터페이스, 프로파일링, 통신, 능력 획득의 4축 프레임워크로 다중 에이전트 연구의 전체 지형을 조망하고, AutoGen과 MetaGPT가 이 지도 위에서 어디에 서 있는지 재해석합니다.
+- [Agentic AI 논문 읽기: MetaGPT — SOP로 설계한 다중 에이전트 조직](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-MetaGPT-SOP%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%9C-%EB%8B%A4%EC%A4%91-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%A1%B0%EC%A7%81/) — MetaGPT 논문을 해설합니다. 소프트웨어 회사의 표준 운영 절차(SOP)를 다중 에이전트 시스템에 이식하여 연쇄 환각을 억제하고, HumanEval 85.9%·SoftwareDev 100% 완료율을 달성한 구조화된 협업 프레임워크의 설계를 분석합니다.
+- [Agentic AI 논문 읽기: AutoGen — 대화로 엮는 다중 에이전트 시스템](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-AutoGen-%EB%8C%80%ED%99%94%EB%A1%9C-%EC%97%AE%EB%8A%94-%EB%8B%A4%EC%A4%91-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C/) — AutoGen 논문을 해설합니다. 다중 에이전트 대화를 통해 LLM 애플리케이션을 구축하는 프레임워크의 핵심 설계를 분석하고, MATH 벤치마크에서 GPT-4 단독 대비 14%p 향상을 이끈 대화 프로그래밍 패러다임의 의미를 살펴봅니다.
+- [Agentic AI 논문 읽기: Toolformer — 언어 모델이 스스로 도구를 잡은 순간](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Toolformer-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EB%8F%84%EA%B5%AC%EB%A5%BC-%EC%9E%A1%EC%9D%80-%EC%88%9C%EA%B0%84/) — Toolformer 논문을 해설합니다. 6.7B 파라미터 모델이 스스로 도구 사용법을 학습하여 175B GPT-3를 넘어선 과정을 살펴보고, 자기지도학습으로 도구를 선택하는 원리가 오늘날 에이전트의 기본 표준이 된 의미를 분석합니다.
+- [Agentic AI 논문 읽기: CoT — 생각의 사슬이 추론을 깨운 순간](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-CoT-%EC%83%9D%EA%B0%81%EC%9D%98-%EC%82%AC%EC%8A%AC%EC%9D%B4-%EC%B6%94%EB%A1%A0%EC%9D%84-%EA%B9%A8%EC%9A%B4-%EC%88%9C%EA%B0%84/) — CoT(Chain-of-Thought) 논문을 해설합니다. '풀이 과정을 보여줘'라는 단순한 아이디어가 어떻게 대규모 언어 모델의 추론 능력을 깨웠는지, GSM8K에서의 극적인 도약과 창발적 능력의 발견, 그리고 에이전트 시대의 출발점이 된 의미를 살펴봅니다.
+- [Agentic AI 논문 읽기: ReAct — 생각과 행동을 엮은 최초의 패턴](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-ReAct-%EC%83%9D%EA%B0%81%EA%B3%BC-%ED%96%89%EB%8F%99%EC%9D%84-%EC%97%AE%EC%9D%80-%EC%B5%9C%EC%B4%88%EC%9D%98-%ED%8C%A8%ED%84%B4/) — ReAct 논문을 해설합니다. LLM의 추론과 행동을 교차시키는 단순한 아이디어가 어떻게 오늘날 모든 AI 에이전트의 기본 설계 패턴이 되었는지, 네 가지 벤치마크 결과와 함께 살펴봅니다.
+- [Agentic AI 논문 읽기: CoALA — 언어 에이전트를 위한 인지 아키텍처](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-CoALA-%EC%96%B8%EC%96%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9D%B8%EC%A7%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/) — CoALA 논문을 해설합니다. 인지과학에서 빌려온 기억·행동·판단의 세 축으로 LLM 기반 에이전트를 체계적으로 분류하는 프레임워크를 다섯 가지 사례와 함께 살펴봅니다.
+- [여섯 가지 질문에 답할 수 있는가](https://dataportal.kr/%EC%97%AC%EC%84%AF-%EA%B0%80%EC%A7%80-%EC%A7%88%EB%AC%B8%EC%97%90-%EB%8B%B5%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/) — 조직의 건강은 전략의 정교함이 아니라, 리더 모두가 같은 답을 할 수 있는 상태에서 시작된다. 여섯 가지 핵심 질문이 왜 단순하면서도 어려운지를 이야기한다.
+- [미션 선언문이라는 허상](https://dataportal.kr/%EB%AF%B8%EC%85%98-%EC%84%A0%EC%96%B8%EB%AC%B8%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%97%88%EC%83%81/) — 대부분의 미션 선언문은 명료함을 주지 못한다. 야망이 가득한 한 문장 대신, 리더십팀이 가식 없이 핵심 질문에 답하는 과정이 진짜 명료함을 만든다.
+- [리더십팀은 UN이 아니다](https://dataportal.kr/%EB%A6%AC%EB%8D%94%EC%8B%AD%ED%8C%80%EC%9D%80-UN%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4/) — 리더십팀의 리더들이 자기 부서의 대사처럼 행동하면, 그 팀은 UN 총회가 된다. 부서 이익을 내려놓고 조직 전체의 리더로 서는 것이 왜 어렵고, 왜 필수적인지를 이야기한다.
+- [행동을 지적할 것인가, 성과를 지적할 것인가](https://dataportal.kr/%ED%96%89%EB%8F%99%EC%9D%84-%EC%A7%80%EC%A0%81%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%A7%80%EC%A0%81%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80/) — 성과 지표는 객관적이라 피드백하기 쉽지만, 진짜 문제는 행동에서 먼저 시작된다. 숫자 뒤에 숨지 않고 행동을 이야기하는 것이 왜 어렵고, 왜 필요한지를 이야기한다.
+- [불편한 지적이 팀을 살린다](https://dataportal.kr/%EB%B6%88%ED%8E%B8%ED%95%9C-%EC%A7%80%EC%A0%81%EC%9D%B4-%ED%8C%80%EC%9D%84-%EC%82%B4%EB%A6%B0%EB%8B%A4/) — 동료 리더에게 불편한 말을 건네는 것은 가장 어렵지만 가장 효과적인 책임 시스템이다. 리더 간 상호 피드백이 팀의 기능을 바꾸는 이유와, 불편함을 시스템으로 만드는 방법을 이야기한다.
+- [나라는 이야기의 작가는 누구인가](https://dataportal.kr/%EB%82%98%EB%9D%BC%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98-%EC%9E%91%EA%B0%80%EB%8A%94-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80/) — '나'는 뇌가 쓴 소설의 주인공이다. 가자니가는 이를 '소설 같은 자아'라고 불렀다. 그 사실을 아는 것만으로도, 우리는 이야기에 덜 휘둘린다.
+- [확신이 강할수록 의심해야 하는 이유](https://dataportal.kr/%ED%99%95%EC%8B%A0%EC%9D%B4-%EA%B0%95%ED%95%A0%EC%88%98%EB%A1%9D-%EC%9D%98%EC%8B%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/) — 분리뇌 환자는 완전히 틀린 설명에 절대적 확신을 보였다. 우리도 다르지 않다. 확신은 정확성의 증거가 아니라 해석 장치가 열심히 일한 증거다.
+- [뇌는 설명하고 싶다](https://dataportal.kr/%EB%87%8C%EB%8A%94-%EC%84%A4%EB%AA%85%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4/) — 우리는 이유를 모를 때도 이유를 만들어낸다. 그것은 의지가 아니라 뇌의 기본 작동 방식이다. 좌뇌의 해석 장치는 침묵을 견디지 못한다.
+- [무엇을 줄 것인가 — 이기적 이타주의자의 What](https://dataportal.kr/%EB%AC%B4%EC%97%87%EC%9D%84-%EC%A4%84-%EA%B2%83%EC%9D%B8%EA%B0%80/) — 실행이 누구에게나 가능한 시대, 차이를 만드는 건 '어떻게'가 아니라 '무엇을'이다. 문제를 정의하는 능력은 제품뿐 아니라 관계에서도 작동한다.
+- [아무도 나를 보고 있지 않다](https://dataportal.kr/%EC%95%84%EB%AC%B4%EB%8F%84-%EB%82%98%EB%A5%BC-%EB%B3%B4%EA%B3%A0-%EC%9E%88%EC%A7%80-%EC%95%8A%EB%8B%A4/) — 우리는 보이지 않는 관객을 위해 매일 무대 위에 선다. 하지만 직접 시선 속으로 걸어 들어가 보면, 객석은 비어 있다. 타인의 시선은 실체가 아니라 내가 만든 상상이다.
+- [나무만 보는 사람, 숲을 읽는 사람](https://dataportal.kr/%EB%82%98%EB%AC%B4%EB%A7%8C-%EB%B3%B4%EB%8A%94-%EC%82%AC%EB%9E%8C-%EC%88%B2%EC%9D%84-%EC%9D%BD%EB%8A%94-%EC%82%AC%EB%9E%8C/) — 시킨 일만 잘하면 충분하다고 생각했다. 하지만 시니어가 될수록, 눈앞의 기능이 아니라 전체 시스템의 맥락에서 사고해야 한다. Bottom-up 사고의 한계와 Top-down 사고의 훈련법.
+- [빨라진 실행, 느려진 팀 — 생산성의 역설](https://dataportal.kr/%EB%B9%A8%EB%9D%BC%EC%A7%84-%EC%8B%A4%ED%96%89-%EB%8A%90%EB%A0%A4%EC%A7%84-%ED%8C%80-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%98-%EC%97%AD%EC%84%A4/) — AI와 자동화 도구로 실행 비용은 급감했지만, 팀은 오히려 느려졌다. 개발자 생산성이 높아질수록 구조조정이 일어나는 역설의 구조와, 이를 깨는 방법을 이야기한다.
+- [팀에 '우리다움'이 없으면 논의는 시작되지 않는다](https://dataportal.kr/%ED%8C%80%EC%97%90-%EC%9A%B0%EB%A6%AC%EB%8B%A4%EC%9B%80%EC%9D%B4-%EC%97%86%EC%9C%BC%EB%A9%B4-%EB%85%BC%EC%9D%98%EB%8A%94-%EC%8B%9C%EC%9E%91%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4/) — 회의에서 침묵이 이어지는 원인은 아이디어 부족이 아니라 팀의 정체성 부재다. '우리는 어떤 팀인가'라는 공유된 감각이 발언의 문턱을 낮추고 논의를 시작하게 한다.
+- [프로덕트에서 플레이어를 떼어내는 용기](https://dataportal.kr/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EC%97%90%EC%84%9C-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EB%96%BC%EC%96%B4%EB%82%B4%EB%8A%94-%EC%9A%A9%EA%B8%B0/) — 사용자를 붙잡는 것이 아니라 떠날 자유를 주는 것이 진짜 리텐션이다. 멈출 수 있는 서비스에 사람들이 더 자주 돌아오는 역설에 대하여.
+- [예고 없는 프레젠테이션은 왜 실패하는가](https://dataportal.kr/%EC%98%88%EA%B3%A0-%EC%97%86%EB%8A%94-%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%80-%EC%99%9C-%EC%8B%A4%ED%8C%A8%ED%95%98%EB%8A%94%EA%B0%80/) — 청중이 이탈하는 진짜 이유는 내용이 나빠서가 아니라 길을 잃었기 때문이다. 접속사, 질문, 중단 같은 예고 장치로 상대의 뇌에 지도를 그려주는 커뮤니케이션 기술을 다룬다.
+- [좋은 아이디어는 비밀에서 태어난다](https://dataportal.kr/%EC%A2%8B%EC%9D%80-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%8A%94-%EB%B9%84%EB%B0%80%EC%97%90%EC%84%9C-%ED%83%9C%EC%96%B4%EB%82%9C%EB%8B%A4/) — 좋은 아이디어는 트렌드 분석이 아니라 자기 안의 사적인 영역에서 나온다. 아무에게도 말하지 않은 불편함과 결핍, 그 비밀이 가장 보편적인 공감을 만드는 이유.
+- [명령이 아니라 장면을 보여줘라](https://dataportal.kr/%EB%AA%85%EB%A0%B9%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%9E%A5%EB%A9%B4%EC%9D%84-%EB%B3%B4%EC%97%AC%EC%A4%98%EB%9D%BC/) — 명령은 저항을 만들고, 장면은 행동을 만든다. 구체적인 상황을 보여주어 상대가 스스로 판단하고 움직이게 하는 것이 좋은 매니지먼트의 핵심이다.
+- [침묵이 설득하는 순간](https://dataportal.kr/%EC%B9%A8%EB%AC%B5%EC%9D%B4-%EC%84%A4%EB%93%9D%ED%95%98%EB%8A%94-%EC%88%9C%EA%B0%84/) — 말이 많아질수록 핵심이 묻히고, 말이 멈춘 순간에 사람들이 집중한다. 침묵은 말의 부재가 아니라 메시지를 가장 깊이 전달하는 도구이다.
+- [과정을 디자인하는 사람과 결과를 만드는 사람](https://dataportal.kr/%EA%B3%BC%EC%A0%95%EC%9D%84-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%82%AC%EB%9E%8C/) — 재미, 몰입, 감동은 직접 만들 수 없는 결과입니다. 가설에서 환희로, 오해에서 경악으로, 번뇌에서 의지로 이어지는 세 가지 과정의 설계를 통해 결과를 만드는 방법을 이야기합니다.
+- [문맥이 경험의 가치를 결정한다](https://dataportal.kr/%EB%AC%B8%EB%A7%A5%EC%9D%B4-%EA%B2%BD%ED%97%98%EC%9D%98-%EA%B0%80%EC%B9%98%EB%A5%BC-%EA%B2%B0%EC%A0%95%ED%95%9C%EB%8B%A4/) — 같은 기능, 같은 말이라도 어떤 맥락에 놓이느냐에 따라 전혀 다른 가치를 갖는다. 무엇을 전달하느냐보다 언제, 어떤 상황에서 전달하느냐가 경험의 밀도를 결정한다.
+- [왜 모든 여행은 집으로 돌아오는가](https://dataportal.kr/%EC%99%9C-%EB%AA%A8%EB%93%A0-%EC%97%AC%ED%96%89%EC%9D%80-%EC%A7%91%EC%9C%BC%EB%A1%9C-%EB%8F%8C%EC%95%84%EC%98%A4%EB%8A%94%EA%B0%80/) — 시작점으로 돌아오는 것은 제자리걸음이 아니라 성장을 자각하는 순간이다. 출발한 나와 돌아온 나는 다른 사람이며, 커리어는 직선이 아니라 나선형으로 올라간다.
+- [지루함을 설계하는 사람들](https://dataportal.kr/%EC%A7%80%EB%A3%A8%ED%95%A8%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/) — 반복은 숙련을 만들지만 동력을 소멸시킨다. 좋은 프로덕트와 조직은 지루함과 놀라움 사이에 리듬을 설계하여 사람들이 지치지 않고 나아가게 한다.
+- [성장은 불편한 동행자에서 시작된다](https://dataportal.kr/%EC%84%B1%EC%9E%A5%EC%9D%80-%EB%B6%88%ED%8E%B8%ED%95%9C-%EB%8F%99%ED%96%89%EC%9E%90%EC%97%90%EC%84%9C-%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4/) — 편한 관계에서는 아무 일도 일어나지 않는다. 나와 다른 관점이 부딪혀야 내 관점이 날카로워지고, 불편함을 견디는 과정에서 비로소 성장이 시작된다.
+- [실행의 시대에 질문이 사라진다](https://dataportal.kr/%EC%8B%A4%ED%96%89%EC%9D%98-%EC%8B%9C%EB%8C%80%EC%97%90-%EC%A7%88%EB%AC%B8%EC%9D%B4-%EC%82%AC%EB%9D%BC%EC%A7%84%EB%8B%A4/) — 실행 비용이 줄어든 시대에, '어떻게'보다 '무엇을' 할 것인가라는 질문이 더 중요해졌다. 방향 없는 실행은 표류일 뿐이고, 좋은 질문은 많은 실행 경험에서 나온다.
+- [직관이 만들어지는 구조](https://dataportal.kr/%EC%A7%81%EA%B4%80%EC%9D%B4-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%80%EB%8A%94-%EA%B5%AC%EC%A1%B0/) — 직관은 타고나는 것이 아니라, 가설을 세우고 시행하고 결과를 체감하는 사이클의 반복으로 만들어진다. 직감이 자라나는 구조와 그 환경을 설계하는 방법에 대하여.
+- [기회의 모양은 시대마다 다르다](https://dataportal.kr/%EA%B8%B0%ED%9A%8C%EC%9D%98-%EB%AA%A8%EC%96%91%EC%9D%80-%EC%8B%9C%EB%8C%80%EB%A7%88%EB%8B%A4-%EB%8B%A4%EB%A5%B4%EB%8B%A4/) — 부모님 세대의 기회는 부동산이었지만, 우리 세대의 기회는 다른 곳에 있습니다. 시대의 변화를 읽는 방향 감각과 변화 속에서 자신만의 지도를 그려야 하는 이유를 이야기합니다.
+- [같이 일한다는 것의 진짜 의미](https://dataportal.kr/%EA%B0%99%EC%9D%B4-%EC%9D%BC%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%98-%EC%A7%84%EC%A7%9C-%EC%9D%98%EB%AF%B8/) — 같이 일한다는 건 같은 공간에 앉는 것이 아니라 같은 불확실성 안에 서는 것입니다. 스타트업에서 함께 일하며 배운 관계의 밀도, 복지의 본질, 그리고 서로를 대하는 태도에 대해 이야기합니다.
+- [공정하다는 느낌은 결과가 아니라 과정에서 온다](https://dataportal.kr/%EA%B3%B5%EC%A0%95%ED%95%98%EB%8B%A4%EB%8A%94-%EB%8A%90%EB%82%8C%EC%9D%80-%EA%B2%B0%EA%B3%BC%EA%B0%80-%EC%95%84%EB%8B%88%EB%9D%BC-%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C-%EC%98%A8%EB%8B%A4/) — 사람들은 결과의 크기보다 그 결과에 이르는 과정이 공정했는지를 더 예민하게 느낍니다. 절차공정성의 관점에서 조직의 신뢰와 리더의 역할에 대해 이야기합니다.
+- [의미는 해석에서 태어난다](https://dataportal.kr/%EC%9D%98%EB%AF%B8%EB%8A%94-%ED%95%B4%EC%84%9D%EC%97%90%EC%84%9C-%ED%83%9C%EC%96%B4%EB%82%9C%EB%8B%A4/) — 특별한 소재가 아니라 해석하는 훈련이 삶을 의미 있게 만든다. 일상을 능동적으로 경험하고, 에피소드를 하나의 에픽으로 엮는 태도에 대하여.
+- [성격이라는 피난처](https://dataportal.kr/%EC%84%B1%EA%B2%A9%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%94%BC%EB%82%9C%EC%B2%98/) — '나는 원래 이런 사람이야'라는 말은 자기 행동을 설명하는 것이 아니라 면책하는 것에 가깝다. 성격에 위임하지 않고 자신의 판단으로 행동의 이유를 설명할 수 있어야 한다.
+- [선택이라는 이름의 자유](https://dataportal.kr/%EC%84%A0%ED%83%9D%EC%9D%B4%EB%9D%BC%EB%8A%94-%EC%9D%B4%EB%A6%84%EC%9D%98-%EC%9E%90%EC%9C%A0/) — 선택지가 무한해지면 오히려 아무것도 선택하지 못한다. 진정한 자유란 모든 것을 가질 수 있는 상태가 아니라, 무엇을 가지지 않을지 스스로 정할 수 있는 상태다.
+- [첫 페이지를 넘기는 용기](https://dataportal.kr/%EC%B2%AB-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A5%BC-%EB%84%98%EA%B8%B0%EB%8A%94-%EC%9A%A9%EA%B8%B0/) — 읽어야 할 책인 줄 알면서도 쉽게 펼치지 못하는 마음. 용기는 두려움이 사라진 뒤가 아니라 궁금함이 두려움을 이긴 순간에 찾아온다.
+- [공간이 말을 거는 순간](https://dataportal.kr/%EA%B3%B5%EA%B0%84%EC%9D%B4-%EB%A7%90%EC%9D%84-%EA%B1%B0%EB%8A%94-%EC%88%9C%EA%B0%84/) — 문을 열고 들어서는 순간 몸이 먼저 아는 공간이 있습니다. 카페, 집, 여행지에서 만난 좋은 공간들의 공통점을 통해 취향과 자기 이해에 대해 이야기합니다.
+- [몸이 먼저 아는것들](https://dataportal.kr/%EB%AA%B8%EC%9D%B4-%EB%A8%BC%EC%A0%80-%EC%95%84%EB%8A%94%EA%B2%83%EB%93%A4/) — 생각은 행동을 따라가지만, 행동은 생각을 기다리지 않는다. 혼란스러울 때 완벽한 준비 대신 일단 움직여보는 것이 확신을 만드는 길이다.
+- [취향을 파는 사람들](https://dataportal.kr/%EC%B7%A8%ED%96%A5%EC%9D%84-%ED%8C%8C%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/) — 취향을 파는 서비스와 필수품을 파는 서비스는 접근 방식이 다르지만, 결국 사람이 지갑을 여는 이유를 고민하는 같은 질문을 던지고 있다.
+- [설렘을 잃지 않는 법](https://dataportal.kr/%EC%84%A4%EB%A0%98%EC%9D%84-%EC%9E%83%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%B2%95/) — 설렘은 새로움 자체가 아니라 예측 불가능한 가능성에서 온다. 경험이 쌓일수록 줄어들 수 있는 설렘을 의도적으로 지키려는 태도에 대한 짧은 성찰.
+- [후회하는데 왜 또 볼까 - 콘텐츠 빈지워칭의 역설](https://dataportal.kr/%ED%9B%84%ED%9A%8C%ED%95%98%EB%8A%94%EB%8D%B0-%EC%99%9C-%EB%98%90-%EB%B3%BC%EA%B9%8C-%EC%BD%98%ED%85%90%EC%B8%A0-%EB%B9%88%EC%A7%80%EC%9B%8C%EC%B9%AD%EC%9D%98-%EC%97%AD%EC%84%A4/) — 밤새 드라마를 보고 후회하면서도 또 반복하는 이유를 행동경제학의 Hot-Cold Empathy Gap으로 풀어본다. 감정의 온도에 따라 달라지는 판단에 대한 이야기.
+- [[볼타 이야기] 볼타 팀은 이렇게 일합니다](https://dataportal.kr/%EB%B3%BC%ED%83%80-%ED%8C%80%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4/) — 볼타 팀은 데이터보다 직관 훈련을 우선시하고, 탑다운 사고로 본질적인 문제를 정의한 뒤 초 단위로 의사결정한다. 고객, 시장, 제품, 팀에 대한 깊은 이해가 그 기반이다.
+- [이기적인 이타주의자의 역설](https://dataportal.kr/%EC%9D%B4%EA%B8%B0%EC%A0%81%EC%9D%B8-%EC%9D%B4%ED%83%80%EC%A3%BC%EC%9D%98%EC%9E%90%EC%9D%98-%EC%97%AD%EC%84%A4/) — 내가 사랑하는 사람들의 행복이 곧 나의 행복이라는 점에서, 이기심과 이타심은 분리될 수 없다. 선택적이고 지속 가능한 선함에 대한 이야기.
+- [내가 선택한 나의 보호자에게](https://dataportal.kr/%EB%82%B4%EA%B0%80-%EC%84%A0%ED%83%9D%ED%95%9C-%EB%82%98%EC%9D%98-%EB%B3%B4%ED%98%B8%EC%9E%90%EC%97%90%EA%B2%8C/) — 어린 시절 보호자는 주어지는 것이었지만, 어른이 된다는 것은 나의 보호자를 선택할 자유와 누군가의 보호자가 될 자격을 얻는 것입니다. 의지로 선택한 관계에 대한 이야기.
+- [매일 아침, 다시 쓰는 편지](https://dataportal.kr/%EB%A7%A4%EC%9D%BC-%EC%95%84%EC%B9%A8-%EB%8B%A4%EC%8B%9C-%EC%93%B0%EB%8A%94-%ED%8E%B8%EC%A7%80/) — 사랑은 저절로 피어나는 감정이 아니라, 매일 아침 다시 선택하는 의지다. 태엽이 멈춘 뒤에도 서로를 가꾸어가는 관계에 대한 편지.
+- [내연기관과 개발자의 만남 - 기계공학에서 배우는 창의적 사고](https://dataportal.kr/%EB%82%B4%EC%97%B0%EA%B8%B0%EA%B4%80%EA%B3%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%A7%8C%EB%82%A8/) — 기계공학 전공 친구와의 대화에서 얻은 영감을 기록합니다. 내연기관의 물 분사, EGR 시스템에서 배운 트레이드오프의 지혜와 격자틀 멘탈모델의 힘을 이야기합니다.
+- [뿌리 없는 성장은 없다 - 빠른 성장이라는 착각](https://dataportal.kr/%EB%BF%8C%EB%A6%AC-%EC%97%86%EB%8A%94-%EC%84%B1%EC%9E%A5%EC%9D%80-%EC%97%86%EB%8B%A4/) — 빠른 성장은 팽창일 뿐, 진짜 성장은 보이지 않는 뿌리에서 시작된다. 나무가 수백 년을 버티는 비결처럼, 깊이와 협력, 자신만의 리듬으로 성장하는 법을 이야기한다.
+- [내 안의 회로를 밝히는 시간에 대한 기록](https://dataportal.kr/%EB%82%B4-%EC%95%88%EC%9D%98-%ED%9A%8C%EB%A1%9C%EB%A5%BC-%EB%B0%9D%ED%9E%88%EB%8A%94-%EC%8B%9C%EA%B0%84%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B8%B0%EB%A1%9D/) — 창업가로서 쉼 없이 달리는 삶 속에서 의식적으로 쉼표를 찍고, 내면을 돌보는 시간의 중요성에 대해 이야기합니다. 스스로를 돌보는 시간이야말로 가장 중요한 투자입니다.
+- [결과에 확신이 없더라도 꾸준히 노력해야 하는 이유](https://dataportal.kr/%EA%B2%B0%EA%B3%BC%EC%97%90-%ED%99%95%EC%8B%A0%EC%9D%B4-%EC%97%86%EB%8D%94%EB%9D%BC%EB%8F%84-%EA%BE%B8%EC%A4%80%ED%9E%88-%EB%85%B8%EB%A0%A5%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/) — 확신이 있어서 하는 게 아니라 그냥 계속 하는 것. 꺾여도 다시 일어나는 것. 결과가 보이지 않아도 매일의 작은 노력을 쌓아가는 것이 진정한 성장의 비결입니다.
+- [B2C와 B2B 환경에서의 엔지니어링: 각자의 매력과 차이점](https://dataportal.kr/b2c-and-b2b-for-engineer/) — B2C와 B2B 환경에서 엔지니어로 일하며 느낀 차이점과 각각의 매력을 이야기합니다. 고객과 깊이 소통하고 복잡한 문제를 풀어가는 B2B의 매력에 대해 다룹니다.
+- [하고 싶은 것의 부재](https://dataportal.kr/%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EA%B2%83%EC%9D%98-%EB%B6%80%EC%9E%AC/) — 일 자체가 유일한 즐거움이 되면서 일상의 도파민이 약해졌다. 상대를 위한 대리만족이 아닌, 온전히 나 자신으로서 느끼는 직접적인 행복에 대한 발견.
+- [고민하는 시간의 가치](https://dataportal.kr/%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94-%EC%8B%9C%EA%B0%84%EC%9D%98-%EA%B0%80%EC%B9%98/) — 본질에 대해 고민하고 상상하는 시간의 가치를 이야기합니다. 무한경쟁 속에서 타인을 추종하기보다 나 자신을 이해하고, 스스로 가치를 만들어내는 것의 중요성을 다룹니다.
+- [작은 규모=공정한 평가](https://dataportal.kr/%EC%9E%91%EC%9D%80-%EA%B7%9C%EB%AA%A8-%EA%B3%B5%EC%A0%95%ED%95%9C-%ED%8F%89%EA%B0%80/) — 대규모 조직에서는 개인의 기여도가 평균에 묻히지만, 소규모 조직에서는 성과가 바로 드러나 공정한 평가가 가능하다. 폴 그레이엄의 통찰을 현대 스타트업에 적용한다.
+- [기브앤테이크 6장. 이기적인 이타주의자](https://dataportal.kr/%EA%B8%B0%EB%B8%8C%EC%95%A4%ED%85%8C%EC%9D%B4%ED%81%AC-6%EC%9E%A5-%EC%9D%B4%EA%B8%B0%EC%A0%81%EC%9D%B8-%EC%9D%B4%ED%83%80%EC%A3%BC%EC%9D%98%EC%9E%90/) — 기브앤테이크 6장을 읽고 성공한 기버와 실패한 기버의 차이에 대해 생각을 정리합니다. 이기심과 이타심이 뒤섞인 사람이 가장 큰 성공을 거둔다는 통찰을 나눕니다.
+- [코틀린의 null 값에 대한 고찰](https://dataportal.kr/%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-null-%EA%B0%92%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0/) — Kotlin의 null 처리 방식에 대한 Reddit 논의를 정리하고, Scope Functions, Early Return, Sealed Class 등 실무 패턴과 아키텍처 설계에 미치는 영향을 분석한다.
+- [동시성 패턴: Fail-fast와 Single Flight 패턴 비교](https://dataportal.kr/%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%8C%A8%ED%84%B4-Fail-fast%EC%99%80-Single-Flight-%ED%8C%A8%ED%84%B4-%EB%B9%84%EA%B5%90/) — 동일 요청의 중복 실행을 방지하는 Single Flight 패턴과 빠른 실패 전파를 위한 Fail-fast 패턴을 비교하고, 실제 라이브 스트리밍 서비스에서의 적용 사례를 살펴본다.
+- [인터넷에서 상대방을 추적하는 혁신적인 방법](https://dataportal.kr/%EC%9D%B8%ED%84%B0%EB%84%B7%EC%97%90%EC%84%9C-%EC%83%81%EB%8C%80%EB%B0%A9%EC%9D%84-%EC%B6%94%EC%A0%81%ED%95%98%EB%8A%94-%ED%98%81%EC%8B%A0%EC%A0%81%EC%9D%B8-%EB%B0%A9%EB%B2%95/) — 15세 해커가 Cloudflare CDN의 캐시 시스템 특성을 이용해 Signal, Discord 사용자의 위치를 추적할 수 있는 방법을 발견한 사례와 그 시사점을 분석한다.
+- [개발 조직에서의 리더 (부제: 다양한 문제해결 스타일)](https://dataportal.kr/%EA%B0%9C%EB%B0%9C-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C%EC%9D%98-%EB%A6%AC%EB%8D%94/) — MOI 리더십 모델을 통해 문제 해결형 리더의 특징을 살펴봅니다. 문제 이해, 아이디어 흐름 관리, 품질 유지라는 세 축으로 개발 조직 리더의 23가지 행동 패턴을 정리합니다.
+- [평범한 결혼생활 - 임경선 / 별점 3.0](https://dataportal.kr/%ED%8F%89%EB%B2%94%ED%95%9C-%EA%B2%B0%ED%98%BC%EC%83%9D%ED%99%9C-%EC%9E%84%EA%B2%BD%EC%84%A0/) — 20년간의 결혼 생활을 담백하게 그린 에세이 리뷰. 겉으로 드러나지 않는 비언어적 소통 속에 깊은 애정이 묻어나는 부부 이야기.
+- [티몬·위메프 사태로 알아보는 흑자도산](https://dataportal.kr/%ED%8B%B0%EB%AA%AC-%EC%9C%84%EB%A9%94%ED%94%84-%EC%82%AC%ED%83%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%ED%9D%91%EC%9E%90%EB%8F%84%EC%82%B0/) — 재무제표상 흑자인데도 현금 흐름이 막혀 도산에 이르는 흑자도산의 구조를 티몬·위메프 사태와 B2B 거래 구조를 통해 알기 쉽게 설명한다.
+- [조직이 커지면서 발생하는 문제](https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4-%EC%BB%A4%EC%A7%80%EB%A9%B4%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%AC%B8%EC%A0%9C/) — 3명이던 팀이 50명, 100명이 되면 소통 부재와 부서 이기주의가 생긴다. 조직 규모별 장단점과 나에게 맞는 경험이 무엇인지에 대한 고민을 담았다.
+- [PM은 무얼 하는 사람?](https://dataportal.kr/PM%EC%9D%80-%EB%AC%B4%EC%96%BC-%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C/) — 기능 출시에 집중하는 PM과 제품 성공을 책임지는 진짜 프로덕트 매니저의 차이를 짚어봅니다. 회사와 제품의 단계에 따라 PM에게 필요한 역량이 어떻게 달라지는지 이야기합니다.
+- [당신은 얼마나 책임 지고 있나요? (feat. Mandate Levels)](https://dataportal.kr/%EB%8B%B9%EC%8B%A0%EC%9D%80-%EC%96%BC%EB%A7%88%EB%82%98-%EC%B1%85%EC%9E%84-%EC%A7%80%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-feat-Mandate-Levels/) — 업무에서의 권한과 책임은 단계별로 나뉜다. Mandate Levels라는 9단계 기준을 통해 자신의 역할 범위를 명확히 이해하고, 커리어 발전의 방향을 잡는 방법을 이야기한다.
+- [우리가 하는 일은 두 가지 유형의 일 뿐이다. (부제; 직무의 통합)](https://dataportal.kr/%EC%9A%B0%EB%A6%AC%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%80-%EB%91%90-%EA%B0%80%EC%A7%80-%EC%9C%A0%ED%98%95%EC%9D%98-%EC%9D%BC-%EB%BF%90%EC%9D%B4%EB%8B%A4-%EB%B6%80%EC%A0%9C-%EC%A7%81%EB%AC%B4%EC%9D%98-%ED%86%B5%ED%95%A9/) — 모든 일은 '무엇을 할지'와 '어떻게 할지'라는 두 유형으로 나뉜다. 기술 발전과 함께 직무의 경계가 허물어지고, 두 유형을 모두 다루는 사람이 일 잘하는 사람으로 평가받는다.
+- [교육 산업에 대한 고찰](https://dataportal.kr/%EA%B5%90%EC%9C%A1-%EC%82%B0%EC%97%85%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0/) — 교육혁신의 어려움과 교육업이 크게 성장하지 못한 본질적 이유를 다룹니다. 학습자 만족보다 결제에 초점이 맞춰진 산업 구조와 교육 소비 중독에 대한 솔직한 고찰입니다.
+- [useCallback을 순수 자바스크립트로 구현한다면?](https://dataportal.kr/useCallback%EC%9D%84-%EC%88%9C%EC%88%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%9C%EB%8B%A4%EB%A9%B4/) — React의 useCallback 훅을 순수 자바스크립트로 단계별 구현해보며, 함수 캐싱의 원리와 React 컴포넌트 생명주기와의 관계를 이해합니다.
+- [더 많은 기회를 발견하는 방법, The Red car theory](https://dataportal.kr/%EB%8D%94-%EB%A7%8E%EC%9D%80-%EA%B8%B0%ED%9A%8C%EB%A5%BC-%EB%B0%9C%EA%B2%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-The-Red-car-theory/) — 기회는 의식적으로 찾으려 할 때 비로소 보인다. 빨간 차 이론을 통해, 깨어 있는 시선과 주변에 대한 작은 관심이 성장의 동력이 되는 이유를 이야기한다.
+- [[주간회고] 2024년 9주차](https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-9%EC%A3%BC%EC%B0%A8/) — 프론트엔드 리팩토링, 공동인증서 구조 RND, SLIT/HUSTLE 오프라인 모임 참석, 결정적 순간의 대화 독서까지. 2024년 9주차 회고.
+- [번아웃을 한 번에 해결할 수 있는 방법은 성과다](https://dataportal.kr/%EB%B2%88%EC%95%84%EC%9B%83%EC%9D%84-%ED%95%9C-%EB%B2%88%EC%97%90-%ED%95%B4%EA%B2%B0%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-%EC%84%B1%EA%B3%BC%EB%8B%A4/) — 번아웃의 근본 원인은 과로가 아니라 성과의 부재다. 자신의 능력 범위를 명확히 파악하고, 그 안에서 최선을 다해 성과를 내는 것이 번아웃을 이기는 방법이다.
+- [[주간회고] 2024년 8주차](https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-8%EC%A3%BC%EC%B0%A8/) — 다중 워크스페이스 기능 업데이트, 택스어드바이저스 전략적 제휴, 채용 페이지 리뉴얼과 콘텐츠 마케터 채용 오픈까지. 2024년 8주차 회고.
+- [유료화, 그 이후 (After Willingness to pay)](https://dataportal.kr/%EC%9C%A0%EB%A3%8C%ED%99%94-%EA%B7%B8-%EC%9D%B4%ED%9B%84-After-Willingness-to-pay/) — 유료화 이후 스타트업은 수익 유지와 스케일업 사이에서 고민하게 된다. 어떤 선택이든 후회 대신 교훈으로 정리할 수 있어야 하며, 스타트업은 결국 실험과 학습의 반복이다.
+- [[주간회고] 2024년 7주차](https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-7%EC%A3%BC%EC%B0%A8/) — 채용 커피챗, 다중 워크스페이스 사전 코드 작업, 세금계산서 아키텍처 고도화, 아마존과 쿠팡의 고객 철학 분석까지. 2024년 7주차 회고.
+- [[주간회고] 2024년 6주차](https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-6%EC%A3%BC%EC%B0%A8/) — 팀 전체가 밀린 부채를 해소하며 쉬어간 한 주. WBR 개편, 본격 유료화 전환, 채용 원칙 정리, TDD에 대한 생각 정리까지. 2024년 6주차 회고.
+- [[볼타 이야기] 채용 원칙](https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%B1%84%EC%9A%A9-%EC%9B%90%EC%B9%99/) — 볼타 팀은 기존 팀에 없는 캐릭터, 양적 확장이 가능한 분, 주도적으로 사업적 임팩트를 내고 싶은 분을 모신다. 창업 초기부터 현재까지 진화해 온 채용 원칙을 공유한다.
+- [[주간회고] 2024년 5주차](https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-5%EC%A3%BC%EC%B0%A8/) — 볼타 서비스 리뉴얼 릴리즈 회식, Pre-A 투자 유치 후 포트폴리오 밋업 참석, 신규 채용 오픈, 도커 스터디와 찰리 멍거 바이블 2회독까지. 2024년 5주차 회고.
+- [[볼타 이야기] 작은 팀을 유지하려는 이유](https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%9E%91%EC%9D%80-%ED%8C%80%EC%9D%84-%EC%9C%A0%EC%A7%80%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0/) — 인원이 늘어날수록 빠른 의사결정이라는 스타트업의 강점은 퇴화한다. 작은 팀을 유지하며 인재밀도를 높이는 것이 변화에 빠르게 대응하는 건강한 성장 전략이다.
+- [[볼타 이야기] 결국 B2B는 잘 팔면 되는 거 아닌가?](https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EA%B2%B0%EA%B5%AD-B2B%EB%8A%94-%EC%9E%98-%ED%8C%94%EB%A9%B4-%EB%90%98%EB%8A%94-%EA%B1%B0-%EC%95%84%EB%8B%8C%EA%B0%80/) — B2B 성장 방식은 영업주도(SLG)와 제품주도(PLG)로 나뉘지만, 어떤 방식이든 고객이 최대의 효용을 느끼는 것이 핵심이다. 볼타 팀의 B2B SaaS 접근법을 이야기한다.
+- [2023년 회고: 프로젝트, 퇴사, 창업, 채용, 기술](https://dataportal.kr/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/) — 카카오페이에서의 플랫폼 프로젝트, 퇴사와 볼타 창업, MVP 출시와 전면 리뉴얼, 채용과 투자 유치까지. 2023년 한 해 동안 겪은 굵직한 사건들을 타임라인으로 돌아봅니다.
+- [다른 사람에게 도움을 구하는 가장 좋은 방법](https://dataportal.kr/%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C-%EB%8F%84%EC%9B%80%EC%9D%84-%EA%B5%AC%ED%95%98%EB%8A%94-%EA%B0%80%EC%9E%A5-%EC%A2%8B%EC%9D%80-%EB%B0%A9%EB%B2%95/) — 막연한 두려움을 남에게 위임하는 것과 진짜 조언을 구하는 것은 다릅니다. 문제를 명확히 하고, 라포를 쌓고, 자신을 증명하는 방식으로 도움을 구하는 방법을 이야기합니다.
+- [Facebook을 다운 시킨 원인, BGP hijacking은 무엇인가?](https://dataportal.kr/Facebook%EC%9D%84-%EB%8B%A4%EC%9A%B4-%EC%8B%9C%ED%82%A8-%EC%9B%90%EC%9D%B8-BGP-hijacking%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/) — 2021년 페이스북 대규모 장애의 원인이었던 BGP hijacking을 DNS 구조부터 설명합니다. 인터넷 라우팅 프로토콜의 보안 취약점과 그 영향을 다룹니다.
+- [모든 회사에 어필 할 수 있는 지원 동기와 목표설정 방법](https://dataportal.kr/%EB%AA%A8%EB%93%A0-%ED%9A%8C%EC%82%AC%EC%97%90-%EC%96%B4%ED%95%84-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%A7%80%EC%9B%90-%EB%8F%99%EA%B8%B0%EC%99%80-%EB%AA%A9%ED%91%9C%EC%84%A4%EC%A0%95-%EB%B0%A9%EB%B2%95/) — 지원 동기는 단순한 문장이 아니라 커리어 청사진이다. 중장기 목표, 과거 경험, 회사에 대한 기대를 담아 99%와 차별화되는 지원 동기를 작성하는 방법을 다룬다.
+- [블로그 이관 및 앞으로의 계획](https://dataportal.kr/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EA%B4%80-%EB%B0%8F-%EC%95%9E%EC%9C%BC%EB%A1%9C%EC%9D%98-%EA%B3%84%ED%9A%8D/) — 다양한 블로그 플랫폼을 거쳐 GitHub Pages 정적 블로그로 이관한 과정과, 앞으로 스타트업, 프론트엔드, 백엔드, 커리어 이야기를 다룰 계획을 소개한다.
+- [???: 빌드가 완료되면 소리 나게 해주세요.](https://dataportal.kr/%EB%B9%8C%EB%93%9C%EA%B0%80-%EC%99%84%EB%A3%8C%EB%90%98%EB%A9%B4-%EC%86%8C%EB%A6%AC-%EB%82%98%EA%B2%8C-%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/) — GraalVM Native Compile의 느린 빌드 시간에 착안한 재미있는 오픈소스 이슈와 PR 이야기. 컴파일 중 음악을 재생하자는 제안이 실제로 머지되기까지의 과정을 소개한다.
+- [한기용님과 함께하는 단체챗 회고](https://dataportal.kr/%ED%95%9C%EA%B8%B0%EC%9A%A9%EB%8B%98%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EB%8B%A8%EC%B2%B4%EC%B1%97-%ED%9A%8C%EA%B3%A0/) — 한기용님과의 단체챗에서 배운 피드백 프레임워크, 리더로서 질문 환경을 만드는 법, 그리고 좋은 사람에 대한 정의를 회고로 정리했다.
+- [Java Compiler Optimization](https://dataportal.kr/Java-Compiler-Optimization/) — 자바 소스 코드가 실행되기까지의 컴파일 과정을 살펴보고, JIT 컴파일러의 최적화 원리와 컴파일 임계치, 코드 캐시 등 JVM 옵션을 통한 성능 튜닝 방법을 다룹니다.
+- [내가 개발 커뮤니티를 하는 이유 (a.k.a. 10년 회고)](https://dataportal.kr/%EB%82%B4%EA%B0%80-%EA%B0%9C%EB%B0%9C-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EB%A5%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/) — 중학교 때 Visual Basic으로 시작한 개발 여정부터 게임 개발, 군 복무, 카카오페이까지. 10년간의 시행착오를 돌아보며 개발 커뮤니티를 운영하게 된 이유를 이야기합니다.
+- [Google Calendar API 분석 및 시스템 구축 전략](https://dataportal.kr/Google-Calendar-API-%EB%B6%84%EC%84%9D-%EB%B0%8F-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-%EC%A0%84%EB%9E%B5/) — Google Calendar API의 주요 기능을 분석하고, 캘린더 데이터를 효율적으로 동기화하기 위한 네 가지 전략을 비교합니다. 웹훅 기반 실시간 갱신과 SyncToken 활용이 핵심입니다.
+- [Webhooks(웹훅) 시스템 체크리스트](https://dataportal.kr/Webhooks(%EC%9B%B9%ED%9B%85)-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8/) — 웹훅 시스템을 구축할 때 고려해야 할 보안 체크리스트를 정리합니다. 통신 암호화, 데이터 서명, 발신처 검증, 수신처 제한 등 신뢰할 수 있는 통신을 위한 핵심 요소를 다룹니다.
+- [Why DDD, Clean Architecture and Hexagonal?](https://dataportal.kr/Why-DDD-Clean-Architecture-and-Hexagonal/) — DDD, 클린 아키텍처, 헥사고날 아키텍처가 왜 등장했는지 그 배경과 핵심 원리를 설명합니다. 결국 이 모든 것의 본질은 명확한 관심사의 분리와 의존성 규칙에 있습니다.
+
+## 태그별
+
+### 기술 (36개)
+- [금융 데이터, 하나의 API로 — Headless Finance Platform을 공개합니다](https://dataportal.kr/%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%98%EB%82%98%EC%9D%98-API%EB%A1%9C/)
+- [Agentic AI 논문 읽기: A-MEM — 제텔카스텐에서 영감받은 에이전트 기억 시스템](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-A-MEM-%EC%A0%9C%ED%85%94%EC%B9%B4%EC%8A%A4%ED%85%90%EC%97%90%EC%84%9C-%EC%98%81%EA%B0%90%EB%B0%9B%EC%9D%80-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B8%B0%EC%96%B5-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
+- [Agentic AI 논문 읽기: Rise and Potential — 뇌·지각·행동으로 본 에이전트 전망](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Rise-and-Potential-%EB%87%8C%C2%B7%EC%A7%80%EA%B0%81%C2%B7%ED%96%89%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%B3%B8-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%A0%84%EB%A7%9D/)
+- [Agentic AI 논문 읽기: Autonomous Agents Survey — 자율 에이전트 구축의 해부도](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Autonomous-Agents-Survey-%EC%9E%90%EC%9C%A8-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%EC%9D%98-%ED%95%B4%EB%B6%80%EB%8F%84/)
+- [Agentic AI 논문 읽기: RLHF의 한계 — 인간 피드백 강화학습의 미해결 과제](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-RLHF%EC%9D%98-%ED%95%9C%EA%B3%84-%EC%9D%B8%EA%B0%84-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9D%98-%EB%AF%B8%ED%95%B4%EA%B2%B0-%EA%B3%BC%EC%A0%9C/)
+- [Agentic AI 논문 읽기: Constitutional AI — 원칙 기반 자기 개선](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Constitutional-AI-%EC%9B%90%EC%B9%99-%EA%B8%B0%EB%B0%98-%EC%9E%90%EA%B8%B0-%EA%B0%9C%EC%84%A0/)
+- [Agentic AI 논문 읽기: InvestorBench — 금융 의사결정 에이전트 벤치마크](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-InvestorBench-%EA%B8%88%EC%9C%B5-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC/)
+- [Agentic AI 논문 읽기: FINCH — 스프레드시트 중심 재무 벤치마크](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-FINCH-%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C%EC%8B%9C%ED%8A%B8-%EC%A4%91%EC%8B%AC-%EC%9E%AC%EB%AC%B4-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC/)
+- [Agentic AI 논문 읽기: DocLLM — 레이아웃 인식 문서 이해 모델](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-DocLLM-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%9D%B8%EC%8B%9D-%EB%AC%B8%EC%84%9C-%EC%9D%B4%ED%95%B4-%EB%AA%A8%EB%8D%B8/)
+- [Agentic AI 논문 읽기: ₩on — 한국어 금융 NLP의 첫 번째 벤치마크](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Won-%ED%95%9C%EA%B5%AD%EC%96%B4-%EA%B8%88%EC%9C%B5-NLP%EC%9D%98-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC/)
+- [Agentic AI 논문 읽기: FinGPT — 오픈소스 금융 LLM 프레임워크](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-FinGPT-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%88%EC%9C%B5-LLM-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/)
+- [Agentic AI 논문 읽기: BloombergGPT — 금융 특화 대규모 언어 모델의 탄생](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-BloombergGPT-%EA%B8%88%EC%9C%B5-%ED%8A%B9%ED%99%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8%EC%9D%98-%ED%83%84%EC%83%9D/)
+- [Agentic AI 논문 읽기: Tool Use Evolution — 단일 도구에서 다중 오케스트레이션까지](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Tool-Use-Evolution-%EB%8B%A8%EC%9D%BC-%EB%8F%84%EA%B5%AC%EC%97%90%EC%84%9C-%EB%8B%A4%EC%A4%91-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%EA%B9%8C%EC%A7%80/)
+- [Agentic AI 논문 읽기: Halo — DAG로 에이전트 워크플로우를 최적화하다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Halo-DAG%EB%A1%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EB%A5%BC-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EB%8B%A4/)
+- [Agentic AI 논문 읽기: Paradigms — 도구 사용·계획·피드백의 삼각 구도](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Paradigms-%EB%8F%84%EA%B5%AC-%EC%82%AC%EC%9A%A9%C2%B7%EA%B3%84%ED%9A%8D%C2%B7%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%98-%EC%82%BC%EA%B0%81-%EA%B5%AC%EB%8F%84/)
+- [Agentic AI 논문 읽기: AI Agents That Matter — 벤치마크의 함정을 파헤치다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-AI-Agents-That-Matter-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC%EC%9D%98-%ED%95%A8%EC%A0%95%EC%9D%84-%ED%8C%8C%ED%97%A4%EC%B9%98%EB%8B%A4/)
+- [Agentic AI 논문 읽기: ETO — 실패 궤적으로 에이전트를 훈련하다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-ETO-%EC%8B%A4%ED%8C%A8-%EA%B6%A4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%ED%9B%88%EB%A0%A8%ED%95%98%EB%8B%A4/)
+- [Agentic AI 논문 읽기: LATS — 트리 탐색으로 추론과 행동을 통합하다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-LATS-%ED%8A%B8%EB%A6%AC-%ED%83%90%EC%83%89%EC%9C%BC%EB%A1%9C-%EC%B6%94%EB%A1%A0%EA%B3%BC-%ED%96%89%EB%8F%99%EC%9D%84-%ED%86%B5%ED%95%A9%ED%95%98%EB%8B%A4/)
+- [Agentic AI 논문 읽기: Reflexion — 실패를 언어로 되감는 에이전트](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Reflexion-%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EC%96%B8%EC%96%B4%EB%A1%9C-%EB%90%98%EA%B0%90%EB%8A%94-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/)
+- [Agentic AI 논문 읽기: Multi-Agent Survey — 집단 지능의 지도를 펼치다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Multi-Agent-Survey-%EC%A7%91%EB%8B%A8-%EC%A7%80%EB%8A%A5%EC%9D%98-%EC%A7%80%EB%8F%84%EB%A5%BC-%ED%8E%BC%EC%B9%98%EB%8B%A4/)
+- … 외 16개
+
+### 에세이 (31개)
+- [떠날 수 있어서 떠난다](https://dataportal.kr/%EB%96%A0%EB%82%A0-%EC%88%98-%EC%9E%88%EC%96%B4%EC%84%9C-%EB%96%A0%EB%82%9C%EB%8B%A4/)
+- [책상 바깥에서 자라는 것들](https://dataportal.kr/%EC%B1%85%EC%83%81-%EB%B0%94%EA%B9%A5%EC%97%90%EC%84%9C-%EC%9E%90%EB%9D%BC%EB%8A%94-%EA%B2%83%EB%93%A4/)
+- [사랑을 받지 않는 기술](https://dataportal.kr/%EC%82%AC%EB%9E%91%EC%9D%84-%EB%B0%9B%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B8%B0%EC%88%A0/)
+- [이름이 숫자가 되던 날](https://dataportal.kr/%EC%9D%B4%EB%A6%84%EC%9D%B4-%EC%88%AB%EC%9E%90%EA%B0%80-%EB%90%98%EB%8D%98-%EB%82%A0/)
+- [How는 어렵다](https://dataportal.kr/How%EB%8A%94-%EC%96%B4%EB%A0%B5%EB%8B%A4/)
+- [미션 선언문이라는 허상](https://dataportal.kr/%EB%AF%B8%EC%85%98-%EC%84%A0%EC%96%B8%EB%AC%B8%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%97%88%EC%83%81/)
+- [나라는 이야기의 작가는 누구인가](https://dataportal.kr/%EB%82%98%EB%9D%BC%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98-%EC%9E%91%EA%B0%80%EB%8A%94-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80/)
+- [확신이 강할수록 의심해야 하는 이유](https://dataportal.kr/%ED%99%95%EC%8B%A0%EC%9D%B4-%EA%B0%95%ED%95%A0%EC%88%98%EB%A1%9D-%EC%9D%98%EC%8B%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
+- [뇌는 설명하고 싶다](https://dataportal.kr/%EB%87%8C%EB%8A%94-%EC%84%A4%EB%AA%85%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4/)
+- [무엇을 줄 것인가 — 이기적 이타주의자의 What](https://dataportal.kr/%EB%AC%B4%EC%97%87%EC%9D%84-%EC%A4%84-%EA%B2%83%EC%9D%B8%EA%B0%80/)
+- [좋은 아이디어는 비밀에서 태어난다](https://dataportal.kr/%EC%A2%8B%EC%9D%80-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%8A%94-%EB%B9%84%EB%B0%80%EC%97%90%EC%84%9C-%ED%83%9C%EC%96%B4%EB%82%9C%EB%8B%A4/)
+- [침묵이 설득하는 순간](https://dataportal.kr/%EC%B9%A8%EB%AC%B5%EC%9D%B4-%EC%84%A4%EB%93%9D%ED%95%98%EB%8A%94-%EC%88%9C%EA%B0%84/)
+- [문맥이 경험의 가치를 결정한다](https://dataportal.kr/%EB%AC%B8%EB%A7%A5%EC%9D%B4-%EA%B2%BD%ED%97%98%EC%9D%98-%EA%B0%80%EC%B9%98%EB%A5%BC-%EA%B2%B0%EC%A0%95%ED%95%9C%EB%8B%A4/)
+- [왜 모든 여행은 집으로 돌아오는가](https://dataportal.kr/%EC%99%9C-%EB%AA%A8%EB%93%A0-%EC%97%AC%ED%96%89%EC%9D%80-%EC%A7%91%EC%9C%BC%EB%A1%9C-%EB%8F%8C%EC%95%84%EC%98%A4%EB%8A%94%EA%B0%80/)
+- [직관이 만들어지는 구조](https://dataportal.kr/%EC%A7%81%EA%B4%80%EC%9D%B4-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%80%EB%8A%94-%EA%B5%AC%EC%A1%B0/)
+- [기회의 모양은 시대마다 다르다](https://dataportal.kr/%EA%B8%B0%ED%9A%8C%EC%9D%98-%EB%AA%A8%EC%96%91%EC%9D%80-%EC%8B%9C%EB%8C%80%EB%A7%88%EB%8B%A4-%EB%8B%A4%EB%A5%B4%EB%8B%A4/)
+- [의미는 해석에서 태어난다](https://dataportal.kr/%EC%9D%98%EB%AF%B8%EB%8A%94-%ED%95%B4%EC%84%9D%EC%97%90%EC%84%9C-%ED%83%9C%EC%96%B4%EB%82%9C%EB%8B%A4/)
+- [성격이라는 피난처](https://dataportal.kr/%EC%84%B1%EA%B2%A9%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%94%BC%EB%82%9C%EC%B2%98/)
+- [선택이라는 이름의 자유](https://dataportal.kr/%EC%84%A0%ED%83%9D%EC%9D%B4%EB%9D%BC%EB%8A%94-%EC%9D%B4%EB%A6%84%EC%9D%98-%EC%9E%90%EC%9C%A0/)
+- [첫 페이지를 넘기는 용기](https://dataportal.kr/%EC%B2%AB-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A5%BC-%EB%84%98%EA%B8%B0%EB%8A%94-%EC%9A%A9%EA%B8%B0/)
+- … 외 11개
+
+### 성장 (25개)
+- [책상 바깥에서 자라는 것들](https://dataportal.kr/%EC%B1%85%EC%83%81-%EB%B0%94%EA%B9%A5%EC%97%90%EC%84%9C-%EC%9E%90%EB%9D%BC%EB%8A%94-%EA%B2%83%EB%93%A4/)
+- [사랑을 받지 않는 기술](https://dataportal.kr/%EC%82%AC%EB%9E%91%EC%9D%84-%EB%B0%9B%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B8%B0%EC%88%A0/)
+- [How는 어렵다](https://dataportal.kr/How%EB%8A%94-%EC%96%B4%EB%A0%B5%EB%8B%A4/)
+- [여섯 가지 질문에 답할 수 있는가](https://dataportal.kr/%EC%97%AC%EC%84%AF-%EA%B0%80%EC%A7%80-%EC%A7%88%EB%AC%B8%EC%97%90-%EB%8B%B5%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/)
+- [행동을 지적할 것인가, 성과를 지적할 것인가](https://dataportal.kr/%ED%96%89%EB%8F%99%EC%9D%84-%EC%A7%80%EC%A0%81%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%A7%80%EC%A0%81%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80/)
+- [불편한 지적이 팀을 살린다](https://dataportal.kr/%EB%B6%88%ED%8E%B8%ED%95%9C-%EC%A7%80%EC%A0%81%EC%9D%B4-%ED%8C%80%EC%9D%84-%EC%82%B4%EB%A6%B0%EB%8B%A4/)
+- [나라는 이야기의 작가는 누구인가](https://dataportal.kr/%EB%82%98%EB%9D%BC%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98-%EC%9E%91%EA%B0%80%EB%8A%94-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80/)
+- [확신이 강할수록 의심해야 하는 이유](https://dataportal.kr/%ED%99%95%EC%8B%A0%EC%9D%B4-%EA%B0%95%ED%95%A0%EC%88%98%EB%A1%9D-%EC%9D%98%EC%8B%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
+- [뇌는 설명하고 싶다](https://dataportal.kr/%EB%87%8C%EB%8A%94-%EC%84%A4%EB%AA%85%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4/)
+- [무엇을 줄 것인가 — 이기적 이타주의자의 What](https://dataportal.kr/%EB%AC%B4%EC%97%87%EC%9D%84-%EC%A4%84-%EA%B2%83%EC%9D%B8%EA%B0%80/)
+- [아무도 나를 보고 있지 않다](https://dataportal.kr/%EC%95%84%EB%AC%B4%EB%8F%84-%EB%82%98%EB%A5%BC-%EB%B3%B4%EA%B3%A0-%EC%9E%88%EC%A7%80-%EC%95%8A%EB%8B%A4/)
+- [나무만 보는 사람, 숲을 읽는 사람](https://dataportal.kr/%EB%82%98%EB%AC%B4%EB%A7%8C-%EB%B3%B4%EB%8A%94-%EC%82%AC%EB%9E%8C-%EC%88%B2%EC%9D%84-%EC%9D%BD%EB%8A%94-%EC%82%AC%EB%9E%8C/)
+- [예고 없는 프레젠테이션은 왜 실패하는가](https://dataportal.kr/%EC%98%88%EA%B3%A0-%EC%97%86%EB%8A%94-%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%80-%EC%99%9C-%EC%8B%A4%ED%8C%A8%ED%95%98%EB%8A%94%EA%B0%80/)
+- [과정을 디자인하는 사람과 결과를 만드는 사람](https://dataportal.kr/%EA%B3%BC%EC%A0%95%EC%9D%84-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%82%AC%EB%9E%8C/)
+- [성장은 불편한 동행자에서 시작된다](https://dataportal.kr/%EC%84%B1%EC%9E%A5%EC%9D%80-%EB%B6%88%ED%8E%B8%ED%95%9C-%EB%8F%99%ED%96%89%EC%9E%90%EC%97%90%EC%84%9C-%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4/)
+- [실행의 시대에 질문이 사라진다](https://dataportal.kr/%EC%8B%A4%ED%96%89%EC%9D%98-%EC%8B%9C%EB%8C%80%EC%97%90-%EC%A7%88%EB%AC%B8%EC%9D%B4-%EC%82%AC%EB%9D%BC%EC%A7%84%EB%8B%A4/)
+- [내연기관과 개발자의 만남 - 기계공학에서 배우는 창의적 사고](https://dataportal.kr/%EB%82%B4%EC%97%B0%EA%B8%B0%EA%B4%80%EA%B3%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%A7%8C%EB%82%A8/)
+- [뿌리 없는 성장은 없다 - 빠른 성장이라는 착각](https://dataportal.kr/%EB%BF%8C%EB%A6%AC-%EC%97%86%EB%8A%94-%EC%84%B1%EC%9E%A5%EC%9D%80-%EC%97%86%EB%8B%A4/)
+- [결과에 확신이 없더라도 꾸준히 노력해야 하는 이유](https://dataportal.kr/%EA%B2%B0%EA%B3%BC%EC%97%90-%ED%99%95%EC%8B%A0%EC%9D%B4-%EC%97%86%EB%8D%94%EB%9D%BC%EB%8F%84-%EA%BE%B8%EC%A4%80%ED%9E%88-%EB%85%B8%EB%A0%A5%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
+- [B2C와 B2B 환경에서의 엔지니어링: 각자의 매력과 차이점](https://dataportal.kr/b2c-and-b2b-for-engineer/)
+- … 외 5개
+
+### 리포트 (25개)
+- [Agentic AI 논문 읽기: A-MEM — 제텔카스텐에서 영감받은 에이전트 기억 시스템](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-A-MEM-%EC%A0%9C%ED%85%94%EC%B9%B4%EC%8A%A4%ED%85%90%EC%97%90%EC%84%9C-%EC%98%81%EA%B0%90%EB%B0%9B%EC%9D%80-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B8%B0%EC%96%B5-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
+- [Agentic AI 논문 읽기: Rise and Potential — 뇌·지각·행동으로 본 에이전트 전망](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Rise-and-Potential-%EB%87%8C%C2%B7%EC%A7%80%EA%B0%81%C2%B7%ED%96%89%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%B3%B8-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%A0%84%EB%A7%9D/)
+- [Agentic AI 논문 읽기: Autonomous Agents Survey — 자율 에이전트 구축의 해부도](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Autonomous-Agents-Survey-%EC%9E%90%EC%9C%A8-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%EC%9D%98-%ED%95%B4%EB%B6%80%EB%8F%84/)
+- [Agentic AI 논문 읽기: RLHF의 한계 — 인간 피드백 강화학습의 미해결 과제](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-RLHF%EC%9D%98-%ED%95%9C%EA%B3%84-%EC%9D%B8%EA%B0%84-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9D%98-%EB%AF%B8%ED%95%B4%EA%B2%B0-%EA%B3%BC%EC%A0%9C/)
+- [Agentic AI 논문 읽기: Constitutional AI — 원칙 기반 자기 개선](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Constitutional-AI-%EC%9B%90%EC%B9%99-%EA%B8%B0%EB%B0%98-%EC%9E%90%EA%B8%B0-%EA%B0%9C%EC%84%A0/)
+- [Agentic AI 논문 읽기: InvestorBench — 금융 의사결정 에이전트 벤치마크](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-InvestorBench-%EA%B8%88%EC%9C%B5-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC/)
+- [Agentic AI 논문 읽기: FINCH — 스프레드시트 중심 재무 벤치마크](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-FINCH-%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C%EC%8B%9C%ED%8A%B8-%EC%A4%91%EC%8B%AC-%EC%9E%AC%EB%AC%B4-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC/)
+- [Agentic AI 논문 읽기: DocLLM — 레이아웃 인식 문서 이해 모델](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-DocLLM-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%9D%B8%EC%8B%9D-%EB%AC%B8%EC%84%9C-%EC%9D%B4%ED%95%B4-%EB%AA%A8%EB%8D%B8/)
+- [Agentic AI 논문 읽기: ₩on — 한국어 금융 NLP의 첫 번째 벤치마크](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Won-%ED%95%9C%EA%B5%AD%EC%96%B4-%EA%B8%88%EC%9C%B5-NLP%EC%9D%98-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC/)
+- [Agentic AI 논문 읽기: FinGPT — 오픈소스 금융 LLM 프레임워크](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-FinGPT-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%88%EC%9C%B5-LLM-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/)
+- [Agentic AI 논문 읽기: BloombergGPT — 금융 특화 대규모 언어 모델의 탄생](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-BloombergGPT-%EA%B8%88%EC%9C%B5-%ED%8A%B9%ED%99%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8%EC%9D%98-%ED%83%84%EC%83%9D/)
+- [Agentic AI 논문 읽기: Tool Use Evolution — 단일 도구에서 다중 오케스트레이션까지](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Tool-Use-Evolution-%EB%8B%A8%EC%9D%BC-%EB%8F%84%EA%B5%AC%EC%97%90%EC%84%9C-%EB%8B%A4%EC%A4%91-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%EA%B9%8C%EC%A7%80/)
+- [Agentic AI 논문 읽기: Halo — DAG로 에이전트 워크플로우를 최적화하다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Halo-DAG%EB%A1%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EB%A5%BC-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EB%8B%A4/)
+- [Agentic AI 논문 읽기: Paradigms — 도구 사용·계획·피드백의 삼각 구도](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Paradigms-%EB%8F%84%EA%B5%AC-%EC%82%AC%EC%9A%A9%C2%B7%EA%B3%84%ED%9A%8D%C2%B7%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%98-%EC%82%BC%EA%B0%81-%EA%B5%AC%EB%8F%84/)
+- [Agentic AI 논문 읽기: AI Agents That Matter — 벤치마크의 함정을 파헤치다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-AI-Agents-That-Matter-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC%EC%9D%98-%ED%95%A8%EC%A0%95%EC%9D%84-%ED%8C%8C%ED%97%A4%EC%B9%98%EB%8B%A4/)
+- [Agentic AI 논문 읽기: ETO — 실패 궤적으로 에이전트를 훈련하다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-ETO-%EC%8B%A4%ED%8C%A8-%EA%B6%A4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%ED%9B%88%EB%A0%A8%ED%95%98%EB%8B%A4/)
+- [Agentic AI 논문 읽기: LATS — 트리 탐색으로 추론과 행동을 통합하다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-LATS-%ED%8A%B8%EB%A6%AC-%ED%83%90%EC%83%89%EC%9C%BC%EB%A1%9C-%EC%B6%94%EB%A1%A0%EA%B3%BC-%ED%96%89%EB%8F%99%EC%9D%84-%ED%86%B5%ED%95%A9%ED%95%98%EB%8B%A4/)
+- [Agentic AI 논문 읽기: Reflexion — 실패를 언어로 되감는 에이전트](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Reflexion-%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EC%96%B8%EC%96%B4%EB%A1%9C-%EB%90%98%EA%B0%90%EB%8A%94-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/)
+- [Agentic AI 논문 읽기: Multi-Agent Survey — 집단 지능의 지도를 펼치다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Multi-Agent-Survey-%EC%A7%91%EB%8B%A8-%EC%A7%80%EB%8A%A5%EC%9D%98-%EC%A7%80%EB%8F%84%EB%A5%BC-%ED%8E%BC%EC%B9%98%EB%8B%A4/)
+- [Agentic AI 논문 읽기: MetaGPT — SOP로 설계한 다중 에이전트 조직](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-MetaGPT-SOP%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%9C-%EB%8B%A4%EC%A4%91-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%A1%B0%EC%A7%81/)
+- … 외 5개
+
+### 스타트업 (17개)
+- [떠날 수 있어서 떠난다](https://dataportal.kr/%EB%96%A0%EB%82%A0-%EC%88%98-%EC%9E%88%EC%96%B4%EC%84%9C-%EB%96%A0%EB%82%9C%EB%8B%A4/)
+- [금융 데이터, 하나의 API로 — Headless Finance Platform을 공개합니다](https://dataportal.kr/%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%98%EB%82%98%EC%9D%98-API%EB%A1%9C/)
+- [리더십팀은 UN이 아니다](https://dataportal.kr/%EB%A6%AC%EB%8D%94%EC%8B%AD%ED%8C%80%EC%9D%80-UN%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4/)
+- [프로덕트에서 플레이어를 떼어내는 용기](https://dataportal.kr/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EC%97%90%EC%84%9C-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EB%96%BC%EC%96%B4%EB%82%B4%EB%8A%94-%EC%9A%A9%EA%B8%B0/)
+- [같이 일한다는 것의 진짜 의미](https://dataportal.kr/%EA%B0%99%EC%9D%B4-%EC%9D%BC%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%98-%EC%A7%84%EC%A7%9C-%EC%9D%98%EB%AF%B8/)
+- [공정하다는 느낌은 결과가 아니라 과정에서 온다](https://dataportal.kr/%EA%B3%B5%EC%A0%95%ED%95%98%EB%8B%A4%EB%8A%94-%EB%8A%90%EB%82%8C%EC%9D%80-%EA%B2%B0%EA%B3%BC%EA%B0%80-%EC%95%84%EB%8B%88%EB%9D%BC-%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C-%EC%98%A8%EB%8B%A4/)
+- [취향을 파는 사람들](https://dataportal.kr/%EC%B7%A8%ED%96%A5%EC%9D%84-%ED%8C%8C%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/)
+- [[볼타 이야기] 볼타 팀은 이렇게 일합니다](https://dataportal.kr/%EB%B3%BC%ED%83%80-%ED%8C%80%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4/)
+- [작은 규모=공정한 평가](https://dataportal.kr/%EC%9E%91%EC%9D%80-%EA%B7%9C%EB%AA%A8-%EA%B3%B5%EC%A0%95%ED%95%9C-%ED%8F%89%EA%B0%80/)
+- [티몬·위메프 사태로 알아보는 흑자도산](https://dataportal.kr/%ED%8B%B0%EB%AA%AC-%EC%9C%84%EB%A9%94%ED%94%84-%EC%82%AC%ED%83%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%ED%9D%91%EC%9E%90%EB%8F%84%EC%82%B0/)
+- [조직이 커지면서 발생하는 문제](https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4-%EC%BB%A4%EC%A7%80%EB%A9%B4%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%AC%B8%EC%A0%9C/)
+- [PM은 무얼 하는 사람?](https://dataportal.kr/PM%EC%9D%80-%EB%AC%B4%EC%96%BC-%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C/)
+- [번아웃을 한 번에 해결할 수 있는 방법은 성과다](https://dataportal.kr/%EB%B2%88%EC%95%84%EC%9B%83%EC%9D%84-%ED%95%9C-%EB%B2%88%EC%97%90-%ED%95%B4%EA%B2%B0%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-%EC%84%B1%EA%B3%BC%EB%8B%A4/)
+- [유료화, 그 이후 (After Willingness to pay)](https://dataportal.kr/%EC%9C%A0%EB%A3%8C%ED%99%94-%EA%B7%B8-%EC%9D%B4%ED%9B%84-After-Willingness-to-pay/)
+- [[볼타 이야기] 채용 원칙](https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%B1%84%EC%9A%A9-%EC%9B%90%EC%B9%99/)
+- [[볼타 이야기] 작은 팀을 유지하려는 이유](https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%9E%91%EC%9D%80-%ED%8C%80%EC%9D%84-%EC%9C%A0%EC%A7%80%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
+- [[볼타 이야기] 결국 B2B는 잘 팔면 되는 거 아닌가?](https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EA%B2%B0%EA%B5%AD-B2B%EB%8A%94-%EC%9E%98-%ED%8C%94%EB%A9%B4-%EB%90%98%EB%8A%94-%EA%B1%B0-%EC%95%84%EB%8B%8C%EA%B0%80/)
+
+### 조직 (13개)
+- [책상 바깥에서 자라는 것들](https://dataportal.kr/%EC%B1%85%EC%83%81-%EB%B0%94%EA%B9%A5%EC%97%90%EC%84%9C-%EC%9E%90%EB%9D%BC%EB%8A%94-%EA%B2%83%EB%93%A4/)
+- [여섯 가지 질문에 답할 수 있는가](https://dataportal.kr/%EC%97%AC%EC%84%AF-%EA%B0%80%EC%A7%80-%EC%A7%88%EB%AC%B8%EC%97%90-%EB%8B%B5%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/)
+- [미션 선언문이라는 허상](https://dataportal.kr/%EB%AF%B8%EC%85%98-%EC%84%A0%EC%96%B8%EB%AC%B8%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%97%88%EC%83%81/)
+- [리더십팀은 UN이 아니다](https://dataportal.kr/%EB%A6%AC%EB%8D%94%EC%8B%AD%ED%8C%80%EC%9D%80-UN%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4/)
+- [행동을 지적할 것인가, 성과를 지적할 것인가](https://dataportal.kr/%ED%96%89%EB%8F%99%EC%9D%84-%EC%A7%80%EC%A0%81%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%A7%80%EC%A0%81%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80/)
+- [불편한 지적이 팀을 살린다](https://dataportal.kr/%EB%B6%88%ED%8E%B8%ED%95%9C-%EC%A7%80%EC%A0%81%EC%9D%B4-%ED%8C%80%EC%9D%84-%EC%82%B4%EB%A6%B0%EB%8B%A4/)
+- [빨라진 실행, 느려진 팀 — 생산성의 역설](https://dataportal.kr/%EB%B9%A8%EB%9D%BC%EC%A7%84-%EC%8B%A4%ED%96%89-%EB%8A%90%EB%A0%A4%EC%A7%84-%ED%8C%80-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%98-%EC%97%AD%EC%84%A4/)
+- [팀에 '우리다움'이 없으면 논의는 시작되지 않는다](https://dataportal.kr/%ED%8C%80%EC%97%90-%EC%9A%B0%EB%A6%AC%EB%8B%A4%EC%9B%80%EC%9D%B4-%EC%97%86%EC%9C%BC%EB%A9%B4-%EB%85%BC%EC%9D%98%EB%8A%94-%EC%8B%9C%EC%9E%91%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4/)
+- [명령이 아니라 장면을 보여줘라](https://dataportal.kr/%EB%AA%85%EB%A0%B9%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%9E%A5%EB%A9%B4%EC%9D%84-%EB%B3%B4%EC%97%AC%EC%A4%98%EB%9D%BC/)
+- [지루함을 설계하는 사람들](https://dataportal.kr/%EC%A7%80%EB%A3%A8%ED%95%A8%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/)
+- [개발 조직에서의 리더 (부제: 다양한 문제해결 스타일)](https://dataportal.kr/%EA%B0%9C%EB%B0%9C-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C%EC%9D%98-%EB%A6%AC%EB%8D%94/)
+- [당신은 얼마나 책임 지고 있나요? (feat. Mandate Levels)](https://dataportal.kr/%EB%8B%B9%EC%8B%A0%EC%9D%80-%EC%96%BC%EB%A7%88%EB%82%98-%EC%B1%85%EC%9E%84-%EC%A7%80%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-feat-Mandate-Levels/)
+- [우리가 하는 일은 두 가지 유형의 일 뿐이다. (부제; 직무의 통합)](https://dataportal.kr/%EC%9A%B0%EB%A6%AC%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%80-%EB%91%90-%EA%B0%80%EC%A7%80-%EC%9C%A0%ED%98%95%EC%9D%98-%EC%9D%BC-%EB%BF%90%EC%9D%B4%EB%8B%A4-%EB%B6%80%EC%A0%9C-%EC%A7%81%EB%AC%B4%EC%9D%98-%ED%86%B5%ED%95%A9/)
+
+### 회고 (8개)
+- [설계된 직감, 설계된 빈틈 — 탐닉의 설계자들 북클럽 리포트](https://dataportal.kr/%EC%84%A4%EA%B3%84%EB%90%9C-%EC%A7%81%EA%B0%90-%EC%84%A4%EA%B3%84%EB%90%9C-%EB%B9%88%ED%8B%88/)
+- [[주간회고] 2024년 9주차](https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-9%EC%A3%BC%EC%B0%A8/)
+- [[주간회고] 2024년 8주차](https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-8%EC%A3%BC%EC%B0%A8/)
+- [[주간회고] 2024년 7주차](https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-7%EC%A3%BC%EC%B0%A8/)
+- [[주간회고] 2024년 6주차](https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-6%EC%A3%BC%EC%B0%A8/)
+- [[주간회고] 2024년 5주차](https://dataportal.kr/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-5%EC%A3%BC%EC%B0%A8/)
+- [2023년 회고: 프로젝트, 퇴사, 창업, 채용, 기술](https://dataportal.kr/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/)
+- [내가 개발 커뮤니티를 하는 이유 (a.k.a. 10년 회고)](https://dataportal.kr/%EB%82%B4%EA%B0%80-%EA%B0%9C%EB%B0%9C-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EB%A5%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
+
+### 리뷰 (2개)
+- [기브앤테이크 6장. 이기적인 이타주의자](https://dataportal.kr/%EA%B8%B0%EB%B8%8C%EC%95%A4%ED%85%8C%EC%9D%B4%ED%81%AC-6%EC%9E%A5-%EC%9D%B4%EA%B8%B0%EC%A0%81%EC%9D%B8-%EC%9D%B4%ED%83%80%EC%A3%BC%EC%9D%98%EC%9E%90/)
+- [평범한 결혼생활 - 임경선 / 별점 3.0](https://dataportal.kr/%ED%8F%89%EB%B2%94%ED%95%9C-%EA%B2%B0%ED%98%BC%EC%83%9D%ED%99%9C-%EC%9E%84%EA%B2%BD%EC%84%A0/)
+
+## 책 챕터
+
+- [프롤로그. 개발자, 회사를 만들다](https://dataportal.kr/books/the-art-of-small-teams/ch-00-prologue/)
+- [왜 작은 팀인가](https://dataportal.kr/books/the-art-of-small-teams/ch-01-why-small-teams/)
+- [같이 일한다는 것](https://dataportal.kr/books/the-art-of-small-teams/ch-02-working-together/)
+- [누구와 함께할 것인가](https://dataportal.kr/books/the-art-of-small-teams/ch-03-who-to-work-with/)
+- [리더는 부서의 대사가 아니다](https://dataportal.kr/books/the-art-of-small-teams/ch-04-leader-not-ambassador/)
+- [미션보다 명료함](https://dataportal.kr/books/the-art-of-small-teams/ch-05-clarity-over-mission/)
+- [불편한 말이 팀을 살린다](https://dataportal.kr/books/the-art-of-small-teams/ch-06-uncomfortable-truth/)
+- [공정함은 과정에서 온다](https://dataportal.kr/books/the-art-of-small-teams/ch-07-fairness-in-process/)
+- [What과 How 사이에서](https://dataportal.kr/books/the-art-of-small-teams/ch-08-what-and-how/)
+- [번아웃과 성과의 관계](https://dataportal.kr/books/the-art-of-small-teams/ch-09-burnout-and-performance/)
+- [제품에 철학을 담다](https://dataportal.kr/books/the-art-of-small-teams/ch-10-philosophy-in-product/)
+- [AI 시대, 작은 팀이 유리한 이유](https://dataportal.kr/books/the-art-of-small-teams/ch-11-ai-era-small-teams/)
+- [작은 팀의 미래](https://dataportal.kr/books/the-art-of-small-teams/ch-12-future-of-small-teams/)
+- [에필로그. 여전히 작은 팀으로](https://dataportal.kr/books/the-art-of-small-teams/ch-13-epilogue/)
