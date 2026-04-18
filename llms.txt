@@ -137,8 +137,7 @@
 
 ## 태그별
 
-### 기술 (37개)
-- [36.8%의 확률로 사랑하기](https://dataportal.kr/36-8%ED%8D%BC%EC%84%BC%ED%8A%B8%EC%9D%98-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0/)
+### 기술 (36개)
 - [금융 데이터, 하나의 API로 — Headless Finance Platform을 공개합니다](https://dataportal.kr/%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%98%EB%82%98%EC%9D%98-API%EB%A1%9C/)
 - [Agentic AI 논문 읽기: A-MEM — 제텔카스텐에서 영감받은 에이전트 기억 시스템](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-A-MEM-%EC%A0%9C%ED%85%94%EC%B9%B4%EC%8A%A4%ED%85%90%EC%97%90%EC%84%9C-%EC%98%81%EA%B0%90%EB%B0%9B%EC%9D%80-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B8%B0%EC%96%B5-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
 - [Agentic AI 논문 읽기: Rise and Potential — 뇌·지각·행동으로 본 에이전트 전망](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Rise-and-Potential-%EB%87%8C%C2%B7%EC%A7%80%EA%B0%81%C2%B7%ED%96%89%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%B3%B8-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%A0%84%EB%A7%9D/)
@@ -158,7 +157,8 @@
 - [Agentic AI 논문 읽기: ETO — 실패 궤적으로 에이전트를 훈련하다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-ETO-%EC%8B%A4%ED%8C%A8-%EA%B6%A4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%ED%9B%88%EB%A0%A8%ED%95%98%EB%8B%A4/)
 - [Agentic AI 논문 읽기: LATS — 트리 탐색으로 추론과 행동을 통합하다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-LATS-%ED%8A%B8%EB%A6%AC-%ED%83%90%EC%83%89%EC%9C%BC%EB%A1%9C-%EC%B6%94%EB%A1%A0%EA%B3%BC-%ED%96%89%EB%8F%99%EC%9D%84-%ED%86%B5%ED%95%A9%ED%95%98%EB%8B%A4/)
 - [Agentic AI 논문 읽기: Reflexion — 실패를 언어로 되감는 에이전트](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Reflexion-%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EC%96%B8%EC%96%B4%EB%A1%9C-%EB%90%98%EA%B0%90%EB%8A%94-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/)
-- … 외 17개
+- [Agentic AI 논문 읽기: Multi-Agent Survey — 집단 지능의 지도를 펼치다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Multi-Agent-Survey-%EC%A7%91%EB%8B%A8-%EC%A7%80%EB%8A%A5%EC%9D%98-%EC%A7%80%EB%8F%84%EB%A5%BC-%ED%8E%BC%EC%B9%98%EB%8B%A4/)
+- … 외 16개
 
 ### 에세이 (32개)
 - [36.8%의 확률로 사랑하기](https://dataportal.kr/36-8%ED%8D%BC%EC%84%BC%ED%8A%B8%EC%9D%98-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0/)
