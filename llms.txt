@@ -16,6 +16,7 @@
 
 ## 글 (최신순)
 
+- [조직이라는 단어가 흔들릴 때](https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4%EB%9D%BC%EB%8A%94-%EB%8B%A8%EC%96%B4%EA%B0%80-%ED%9D%94%EB%93%A4%EB%A6%B4-%EB%95%8C/) — AI는 개인을 증폭시킨다. 그 증폭을 조직이 끌어올리려 할 때, 먼저 흔들리는 것은 기술이 아니라 '조직'이라는 단어 자체다.
 - [36.8%의 확률로 사랑하기](https://dataportal.kr/36-8%ED%8D%BC%EC%84%BC%ED%8A%B8%EC%9D%98-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0/) — 수학자들이 '결혼 문제'라 부르는 공식이 있다. 37%에서 멈추라는 규칙, 그리고 그 규칙이 실패하는 가장 흔한 방식에 대하여.
 - [떠날 수 있어서 떠난다](https://dataportal.kr/%EB%96%A0%EB%82%A0-%EC%88%98-%EC%9E%88%EC%96%B4%EC%84%9C-%EB%96%A0%EB%82%9C%EB%8B%A4/) — 해외 이주의 이유는 세금이나 교육이 아니다. 떠날 수 있게 된 사람만이 떠날 수 있다. 안 하는 것과 못 하는 것의 차이, 그리고 리셋이라는 매력에 대한 관찰.
 - [책상 바깥에서 자라는 것들](https://dataportal.kr/%EC%B1%85%EC%83%81-%EB%B0%94%EA%B9%A5%EC%97%90%EC%84%9C-%EC%9E%90%EB%9D%BC%EB%8A%94-%EA%B2%83%EB%93%A4/) — 직관은 책상에서 쥐어짜는 것이 아니라, 책상을 떠난 시간에 조용히 쌓인다. 좋은 판단의 재료 절반은 의자 위에 없다. 일의 질은 일하지 않는 시간의 질에 수렴한다.
@@ -160,7 +161,8 @@
 - [Agentic AI 논문 읽기: Multi-Agent Survey — 집단 지능의 지도를 펼치다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Multi-Agent-Survey-%EC%A7%91%EB%8B%A8-%EC%A7%80%EB%8A%A5%EC%9D%98-%EC%A7%80%EB%8F%84%EB%A5%BC-%ED%8E%BC%EC%B9%98%EB%8B%A4/)
 - … 외 16개
 
-### 에세이 (32개)
+### 에세이 (33개)
+- [조직이라는 단어가 흔들릴 때](https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4%EB%9D%BC%EB%8A%94-%EB%8B%A8%EC%96%B4%EA%B0%80-%ED%9D%94%EB%93%A4%EB%A6%B4-%EB%95%8C/)
 - [36.8%의 확률로 사랑하기](https://dataportal.kr/36-8%ED%8D%BC%EC%84%BC%ED%8A%B8%EC%9D%98-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0/)
 - [떠날 수 있어서 떠난다](https://dataportal.kr/%EB%96%A0%EB%82%A0-%EC%88%98-%EC%9E%88%EC%96%B4%EC%84%9C-%EB%96%A0%EB%82%9C%EB%8B%A4/)
 - [책상 바깥에서 자라는 것들](https://dataportal.kr/%EC%B1%85%EC%83%81-%EB%B0%94%EA%B9%A5%EC%97%90%EC%84%9C-%EC%9E%90%EB%9D%BC%EB%8A%94-%EA%B2%83%EB%93%A4/)
@@ -180,8 +182,7 @@
 - [기회의 모양은 시대마다 다르다](https://dataportal.kr/%EA%B8%B0%ED%9A%8C%EC%9D%98-%EB%AA%A8%EC%96%91%EC%9D%80-%EC%8B%9C%EB%8C%80%EB%A7%88%EB%8B%A4-%EB%8B%A4%EB%A5%B4%EB%8B%A4/)
 - [의미는 해석에서 태어난다](https://dataportal.kr/%EC%9D%98%EB%AF%B8%EB%8A%94-%ED%95%B4%EC%84%9D%EC%97%90%EC%84%9C-%ED%83%9C%EC%96%B4%EB%82%9C%EB%8B%A4/)
 - [성격이라는 피난처](https://dataportal.kr/%EC%84%B1%EA%B2%A9%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%94%BC%EB%82%9C%EC%B2%98/)
-- [선택이라는 이름의 자유](https://dataportal.kr/%EC%84%A0%ED%83%9D%EC%9D%B4%EB%9D%BC%EB%8A%94-%EC%9D%B4%EB%A6%84%EC%9D%98-%EC%9E%90%EC%9C%A0/)
-- … 외 12개
+- … 외 13개
 
 ### 성장 (25개)
 - [책상 바깥에서 자라는 것들](https://dataportal.kr/%EC%B1%85%EC%83%81-%EB%B0%94%EA%B9%A5%EC%97%90%EC%84%9C-%EC%9E%90%EB%9D%BC%EB%8A%94-%EA%B2%83%EB%93%A4/)
@@ -248,7 +249,8 @@
 - [[볼타 이야기] 작은 팀을 유지하려는 이유](https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%9E%91%EC%9D%80-%ED%8C%80%EC%9D%84-%EC%9C%A0%EC%A7%80%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
 - [[볼타 이야기] 결국 B2B는 잘 팔면 되는 거 아닌가?](https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EA%B2%B0%EA%B5%AD-B2B%EB%8A%94-%EC%9E%98-%ED%8C%94%EB%A9%B4-%EB%90%98%EB%8A%94-%EA%B1%B0-%EC%95%84%EB%8B%8C%EA%B0%80/)
 
-### 조직 (13개)
+### 조직 (14개)
+- [조직이라는 단어가 흔들릴 때](https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4%EB%9D%BC%EB%8A%94-%EB%8B%A8%EC%96%B4%EA%B0%80-%ED%9D%94%EB%93%A4%EB%A6%B4-%EB%95%8C/)
 - [책상 바깥에서 자라는 것들](https://dataportal.kr/%EC%B1%85%EC%83%81-%EB%B0%94%EA%B9%A5%EC%97%90%EC%84%9C-%EC%9E%90%EB%9D%BC%EB%8A%94-%EA%B2%83%EB%93%A4/)
 - [여섯 가지 질문에 답할 수 있는가](https://dataportal.kr/%EC%97%AC%EC%84%AF-%EA%B0%80%EC%A7%80-%EC%A7%88%EB%AC%B8%EC%97%90-%EB%8B%B5%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/)
 - [미션 선언문이라는 허상](https://dataportal.kr/%EB%AF%B8%EC%85%98-%EC%84%A0%EC%96%B8%EB%AC%B8%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%97%88%EC%83%81/)
