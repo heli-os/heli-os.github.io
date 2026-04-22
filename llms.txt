@@ -16,6 +16,7 @@
 
 ## 글 (최신순)
 
+- [출구를 늦추는 저녁](https://dataportal.kr/%EC%B6%9C%EA%B5%AC%EB%A5%BC-%EB%8A%A6%EC%B6%94%EB%8A%94-%EC%A0%80%EB%85%81/) — 예정된 끝에서 끝나지 않는 저녁이 있다. 끝을 미루는 작은 말들과, 같은 방향으로 흐르는 시간과 거리에 관하여.
 - [조직이라는 단어가 흔들릴 때](https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4%EB%9D%BC%EB%8A%94-%EB%8B%A8%EC%96%B4%EA%B0%80-%ED%9D%94%EB%93%A4%EB%A6%B4-%EB%95%8C/) — AI는 개인을 증폭시킨다. 그 증폭을 조직이 끌어올리려 할 때, 먼저 흔들리는 것은 기술이 아니라 '조직'이라는 단어 자체다.
 - [36.8%의 확률로 사랑하기](https://dataportal.kr/36-8%ED%8D%BC%EC%84%BC%ED%8A%B8%EC%9D%98-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0/) — 수학자들이 '결혼 문제'라 부르는 공식이 있다. 37%에서 멈추라는 규칙, 그리고 그 규칙이 실패하는 가장 흔한 방식에 대하여.
 - [떠날 수 있어서 떠난다](https://dataportal.kr/%EB%96%A0%EB%82%A0-%EC%88%98-%EC%9E%88%EC%96%B4%EC%84%9C-%EB%96%A0%EB%82%9C%EB%8B%A4/) — 해외 이주의 이유는 세금이나 교육이 아니다. 떠날 수 있게 된 사람만이 떠날 수 있다. 안 하는 것과 못 하는 것의 차이, 그리고 리셋이라는 매력에 대한 관찰.
@@ -161,7 +162,8 @@
 - [Agentic AI 논문 읽기: Multi-Agent Survey — 집단 지능의 지도를 펼치다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Multi-Agent-Survey-%EC%A7%91%EB%8B%A8-%EC%A7%80%EB%8A%A5%EC%9D%98-%EC%A7%80%EB%8F%84%EB%A5%BC-%ED%8E%BC%EC%B9%98%EB%8B%A4/)
 - … 외 16개
 
-### 에세이 (33개)
+### 에세이 (34개)
+- [출구를 늦추는 저녁](https://dataportal.kr/%EC%B6%9C%EA%B5%AC%EB%A5%BC-%EB%8A%A6%EC%B6%94%EB%8A%94-%EC%A0%80%EB%85%81/)
 - [조직이라는 단어가 흔들릴 때](https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4%EB%9D%BC%EB%8A%94-%EB%8B%A8%EC%96%B4%EA%B0%80-%ED%9D%94%EB%93%A4%EB%A6%B4-%EB%95%8C/)
 - [36.8%의 확률로 사랑하기](https://dataportal.kr/36-8%ED%8D%BC%EC%84%BC%ED%8A%B8%EC%9D%98-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0/)
 - [떠날 수 있어서 떠난다](https://dataportal.kr/%EB%96%A0%EB%82%A0-%EC%88%98-%EC%9E%88%EC%96%B4%EC%84%9C-%EB%96%A0%EB%82%9C%EB%8B%A4/)
@@ -181,8 +183,7 @@
 - [직관이 만들어지는 구조](https://dataportal.kr/%EC%A7%81%EA%B4%80%EC%9D%B4-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%80%EB%8A%94-%EA%B5%AC%EC%A1%B0/)
 - [기회의 모양은 시대마다 다르다](https://dataportal.kr/%EA%B8%B0%ED%9A%8C%EC%9D%98-%EB%AA%A8%EC%96%91%EC%9D%80-%EC%8B%9C%EB%8C%80%EB%A7%88%EB%8B%A4-%EB%8B%A4%EB%A5%B4%EB%8B%A4/)
 - [의미는 해석에서 태어난다](https://dataportal.kr/%EC%9D%98%EB%AF%B8%EB%8A%94-%ED%95%B4%EC%84%9D%EC%97%90%EC%84%9C-%ED%83%9C%EC%96%B4%EB%82%9C%EB%8B%A4/)
-- [성격이라는 피난처](https://dataportal.kr/%EC%84%B1%EA%B2%A9%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%94%BC%EB%82%9C%EC%B2%98/)
-- … 외 13개
+- … 외 14개
 
 ### 성장 (25개)
 - [책상 바깥에서 자라는 것들](https://dataportal.kr/%EC%B1%85%EC%83%81-%EB%B0%94%EA%B9%A5%EC%97%90%EC%84%9C-%EC%9E%90%EB%9D%BC%EB%8A%94-%EA%B2%83%EB%93%A4/)
