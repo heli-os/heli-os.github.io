@@ -19,7 +19,6 @@
 - [채용 추천 시스템은 어떻게 '상위 지원자'를 가려내는가](https://dataportal.kr/%EC%B1%84%EC%9A%A9-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%83%81%EC%9C%84-%EC%A7%80%EC%9B%90%EC%9E%90%EB%A5%BC-%EA%B0%80%EB%A0%A4%EB%82%B4%EB%8A%94%EA%B0%80/) — 리크루트먼트 추천 시스템의 3단계 파이프라인(Retrieval → Ranking → Re-ranking)과 Person-Job Fit 계열 모델, 그리고 '채용될 가능성' 스코어의 실체를 LinkedIn 사례와 학계 논문을 교차 참조해 정리한다.
 - [내려놓음의 역설 — 《오프 먼트》가 말하는 가장 어려운 전략](https://dataportal.kr/%EB%82%B4%EB%A0%A4%EB%86%93%EC%9D%8C%EC%9D%98-%EC%97%AD%EC%84%A4-%EC%98%A4%ED%94%84-%EB%A8%BC%ED%8A%B8/) — 목표는 유지하되 강박을 해제한다는 것. 장재열의 《오프 먼트》가 제안하는 내려놓음이 왜 '포기'와 다른지, 왜 오히려 성취에 더 가까워지는지를 살핀다.
 - [식어 가는 자리에서 성공을 바라는 사람들](https://dataportal.kr/%EC%8B%9D%EC%96%B4-%EA%B0%80%EB%8A%94-%EC%9E%90%EB%A6%AC%EC%97%90%EC%84%9C-%EC%84%B1%EA%B3%B5%EC%9D%84-%EB%B0%94%EB%9D%BC%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/) — 공감·이해·신뢰라는 보이지 않는 온기가 식어 갈 때, 성공의 욕망만 남는다는 것에 대하여
-- [출구를 늦추는 저녁](https://dataportal.kr/%EC%B6%9C%EA%B5%AC%EB%A5%BC-%EB%8A%A6%EC%B6%94%EB%8A%94-%EC%A0%80%EB%85%81/) — 예정된 끝에서 끝나지 않는 저녁이 있다. 끝을 미루는 작은 말들과, 같은 방향으로 흐르는 시간과 거리에 관하여.
 - [조직이라는 단어가 흔들릴 때](https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4%EB%9D%BC%EB%8A%94-%EB%8B%A8%EC%96%B4%EA%B0%80-%ED%9D%94%EB%93%A4%EB%A6%B4-%EB%95%8C/) — AI는 개인을 증폭시킨다. 그 증폭을 조직이 끌어올리려 할 때, 먼저 흔들리는 것은 기술이 아니라 '조직'이라는 단어 자체다.
 - [36.8%의 확률로 사랑하기](https://dataportal.kr/36-8%ED%8D%BC%EC%84%BC%ED%8A%B8%EC%9D%98-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0/) — 수학자들이 '결혼 문제'라 부르는 공식이 있다. 37%에서 멈추라는 규칙, 그리고 그 규칙이 실패하는 가장 흔한 방식에 대하여.
 - [떠날 수 있어서 떠난다](https://dataportal.kr/%EB%96%A0%EB%82%A0-%EC%88%98-%EC%9E%88%EC%96%B4%EC%84%9C-%EB%96%A0%EB%82%9C%EB%8B%A4/) — 해외 이주의 이유는 세금이나 교육이 아니다. 떠날 수 있게 된 사람만이 떠날 수 있다. 안 하는 것과 못 하는 것의 차이, 그리고 리셋이라는 매력에 대한 관찰.
@@ -165,10 +164,9 @@
 - [Agentic AI 논문 읽기: Reflexion — 실패를 언어로 되감는 에이전트](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Reflexion-%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EC%96%B8%EC%96%B4%EB%A1%9C-%EB%90%98%EA%B0%90%EB%8A%94-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/)
 - … 외 17개
 
-### 에세이 (36개)
+### 에세이 (35개)
 - [내려놓음의 역설 — 《오프 먼트》가 말하는 가장 어려운 전략](https://dataportal.kr/%EB%82%B4%EB%A0%A4%EB%86%93%EC%9D%8C%EC%9D%98-%EC%97%AD%EC%84%A4-%EC%98%A4%ED%94%84-%EB%A8%BC%ED%8A%B8/)
 - [식어 가는 자리에서 성공을 바라는 사람들](https://dataportal.kr/%EC%8B%9D%EC%96%B4-%EA%B0%80%EB%8A%94-%EC%9E%90%EB%A6%AC%EC%97%90%EC%84%9C-%EC%84%B1%EA%B3%B5%EC%9D%84-%EB%B0%94%EB%9D%BC%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/)
-- [출구를 늦추는 저녁](https://dataportal.kr/%EC%B6%9C%EA%B5%AC%EB%A5%BC-%EB%8A%A6%EC%B6%94%EB%8A%94-%EC%A0%80%EB%85%81/)
 - [조직이라는 단어가 흔들릴 때](https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4%EB%9D%BC%EB%8A%94-%EB%8B%A8%EC%96%B4%EA%B0%80-%ED%9D%94%EB%93%A4%EB%A6%B4-%EB%95%8C/)
 - [36.8%의 확률로 사랑하기](https://dataportal.kr/36-8%ED%8D%BC%EC%84%BC%ED%8A%B8%EC%9D%98-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0/)
 - [떠날 수 있어서 떠난다](https://dataportal.kr/%EB%96%A0%EB%82%A0-%EC%88%98-%EC%9E%88%EC%96%B4%EC%84%9C-%EB%96%A0%EB%82%9C%EB%8B%A4/)
@@ -186,7 +184,8 @@
 - [문맥이 경험의 가치를 결정한다](https://dataportal.kr/%EB%AC%B8%EB%A7%A5%EC%9D%B4-%EA%B2%BD%ED%97%98%EC%9D%98-%EA%B0%80%EC%B9%98%EB%A5%BC-%EA%B2%B0%EC%A0%95%ED%95%9C%EB%8B%A4/)
 - [왜 모든 여행은 집으로 돌아오는가](https://dataportal.kr/%EC%99%9C-%EB%AA%A8%EB%93%A0-%EC%97%AC%ED%96%89%EC%9D%80-%EC%A7%91%EC%9C%BC%EB%A1%9C-%EB%8F%8C%EC%95%84%EC%98%A4%EB%8A%94%EA%B0%80/)
 - [직관이 만들어지는 구조](https://dataportal.kr/%EC%A7%81%EA%B4%80%EC%9D%B4-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%80%EB%8A%94-%EA%B5%AC%EC%A1%B0/)
-- … 외 16개
+- [기회의 모양은 시대마다 다르다](https://dataportal.kr/%EA%B8%B0%ED%9A%8C%EC%9D%98-%EB%AA%A8%EC%96%91%EC%9D%80-%EC%8B%9C%EB%8C%80%EB%A7%88%EB%8B%A4-%EB%8B%A4%EB%A5%B4%EB%8B%A4/)
+- … 외 15개
 
 ### 리포트 (26개)
 - [채용 추천 시스템은 어떻게 '상위 지원자'를 가려내는가](https://dataportal.kr/%EC%B1%84%EC%9A%A9-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%83%81%EC%9C%84-%EC%A7%80%EC%9B%90%EC%9E%90%EB%A5%BC-%EA%B0%80%EB%A0%A4%EB%82%B4%EB%8A%94%EA%B0%80/)
