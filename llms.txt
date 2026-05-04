@@ -16,6 +16,7 @@
 
 ## 글 (최신순)
 
+- [흔들림은 결함이 아니다](https://dataportal.kr/%ED%9D%94%EB%93%A4%EB%A6%BC%EC%9D%80-%EA%B2%B0%ED%95%A8%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4/) — 흔들림 자체는 결함이 아니다. 그 흔들림을 자기가 청한 자리 한가운데에 풀어놓는 일이 결함이다. 태도는 본인이 결정한다.
 - [채용되는 것은 손이 아니라 판단이다](https://dataportal.kr/%EC%B1%84%EC%9A%A9%EB%90%98%EB%8A%94-%EA%B2%83%EC%9D%80-%EC%86%90%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%ED%8C%90%EB%8B%A8%EC%9D%B4%EB%8B%A4/) — 개발자라는 단어 안에 들어 있던 사람의 모습이 다시 한번 비워지고 있다. 손이 가벼워지는 시대에, 그 자리에 들어오는 사람은 누구인가.
 - [프로토타입이라는 새 문법](https://dataportal.kr/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%B4%EB%9D%BC%EB%8A%94-%EC%83%88-%EB%AC%B8%EB%B2%95/) — 회의실에 무엇이 놓여 있는가가 그 시대의 인식을 규정한다. 슬라이드에서 메모로, 메모에서 프로토타입으로 회의의 주체가 한 칸씩 이동했다.
 - [채용 추천 시스템은 어떻게 '상위 지원자'를 가려내는가](https://dataportal.kr/%EC%B1%84%EC%9A%A9-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%83%81%EC%9C%84-%EC%A7%80%EC%9B%90%EC%9E%90%EB%A5%BC-%EA%B0%80%EB%A0%A4%EB%82%B4%EB%8A%94%EA%B0%80/) — 리크루트먼트 추천 시스템의 3단계 파이프라인(Retrieval → Ranking → Re-ranking)과 Person-Job Fit 계열 모델, 그리고 '채용될 가능성' 스코어의 실체를 LinkedIn 사례와 학계 논문을 교차 참조해 정리한다.
@@ -143,6 +144,29 @@
 
 ## 태그별
 
+### 에세이 (37개)
+- [흔들림은 결함이 아니다](https://dataportal.kr/%ED%9D%94%EB%93%A4%EB%A6%BC%EC%9D%80-%EA%B2%B0%ED%95%A8%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4/)
+- [프로토타입이라는 새 문법](https://dataportal.kr/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%B4%EB%9D%BC%EB%8A%94-%EC%83%88-%EB%AC%B8%EB%B2%95/)
+- [내려놓음의 역설 — 《오프 먼트》가 말하는 가장 어려운 전략](https://dataportal.kr/%EB%82%B4%EB%A0%A4%EB%86%93%EC%9D%8C%EC%9D%98-%EC%97%AD%EC%84%A4-%EC%98%A4%ED%94%84-%EB%A8%BC%ED%8A%B8/)
+- [식어 가는 자리에서 성공을 바라는 사람들](https://dataportal.kr/%EC%8B%9D%EC%96%B4-%EA%B0%80%EB%8A%94-%EC%9E%90%EB%A6%AC%EC%97%90%EC%84%9C-%EC%84%B1%EA%B3%B5%EC%9D%84-%EB%B0%94%EB%9D%BC%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/)
+- [조직이라는 단어가 흔들릴 때](https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4%EB%9D%BC%EB%8A%94-%EB%8B%A8%EC%96%B4%EA%B0%80-%ED%9D%94%EB%93%A4%EB%A6%B4-%EB%95%8C/)
+- [36.8%의 확률로 사랑하기](https://dataportal.kr/36-8%ED%8D%BC%EC%84%BC%ED%8A%B8%EC%9D%98-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0/)
+- [떠날 수 있어서 떠난다](https://dataportal.kr/%EB%96%A0%EB%82%A0-%EC%88%98-%EC%9E%88%EC%96%B4%EC%84%9C-%EB%96%A0%EB%82%9C%EB%8B%A4/)
+- [책상 바깥에서 자라는 것들](https://dataportal.kr/%EC%B1%85%EC%83%81-%EB%B0%94%EA%B9%A5%EC%97%90%EC%84%9C-%EC%9E%90%EB%9D%BC%EB%8A%94-%EA%B2%83%EB%93%A4/)
+- [사랑을 받지 않는 기술](https://dataportal.kr/%EC%82%AC%EB%9E%91%EC%9D%84-%EB%B0%9B%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B8%B0%EC%88%A0/)
+- [이름이 숫자가 되던 날](https://dataportal.kr/%EC%9D%B4%EB%A6%84%EC%9D%B4-%EC%88%AB%EC%9E%90%EA%B0%80-%EB%90%98%EB%8D%98-%EB%82%A0/)
+- [How는 어렵다](https://dataportal.kr/How%EB%8A%94-%EC%96%B4%EB%A0%B5%EB%8B%A4/)
+- [미션 선언문이라는 허상](https://dataportal.kr/%EB%AF%B8%EC%85%98-%EC%84%A0%EC%96%B8%EB%AC%B8%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%97%88%EC%83%81/)
+- [나라는 이야기의 작가는 누구인가](https://dataportal.kr/%EB%82%98%EB%9D%BC%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98-%EC%9E%91%EA%B0%80%EB%8A%94-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80/)
+- [확신이 강할수록 의심해야 하는 이유](https://dataportal.kr/%ED%99%95%EC%8B%A0%EC%9D%B4-%EA%B0%95%ED%95%A0%EC%88%98%EB%A1%9D-%EC%9D%98%EC%8B%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
+- [뇌는 설명하고 싶다](https://dataportal.kr/%EB%87%8C%EB%8A%94-%EC%84%A4%EB%AA%85%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4/)
+- [무엇을 줄 것인가 — 이기적 이타주의자의 What](https://dataportal.kr/%EB%AC%B4%EC%97%87%EC%9D%84-%EC%A4%84-%EA%B2%83%EC%9D%B8%EA%B0%80/)
+- [좋은 아이디어는 비밀에서 태어난다](https://dataportal.kr/%EC%A2%8B%EC%9D%80-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%8A%94-%EB%B9%84%EB%B0%80%EC%97%90%EC%84%9C-%ED%83%9C%EC%96%B4%EB%82%9C%EB%8B%A4/)
+- [침묵이 설득하는 순간](https://dataportal.kr/%EC%B9%A8%EB%AC%B5%EC%9D%B4-%EC%84%A4%EB%93%9D%ED%95%98%EB%8A%94-%EC%88%9C%EA%B0%84/)
+- [문맥이 경험의 가치를 결정한다](https://dataportal.kr/%EB%AC%B8%EB%A7%A5%EC%9D%B4-%EA%B2%BD%ED%97%98%EC%9D%98-%EA%B0%80%EC%B9%98%EB%A5%BC-%EA%B2%B0%EC%A0%95%ED%95%9C%EB%8B%A4/)
+- [왜 모든 여행은 집으로 돌아오는가](https://dataportal.kr/%EC%99%9C-%EB%AA%A8%EB%93%A0-%EC%97%AC%ED%96%89%EC%9D%80-%EC%A7%91%EC%9C%BC%EB%A1%9C-%EB%8F%8C%EC%95%84%EC%98%A4%EB%8A%94%EA%B0%80/)
+- … 외 17개
+
 ### 기술 (37개)
 - [채용 추천 시스템은 어떻게 '상위 지원자'를 가려내는가](https://dataportal.kr/%EC%B1%84%EC%9A%A9-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%83%81%EC%9C%84-%EC%A7%80%EC%9B%90%EC%9E%90%EB%A5%BC-%EA%B0%80%EB%A0%A4%EB%82%B4%EB%8A%94%EA%B0%80/)
 - [금융 데이터, 하나의 API로 — Headless Finance Platform을 공개합니다](https://dataportal.kr/%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%98%EB%82%98%EC%9D%98-API%EB%A1%9C/)
@@ -166,28 +190,28 @@
 - [Agentic AI 논문 읽기: Reflexion — 실패를 언어로 되감는 에이전트](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Reflexion-%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EC%96%B8%EC%96%B4%EB%A1%9C-%EB%90%98%EA%B0%90%EB%8A%94-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/)
 - … 외 17개
 
-### 에세이 (36개)
-- [프로토타입이라는 새 문법](https://dataportal.kr/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%B4%EB%9D%BC%EB%8A%94-%EC%83%88-%EB%AC%B8%EB%B2%95/)
-- [내려놓음의 역설 — 《오프 먼트》가 말하는 가장 어려운 전략](https://dataportal.kr/%EB%82%B4%EB%A0%A4%EB%86%93%EC%9D%8C%EC%9D%98-%EC%97%AD%EC%84%A4-%EC%98%A4%ED%94%84-%EB%A8%BC%ED%8A%B8/)
+### 성장 (27개)
+- [흔들림은 결함이 아니다](https://dataportal.kr/%ED%9D%94%EB%93%A4%EB%A6%BC%EC%9D%80-%EA%B2%B0%ED%95%A8%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4/)
 - [식어 가는 자리에서 성공을 바라는 사람들](https://dataportal.kr/%EC%8B%9D%EC%96%B4-%EA%B0%80%EB%8A%94-%EC%9E%90%EB%A6%AC%EC%97%90%EC%84%9C-%EC%84%B1%EA%B3%B5%EC%9D%84-%EB%B0%94%EB%9D%BC%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/)
-- [조직이라는 단어가 흔들릴 때](https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4%EB%9D%BC%EB%8A%94-%EB%8B%A8%EC%96%B4%EA%B0%80-%ED%9D%94%EB%93%A4%EB%A6%B4-%EB%95%8C/)
-- [36.8%의 확률로 사랑하기](https://dataportal.kr/36-8%ED%8D%BC%EC%84%BC%ED%8A%B8%EC%9D%98-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0/)
-- [떠날 수 있어서 떠난다](https://dataportal.kr/%EB%96%A0%EB%82%A0-%EC%88%98-%EC%9E%88%EC%96%B4%EC%84%9C-%EB%96%A0%EB%82%9C%EB%8B%A4/)
 - [책상 바깥에서 자라는 것들](https://dataportal.kr/%EC%B1%85%EC%83%81-%EB%B0%94%EA%B9%A5%EC%97%90%EC%84%9C-%EC%9E%90%EB%9D%BC%EB%8A%94-%EA%B2%83%EB%93%A4/)
 - [사랑을 받지 않는 기술](https://dataportal.kr/%EC%82%AC%EB%9E%91%EC%9D%84-%EB%B0%9B%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B8%B0%EC%88%A0/)
-- [이름이 숫자가 되던 날](https://dataportal.kr/%EC%9D%B4%EB%A6%84%EC%9D%B4-%EC%88%AB%EC%9E%90%EA%B0%80-%EB%90%98%EB%8D%98-%EB%82%A0/)
 - [How는 어렵다](https://dataportal.kr/How%EB%8A%94-%EC%96%B4%EB%A0%B5%EB%8B%A4/)
-- [미션 선언문이라는 허상](https://dataportal.kr/%EB%AF%B8%EC%85%98-%EC%84%A0%EC%96%B8%EB%AC%B8%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%97%88%EC%83%81/)
+- [여섯 가지 질문에 답할 수 있는가](https://dataportal.kr/%EC%97%AC%EC%84%AF-%EA%B0%80%EC%A7%80-%EC%A7%88%EB%AC%B8%EC%97%90-%EB%8B%B5%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/)
+- [행동을 지적할 것인가, 성과를 지적할 것인가](https://dataportal.kr/%ED%96%89%EB%8F%99%EC%9D%84-%EC%A7%80%EC%A0%81%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%A7%80%EC%A0%81%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80/)
+- [불편한 지적이 팀을 살린다](https://dataportal.kr/%EB%B6%88%ED%8E%B8%ED%95%9C-%EC%A7%80%EC%A0%81%EC%9D%B4-%ED%8C%80%EC%9D%84-%EC%82%B4%EB%A6%B0%EB%8B%A4/)
 - [나라는 이야기의 작가는 누구인가](https://dataportal.kr/%EB%82%98%EB%9D%BC%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98-%EC%9E%91%EA%B0%80%EB%8A%94-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80/)
 - [확신이 강할수록 의심해야 하는 이유](https://dataportal.kr/%ED%99%95%EC%8B%A0%EC%9D%B4-%EA%B0%95%ED%95%A0%EC%88%98%EB%A1%9D-%EC%9D%98%EC%8B%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
 - [뇌는 설명하고 싶다](https://dataportal.kr/%EB%87%8C%EB%8A%94-%EC%84%A4%EB%AA%85%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4/)
 - [무엇을 줄 것인가 — 이기적 이타주의자의 What](https://dataportal.kr/%EB%AC%B4%EC%97%87%EC%9D%84-%EC%A4%84-%EA%B2%83%EC%9D%B8%EA%B0%80/)
-- [좋은 아이디어는 비밀에서 태어난다](https://dataportal.kr/%EC%A2%8B%EC%9D%80-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%8A%94-%EB%B9%84%EB%B0%80%EC%97%90%EC%84%9C-%ED%83%9C%EC%96%B4%EB%82%9C%EB%8B%A4/)
-- [침묵이 설득하는 순간](https://dataportal.kr/%EC%B9%A8%EB%AC%B5%EC%9D%B4-%EC%84%A4%EB%93%9D%ED%95%98%EB%8A%94-%EC%88%9C%EA%B0%84/)
-- [문맥이 경험의 가치를 결정한다](https://dataportal.kr/%EB%AC%B8%EB%A7%A5%EC%9D%B4-%EA%B2%BD%ED%97%98%EC%9D%98-%EA%B0%80%EC%B9%98%EB%A5%BC-%EA%B2%B0%EC%A0%95%ED%95%9C%EB%8B%A4/)
-- [왜 모든 여행은 집으로 돌아오는가](https://dataportal.kr/%EC%99%9C-%EB%AA%A8%EB%93%A0-%EC%97%AC%ED%96%89%EC%9D%80-%EC%A7%91%EC%9C%BC%EB%A1%9C-%EB%8F%8C%EC%95%84%EC%98%A4%EB%8A%94%EA%B0%80/)
-- [직관이 만들어지는 구조](https://dataportal.kr/%EC%A7%81%EA%B4%80%EC%9D%B4-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%80%EB%8A%94-%EA%B5%AC%EC%A1%B0/)
-- … 외 16개
+- [아무도 나를 보고 있지 않다](https://dataportal.kr/%EC%95%84%EB%AC%B4%EB%8F%84-%EB%82%98%EB%A5%BC-%EB%B3%B4%EA%B3%A0-%EC%9E%88%EC%A7%80-%EC%95%8A%EB%8B%A4/)
+- [나무만 보는 사람, 숲을 읽는 사람](https://dataportal.kr/%EB%82%98%EB%AC%B4%EB%A7%8C-%EB%B3%B4%EB%8A%94-%EC%82%AC%EB%9E%8C-%EC%88%B2%EC%9D%84-%EC%9D%BD%EB%8A%94-%EC%82%AC%EB%9E%8C/)
+- [예고 없는 프레젠테이션은 왜 실패하는가](https://dataportal.kr/%EC%98%88%EA%B3%A0-%EC%97%86%EB%8A%94-%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%80-%EC%99%9C-%EC%8B%A4%ED%8C%A8%ED%95%98%EB%8A%94%EA%B0%80/)
+- [과정을 디자인하는 사람과 결과를 만드는 사람](https://dataportal.kr/%EA%B3%BC%EC%A0%95%EC%9D%84-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%82%AC%EB%9E%8C/)
+- [성장은 불편한 동행자에서 시작된다](https://dataportal.kr/%EC%84%B1%EC%9E%A5%EC%9D%80-%EB%B6%88%ED%8E%B8%ED%95%9C-%EB%8F%99%ED%96%89%EC%9E%90%EC%97%90%EC%84%9C-%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4/)
+- [실행의 시대에 질문이 사라진다](https://dataportal.kr/%EC%8B%A4%ED%96%89%EC%9D%98-%EC%8B%9C%EB%8C%80%EC%97%90-%EC%A7%88%EB%AC%B8%EC%9D%B4-%EC%82%AC%EB%9D%BC%EC%A7%84%EB%8B%A4/)
+- [내연기관과 개발자의 만남 - 기계공학에서 배우는 창의적 사고](https://dataportal.kr/%EB%82%B4%EC%97%B0%EA%B8%B0%EA%B4%80%EA%B3%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%A7%8C%EB%82%A8/)
+- [뿌리 없는 성장은 없다 - 빠른 성장이라는 착각](https://dataportal.kr/%EB%BF%8C%EB%A6%AC-%EC%97%86%EB%8A%94-%EC%84%B1%EC%9E%A5%EC%9D%80-%EC%97%86%EB%8B%A4/)
+- … 외 7개
 
 ### 리포트 (26개)
 - [채용 추천 시스템은 어떻게 '상위 지원자'를 가려내는가](https://dataportal.kr/%EC%B1%84%EC%9A%A9-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%83%81%EC%9C%84-%EC%A7%80%EC%9B%90%EC%9E%90%EB%A5%BC-%EA%B0%80%EB%A0%A4%EB%82%B4%EB%8A%94%EA%B0%80/)
@@ -210,29 +234,6 @@
 - [Agentic AI 논문 읽기: LATS — 트리 탐색으로 추론과 행동을 통합하다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-LATS-%ED%8A%B8%EB%A6%AC-%ED%83%90%EC%83%89%EC%9C%BC%EB%A1%9C-%EC%B6%94%EB%A1%A0%EA%B3%BC-%ED%96%89%EB%8F%99%EC%9D%84-%ED%86%B5%ED%95%A9%ED%95%98%EB%8B%A4/)
 - [Agentic AI 논문 읽기: Reflexion — 실패를 언어로 되감는 에이전트](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Reflexion-%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EC%96%B8%EC%96%B4%EB%A1%9C-%EB%90%98%EA%B0%90%EB%8A%94-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/)
 - [Agentic AI 논문 읽기: Multi-Agent Survey — 집단 지능의 지도를 펼치다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Multi-Agent-Survey-%EC%A7%91%EB%8B%A8-%EC%A7%80%EB%8A%A5%EC%9D%98-%EC%A7%80%EB%8F%84%EB%A5%BC-%ED%8E%BC%EC%B9%98%EB%8B%A4/)
-- … 외 6개
-
-### 성장 (26개)
-- [식어 가는 자리에서 성공을 바라는 사람들](https://dataportal.kr/%EC%8B%9D%EC%96%B4-%EA%B0%80%EB%8A%94-%EC%9E%90%EB%A6%AC%EC%97%90%EC%84%9C-%EC%84%B1%EA%B3%B5%EC%9D%84-%EB%B0%94%EB%9D%BC%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/)
-- [책상 바깥에서 자라는 것들](https://dataportal.kr/%EC%B1%85%EC%83%81-%EB%B0%94%EA%B9%A5%EC%97%90%EC%84%9C-%EC%9E%90%EB%9D%BC%EB%8A%94-%EA%B2%83%EB%93%A4/)
-- [사랑을 받지 않는 기술](https://dataportal.kr/%EC%82%AC%EB%9E%91%EC%9D%84-%EB%B0%9B%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B8%B0%EC%88%A0/)
-- [How는 어렵다](https://dataportal.kr/How%EB%8A%94-%EC%96%B4%EB%A0%B5%EB%8B%A4/)
-- [여섯 가지 질문에 답할 수 있는가](https://dataportal.kr/%EC%97%AC%EC%84%AF-%EA%B0%80%EC%A7%80-%EC%A7%88%EB%AC%B8%EC%97%90-%EB%8B%B5%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/)
-- [행동을 지적할 것인가, 성과를 지적할 것인가](https://dataportal.kr/%ED%96%89%EB%8F%99%EC%9D%84-%EC%A7%80%EC%A0%81%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%A7%80%EC%A0%81%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80/)
-- [불편한 지적이 팀을 살린다](https://dataportal.kr/%EB%B6%88%ED%8E%B8%ED%95%9C-%EC%A7%80%EC%A0%81%EC%9D%B4-%ED%8C%80%EC%9D%84-%EC%82%B4%EB%A6%B0%EB%8B%A4/)
-- [나라는 이야기의 작가는 누구인가](https://dataportal.kr/%EB%82%98%EB%9D%BC%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98-%EC%9E%91%EA%B0%80%EB%8A%94-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80/)
-- [확신이 강할수록 의심해야 하는 이유](https://dataportal.kr/%ED%99%95%EC%8B%A0%EC%9D%B4-%EA%B0%95%ED%95%A0%EC%88%98%EB%A1%9D-%EC%9D%98%EC%8B%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
-- [뇌는 설명하고 싶다](https://dataportal.kr/%EB%87%8C%EB%8A%94-%EC%84%A4%EB%AA%85%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4/)
-- [무엇을 줄 것인가 — 이기적 이타주의자의 What](https://dataportal.kr/%EB%AC%B4%EC%97%87%EC%9D%84-%EC%A4%84-%EA%B2%83%EC%9D%B8%EA%B0%80/)
-- [아무도 나를 보고 있지 않다](https://dataportal.kr/%EC%95%84%EB%AC%B4%EB%8F%84-%EB%82%98%EB%A5%BC-%EB%B3%B4%EA%B3%A0-%EC%9E%88%EC%A7%80-%EC%95%8A%EB%8B%A4/)
-- [나무만 보는 사람, 숲을 읽는 사람](https://dataportal.kr/%EB%82%98%EB%AC%B4%EB%A7%8C-%EB%B3%B4%EB%8A%94-%EC%82%AC%EB%9E%8C-%EC%88%B2%EC%9D%84-%EC%9D%BD%EB%8A%94-%EC%82%AC%EB%9E%8C/)
-- [예고 없는 프레젠테이션은 왜 실패하는가](https://dataportal.kr/%EC%98%88%EA%B3%A0-%EC%97%86%EB%8A%94-%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%80-%EC%99%9C-%EC%8B%A4%ED%8C%A8%ED%95%98%EB%8A%94%EA%B0%80/)
-- [과정을 디자인하는 사람과 결과를 만드는 사람](https://dataportal.kr/%EA%B3%BC%EC%A0%95%EC%9D%84-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%82%AC%EB%9E%8C/)
-- [성장은 불편한 동행자에서 시작된다](https://dataportal.kr/%EC%84%B1%EC%9E%A5%EC%9D%80-%EB%B6%88%ED%8E%B8%ED%95%9C-%EB%8F%99%ED%96%89%EC%9E%90%EC%97%90%EC%84%9C-%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4/)
-- [실행의 시대에 질문이 사라진다](https://dataportal.kr/%EC%8B%A4%ED%96%89%EC%9D%98-%EC%8B%9C%EB%8C%80%EC%97%90-%EC%A7%88%EB%AC%B8%EC%9D%B4-%EC%82%AC%EB%9D%BC%EC%A7%84%EB%8B%A4/)
-- [내연기관과 개발자의 만남 - 기계공학에서 배우는 창의적 사고](https://dataportal.kr/%EB%82%B4%EC%97%B0%EA%B8%B0%EA%B4%80%EA%B3%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%A7%8C%EB%82%A8/)
-- [뿌리 없는 성장은 없다 - 빠른 성장이라는 착각](https://dataportal.kr/%EB%BF%8C%EB%A6%AC-%EC%97%86%EB%8A%94-%EC%84%B1%EC%9E%A5%EC%9D%80-%EC%97%86%EB%8B%A4/)
-- [결과에 확신이 없더라도 꾸준히 노력해야 하는 이유](https://dataportal.kr/%EA%B2%B0%EA%B3%BC%EC%97%90-%ED%99%95%EC%8B%A0%EC%9D%B4-%EC%97%86%EB%8D%94%EB%9D%BC%EB%8F%84-%EA%BE%B8%EC%A4%80%ED%9E%88-%EB%85%B8%EB%A0%A5%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
 - … 외 6개
 
 ### 스타트업 (18개)
