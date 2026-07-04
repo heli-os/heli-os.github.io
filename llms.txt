@@ -16,6 +16,7 @@
 
 ## 글 (최신순)
 
+- [그 순간의 나를 믿는다는 것](https://dataportal.kr/%EA%B7%B8-%EC%88%9C%EA%B0%84%EC%9D%98-%EB%82%98%EB%A5%BC-%EB%AF%BF%EB%8A%94%EB%8B%A4%EB%8A%94-%EA%B2%83/) — 비비안 마이어는 15만 장을 찍고 거의 인화하지 않았다. 그녀에게 찍는 일은 이미 보는 일이었다. 되돌아봄의 부재는 게으름이 아니라 그 순간의 자신에 대한 믿음이었다.
 - [진짜 경쟁은 보이지 않는다](https://dataportal.kr/%EC%A7%84%EC%A7%9C-%EA%B2%BD%EC%9F%81%EC%9D%80-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4/) — 남들이 볼 수 있는 것 — 연봉·직함·권한 — 으로 잘 사는지를 가늠한다. 정작 가장 중요한 건 곁에 있는 사람만 아는, 가장 안 보이는 자리에 있다.
 - [버튼 다음의 제품](https://dataportal.kr/%EB%B2%84%ED%8A%BC-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EC%A0%9C%ED%92%88/) — 제품은 입력을 받는 도구에서 효율을 높이는 도구로, 이제는 사용자가 무엇을 해야 할지 먼저 제안하는 시스템으로 옮겨가고 있다.
 - [요즘 스타트업 채용에서 보이는 것들](https://dataportal.kr/%EC%9A%94%EC%A6%98-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B1%84%EC%9A%A9%EC%97%90%EC%84%9C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EA%B2%83%EB%93%A4/) — 일당백 시대의 스타트업 채용과 HR이 어떻게 굴러가고 있는지 한 발 떨어져 관찰한 노트.
@@ -148,7 +149,8 @@
 
 ## 태그별
 
-### 에세이 (40개)
+### 에세이 (41개)
+- [그 순간의 나를 믿는다는 것](https://dataportal.kr/%EA%B7%B8-%EC%88%9C%EA%B0%84%EC%9D%98-%EB%82%98%EB%A5%BC-%EB%AF%BF%EB%8A%94%EB%8B%A4%EB%8A%94-%EA%B2%83/)
 - [진짜 경쟁은 보이지 않는다](https://dataportal.kr/%EC%A7%84%EC%A7%9C-%EA%B2%BD%EC%9F%81%EC%9D%80-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4/)
 - [버튼 다음의 제품](https://dataportal.kr/%EB%B2%84%ED%8A%BC-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EC%A0%9C%ED%92%88/)
 - [AI 시대엔 더 이상 효율은 없다](https://dataportal.kr/ai-%EC%8B%9C%EB%8C%80%EC%97%94-%EB%8D%94-%EC%9D%B4%EC%83%81-%ED%9A%A8%EC%9C%A8%EC%9D%80-%EC%97%86%EB%8B%A4/)
@@ -168,8 +170,7 @@
 - [확신이 강할수록 의심해야 하는 이유](https://dataportal.kr/%ED%99%95%EC%8B%A0%EC%9D%B4-%EA%B0%95%ED%95%A0%EC%88%98%EB%A1%9D-%EC%9D%98%EC%8B%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
 - [뇌는 설명하고 싶다](https://dataportal.kr/%EB%87%8C%EB%8A%94-%EC%84%A4%EB%AA%85%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4/)
 - [무엇을 줄 것인가 — 이기적 이타주의자의 What](https://dataportal.kr/%EB%AC%B4%EC%97%87%EC%9D%84-%EC%A4%84-%EA%B2%83%EC%9D%B8%EA%B0%80/)
-- [좋은 아이디어는 비밀에서 태어난다](https://dataportal.kr/%EC%A2%8B%EC%9D%80-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%8A%94-%EB%B9%84%EB%B0%80%EC%97%90%EC%84%9C-%ED%83%9C%EC%96%B4%EB%82%9C%EB%8B%A4/)
-- … 외 20개
+- … 외 21개
 
 ### 기술 (38개)
 - [버튼 다음의 제품](https://dataportal.kr/%EB%B2%84%ED%8A%BC-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EC%A0%9C%ED%92%88/)
