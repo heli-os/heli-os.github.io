@@ -16,6 +16,7 @@
 
 ## 글 (최신순)
 
+- [회사의 모든 정보를 아는 사람은 없다](https://dataportal.kr/%ED%9A%8C%EC%82%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EC%A0%95%EB%B3%B4%EB%A5%BC-%EC%95%84%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%97%86%EB%8B%A4/) — AI 에이전트에게 회사의 모든 문맥을 넣는다고 더 잘 일하지는 않는다. 사람과 AI가 함께 일하는 조직에서 필요한 문맥의 경계와 인계 방식을 살펴본다.
 - [그 순간의 나를 믿는다는 것](https://dataportal.kr/%EA%B7%B8-%EC%88%9C%EA%B0%84%EC%9D%98-%EB%82%98%EB%A5%BC-%EB%AF%BF%EB%8A%94%EB%8B%A4%EB%8A%94-%EA%B2%83/) — 비비안 마이어는 15만 장을 찍고 거의 인화하지 않았다. 그녀에게 찍는 일은 이미 보는 일이었다. 되돌아봄의 부재는 게으름이 아니라 그 순간의 자신에 대한 믿음이었다.
 - [진짜 경쟁은 보이지 않는다](https://dataportal.kr/%EC%A7%84%EC%A7%9C-%EA%B2%BD%EC%9F%81%EC%9D%80-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4/) — 남들이 볼 수 있는 것 — 연봉·직함·권한 — 으로 잘 사는지를 가늠한다. 정작 가장 중요한 건 곁에 있는 사람만 아는, 가장 안 보이는 자리에 있다.
 - [버튼 다음의 제품](https://dataportal.kr/%EB%B2%84%ED%8A%BC-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EC%A0%9C%ED%92%88/) — 제품은 입력을 받는 도구에서 효율을 높이는 도구로, 이제는 사용자가 무엇을 해야 할지 먼저 제안하는 시스템으로 옮겨가고 있다.
@@ -172,7 +173,8 @@
 - [무엇을 줄 것인가 — 이기적 이타주의자의 What](https://dataportal.kr/%EB%AC%B4%EC%97%87%EC%9D%84-%EC%A4%84-%EA%B2%83%EC%9D%B8%EA%B0%80/)
 - … 외 21개
 
-### 기술 (38개)
+### 기술 (39개)
+- [회사의 모든 정보를 아는 사람은 없다](https://dataportal.kr/%ED%9A%8C%EC%82%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EC%A0%95%EB%B3%B4%EB%A5%BC-%EC%95%84%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%97%86%EB%8B%A4/)
 - [버튼 다음의 제품](https://dataportal.kr/%EB%B2%84%ED%8A%BC-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EC%A0%9C%ED%92%88/)
 - [채용 추천 시스템은 어떻게 '상위 지원자'를 가려내는가](https://dataportal.kr/%EC%B1%84%EC%9A%A9-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%83%81%EC%9C%84-%EC%A7%80%EC%9B%90%EC%9E%90%EB%A5%BC-%EA%B0%80%EB%A0%A4%EB%82%B4%EB%8A%94%EA%B0%80/)
 - [금융 데이터, 하나의 API로 — Headless Finance Platform을 공개합니다](https://dataportal.kr/%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%98%EB%82%98%EC%9D%98-API%EB%A1%9C/)
@@ -192,8 +194,7 @@
 - [Agentic AI 논문 읽기: Paradigms — 도구 사용·계획·피드백의 삼각 구도](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-Paradigms-%EB%8F%84%EA%B5%AC-%EC%82%AC%EC%9A%A9%C2%B7%EA%B3%84%ED%9A%8D%C2%B7%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%98-%EC%82%BC%EA%B0%81-%EA%B5%AC%EB%8F%84/)
 - [Agentic AI 논문 읽기: AI Agents That Matter — 벤치마크의 함정을 파헤치다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-AI-Agents-That-Matter-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC%EC%9D%98-%ED%95%A8%EC%A0%95%EC%9D%84-%ED%8C%8C%ED%97%A4%EC%B9%98%EB%8B%A4/)
 - [Agentic AI 논문 읽기: ETO — 실패 궤적으로 에이전트를 훈련하다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-ETO-%EC%8B%A4%ED%8C%A8-%EA%B6%A4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%ED%9B%88%EB%A0%A8%ED%95%98%EB%8B%A4/)
-- [Agentic AI 논문 읽기: LATS — 트리 탐색으로 추론과 행동을 통합하다](https://dataportal.kr/Agentic-AI-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-LATS-%ED%8A%B8%EB%A6%AC-%ED%83%90%EC%83%89%EC%9C%BC%EB%A1%9C-%EC%B6%94%EB%A1%A0%EA%B3%BC-%ED%96%89%EB%8F%99%EC%9D%84-%ED%86%B5%ED%95%A9%ED%95%98%EB%8B%A4/)
-- … 외 18개
+- … 외 19개
 
 ### 성장 (29개)
 - [진짜 경쟁은 보이지 않는다](https://dataportal.kr/%EC%A7%84%EC%A7%9C-%EA%B2%BD%EC%9F%81%EC%9D%80-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4/)
@@ -263,7 +264,8 @@
 - [[볼타 이야기] 작은 팀을 유지하려는 이유](https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%9E%91%EC%9D%80-%ED%8C%80%EC%9D%84-%EC%9C%A0%EC%A7%80%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
 - [[볼타 이야기] 결국 B2B는 잘 팔면 되는 거 아닌가?](https://dataportal.kr/%EB%B3%BC%ED%83%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EA%B2%B0%EA%B5%AD-B2B%EB%8A%94-%EC%9E%98-%ED%8C%94%EB%A9%B4-%EB%90%98%EB%8A%94-%EA%B1%B0-%EC%95%84%EB%8B%8C%EA%B0%80/)
 
-### 조직 (17개)
+### 조직 (18개)
+- [회사의 모든 정보를 아는 사람은 없다](https://dataportal.kr/%ED%9A%8C%EC%82%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EC%A0%95%EB%B3%B4%EB%A5%BC-%EC%95%84%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%97%86%EB%8B%A4/)
 - [요즘 스타트업 채용에서 보이는 것들](https://dataportal.kr/%EC%9A%94%EC%A6%98-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B1%84%EC%9A%A9%EC%97%90%EC%84%9C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EA%B2%83%EB%93%A4/)
 - [채용되는 것은 손이 아니라 판단이다](https://dataportal.kr/%EC%B1%84%EC%9A%A9%EB%90%98%EB%8A%94-%EA%B2%83%EC%9D%80-%EC%86%90%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%ED%8C%90%EB%8B%A8%EC%9D%B4%EB%8B%A4/)
 - [프로토타입이라는 새 문법](https://dataportal.kr/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%B4%EB%9D%BC%EB%8A%94-%EC%83%88-%EB%AC%B8%EB%B2%95/)
