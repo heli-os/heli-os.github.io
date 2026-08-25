@@ -7,6 +7,8 @@
 ## 주요 리소스
 - 전체 글 목록: https://dataportal.kr/posts/
 - 태그 목록: https://dataportal.kr/tags/
+- Agentic AI 논문 읽기: https://dataportal.kr/topics/agentic-ai/
+- 조직과 스타트업: https://dataportal.kr/topics/organization-startup/
 - 책 목록: https://dataportal.kr/books/
 - 저자 소개: https://dataportal.kr/about/
 - 저자 이력서: https://dataportal.kr/resume/
