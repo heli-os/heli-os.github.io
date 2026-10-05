@@ -18,6 +18,7 @@
 
 ## 글 (최신순)
 
+- [월요일이 기다려지는 이유](https://dataportal.kr/%EC%9B%94%EC%9A%94%EC%9D%BC%EC%9D%B4-%EA%B8%B0%EB%8B%A4%EB%A0%A4%EC%A7%80%EB%8A%94-%EC%9D%B4%EC%9C%A0/): 월요일을 싫어하던 고등학교 2학년이 대각선 앞자리 친구 때문에 월요일을 기다리게 된 이야기. 요일은 그대로인데, 그 요일에 누가 있느냐가 달라졌다.
 - [회사의 모든 정보를 아는 사람은 없다](https://dataportal.kr/%ED%9A%8C%EC%82%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EC%A0%95%EB%B3%B4%EB%A5%BC-%EC%95%84%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%97%86%EB%8B%A4/): AI 에이전트에게 회사의 모든 문맥을 넣는다고 더 잘 일하지는 않는다. 사람과 AI가 함께 일하는 조직에서 필요한 문맥의 경계와 인계 방식을 살펴본다.
 - [그 순간의 나를 믿는다는 것](https://dataportal.kr/%EA%B7%B8-%EC%88%9C%EA%B0%84%EC%9D%98-%EB%82%98%EB%A5%BC-%EB%AF%BF%EB%8A%94%EB%8B%A4%EB%8A%94-%EA%B2%83/): 비비안 마이어는 15만 장을 찍고 거의 인화하지 않았다. 그녀에게 찍는 일은 이미 보는 일이었다. 되돌아봄의 부재는 게으름이 아니라 그 순간의 자신에 대한 믿음이었다.
 - [진짜 경쟁은 보이지 않는다](https://dataportal.kr/%EC%A7%84%EC%A7%9C-%EA%B2%BD%EC%9F%81%EC%9D%80-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4/): 남들이 볼 수 있는 것(연봉·직함·권한)으로 잘 사는지를 가늠한다. 정작 가장 중요한 건 곁에 있는 사람만 아는, 가장 안 보이는 자리에 있다.
@@ -299,6 +300,9 @@
 ### 리뷰 (2개)
 - [기브앤테이크 6장. 이기적인 이타주의자](https://dataportal.kr/%EA%B8%B0%EB%B8%8C%EC%95%A4%ED%85%8C%EC%9D%B4%ED%81%AC-6%EC%9E%A5-%EC%9D%B4%EA%B8%B0%EC%A0%81%EC%9D%B8-%EC%9D%B4%ED%83%80%EC%A3%BC%EC%9D%98%EC%9E%90/)
 - [평범한 결혼생활 - 임경선 / 별점 3.0](https://dataportal.kr/%ED%8F%89%EB%B2%94%ED%95%9C-%EA%B2%B0%ED%98%BC%EC%83%9D%ED%99%9C-%EC%9E%84%EA%B2%BD%EC%84%A0/)
+
+### 작문 (1개)
+- [월요일이 기다려지는 이유](https://dataportal.kr/%EC%9B%94%EC%9A%94%EC%9D%BC%EC%9D%B4-%EA%B8%B0%EB%8B%A4%EB%A0%A4%EC%A7%80%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
 
 ## 책 챕터
 
